@@ -8,7 +8,7 @@
         <mark key="]" line="35" column="0" />
         <mark key="." line="35" column="0" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/rewardly/mailfoo/emailmanager/SpannerTests.java" timestamp="1515176781258">
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/rewardly/mailfoo/emailmanager/SpannerTests.java" timestamp="1515196779011">
         <mark key="'" line="62" column="34" />
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
@@ -21,10 +21,11 @@
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/Accounts.java" timestamp="1515008384367">
         <mark key="[" line="2" column="23" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/spanner/Message.java" timestamp="1515191735672">
-        <mark key="]" line="14" column="11" />
-        <mark key="^" line="14" column="11" />
-        <mark key="." line="14" column="11" />
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/spanner/Message.java" timestamp="1515198066262">
+        <mark key="[" line="127" column="35" />
+        <mark key="]" line="129" column="50" />
+        <mark key="^" line="129" column="50" />
+        <mark key="." line="129" column="50" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/Spanner.java" timestamp="1515192392334">
         <mark key="'" line="39" column="32" />
@@ -58,12 +59,8 @@
         <mark key="." line="2" column="20" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/UserBatchLoader.java" timestamp="1515183312469" />
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/tools/DataSync.java" timestamp="1515195047143">
-        <mark key="'" line="81" column="12" />
-        <mark key="[" line="100" column="114" />
-        <mark key="]" line="122" column="66" />
-        <mark key="." line="122" column="66" />
-        <mark key="^" line="122" column="41" />
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/tools/DataSync.java" timestamp="1515199445468">
+        <mark key="[" line="297" column="0" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/containers/src/main/java/com/streak/emailmanager/updatesync/UpdateSyncMain.java" timestamp="1515192438176">
         <mark key="'" line="302" column="90" />
@@ -134,13 +131,15 @@
       <jump line="63" column="24" filename="$USER_HOME$/src/MailFoo/containers/src/main/java/com/streak/emailmanager/backlogsync/BacklogSyncMain.java" />
       <jump line="21" column="31" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/tools/DataSync.java" />
       <jump line="80" column="12" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/tools/DataSync.java" />
+      <jump line="245" column="0" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/tools/DataSync.java" />
+      <jump line="231" column="0" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/tools/DataSync.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>threadId</text>
+        <text>1</text>
       </register>
       <register name="-" type="4">
-        <text>threadId</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
         <text>$</text>
@@ -176,21 +175,20 @@
         <text encoding="base64">CXByaXZhdGUgc3RhdGljIGZpbmFsIExvZ2dlciBsb2dnZXIgPSBMb2dnZXJGYWN0b3J5LmdldExvZ2dlcihEYXRhU3luYy5jbGFzcyk7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text encoding="base64">JzwsJz5zLyQvJyw=</text>
       </register>
     </registers>
     <search>
       <last-search>$</last-search>
       <last-offset />
       <last-pattern>$</last-pattern>
-      <last-replace>&quot;,</last-replace>
+      <last-replace>',</last-replace>
       <last-substitute>$</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>spannerClient</entry>
         <entry>F</entry>
         <entry>our</entry>
         <entry>nextGid()</entry>
@@ -209,6 +207,7 @@
         <entry>stream</entry>
         <entry>Collectors</entry>
         <entry>1</entry>
+        <entry>^</entry>
         <entry>$</entry>
       </history-search>
       <history-cmd>
@@ -228,6 +227,8 @@
         <entry encoding="base64">JzwsJz5zLzEvIjE=</entry>
         <entry encoding="base64">JzwsJz5zLyQvIiw=</entry>
         <entry>w</entry>
+        <entry encoding="base64">JzwsJz5zL14vJw==</entry>
+        <entry encoding="base64">JzwsJz5zLyQvJyw=</entry>
       </history-cmd>
       <history-expr />
       <history-input />
