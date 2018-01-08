@@ -8,12 +8,12 @@
         <mark key="]" line="35" column="0" />
         <mark key="." line="35" column="0" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/spanner/Message.java" timestamp="1515440125780">
-        <mark key="'" line="11" column="20" />
-        <mark key="[" line="93" column="12" />
-        <mark key="]" line="94" column="21" />
-        <mark key="." line="94" column="21" />
-        <mark key="^" line="94" column="21" />
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/spanner/Message.java" timestamp="1515446898197">
+        <mark key="'" line="74" column="23" />
+        <mark key="[" line="111" column="8" />
+        <mark key="]" line="111" column="30" />
+        <mark key="." line="111" column="30" />
+        <mark key="^" line="111" column="30" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/containers/src/main/java/com/streak/emailmanager/backlogsync/BacklogSyncMain.java" timestamp="1515192092724">
         <mark key="'" line="63" column="24" />
@@ -31,7 +31,7 @@
       <file name="$USER_HOME$/src/MailFoo/containers/src/main/java/com/streak/emailmanager/updatesync/UpdateSyncMain.java" timestamp="1515192438176">
         <mark key="'" line="302" column="90" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataupdaters/getters/UnifiedThreadContentsGetter.java" timestamp="1515439590202">
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataupdaters/getters/UnifiedThreadContentsGetter.java" timestamp="1515447344050">
         <mark key="'" line="6" column="0" />
         <mark key="[" line="134" column="8" />
         <mark key="]" line="134" column="17" />
@@ -141,10 +141,11 @@
       <jump line="61" column="29" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/rewardly/mailfoo/emailmanager/SpannerTests.java" />
       <jump line="99" column="43" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/rewardly/mailfoo/emailmanager/SpannerTests.java" />
       <jump line="101" column="8" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/rewardly/mailfoo/emailmanager/SpannerTests.java" />
+      <jump line="74" column="23" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/spanner/Message.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">cmV0dXJuIA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQkJCSIgQU5EIGJ5X3JmYy5naWQgSU4gVU5ORVNUKEBnaWRzKSI7Cg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">cmV0dXJuIA==</text>
@@ -153,7 +154,7 @@
         <text>List</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQkJCQkJIC5iaW5kKCJ0aHJlYWRJZHMiKS50b1N0cmluZ0FycmF5KHRocmVhZElkcykK</text>
+        <text encoding="base64">CQkJCSIgQU5EIGJ5X3JmYy5naWQgSU4gVU5ORVNUKEBnaWRzKSI7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">CQkJCg==</text>
