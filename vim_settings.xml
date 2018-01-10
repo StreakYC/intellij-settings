@@ -26,11 +26,11 @@
         <mark key="." line="131" column="9" />
         <mark key="^" line="131" column="9" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataupdaters/getters/UnifiedThreadContentsGetter.java" timestamp="1515609665848">
-        <mark key="[" line="146" column="19" />
-        <mark key="]" line="146" column="19" />
-        <mark key="." line="146" column="19" />
-        <mark key="^" line="146" column="89" />
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataupdaters/getters/UnifiedThreadContentsGetter.java" timestamp="1515613076424">
+        <mark key="[" line="121" column="50" />
+        <mark key="]" line="134" column="20" />
+        <mark key="." line="134" column="20" />
+        <mark key="^" line="134" column="20" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/rewardly/mailfoo/emailmanager/SpannerTests.java" timestamp="1515533919533">
         <mark key="'" line="118" column="27" />
@@ -39,17 +39,19 @@
         <mark key="^" line="35" column="31" />
         <mark key="." line="35" column="31" />
       </file>
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/sharing/UserActionAccessManagementRecorderImpl.java" timestamp="1515613019227">
+        <mark key="'" line="506" column="20" />
+      </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/gmail/ConcurrentGmailRequester.java" timestamp="1515607125893">
         <mark key="[" line="68" column="79" />
         <mark key="]" line="69" column="99" />
         <mark key="^" line="69" column="99" />
         <mark key="." line="69" column="99" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/Spanner.java" timestamp="1515540041436">
-        <mark key="[" line="105" column="42" />
-        <mark key="]" line="105" column="42" />
-        <mark key="^" line="80" column="91" />
-        <mark key="." line="105" column="42" />
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/Spanner.java" timestamp="1515612591762">
+        <mark key="[" line="71" column="16" />
+        <mark key="]" line="71" column="16" />
+        <mark key="." line="71" column="16" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/DataflowLogsExport/src/main/java/com/streak/logging/dataflow/ImmutableEntityToSpannerExport.java" timestamp="1515457628889">
         <mark key="[" line="39" column="24" />
@@ -155,56 +157,58 @@
       <jump line="390" column="35" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/utils/Constants.java" />
       <jump line="395" column="93" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/utils/Constants.java" />
       <jump line="85" column="40" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataupdaters/getters/UnifiedThreadContentsGetter.java" />
+      <jump line="231" column="42" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/sharing/UserActionAccessManagementRecorderImpl.java" />
+      <jump line="418" column="16" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/sharing/UserActionAccessManagementRecorderImpl.java" />
+      <jump line="506" column="20" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/sharing/UserActionAccessManagementRecorderImpl.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQkJCQkJZ3QuZ2V0Q3JlYXRvcktleSgpLmdldEdvb2dsZVByb2ZpbGVJZCgpLAo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>callingUser</text>
       </register>
       <register name="/" type="4">
-        <text>test</text>
+        <text>throw</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQlMb2dnZXIubG9nKExldmVsLklORk8sIFN0cmluZy5mb3JtYXQoIlRocmVhZElkOiAlc1xuZ2lkOiAlc1xuZ2lkczogJXMiLCB0aHJlYWRJZCwgZ2lkLCBnaWRzKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQlMb2dnZXIK</text>
+        <text encoding="base64">CQkJCQkJZ3QuZ2V0Q3JlYXRvcktleSgpLmdldEdvb2dsZVByb2ZpbGVJZCgpLAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHN1bi5ybWkucnVudGltZS5Mb2c7Cg==</text>
+        <text encoding="base64">CQkJCQkJU3RyaW5nLnZhbHVlT2YoLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CXByaXZhdGUgVXNlciBjYWxsaW5nVXNlcjsK</text>
       </register>
-      <register name="4" type="4">
-        <text>import com.rewardly.mailfoo.dataaccess.Spanner;
-import com.rewardly.mailfoo.dataaccess.Spanner.Mode;</text>
+      <register name="4" type="2">
+        <text encoding="base64">CQljYWxsaW5nVXNlciA9IHU7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQlTcGFubmVyLnNldE1vZGUoTW9kZS5QUk9EVUNUSU9OKTsK</text>
+        <text encoding="base64">CQlnbWFpbFRocmVhZEtleS4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5sb2dnaW5nLkxldmVsOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJCS5lbnF1ZXVlVGFza0FzeW5jKHUuZ2V0VXNlcktleSgpKTsK</text>
+        <text encoding="base64">CQkJaWYgKG51bGwgPT0gbW9kZSkgewoJCQkJaWYgKENvbnN0YW50cy5pc1Byb2QoKSkgewoJCQkJCW1vZGUgPSBNb2RlLlBST0RVQ1RJT047CgkJCQl9CgkJCQllbHNlIGlmIChDb25zdGFudHMuSVNfVEVTVCgpKSB7CgkJCQkJbW9kZSA9IE1vZGUuVEVTVElORzsKCQkJCX0KCQkJCWVsc2UgewoJCQkJCW1vZGUgPSBNb2RlLlBFUlNPTkFMOwoJCQkJfQoJCQl9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJCS5lbnF1ZXVlVGFza0FzeW5jKHUuZ2V0VXNlcktleSgpKTsK</text>
+        <text encoding="base64">CQlMb2dnZXIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkvLyBUT0RPIC0gZG9lcyB0aGlzIG1ha2Ugc2Vuc2U/IERvZXNuJ3QgdGhpcyBieXBhc3Mgc2VjdXJpdHk/Cg==</text>
+        <text encoding="base64">aW1wb3J0IHN1bi5ybWkucnVudGltZS5Mb2c7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>test</last-search>
+      <last-search>throw</last-search>
       <last-offset />
-      <last-pattern>test</last-pattern>
+      <last-pattern>throw</last-pattern>
       <last-replace>',</last-replace>
       <last-substitute>$</last-substitute>
       <last-dir>1</last-dir>
@@ -212,7 +216,6 @@ import com.rewardly.mailfoo.dataaccess.Spanner.Mode;</text>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">IA==</entry>
         <entry>production</entry>
         <entry>getProduc</entry>
         <entry>client()</entry>
@@ -232,6 +235,7 @@ import com.rewardly.mailfoo.dataaccess.Spanner.Mode;</text>
         <entry>Spanner</entry>
         <entry>dataacc</entry>
         <entry>test</entry>
+        <entry>throw</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2dpZC9tZXNzYWdlSWQ=</entry>
@@ -252,6 +256,7 @@ import com.rewardly.mailfoo.dataaccess.Spanner.Mode;</text>
         <entry encoding="base64">JzwsJz5zL14vJw==</entry>
         <entry encoding="base64">JzwsJz5zLyQvJyw=</entry>
         <entry>wq</entry>
+        <entry>q</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
