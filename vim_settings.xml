@@ -28,7 +28,7 @@
         <mark key="." line="131" column="9" />
         <mark key="^" line="131" column="9" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataupdaters/getters/UnifiedThreadContentsGetter.java" timestamp="1515706482477">
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataupdaters/getters/UnifiedThreadContentsGetter.java" timestamp="1515711184858">
         <mark key="'" line="29" column="43" />
         <mark key="[" line="202" column="35" />
         <mark key="]" line="202" column="35" />
@@ -55,6 +55,12 @@
         <mark key="[" line="39" column="24" />
         <mark key="]" line="39" column="24" />
         <mark key="." line="39" column="24" />
+      </file>
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/gmail/GmailAPIHelper.java" timestamp="1515711715571">
+        <mark key="[" line="589" column="4" />
+        <mark key="]" line="589" column="13" />
+        <mark key="." line="589" column="13" />
+        <mark key="^" line="589" column="13" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/spanner/Accounts.java" timestamp="1515175760278">
         <mark key="[" line="2" column="20" />
@@ -162,11 +168,11 @@
       <jump line="31" column="43" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataupdaters/getters/UnifiedThreadContentsGetter.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>usersToMessageRequests, messageRequestsToUsers</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IGNvbS5yZXdhcmRseS5tYWlsZm9vLmdtYWlsLkNvbmN1cnJlbnRHbWFpbFJlcXVlc3Rlci5Db25jdXJyZW50R21haWxSZXF1ZXN0RXJyb3I7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>usersToMessageRequests, messageRequestsToUsers</text>
+        <text>ConcurrentGmailRequestError</text>
       </register>
       <register name="/" type="4">
         <text>)</text>
@@ -174,32 +180,32 @@
       <register name="0" type="2">
         <text encoding="base64">CQkJCXRocm93IG5ldyBJbnN1ZmZpY2llbnRQYXJhbWV0ZXJzRXhjZXB0aW9uKCJVbmFibGUgdG8gZmluZCBjcmVhdG9yIik7Cg==</text>
       </register>
-      <register name="1" type="4">
-        <text>usersToMessageRequests, messageRequestsToUsers</text>
+      <register name="1" type="2">
+        <text encoding="base64">aW1wb3J0IGNvbS5yZXdhcmRseS5tYWlsZm9vLmdtYWlsLkNvbmN1cnJlbnRHbWFpbFJlcXVlc3Rlci5Db25jdXJyZW50R21haWxSZXF1ZXN0RXJyb3I7Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">CQkJTWFwPEFic3RyYWN0R29vZ2xlSnNvbkNsaWVudFJlcXVlc3Q8TWVzc2FnZT4sIFVzZXI+IG1lc3NhZ2VSZXF1ZXN0c1RvVXNlcnM=</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJTXVsdGltYXA8VXNlciwgQWJzdHJhY3RHb29nbGVKc29uQ2xpZW50UmVxdWVzdDxNZXNzYWdlPj4gdXNlcnNUb01lc3NhZ2VSZXF1ZXN0cywK</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkvLyBzb21lIHJlcXVlc3RzIHdpbGwgZXJyb3Igb3V0IChub3QgZm91bmQsIG5vIGF1dGhvcml6YXRpb24sIGV0Yykgc28gd2lsbCBoYXZlCgkJLy8gbnVsbCByZXN1bHRzLCBmaWx0ZXIgdGhvc2Ugb3V0IGJlZm9yZSByZXR1cm5pbmcgdG8gY2xpZW50CgkJZm9yIChFbnRyeTxBYnN0cmFjdEdvb2dsZUpzb25DbGllbnRSZXF1ZXN0PFRocmVhZD4sIFRocmVhZD4gZSA6IHRocmVhZFJlc3VsdHMuZW50cnlTZXQoKSkgewoJCQlpZiAoZS5nZXRWYWx1ZSgpICE9IG51bGwpIHsKCQkJCUVtYWlsVGhyZWFkT3JNZXNzYWdlIGVtdCA9IG5ldyBFbWFpbFRocmVhZE9yTWVzc2FnZSgpOwoJCQkJZW10LnRocmVhZCA9IGUuZ2V0VmFsdWUoKTsKCQkJCWVtdC51c2VyID0gdGhyZWFkUmVxdWVzdHNUb1VzZXJzLmdldChlLmdldEtleSgpKTsKCQkJCWVtdC51c2VyS2V5ID0gZW10LnVzZXIuZ2V0VXNlcktleSgpOwoKCQkJCWZpbHRlcmVkUmVzdWx0cy5hZGQoZW10KTsKCQkJfQoJCX0K</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">CXB1YmxpYyB2b2lkIGdldEVudGl0eUJ5RGF0YXN0b3JlKEdtYWlsVGhyZWFkIGd0KSB0aHJvd3MgSU9FeGNlcHRpb24gewoJCUxpc3Q8R21haWxUaHJlYWRJZGVudGlmaWVyPiBtYXRjaGluZ0d0aXMgPSBEQU8uZ2V0R21haWxUaHJlYWRJZGVudGlmaWVyc0J5R21haWxUaHJlYWRLZXkoKEtleTxHbWFpbFRocmVhZD4pIGd0LmdldEtleSgpKTsKCQlmb3IgKEdtYWlsVGhyZWFkSWRlbnRpZmllciBndGkgOiBtYXRjaGluZ0d0aXMpIHsKCQkJTG9nZ2VyLmxvZygiZ3RpS2V5OiAiICsgZ3RpLmdldEtleSgpLmdldFN0cmluZygpKTsKCQl9CgoJCWlmIChtYXRjaGluZ0d0aXMuc2l6ZSgpID09IDApIHsKCQkJRXJyb3JBZ2dyZWdhdG9yLnJlY29yZEN1c3RvbUVycm9yKCJVbmlmaWVkIFRocmVhZCBHZXR0ZXIgaGFkIDAgR1RJJ3MiLAoJCQkJCWd0LmdldEdtYWlsVGhyZWFkS2V5KCkuZ2V0U3RyaW5nKCkpOwoJCX0KCgkJU2V0PEtleTxVc2VyPj4gYWxsVXNlcktleXMgPSBuZXcgSGFzaFNldDw+KCk7CgkJZm9yIChHbWFpbFRocmVhZElkZW50aWZpZXIgZ3RpIDogbWF0Y2hpbmdHdGlzKSB7CgkJCWFsbFVzZXJLZXlzLmFkZChndGkuZ2V0VXNlcktleSgpKTsKCQl9CgkJYWxsVXNlcktleXMuYWRkKGd0LmdldENyZWF0b3JLZXkoKSk7IC8vIHJlZmVyIHRvIE5vdGUgWzFdIGFib3ZlCgoJCU1hcDxLZXk8VXNlcj4sIFVzZXI+IHVzZXJzID0gREFPLmdldEVudGl0aWVzKGFsbFVzZXJLZXlzKTsKCQlmb3IgKFVzZXIgdXUgOiB1c2Vycy52YWx1ZXMoKSkgewoJCQlMb2dnZXIubG9nKHV1LmdldEVtYWlsKCkpOwoJCX0KCgkJLy8gVE9ETyAtIHdoeSBpcyBpdCBnZXRHbWFpbEhleElkIGluIG9uZSBwbGFjZSBhbmQgZ2V0RW5jb2RlZFRocmVhZElkIGluIGFub3RoZXI/CgkJLy8gQW5zd2VyOiBiZWNhdXNlIHdlIGFyZSBiYWQgYXQgY29uc2lzdGVuY3kuCgkJTWFwPFN0cmluZywgVXNlcj4gdGhyZWFkSWRUb1VzZXIgPSBuZXcgSGFzaE1hcDw+KCk7CgkJZm9yIChHbWFpbFRocmVhZElkZW50aWZpZXIgZ3RpIDogbWF0Y2hpbmdHdGlzKSB7CgkJCXRocmVhZElkVG9Vc2VyLnB1dChndGkuZ2V0R21haWxIZXhJZCgpLCB1c2Vycy5nZXQoZ3RpLmdldFVzZXJLZXkoKSkpOwoJCX0KCQl0aHJlYWRJZFRvVXNlci5wdXQoZ3QuZ2V0RW5jb2RlZFRocmVhZElkKCksIHVzZXJzLmdldChndC5nZXRDcmVhdG9yS2V5KCkpKTsgLy8gcmVmZXIgdG8gTm90ZSBbMV0gYWJvdmUKCgl9</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQlnZXRUaHJlYWRSZXN1bHRzRnJvbUlkc0FuZFVzZXJzKHRocmVhZElkVG9Vc2VyKTsK</text>
+        <text encoding="base64">CQkJTG9nZ2VyLmxvZygiTnVtIGVycm9yczogIiArIHRocmVhZEVycm9ycy5zaXplKCkpOwoJCQlMb2dnZXIubG9nKCJOdW0gcmVzdWx0czogIiArIHRocmVhZFJlc3VsdHMuc2l6ZSgpKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEuaW8uSU9FeGNlcHRpb247Cg==</text>
+        <text encoding="base64">CQkJcC5lbmQoIkZldGNoIFRocmVhZHMiKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJCg==</text>
+        <text encoding="base64">CQkJcC5zdGFydCgiRmV0Y2ggVGhyZWFkcyIpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJdXNlcnNUb1RocmVhZFJlcXVlc3RzLnB1dChjdXJyVXNlciwgcmVxdWVzdCk7CgkJCXRocmVhZFJlcXVlc3RzVG9Vc2Vycy5wdXQocmVxdWVzdCwgY3VyclVzZXIpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
