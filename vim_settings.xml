@@ -17,12 +17,12 @@
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/handlers/GetEntities.java" timestamp="1515791960650">
         <mark key="'" line="15" column="57" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/DAO.java" timestamp="1515797798639">
-        <mark key="'" line="1481" column="10" />
-        <mark key="[" line="1211" column="60" />
-        <mark key="]" line="1211" column="74" />
-        <mark key="." line="1211" column="74" />
-        <mark key="^" line="1211" column="74" />
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/DAO.java" timestamp="1515800512499">
+        <mark key="'" line="1482" column="10" />
+        <mark key="[" line="596" column="39" />
+        <mark key="]" line="596" column="56" />
+        <mark key="." line="596" column="56" />
+        <mark key="^" line="596" column="56" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataupdaters/getters/EmailThreadGetter.java" timestamp="1515786578664" />
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/utils/gsonutils/GsonCustom.java" timestamp="1515705046376" />
@@ -32,12 +32,12 @@
         <mark key="." line="131" column="9" />
         <mark key="^" line="131" column="9" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataupdaters/getters/UnifiedThreadContentsGetter.java" timestamp="1515798424756">
-        <mark key="'" line="46" column="45" />
-        <mark key="[" line="74" column="0" />
-        <mark key="]" line="76" column="33" />
-        <mark key="." line="76" column="33" />
-        <mark key="^" line="76" column="33" />
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataupdaters/getters/UnifiedThreadContentsGetter.java" timestamp="1515801579605">
+        <mark key="'" line="106" column="39" />
+        <mark key="[" line="100" column="10" />
+        <mark key="]" line="100" column="12" />
+        <mark key="." line="100" column="12" />
+        <mark key="^" line="100" column="12" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/rewardly/mailfoo/emailmanager/SpannerTests.java" timestamp="1515533919533">
         <mark key="'" line="118" column="27" />
@@ -101,8 +101,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="131" column="34" filename="$USER_HOME$/src/MailFoo/containers/src/main/java/com/streak/util/Oauth.java" />
-      <jump line="203" column="50" filename="$USER_HOME$/src/MailFoo/containers/src/main/java/com/streak/util/Oauth.java" />
       <jump line="50" column="33" filename="$USER_HOME$/src/MailFoo/containers/src/main/java/com/streak/util/Oauth.java" />
       <jump line="56" column="88" filename="$USER_HOME$/src/MailFoo/containers/src/main/java/com/streak/util/Oauth.java" />
       <jump line="104" column="38" filename="$USER_HOME$/src/MailFoo/containers/src/main/java/com/streak/emailmanager/updatesync/UpdateSyncMain.java" />
@@ -201,63 +199,64 @@
       <jump line="0" column="0" filename="$USER_HOME$/src/MailFoo/mobile/StreakIOS/StreakIOS/Model.xcdatamodeld/Model.xcdatamodel/contents" />
       <jump line="0" column="0" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/utils/gsonutils/APIFieldNamingStrategy.java" />
       <jump line="1481" column="10" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/DAO.java" />
+      <jump line="88" column="8" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataupdaters/getters/UnifiedThreadContentsGetter.java" />
+      <jump line="106" column="39" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataupdaters/getters/UnifiedThreadContentsGetter.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>start</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">SW50ZWdlciA=</text>
+        <text>start</text>
       </register>
       <register name="/" type="4">
-        <text>ctf</text>
+        <text>spanner</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQkJCXJldEl0ZW0ucHV0KCJ1c2VyIiwgcmVxdWVzdHNUb1VzZXIuZ2V0KGVudHJ5LmdldEtleSgpKSk7Cg==</text>
+        <text encoding="base64">CQlwLnN0YXJ0KCJmZXRjaCB0aHJlYWRzIGZyb20gZ21haWwiKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5nb29nbGUuYXBwZW5naW5lLmFwaS5UaHJlYWRNYW5hZ2VyOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQlkc0Z1dHVyZS53YWl0KCk7Cg==</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5jb25jdXJyZW50LkV4ZWN1dGlvbkV4Y2VwdGlvbjsKaW1wb3J0IGphdmEudXRpbC5jb25jdXJyZW50LkV4ZWN1dG9yU2VydmljZTsKaW1wb3J0IGphdmEudXRpbC5jb25jdXJyZW50LkV4ZWN1dG9yczsKaW1wb3J0IGphdmEudXRpbC5jb25jdXJyZW50LkZ1dHVyZTsK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQl9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkvLyBUT0RPIHdoZXJlIGRvZXMgcmVzcG9uc2UgZ28/Cg==</text>
+        <text encoding="base64">CQl0cnkgewoJCQlzcGFubmVyS2V5cyA9IHNwYW5uZXJGdXR1cmUuZ2V0KCk7CgkJfSBjYXRjaCAoSW50ZXJydXB0ZWRFeGNlcHRpb24gfCBFeGVjdXRpb25FeGNlcHRpb24gZSkgewoJCQkvLyBUT0RPIGRvIHNvbWV0aGluZyBzbWFydCBoZXJlCgkJfQoKCQl0cnkgewoJCQlkc0tleXMgPSBkc0Z1dHVyZS5nZXQoKTsKCQl9IGNhdGNoIChJbnRlcnJ1cHRlZEV4Y2VwdGlvbiB8IEV4ZWN1dGlvbkV4Y2VwdGlvbiBlKSB7CgkJCS8vIFRPRE8gZG8gc29tZXRoaW5nIHNtYXJ0IGhlcmUK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQlnbWFpbFJlcXVlc3RzLmdldFJlc3BvbnNlKCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5Db2xsZWN0aW9uOwppbXBvcnQgamF2YS51dGlsLkhhc2hNYXA7Cg==</text>
+        <text encoding="base64">CQlFeGVjdXRvclNlcnZpY2UgZXMgPSBFeGVjdXRvcnMubmV3Rml4ZWRUaHJlYWRQb29sKDIsIFRocmVhZE1hbmFnZXIuY3VycmVudFJlcXVlc3RUaHJlYWRGYWN0b3J5KCkpOwoJCUZ1dHVyZTxTZXQ8R21haWxBUElIZWxwZXIuS2V5Pj4gc3Bhbm5lckZ1dHVyZSA9IGVzLnN1Ym1pdCgoKSAtPiAKCQlGdXR1cmU8U2V0PEdtYWlsQVBJSGVscGVyLktleT4+IGRzRnV0dXJlID0gZXMuc3VibWl0KCgpIC0+IDsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQlNYXA8U3RyaW5nLCBVc2VyPiB0aHJlYWRJZFRvVXNlciA9IG5ldyBIYXNoTWFwPD4oKTsK</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5nb29nbGUuY29tbW9uLmNvbGxlY3QuTGlzdHM7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQlMaXN0PEtleT4ga2V5cyA9IExpc3RzLm5ld0FycmF5TGlzdCgpOwo=</text>
+        <text encoding="base64">CQkJc3Bhbm5lckZ1dHVyZS4K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>ctf</last-search>
+      <last-search>spanner</last-search>
       <last-offset />
-      <last-pattern>ctf</last-pattern>
-      <last-replace>gmailRequests</last-replace>
-      <last-substitute>ctf</last-substitute>
+      <last-pattern>spanner</last-pattern>
+      <last-replace>ds</last-replace>
+      <last-substitute>spanner</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>1</entry>
         <entry>^</entry>
         <entry>$</entry>
         <entry>bind</entry>
@@ -277,9 +276,9 @@
         <entry>Thread</entry>
         <entry>THREAD</entry>
         <entry>ctf</entry>
+        <entry>spanner</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zL2dpZC90aHJlYWRJZC9n</entry>
         <entry encoding="base64">JzwsJz5zL2dpZC9pZA==</entry>
         <entry encoding="base64">JzwsJz5zL291ci90aGVpcg==</entry>
         <entry encoding="base64">JzwsJz5zL25leHRHaWQoKS9vdXJHaWQvZw==</entry>
@@ -298,6 +297,7 @@
         <entry>wq</entry>
         <entry>qw</entry>
         <entry>%s/ctf/gmailRequests</entry>
+        <entry>s/spanner/ds/g</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
