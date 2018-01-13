@@ -3,6 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/Messages.java" timestamp="1515027908471">
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="35" column="0" />
+        <mark key="." line="35" column="0" />
+      </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/spanner/Message.java" timestamp="1515607448516">
         <mark key="[" line="114" column="19" />
         <mark key="]" line="114" column="19" />
@@ -57,7 +62,7 @@
         <mark key="^" line="55" column="81" />
         <mark key="." line="55" column="81" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/utils/RequestDataService.java" timestamp="1515805960394" />
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/utils/RequestDataService.java" timestamp="1515807080829" />
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataupdaters/creators/GmailThreadCreator.java" timestamp="1515791196172">
         <mark key="'" line="316" column="1" />
         <mark key="[" line="210" column="58" />
@@ -70,6 +75,11 @@
         <mark key="]" line="56" column="33" />
         <mark key="." line="56" column="33" />
         <mark key="^" line="56" column="33" />
+      </file>
+      <file name="$USER_HOME$/src/MailFoo/DataflowLogsExport/src/main/java/com/streak/logging/dataflow/ImmutableEntityToSpannerExport.java" timestamp="1515457628889">
+        <mark key="[" line="39" column="24" />
+        <mark key="]" line="39" column="24" />
+        <mark key="." line="39" column="24" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/gmail/GmailAPIHelper.java" timestamp="1515790767530">
         <mark key="'" line="581" column="54" />
@@ -85,14 +95,29 @@
         <mark key="." line="88" column="88" />
         <mark key="^" line="88" column="88" />
       </file>
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/spanner/Accounts.java" timestamp="1515175760278">
+        <mark key="[" line="2" column="20" />
+        <mark key="]" line="2" column="20" />
+        <mark key="." line="2" column="20" />
+      </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/imap/SharedContactThreadContentsServlet.java" timestamp="1515791993795">
         <mark key="[" line="48" column="0" />
         <mark key="]" line="48" column="0" />
         <mark key="." line="48" column="0" />
         <mark key="^" line="48" column="61" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/MailfooImmutableDataModel.java" timestamp="1515805578573">
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/filters/SpannerFilter.java" timestamp="1515807210136">
+        <mark key="[" line="59" column="15" />
+        <mark key="]" line="59" column="15" />
+        <mark key="." line="59" column="15" />
+      </file>
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/MailfooImmutableDataModel.java" timestamp="1515807275874">
         <mark key="'" line="140" column="83" />
+      </file>
+      <file name="/fragment.java" timestamp="1515614401910">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/mobile/StreakIOS/StreakIOS/Model.xcdatamodeld/Model.xcdatamodel/contents" timestamp="1515791269658">
         <mark key="'" line="0" column="0" />
@@ -206,10 +231,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>start</text>
+        <text>.</text>
       </register>
       <register name="-" type="4">
-        <text>start</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>offset</text>
