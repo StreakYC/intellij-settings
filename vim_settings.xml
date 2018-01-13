@@ -13,7 +13,6 @@
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataupdaters/DataWorkerFactory.java" timestamp="1515782265119">
         <mark key="'" line="395" column="31" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/pom.xml" timestamp="1515627636366" />
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/handlers/GetEntities.java" timestamp="1515791960650">
         <mark key="'" line="15" column="57" />
       </file>
@@ -58,7 +57,7 @@
         <mark key="^" line="55" column="81" />
         <mark key="." line="55" column="81" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/utils/RequestDataService.java" timestamp="1515797629878" />
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/utils/RequestDataService.java" timestamp="1515805960394" />
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataupdaters/creators/GmailThreadCreator.java" timestamp="1515791196172">
         <mark key="'" line="316" column="1" />
         <mark key="[" line="210" column="58" />
@@ -92,6 +91,9 @@
         <mark key="." line="48" column="0" />
         <mark key="^" line="48" column="61" />
       </file>
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/MailfooImmutableDataModel.java" timestamp="1515805578573">
+        <mark key="'" line="140" column="83" />
+      </file>
       <file name="$USER_HOME$/src/MailFoo/mobile/StreakIOS/StreakIOS/Model.xcdatamodeld/Model.xcdatamodel/contents" timestamp="1515791269658">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="60" column="25" />
@@ -101,7 +103,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="50" column="33" filename="$USER_HOME$/src/MailFoo/containers/src/main/java/com/streak/util/Oauth.java" />
       <jump line="56" column="88" filename="$USER_HOME$/src/MailFoo/containers/src/main/java/com/streak/util/Oauth.java" />
       <jump line="104" column="38" filename="$USER_HOME$/src/MailFoo/containers/src/main/java/com/streak/emailmanager/updatesync/UpdateSyncMain.java" />
       <jump line="158" column="21" filename="$USER_HOME$/src/MailFoo/containers/src/main/java/com/streak/emailmanager/updatesync/UpdateSyncMain.java" />
@@ -201,6 +202,7 @@
       <jump line="1481" column="10" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/DAO.java" />
       <jump line="88" column="8" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataupdaters/getters/UnifiedThreadContentsGetter.java" />
       <jump line="106" column="39" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataupdaters/getters/UnifiedThreadContentsGetter.java" />
+      <jump line="140" column="83" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/MailfooImmutableDataModel.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -210,7 +212,7 @@
         <text>start</text>
       </register>
       <register name="/" type="4">
-        <text>spanner</text>
+        <text>offset</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQlwLnN0YXJ0KCJmZXRjaCB0aHJlYWRzIGZyb20gZ21haWwiKTsK</text>
@@ -247,9 +249,9 @@
       </register>
     </registers>
     <search>
-      <last-search>spanner</last-search>
+      <last-search>offset</last-search>
       <last-offset />
-      <last-pattern>spanner</last-pattern>
+      <last-pattern>offset</last-pattern>
       <last-replace>ds</last-replace>
       <last-substitute>spanner</last-substitute>
       <last-dir>1</last-dir>
@@ -257,7 +259,6 @@
     </search>
     <history>
       <history-search>
-        <entry>^</entry>
         <entry>$</entry>
         <entry>bind</entry>
         <entry>,</entry>
@@ -277,6 +278,7 @@
         <entry>THREAD</entry>
         <entry>ctf</entry>
         <entry>spanner</entry>
+        <entry>offset</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2dpZC9pZA==</entry>
