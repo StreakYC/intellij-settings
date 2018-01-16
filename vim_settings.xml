@@ -14,6 +14,9 @@
         <mark key="." line="114" column="19" />
         <mark key="^" line="92" column="105" />
       </file>
+      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_152.jdk/Contents/Home/src.zip!/java/util/stream/Stream.java" timestamp="1516135551925">
+        <mark key="'" line="104" column="1" />
+      </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/sharing/AccessManagementRecorder.java" timestamp="1515782536403" />
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataupdaters/DataWorkerFactory.java" timestamp="1515782265119">
         <mark key="'" line="395" column="31" />
@@ -35,13 +38,6 @@
         <mark key="]" line="131" column="9" />
         <mark key="." line="131" column="9" />
         <mark key="^" line="131" column="9" />
-      </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataupdaters/getters/UnifiedThreadContentsGetter.java" timestamp="1516132946706">
-        <mark key="'" line="57" column="41" />
-        <mark key="[" line="49" column="0" />
-        <mark key="]" line="49" column="0" />
-        <mark key="^" line="98" column="39" />
-        <mark key="." line="49" column="0" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/rewardly/mailfoo/emailmanager/SpannerTests.java" timestamp="1515533919533">
         <mark key="'" line="118" column="27" />
@@ -82,7 +78,7 @@
         <mark key="." line="39" column="24" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/gmail/GmailAPIHelper.java" timestamp="1515790767530">
-        <mark key="[" line="557" column="37" />
+        <mark key="[" line="544" column="37" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/gmail/Key.java" timestamp="1516132910949">
         <mark key="[" line="6" column="93" />
@@ -130,7 +126,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="35" column="8" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/Message.java" />
       <jump line="38" column="8" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/Message.java" />
       <jump line="41" column="8" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/Message.java" />
       <jump line="59" column="0" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/rewardly/mailfoo/emailmanager/SpannerTests.java" />
@@ -230,6 +225,7 @@
       <jump line="54" column="86" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataupdaters/getters/UnifiedThreadContentsGetter.java" />
       <jump line="56" column="50" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataupdaters/getters/UnifiedThreadContentsGetter.java" />
       <jump line="57" column="41" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataupdaters/getters/UnifiedThreadContentsGetter.java" />
+      <jump line="104" column="1" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_152.jdk/Contents/Home/src.zip!/java/util/stream/Stream.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -239,7 +235,7 @@
         <text>GmailAPIHelper</text>
       </register>
       <register name="/" type="4">
-        <text>Key</text>
+        <text>findFirst</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQlwLnN0YXJ0KCJmZXRjaCB0aHJlYWRzIGZyb20gZ21haWwiKTsK</text>
@@ -276,9 +272,9 @@
       </register>
     </registers>
     <search>
-      <last-search>Key</last-search>
+      <last-search>findFirst</last-search>
       <last-offset />
-      <last-pattern>Key</last-pattern>
+      <last-pattern>findFirst</last-pattern>
       <last-replace>ds</last-replace>
       <last-substitute>spanner</last-substitute>
       <last-dir>1</last-dir>
@@ -286,7 +282,6 @@
     </search>
     <history>
       <history-search>
-        <entry>bind</entry>
         <entry>,</entry>
         <entry>List</entry>
         <entry>try</entry>
@@ -306,6 +301,7 @@
         <entry>spanner</entry>
         <entry>offset</entry>
         <entry>Key</entry>
+        <entry>findFirst</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2dpZC9pZA==</entry>
