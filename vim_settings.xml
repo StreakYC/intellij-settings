@@ -14,6 +14,12 @@
         <mark key="." line="114" column="19" />
         <mark key="^" line="92" column="105" />
       </file>
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/chat/handlers/PipeHandler.java" timestamp="1516137191218">
+        <mark key="[" line="55" column="100" />
+        <mark key="]" line="55" column="18" />
+        <mark key="." line="55" column="18" />
+        <mark key="^" line="55" column="18" />
+      </file>
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_152.jdk/Contents/Home/src.zip!/java/util/stream/Stream.java" timestamp="1516135551925">
         <mark key="'" line="104" column="1" />
       </file>
@@ -21,6 +27,7 @@
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataupdaters/DataWorkerFactory.java" timestamp="1515782265119">
         <mark key="'" line="395" column="31" />
       </file>
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/chat/ChatBotUtils.java" timestamp="1516136535479" />
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/handlers/GetEntities.java" timestamp="1515791960650">
         <mark key="'" line="15" column="57" />
       </file>
@@ -228,44 +235,44 @@
       <jump line="104" column="1" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_152.jdk/Contents/Home/src.zip!/java/util/stream/Stream.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Ly8gSSdtIChKb25hdGhhbikgbm90IHJlYWxseSBzdXJlIGhvdyB3ZSBzaG91bGQgYmUgdGhpbmtpbmcgYWJvdXQgcGFzc2luZyBhcm91bmQga2V5cyBmb3IgZW50aXRpZXMgaW4gZ21haWwsIGFuZAovLyB3aGF0IHNvcnQgb2Ygc3RydWN0dXJlIHdpbGwgYmUgdGhlIGVhc2llc3QgdG8gd29yayB3aXRoIHRoZXJlLiAgVGhpcyBmZWVscyB3cm9uZywgYnV0IGxlc3Mgd3JvbmcgdGhhbiBub3QgaGF2aW5nCi8vIGl0IGJlIGV4cGxpY2l0Cg==</text>
+      <register name="&quot;" type="4">
+        <text>M</text>
       </register>
       <register name="-" type="4">
-        <text>GmailAPIHelper</text>
+        <text>M</text>
       </register>
       <register name="/" type="4">
         <text>findFirst</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">CQlwLnN0YXJ0KCJmZXRjaCB0aHJlYWRzIGZyb20gZ21haWwiKTsK</text>
+      <register name="0" type="4">
+        <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gSSdtIChKb25hdGhhbikgbm90IHJlYWxseSBzdXJlIGhvdyB3ZSBzaG91bGQgYmUgdGhpbmtpbmcgYWJvdXQgcGFzc2luZyBhcm91bmQga2V5cyBmb3IgZW50aXRpZXMgaW4gZ21haWwsIGFuZAovLyB3aGF0IHNvcnQgb2Ygc3RydWN0dXJlIHdpbGwgYmUgdGhlIGVhc2llc3QgdG8gd29yayB3aXRoIHRoZXJlLiAgVGhpcyBmZWVscyB3cm9uZywgYnV0IGxlc3Mgd3JvbmcgdGhhbiBub3QgaGF2aW5nCi8vIGl0IGJlIGV4cGxpY2l0Cg==</text>
+        <text encoding="base64">CQlBY3Rpb25zLnZhbHVlcygpLnRvU3RyaW5nKCkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gVE9ETyBtb3ZlIHRoaXMgb3IgZG8gc29tZXRoaW5nCg==</text>
+        <text encoding="base64">Ly8gSSdtIChKb25hdGhhbikgbm90IHJlYWxseSBzdXJlIGhvdyB3ZSBzaG91bGQgYmUgdGhpbmtpbmcgYWJvdXQgcGFzc2luZyBhcm91bmQga2V5cyBmb3IgZW50aXRpZXMgaW4gZ21haWwsIGFuZAovLyB3aGF0IHNvcnQgb2Ygc3RydWN0dXJlIHdpbGwgYmUgdGhlIGVhc2llc3QgdG8gd29yayB3aXRoIHRoZXJlLiAgVGhpcyBmZWVscyB3cm9uZywgYnV0IGxlc3Mgd3JvbmcgdGhhbiBub3QgaGF2aW5nCi8vIGl0IGJlIGV4cGxpY2l0Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gVE9ETyBtb3ZlIHRoaXMgb3IgZG8gc29tZXRoaW5nCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CXB1YmxpYyBVbmlmaWVkVGhyZWFkQ29udGVudHNHZXR0ZXIoKSB7CgkJdGhpcy5nbWFpbEhlbHBlciA9IEdtYWlsQVBJSGVscGVyLmNsYXNzOwoJfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CXByaXZhdGUgZmluYWwgQ2xhc3M8PyBleHRlbmRzIEdtYWlsQVBJSGVscGVyPiBnbWFpbEhlbHBlcjsK</text>
+        <text encoding="base64">CXB1YmxpYyBVbmlmaWVkVGhyZWFkQ29udGVudHNHZXR0ZXIoKSB7CgkJdGhpcy5nbWFpbEhlbHBlciA9IEdtYWlsQVBJSGVscGVyLmNsYXNzOwoJfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQl0aGlzLmdtYWlsSGVscGVyLgo=</text>
+        <text encoding="base64">CXByaXZhdGUgZmluYWwgQ2xhc3M8PyBleHRlbmRzIEdtYWlsQVBJSGVscGVyPiBnbWFpbEhlbHBlcjsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5nb29nbGUuYXBwZW5naW5lLmFwaS5UaHJlYWRNYW5hZ2VyOwo=</text>
+        <text encoding="base64">CQl0aGlzLmdtYWlsSGVscGVyLgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5jb25jdXJyZW50LkV4ZWN1dGlvbkV4Y2VwdGlvbjsKaW1wb3J0IGphdmEudXRpbC5jb25jdXJyZW50LkV4ZWN1dG9yU2VydmljZTsKaW1wb3J0IGphdmEudXRpbC5jb25jdXJyZW50LkV4ZWN1dG9yczsKaW1wb3J0IGphdmEudXRpbC5jb25jdXJyZW50LkZ1dHVyZTsK</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5nb29nbGUuYXBwZW5naW5lLmFwaS5UaHJlYWRNYW5hZ2VyOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5jb25jdXJyZW50LkV4ZWN1dGlvbkV4Y2VwdGlvbjsKaW1wb3J0IGphdmEudXRpbC5jb25jdXJyZW50LkV4ZWN1dG9yU2VydmljZTsKaW1wb3J0IGphdmEudXRpbC5jb25jdXJyZW50LkV4ZWN1dG9yczsKaW1wb3J0IGphdmEudXRpbC5jb25jdXJyZW50LkZ1dHVyZTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
