@@ -87,6 +87,9 @@
         <mark key="." line="29" column="108" />
         <mark key="^" line="29" column="108" />
       </file>
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/TeamContact.java" timestamp="1516223490445">
+        <mark key="'" line="135" column="35" />
+      </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/gmail/Key.java" timestamp="1516132910949">
         <mark key="[" line="6" column="93" />
         <mark key="]" line="6" column="93" />
@@ -109,7 +112,7 @@
         <mark key="]" line="59" column="15" />
         <mark key="." line="59" column="15" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/MailfooImmutableDataModel.java" timestamp="1516221610017">
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/MailfooImmutableDataModel.java" timestamp="1516223588261">
         <mark key="'" line="294" column="88" />
         <mark key="[" line="99" column="0" />
         <mark key="]" line="99" column="0" />
@@ -122,8 +125,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="126" column="39" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/rewardly/mailfoo/emailmanager/SpannerTests.java" />
-      <jump line="145" column="24" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/rewardly/mailfoo/emailmanager/SpannerTests.java" />
       <jump line="92" column="32" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/rewardly/mailfoo/emailmanager/SpannerTests.java" />
       <jump line="179" column="8" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/rewardly/mailfoo/emailmanager/SpannerTests.java" />
       <jump line="38" column="19" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/rewardly/mailfoo/emailmanager/SpannerTests.java" />
@@ -222,6 +223,8 @@
       <jump line="237" column="8" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/MailfooImmutableDataModel.java" />
       <jump line="278" column="89" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/MailfooImmutableDataModel.java" />
       <jump line="294" column="88" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/MailfooImmutableDataModel.java" />
+      <jump line="64" column="35" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/TeamContact.java" />
+      <jump line="135" column="35" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/TeamContact.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -231,7 +234,7 @@
         <text>MailfooDataModel</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">VCA=</text>
+        <text>getStringCollectionFields</text>
       </register>
       <register name="0" type="4">
         <text />
@@ -268,9 +271,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">VCA=</last-search>
+      <last-search>getStringCollectionFields</last-search>
       <last-offset />
-      <last-pattern encoding="base64">VCA=</last-pattern>
+      <last-pattern>getStringCollectionFields</last-pattern>
       <last-replace>ds</last-replace>
       <last-substitute>spanner</last-substitute>
       <last-dir>1</last-dir>
@@ -278,7 +281,6 @@
     </search>
     <history>
       <history-search>
-        <entry>List</entry>
         <entry>try</entry>
         <entry>finall</entry>
         <entry>write</entry>
@@ -298,6 +300,7 @@
         <entry>Key</entry>
         <entry>findFirst</entry>
         <entry encoding="base64">VCA=</entry>
+        <entry>getStringCollectionFields</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2dpZC9pZA==</entry>
