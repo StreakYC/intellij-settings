@@ -15,12 +15,12 @@
         <mark key="." line="114" column="19" />
         <mark key="^" line="92" column="105" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/ImmutableDataModelTransactionVersionsCallback.java" timestamp="1516325587468">
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/ImmutableDataModelTransactionVersionsCallback.java" timestamp="1516384253838">
         <mark key="'" line="38" column="32" />
-        <mark key="[" line="87" column="87" />
-        <mark key="]" line="88" column="83" />
-        <mark key="^" line="88" column="83" />
-        <mark key="." line="88" column="83" />
+        <mark key="[" line="26" column="96" />
+        <mark key="]" line="26" column="154" />
+        <mark key="^" line="26" column="154" />
+        <mark key="." line="26" column="154" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/gmail/ThreadKey.java" timestamp="1516302679975">
         <mark key="'" line="12" column="12" />
@@ -320,8 +320,8 @@
       <jump line="11" column="41" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/MailfooImmutableDataModel.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>n</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CS8vIFdlCg==</text>
       </register>
       <register name="-" type="4">
         <text>n</text>
@@ -333,34 +333,33 @@
         <text encoding="base64">CQlPYmplY3RpZnlTZXJ2aWNlLnJlZ2lzdGVyKENhc2UuY2xhc3MpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJCQkJCS8vIFRPRE8gd3RmCg==</text>
+        <text encoding="base64">CS8vIFdlCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJCQkJCQo=</text>
+        <text encoding="base64">CQkJCQkJCS8vIFRPRE8gd3RmCg==</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">CQkJCQkJCQo=</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">CQkJCQkJCQkKCQkJCQkJCQljb250aW51ZTsKCQkJCQkJCX0KCQkJCQkJCWlmIChtLmlzVGlwKCkpIHsK</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>entry.getKey(</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">CQkJCQkJCQkK</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">CQkJCQkJCQlLZXlTZXQuc2luZ2xlS2V5KGNvbS5nb29nbGUuY2xvdWQuc3Bhbm5lci5LZXkub2YoCgkJCQkJCQkJCQlTcGFubmVyLm1ha2VTcGFubmVyUHJlZml4U3RyaW5nKGVudHJ5LmdldEtleSgpLmdldE5hbWUoKSksCgkJCQkJCQkJCQl0cnVlKSksCg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">CQlpZiAobnVsbCAhPSB0ZWFtKSB7Cg==</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text>transactionContext.readUsingIndex(
 								entry.getKey().getKind(),
 								entry.getKey().getKind() + &quot;TipIndex&quot;,</text>
-      </register>
-      <register name="9" type="4">
-        <text>,
-								Arrays.asList(&quot;consistentId&quot;, &quot;versionId&quot;, &quot;datastoreVersion&quot;));</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
