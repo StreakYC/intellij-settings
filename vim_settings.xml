@@ -15,12 +15,12 @@
         <mark key="." line="114" column="19" />
         <mark key="^" line="92" column="105" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/ImmutableDataModelTransactionVersionsCallback.java" timestamp="1516384253838">
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/ImmutableDataModelTransactionVersionsCallback.java" timestamp="1516385441729">
         <mark key="'" line="38" column="32" />
-        <mark key="[" line="26" column="96" />
-        <mark key="]" line="26" column="154" />
+        <mark key="[" line="48" column="0" />
+        <mark key="]" line="48" column="0" />
         <mark key="^" line="26" column="154" />
-        <mark key="." line="26" column="154" />
+        <mark key="." line="48" column="0" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/gmail/ThreadKey.java" timestamp="1516302679975">
         <mark key="'" line="12" column="12" />
@@ -127,8 +127,8 @@
         <mark key="." line="48" column="0" />
         <mark key="^" line="48" column="61" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/filters/SpannerFilter.java" timestamp="1516325597291">
-        <mark key="[" line="59" column="0" />
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/filters/SpannerFilter.java" timestamp="1516385705388">
+        <mark key="[" line="103" column="69" />
         <mark key="]" line="59" column="0" />
         <mark key="." line="59" column="0" />
         <mark key="^" line="59" column="9" />
@@ -169,10 +169,10 @@
         <mark key="^" line="55" column="81" />
         <mark key="." line="55" column="81" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/DataflowLogsExport/src/main/java/com/streak/logging/dataflow/ImmutableEntityToSpannerExport.java" timestamp="1515457628889">
-        <mark key="[" line="39" column="24" />
-        <mark key="]" line="39" column="24" />
-        <mark key="." line="39" column="24" />
+      <file name="$USER_HOME$/src/MailFoo/DataflowLogsExport/src/main/java/com/streak/logging/dataflow/ImmutableEntityToSpannerExport.java" timestamp="1516385690089">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="40" column="24" />
+        <mark key="." line="40" column="24" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/SpannerDataModel.java" timestamp="1516323477954">
         <mark key="[" line="31" column="0" />
@@ -321,7 +321,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CS8vIFdlCg==</text>
+        <text encoding="base64">CQkJCQkJLy8vLy8vLy8vLy8vLy8vLy8gVE9ETyBUT0RPCg==</text>
       </register>
       <register name="-" type="4">
         <text>n</text>
@@ -333,33 +333,31 @@
         <text encoding="base64">CQlPYmplY3RpZnlTZXJ2aWNlLnJlZ2lzdGVyKENhc2UuY2xhc3MpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CS8vIFdlCg==</text>
+        <text encoding="base64">CQkJCQkJLy8vLy8vLy8vLy8vLy8vLy8gVE9ETyBUT0RPCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJCQkJCS8vIFRPRE8gd3RmCg==</text>
+        <text encoding="base64">CQkJCQkJLy8gVE9ETyBwdXQgVEhJUyBxdWVyeSBpbiByYXRjaGV0Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJCQkJCQo=</text>
+        <text encoding="base64">CS8vIFdlCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJCQkJCQkKCQkJCQkJCQljb250aW51ZTsKCQkJCQkJCX0KCQkJCQkJCWlmIChtLmlzVGlwKCkpIHsK</text>
+        <text encoding="base64">CQkJCQkJCS8vIFRPRE8gd3RmCg==</text>
       </register>
-      <register name="5" type="4">
-        <text>entry.getKey(</text>
+      <register name="5" type="2">
+        <text encoding="base64">CQkJCQkJCQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJCQkJCQkK</text>
+        <text encoding="base64">CQkJCQkJCQkKCQkJCQkJCQljb250aW51ZTsKCQkJCQkJCX0KCQkJCQkJCWlmIChtLmlzVGlwKCkpIHsK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">CQkJCQkJCQlLZXlTZXQuc2luZ2xlS2V5KGNvbS5nb29nbGUuY2xvdWQuc3Bhbm5lci5LZXkub2YoCgkJCQkJCQkJCQlTcGFubmVyLm1ha2VTcGFubmVyUHJlZml4U3RyaW5nKGVudHJ5LmdldEtleSgpLmdldE5hbWUoKSksCgkJCQkJCQkJCQl0cnVlKSksCg==</text>
+      <register name="7" type="4">
+        <text>entry.getKey(</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQlpZiAobnVsbCAhPSB0ZWFtKSB7Cg==</text>
+        <text encoding="base64">CQkJCQkJCQkK</text>
       </register>
-      <register name="9" type="4">
-        <text>transactionContext.readUsingIndex(
-								entry.getKey().getKind(),
-								entry.getKey().getKind() + &quot;TipIndex&quot;,</text>
+      <register name="9" type="2">
+        <text encoding="base64">CQkJCQkJCQlLZXlTZXQuc2luZ2xlS2V5KGNvbS5nb29nbGUuY2xvdWQuc3Bhbm5lci5LZXkub2YoCgkJCQkJCQkJCQlTcGFubmVyLm1ha2VTcGFubmVyUHJlZml4U3RyaW5nKGVudHJ5LmdldEtleSgpLmdldE5hbWUoKSksCgkJCQkJCQkJCQl0cnVlKSksCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
