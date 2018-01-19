@@ -9,13 +9,7 @@
         <mark key="." line="35" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/google/cloud/google-cloud-spanner/0.25.0-beta/google-cloud-spanner-0.25.0-beta-sources.jar!/com/google/cloud/spanner/Mutation.java" timestamp="1516305080726" />
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/ImmutableDataModelTransactionVersionsCallback.java" timestamp="1516399945962">
-        <mark key="'" line="38" column="32" />
-        <mark key="[" line="48" column="0" />
-        <mark key="]" line="48" column="0" />
-        <mark key="^" line="26" column="154" />
-        <mark key="." line="48" column="0" />
-      </file>
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/spanner/Message.java" timestamp="1516401384750" />
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/gmail/ThreadKey.java" timestamp="1516302679975">
         <mark key="'" line="12" column="12" />
         <mark key="[" line="4" column="0" />
@@ -30,9 +24,6 @@
         <mark key="^" line="55" column="18" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/google/appengine/appengine-api-1.0-sdk/1.9.57/appengine-api-1.0-sdk-1.9.57.jar!/com/google/apphosting/api/DatastorePb.class" timestamp="1516318453234" />
-      <file name="/a.dummy" timestamp="1516302425356">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataupdaters/DataWorkerFactory.java" timestamp="1516155082307">
         <mark key="'" line="395" column="31" />
       </file>
@@ -83,7 +74,12 @@
       <file name="$MAVEN_REPOSITORY$/com/googlecode/objectify/objectify/5.1.17/objectify-5.1.17-sources.jar!/com/googlecode/objectify/impl/KeyMetadata.java" timestamp="1516240490506">
         <mark key="'" line="68" column="34" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/Spanner.java" timestamp="1516400229011" />
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/Spanner.java" timestamp="1516402270033">
+        <mark key="[" line="134" column="120" />
+        <mark key="]" line="134" column="72" />
+        <mark key="." line="134" column="72" />
+        <mark key="^" line="134" column="72" />
+      </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/GmailThread.java" timestamp="1515791159108">
         <mark key="[" line="56" column="19" />
         <mark key="]" line="56" column="33" />
@@ -116,15 +112,15 @@
         <mark key="." line="48" column="0" />
         <mark key="^" line="48" column="61" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/google/cloud/google-cloud-spanner/0.25.0-beta/google-cloud-spanner-0.25.0-beta-sources.jar!/com/google/cloud/spanner/SessionPoolOptions.java" timestamp="1516402250581" />
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/filters/SpannerFilter.java" timestamp="1516400488201">
         <mark key="'" line="59" column="55" />
-        <mark key="[" line="69" column="58" />
-        <mark key="]" line="70" column="148" />
-        <mark key="." line="70" column="148" />
-        <mark key="^" line="70" column="148" />
       </file>
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_152.jdk/Contents/Home/src.zip!/java/util/stream/Stream.java" timestamp="1516135551925">
         <mark key="'" line="104" column="1" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/com/google/cloud/google-cloud-spanner/0.25.0-beta/google-cloud-spanner-0.25.0-beta-sources.jar!/com/google/cloud/spanner/SessionPool.java" timestamp="1516402072176">
+        <mark key="'" line="379" column="6" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataupdaters/creators/TeamContactCreator.java" timestamp="1516306753440">
         <mark key="'" line="50" column="24" />
@@ -144,9 +140,6 @@
       <file name="$MAVEN_REPOSITORY$/com/google/cloud/google-cloud-spanner/0.25.0-beta/google-cloud-spanner-0.25.0-beta-sources.jar!/com/google/cloud/spanner/ReadContext.java" timestamp="1516230899381" />
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataupdaters/getters/UnifiedThreadContentsGetter.java" timestamp="1516390507452">
         <mark key="'" line="124" column="29" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1516316936772">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_152.jdk/Contents/Home/src.zip!/java/lang/reflect/Type.java" timestamp="1516239550445" />
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/gmail/ConcurrentGmailRequester.java" timestamp="1515798104196">
@@ -196,19 +189,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="591" column="37" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/DAO.java" />
-      <jump line="18" column="31" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataupdaters/getters/UnifiedThreadContentsGetter.java" />
-      <jump line="48" column="1" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/imap/SharedContactThreadContentsServlet.java" />
-      <jump line="46" column="45" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataupdaters/getters/UnifiedThreadContentsGetter.java" />
-      <jump line="604" column="68" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/DAO.java" />
-      <jump line="266" column="44" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataupdaters/creators/GmailThreadCreator.java" />
-      <jump line="316" column="1" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataupdaters/creators/GmailThreadCreator.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/src/MailFoo/mobile/StreakIOS/StreakIOS/Model.xcdatamodeld/Model.xcdatamodel/contents" />
-      <jump line="0" column="0" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/utils/gsonutils/APIFieldNamingStrategy.java" />
-      <jump line="1481" column="10" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/DAO.java" />
-      <jump line="88" column="8" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataupdaters/getters/UnifiedThreadContentsGetter.java" />
-      <jump line="106" column="39" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataupdaters/getters/UnifiedThreadContentsGetter.java" />
-      <jump line="140" column="83" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/MailfooImmutableDataModel.java" />
       <jump line="5" column="34" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataupdaters/getters/UnifiedThreadContentsGetter.java" />
       <jump line="53" column="27" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataupdaters/getters/UnifiedThreadContentsGetter.java" />
       <jump line="54" column="86" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataupdaters/getters/UnifiedThreadContentsGetter.java" />
@@ -296,16 +276,29 @@
       <jump line="213" column="46" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/filters/SpannerFilter.java" />
       <jump line="103" column="44" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/filters/SpannerFilter.java" />
       <jump line="59" column="55" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/filters/SpannerFilter.java" />
+      <jump line="61" column="4" filename="$MAVEN_REPOSITORY$/com/google/cloud/google-cloud-spanner/0.25.0-beta/google-cloud-spanner-0.25.0-beta-sources.jar!/com/google/cloud/spanner/SessionPool.java" />
+      <jump line="642" column="6" filename="$MAVEN_REPOSITORY$/com/google/cloud/google-cloud-spanner/0.25.0-beta/google-cloud-spanner-0.25.0-beta-sources.jar!/com/google/cloud/spanner/SessionPool.java" />
+      <jump line="60" column="5" filename="$MAVEN_REPOSITORY$/com/google/cloud/google-cloud-spanner/0.25.0-beta/google-cloud-spanner-0.25.0-beta-sources.jar!/com/google/cloud/spanner/SessionPool.java" />
+      <jump line="62" column="15" filename="$MAVEN_REPOSITORY$/com/google/cloud/google-cloud-spanner/0.25.0-beta/google-cloud-spanner-0.25.0-beta-sources.jar!/com/google/cloud/spanner/SessionPool.java" />
+      <jump line="579" column="16" filename="$MAVEN_REPOSITORY$/com/google/cloud/google-cloud-spanner/0.25.0-beta/google-cloud-spanner-0.25.0-beta-sources.jar!/com/google/cloud/spanner/SessionPool.java" />
+      <jump line="634" column="69" filename="$MAVEN_REPOSITORY$/com/google/cloud/google-cloud-spanner/0.25.0-beta/google-cloud-spanner-0.25.0-beta-sources.jar!/com/google/cloud/spanner/SessionPool.java" />
+      <jump line="644" column="90" filename="$MAVEN_REPOSITORY$/com/google/cloud/google-cloud-spanner/0.25.0-beta/google-cloud-spanner-0.25.0-beta-sources.jar!/com/google/cloud/spanner/SessionPool.java" />
+      <jump line="655" column="12" filename="$MAVEN_REPOSITORY$/com/google/cloud/google-cloud-spanner/0.25.0-beta/google-cloud-spanner-0.25.0-beta-sources.jar!/com/google/cloud/spanner/SessionPool.java" />
+      <jump line="661" column="17" filename="$MAVEN_REPOSITORY$/com/google/cloud/google-cloud-spanner/0.25.0-beta/google-cloud-spanner-0.25.0-beta-sources.jar!/com/google/cloud/spanner/SessionPool.java" />
+      <jump line="197" column="58" filename="$MAVEN_REPOSITORY$/com/google/cloud/google-cloud-spanner/0.25.0-beta/google-cloud-spanner-0.25.0-beta-sources.jar!/com/google/cloud/spanner/SessionPool.java" />
+      <jump line="708" column="18" filename="$MAVEN_REPOSITORY$/com/google/cloud/google-cloud-spanner/0.25.0-beta/google-cloud-spanner-0.25.0-beta-sources.jar!/com/google/cloud/spanner/SessionPool.java" />
+      <jump line="209" column="29" filename="$MAVEN_REPOSITORY$/com/google/cloud/google-cloud-spanner/0.25.0-beta/google-cloud-spanner-0.25.0-beta-sources.jar!/com/google/cloud/spanner/SessionPool.java" />
+      <jump line="379" column="6" filename="$MAVEN_REPOSITORY$/com/google/cloud/google-cloud-spanner/0.25.0-beta/google-cloud-spanner-0.25.0-beta-sources.jar!/com/google/cloud/spanner/SessionPool.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>com.rewardly.mailfoo.dataaccess.</text>
+        <text>5</text>
       </register>
       <register name="-" type="4">
-        <text>com.rewardly.mailfoo.dataaccess.</text>
+        <text>5</text>
       </register>
       <register name="/" type="4">
-        <text>handletxn</text>
+        <text>lastUseTime</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQkJcHJvZmlsZS5lbmQoInNwYW5uZXIgcmVhZCIpOwo=</text>
@@ -342,9 +335,9 @@
       </register>
     </registers>
     <search>
-      <last-search>handletxn</last-search>
+      <last-search>lastUseTime</last-search>
       <last-offset />
-      <last-pattern>handletxn</last-pattern>
+      <last-pattern>lastUseTime</last-pattern>
       <last-replace>startAccumulate</last-replace>
       <last-substitute>start</last-substitute>
       <last-dir>1</last-dir>
@@ -352,9 +345,6 @@
     </search>
     <history>
       <history-search>
-        <entry>U</entry>
-        <entry>KeySet</entry>
-        <entry>isTip</entry>
         <entry>Excep</entry>
         <entry>getDe</entry>
         <entry>Key</entry>
@@ -372,6 +362,9 @@
         <entry>start</entry>
         <entry>txn</entry>
         <entry>handletxn</entry>
+        <entry>Clock</entry>
+        <entry>clock</entry>
+        <entry>lastUseTime</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL21lc3NhZ2VzL3JldA==</entry>
