@@ -9,13 +9,6 @@
         <mark key="." line="35" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/google/cloud/google-cloud-spanner/0.25.0-beta/google-cloud-spanner-0.25.0-beta-sources.jar!/com/google/cloud/spanner/Mutation.java" timestamp="1516305080726" />
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/spanner/Message.java" timestamp="1516650291171">
-        <mark key="'" line="191" column="38" />
-        <mark key="[" line="191" column="20" />
-        <mark key="]" line="191" column="38" />
-        <mark key="." line="191" column="38" />
-        <mark key="^" line="191" column="38" />
-      </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/ImmutableDataModelTransactionVersionsCallback.java" timestamp="1516648246603">
         <mark key="[" line="87" column="11" />
         <mark key="]" line="87" column="25" />
@@ -103,11 +96,6 @@
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/User.java" timestamp="1516301030707">
         <mark key="'" line="113" column="12" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/ratchet/Ratchet.java" timestamp="1516320740372">
-        <mark key="'" line="97" column="8" />
-        <mark key="[" line="13" column="90" />
-        <mark key="^" line="59" column="4" />
-      </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/rewardly/mailfoo/unittests/SpannerDataModelTest.java" timestamp="1516409435076">
         <mark key="[" line="61" column="0" />
         <mark key="]" line="61" column="0" />
@@ -160,7 +148,8 @@
         <mark key="." line="89" column="53" />
       </file>
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_152.jdk/Contents/Home/src.zip!/java/lang/reflect/Type.java" timestamp="1516239550445" />
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/gmail/ConcurrentGmailRequester.java" timestamp="1515798104196">
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/gmail/ConcurrentGmailRequester.java" timestamp="1516658149826">
+        <mark key="'" line="74" column="54" />
         <mark key="[" line="100" column="0" />
         <mark key="]" line="55" column="81" />
         <mark key="^" line="55" column="81" />
@@ -218,7 +207,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="64" column="35" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/TeamContact.java" />
       <jump line="135" column="35" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/TeamContact.java" />
       <jump line="39" column="20" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/MailfooImmutableDataModel.java" />
       <jump line="2" column="41" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/ImmutableDataModel.java" />
@@ -318,6 +306,7 @@
       <jump line="139" column="0" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/spanner/Message.java" />
       <jump line="144" column="0" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/spanner/Message.java" />
       <jump line="191" column="38" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/spanner/Message.java" />
+      <jump line="74" column="54" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/gmail/ConcurrentGmailRequester.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
