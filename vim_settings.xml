@@ -140,8 +140,8 @@
         <mark key="." line="170" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/google/cloud/google-cloud-spanner/0.25.0-beta/google-cloud-spanner-0.25.0-beta-sources.jar!/com/google/cloud/spanner/ReadContext.java" timestamp="1516230899381" />
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataupdaters/getters/UnifiedThreadContentsGetter.java" timestamp="1516644124463">
-        <mark key="'" line="76" column="0" />
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataupdaters/getters/UnifiedThreadContentsGetter.java" timestamp="1516644788806">
+        <mark key="'" line="138" column="58" />
         <mark key="[" line="138" column="50" />
         <mark key="]" line="96" column="0" />
         <mark key="^" line="96" column="0" />
@@ -207,8 +207,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="57" column="41" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataupdaters/getters/UnifiedThreadContentsGetter.java" />
-      <jump line="104" column="1" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_152.jdk/Contents/Home/src.zip!/java/util/stream/Stream.java" />
       <jump line="38" column="42" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/MailfooImmutableDataModel.java" />
       <jump line="99" column="28" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/MailfooImmutableDataModel.java" />
       <jump line="233" column="11" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/MailfooImmutableDataModel.java" />
@@ -307,6 +305,8 @@
       <jump line="17048" column="53" filename="$MAVEN_REPOSITORY$/com/google/appengine/appengine-api-1.0-sdk/1.9.57/appengine-api-1.0-sdk-1.9.57.jar!/com/google/apphosting/api/DatastorePb.class" />
       <jump line="17052" column="51" filename="$MAVEN_REPOSITORY$/com/google/appengine/appengine-api-1.0-sdk/1.9.57/appengine-api-1.0-sdk-1.9.57.jar!/com/google/apphosting/api/DatastorePb.class" />
       <jump line="76" column="0" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataupdaters/getters/UnifiedThreadContentsGetter.java" />
+      <jump line="124" column="25" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataupdaters/getters/UnifiedThreadContentsGetter.java" />
+      <jump line="138" column="58" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataupdaters/getters/UnifiedThreadContentsGetter.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -316,7 +316,7 @@
         <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>getPath</text>
+        <text>keyS</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQkJCVNwYW5uZXIubWFrZVNwYW5uZXJQcmVmaXhTdHJpbmcoIjEyMzEyMyIpLCAK</text>
@@ -353,9 +353,9 @@
       </register>
     </registers>
     <search>
-      <last-search>getPath</last-search>
+      <last-search>keyS</last-search>
       <last-offset />
-      <last-pattern>getPath</last-pattern>
+      <last-pattern>keyS</last-pattern>
       <last-replace>startAccumulate</last-replace>
       <last-substitute>start</last-substitute>
       <last-dir>1</last-dir>
@@ -363,7 +363,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Thread</entry>
         <entry>type</entry>
         <entry>this</entry>
         <entry>found</entry>
@@ -383,6 +382,7 @@
         <entry>Path</entry>
         <entry>class Path</entry>
         <entry>getPath</entry>
+        <entry>keyS</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL21lc3NhZ2VzL3JldA==</entry>
