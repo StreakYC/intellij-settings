@@ -4,6 +4,9 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataupdaters/getters/GmailThreadGetter.java" timestamp="1516736204058" />
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/graphql/GraphQLHandler.java" timestamp="1516745307623">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/ImmutableDataModelTransactionVersionsCallback.java" timestamp="1516648246603">
         <mark key="[" line="87" column="11" />
         <mark key="]" line="87" column="25" />
@@ -88,11 +91,7 @@
         <mark key="'" line="68" column="34" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/gmail/ConcurrentGmailRequester.java" timestamp="1516735775202">
-        <mark key="'" line="79" column="54" />
-        <mark key="[" line="74" column="28" />
-        <mark key="]" line="74" column="76" />
-        <mark key="." line="74" column="76" />
-        <mark key="^" line="74" column="76" />
+        <mark key="'" line="75" column="54" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/Spanner.java" timestamp="1516667565795">
         <mark key="[" line="49" column="120" />
@@ -100,6 +99,7 @@
         <mark key="." line="49" column="121" />
         <mark key="^" line="49" column="121" />
       </file>
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/graphql/TeamContactOrOrgsDataFetcher.java" timestamp="1516745908012" />
       <file name="$USER_HOME$/src/MailFoo/ServerCore-war/src/main/webapp/admin/js/gmailapi.js" timestamp="1516736021300" />
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/GmailThread.java" timestamp="1515791159108">
         <mark key="[" line="56" column="19" />
@@ -163,7 +163,6 @@
       <file name="$MAVEN_REPOSITORY$/com/google/api/gax/1.16.0/gax-1.16.0.jar!/com/google/api/gax/rpc/ApiClientHeaderProvider.class" timestamp="1516724916359" />
     </filemarks>
     <jumps>
-      <jump line="11" column="41" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/MailfooImmutableDataModel.java" />
       <jump line="134" column="0" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/spanner/Message.java" />
       <jump line="107" column="28" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/filters/SpannerFilter.java" />
       <jump line="108" column="63" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/filters/SpannerFilter.java" />
@@ -263,6 +262,7 @@
       <jump line="115" column="42" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataupdaters/getters/UnifiedThreadContentsGetter.java" />
       <jump line="557" column="40" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/User.java" />
       <jump line="325" column="62" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/gmail/GmailAPIHelper.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/graphql/GraphQLHandler.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
