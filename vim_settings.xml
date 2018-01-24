@@ -47,10 +47,12 @@
         <mark key="." line="60" column="26" />
         <mark key="^" line="60" column="26" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/pom.xml" timestamp="1516748708268">
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/pom.xml" timestamp="1516822497591">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="498" column="21" />
-        <mark key="^" line="330" column="26" />
+        <mark key="[" line="502" column="23" />
+        <mark key="]" line="502" column="25" />
+        <mark key="^" line="502" column="25" />
+        <mark key="." line="502" column="25" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/handlers/GetEntities.java" timestamp="1516390488190">
         <mark key="'" line="15" column="57" />
@@ -74,12 +76,13 @@
         <mark key="^" line="22" column="10" />
         <mark key="." line="113" column="11" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/filters/OpenCensusFilter.java" timestamp="1516820189429">
-        <mark key="[" line="33" column="104" />
-        <mark key="]" line="32" column="86" />
-        <mark key="^" line="32" column="86" />
-        <mark key="." line="32" column="86" />
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/filters/OpenCensusFilter.java" timestamp="1516822724498">
+        <mark key="[" line="36" column="81" />
+        <mark key="]" line="36" column="81" />
+        <mark key="." line="36" column="81" />
+        <mark key="^" line="36" column="81" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/io/opencensus/opencensus-exporter-stats-stackdriver/0.9.1/opencensus-exporter-stats-stackdriver-0.9.1.jar!/io/opencensus/exporter/stats/stackdriver/StackdriverStatsExporter.class" timestamp="1516822706182" />
       <file name="$MAVEN_REPOSITORY$/com/google/auth/google-auth-library-oauth2-http/0.9.0/google-auth-library-oauth2-http-0.9.0.jar!/com/google/auth/oauth2/ComputeEngineCredentials.class" timestamp="1516759034081">
         <mark key="'" line="154" column="39" />
       </file>
@@ -260,10 +263,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.DEFAULT.</text>
+        <text>createAndRegister(</text>
       </register>
       <register name="-" type="4">
-        <text>.DEFAULT.</text>
+        <text>createAndRegister(</text>
       </register>
       <register name="/" type="4">
         <text>transportFa</text>
@@ -272,31 +275,31 @@
         <text encoding="base64">CQlhc3NlcnRFcXVhbHMoTWVzc2FnZS5nZXRUaHJlYWRJZEZyb21UaHJlYWRJZE9yTWVzc2FnZUlkKHRocmVhZElkLCBteUdpZCksIHRocmVhZElkKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJCQkJCQkJCQkJICAgLnNlCg==</text>
+        <text encoding="base64">CQkJCQkJCQkJCQkJIC5zZXRDcmVkZW50aWFscyhjcmVkZW50aWFscykKCQkJCQkJCQkJCQkJIC5zZXRQcm9qZWN0SWQoIm1haWxmb29nYWUiKQoJCQkJCQkJCQkJCQkgLnNldEV4cG9ydEludGVydmFsKAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJcmVhZENvbnRleHQuY2xvc2UoKTsK</text>
+        <text encoding="base64">CQkJCQkJCQkJCQkJIC5idWlsZCgpKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJcmVhZENvbnRleHQuY2xvc2UoKTsK</text>
+        <text encoding="base64">CQkJCQlTdGFja2RyaXZlclN0YXRzQ29uZmlndXJhdGlvbi5idWlsZGVyKCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5nb29nbGUuYXBpLmdheC5jb3JlLkZpeGVkQ3JlZGVudGlhbHNQcm92aWRlcjsK</text>
+        <text encoding="base64">CQkJLyoK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5nb29nbGUuYXBpLmdheC5ycGMuQ2xpZW50U2V0dGluZ3M7Cg==</text>
+        <text encoding="base64">CQkJCQkJCQkJCQkJICAgLnNlCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5nb29nbGUuY2xvdWQudHJhY2UudjIuVHJhY2VTZXJ2aWNlU2V0dGluZ3M7Cg==</text>
+        <text encoding="base64">CQkJcmVhZENvbnRleHQuY2xvc2UoKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5yZXdhcmRseS5tYWlsZm9vLnV0aWxzLkNvbnN0YW50czsK</text>
+        <text encoding="base64">CQkJcmVhZENvbnRleHQuY2xvc2UoKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEuaW8uQnl0ZUFycmF5SW5wdXRTdHJlYW07Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5nb29nbGUuYXBpLmdheC5jb3JlLkZpeGVkQ3JlZGVudGlhbHNQcm92aWRlcjsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJID0gR29vZ2xlQ3JlZGVudGlhbHMuZnJvbVN0cmVhbSgKCQkJCQluZXcgQnl0ZUFycmF5SW5wdXRTdHJlYW0oQ29uc3RhbnRzLlRFU1RfRU5WSVJPTk1FTlRfU0VDUkVUU19KU09OX0NPTlRFTlRTLmdldEJ5dGVzKCkpLAo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5nb29nbGUuYXBpLmdheC5ycGMuQ2xpZW50U2V0dGluZ3M7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
