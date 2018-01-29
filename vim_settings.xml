@@ -3,9 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/graphql/GraphQLHandler.java" timestamp="1517251830841">
-        <mark key="'" line="439" column="95" />
-      </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/rewardly/mailfoo/emailmanager/SpannerTests.java" timestamp="1516756780609">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="0" />
@@ -42,19 +39,20 @@
       <file name="$MAVEN_REPOSITORY$/io/opencensus/opencensus-impl-core/0.9.1/opencensus-impl-core-0.9.1-sources.jar!/io/opencensus/implcore/trace/export/SpanExporterImpl.java" timestamp="1516849889822">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1517252481661">
-        <mark key="[" line="0" column="18" />
+      <file name="/a.dummy" timestamp="1517253508438">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="18" />
         <mark key="." line="0" column="18" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataupdaters/creators/TeamContactCreator.java" timestamp="1516306753440">
         <mark key="'" line="50" column="24" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/graphql/TeamOrganizationsDataFetcher.java" timestamp="1517252611811">
-        <mark key="[" line="60" column="13" />
-        <mark key="]" line="60" column="21" />
-        <mark key="^" line="60" column="21" />
-        <mark key="." line="60" column="21" />
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/graphql/TeamOrganizationsDataFetcher.java" timestamp="1517253622103">
+        <mark key="'" line="46" column="32" />
+        <mark key="[" line="20" column="88" />
+        <mark key="]" line="20" column="111" />
+        <mark key="^" line="20" column="111" />
+        <mark key="." line="20" column="111" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/pom.xml" timestamp="1517178527748">
         <mark key="'" line="0" column="0" />
@@ -65,15 +63,12 @@
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/TeamContact.java" timestamp="1516747224293">
         <mark key="'" line="135" column="35" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/gmail/GmailAPIHelper.java" timestamp="1516735385778">
-        <mark key="'" line="325" column="62" />
-      </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/filters/OpenCensusFilter.java" timestamp="1517178312630">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/graphql/TeamContactsDataFetcher.java" timestamp="1517252600256">
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/graphql/TeamContactsDataFetcher.java" timestamp="1517253624702">
         <mark key="[" line="36" column="0" />
         <mark key="]" line="42" column="12" />
         <mark key="^" line="42" column="12" />
@@ -85,15 +80,14 @@
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/filters/SpannerFilter.java" timestamp="1516660400756">
         <mark key="'" line="59" column="55" />
       </file>
-      <file name="/fragment.java" timestamp="1516759466228">
+      <file name="/fragment.java" timestamp="1517253074248">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="28" />
         <mark key="." line="0" column="28" />
       </file>
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataupdaters/getters/UnifiedThreadContentsGetter.java" timestamp="1517253014396" />
     </filemarks>
     <jumps>
-      <jump line="642" column="6" filename="$MAVEN_REPOSITORY$/com/google/cloud/google-cloud-spanner/0.25.0-beta/google-cloud-spanner-0.25.0-beta-sources.jar!/com/google/cloud/spanner/SessionPool.java" />
-      <jump line="60" column="5" filename="$MAVEN_REPOSITORY$/com/google/cloud/google-cloud-spanner/0.25.0-beta/google-cloud-spanner-0.25.0-beta-sources.jar!/com/google/cloud/spanner/SessionPool.java" />
       <jump line="62" column="15" filename="$MAVEN_REPOSITORY$/com/google/cloud/google-cloud-spanner/0.25.0-beta/google-cloud-spanner-0.25.0-beta-sources.jar!/com/google/cloud/spanner/SessionPool.java" />
       <jump line="579" column="16" filename="$MAVEN_REPOSITORY$/com/google/cloud/google-cloud-spanner/0.25.0-beta/google-cloud-spanner-0.25.0-beta-sources.jar!/com/google/cloud/spanner/SessionPool.java" />
       <jump line="634" column="69" filename="$MAVEN_REPOSITORY$/com/google/cloud/google-cloud-spanner/0.25.0-beta/google-cloud-spanner-0.25.0-beta-sources.jar!/com/google/cloud/spanner/SessionPool.java" />
@@ -192,65 +186,64 @@
       <jump line="154" column="39" filename="$MAVEN_REPOSITORY$/com/google/auth/google-auth-library-oauth2-http/0.9.0/google-auth-library-oauth2-http-0.9.0.jar!/com/google/auth/oauth2/ComputeEngineCredentials.class" />
       <jump line="0" column="0" filename="$MAVEN_REPOSITORY$/io/opencensus/opencensus-impl-core/0.9.1/opencensus-impl-core-0.9.1-sources.jar!/io/opencensus/implcore/trace/export/SpanExporterImpl.java" />
       <jump line="439" column="95" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/graphql/GraphQLHandler.java" />
+      <jump line="46" column="32" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/graphql/TeamOrganizationsDataFetcher.java" />
+      <jump line="424" column="65" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/graphql/GraphQLHandler.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">VGVhbU9yZ2FuaXphdGlvbiA=</text>
+        <text>TeamOrganizationListPage</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">VGVhbU9yZ2FuaXphdGlvbiA=</text>
+        <text>TeamOrganizationListPage</text>
       </register>
       <register name="/" type="4">
-        <text>transportFa</text>
+        <text>TeamOrganizationListPage</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQkJVHJhY2VQYXJhbXMuREVGQVVMVC50b0J1aWxkZXIoKQoJCQkJCQkJICAgLnNldFNhbXBsZXIoU2FtcGxlcnMuYWx3YXlzU2FtcGxlKCkpCgkJCQkJCQkgICAuYnVpbGQoKTsKCQkJVHJhY2luZy5nZXRUcmFjZUNvbmZpZygpLnVwZGF0ZUFjdGl2ZVRyYWNlUGFyYW1zKFRyYWNlUGFyYW1zLkRFRkFVTFQpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+aW8ub3BlbmNlbnN1czwvZ3JvdXBJZD4KICAgICAgICAgICAgPGFydGlmYWN0SWQ+b3BlbmNlbnN1cy1leHBvcnRlci10cmFjZS1zdGFja2RyaXZlcjwvYXJ0aWZhY3RJZD4KICAgICAgICAgICAgPHZlcnNpb24+MC45LjE8L3ZlcnNpb24+CiAgICAgICAgPC9kZXBlbmRlbmN5Pgo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5yZXdhcmRseS5tYWlsZm9vLmdyYXBocWwuR3JhcGhRTEhhbmRsZXI7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+Y29tLmdvb2dsZS5jbG91ZDwvZ3JvdXBJZD4KICAgICAgICAgICAgPGFydGlmYWN0SWQ+Z29vZ2xlLWNsb3VkLXRyYWNlPC9hcnRpZmFjdElkPgogICAgICAgICAgICA8dmVyc2lvbj4wLjMzLjAtYmV0YTwvdmVyc2lvbj4KICAgICAgICAgICAgPHNjb3BlPmNvbXBpbGU8L3Njb3BlPgogICAgICAgIDwvZGVwZW5kZW5jeT4KICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+Y29tLmdvb2dsZS5jbG91ZDwvZ3JvdXBJZD4KICAgICAgICAgICAgPGFydGlmYWN0SWQ+Z29vZ2xlLWNsb3VkLW1vbml0b3Jpbmc8L2FydGlmYWN0SWQ+CiAgICAgICAgICAgIDx2ZXJzaW9uPjAuMzMuMC1iZXRhPC92ZXJzaW9uPgogICAgICAgICAgICA8c2NvcGU+Y29tcGlsZTwvc2NvcGU+CiAgICAgICAgPC9kZXBlbmRlbmN5Pgo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5yZXdhcmRseS5tYWlsZm9vLmdtYWlsLkdtYWlsQVBJSGVscGVyOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+aW8ub3BlbmNlbnN1czwvZ3JvdXBJZD4KICAgICAgICAgICAgPGFydGlmYWN0SWQ+b3BlbmNlbnN1cy1leHBvcnRlci1zdGF0cy1zdGFja2RyaXZlcjwvYXJ0aWZhY3RJZD4KICAgICAgICAgICAgPHZlcnNpb24+MC45LjE8L3ZlcnNpb24+CiAgICAgICAgPC9kZXBlbmRlbmN5Pgo=</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5IYXNoU2V0Owo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5nb29nbGUuYXBwZW5naW5lLmFwaS5UaHJlYWRNYW5hZ2VyOwo=</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUuamFtZXMubWltZTRqLmNvZGVjLkRlY29kZU1vbml0b3I7CmltcG9ydCBvcmcuYXBhY2hlLmphbWVzLm1pbWU0ai5kb20uYWRkcmVzcy5NYWlsYm94OwppbXBvcnQgb3JnLmFwYWNoZS5qYW1lcy5taW1lNGouZG9tLmZpZWxkLkFkZHJlc3NMaXN0RmllbGQ7CmltcG9ydCBvcmcuYXBhY2hlLmphbWVzLm1pbWU0ai5maWVsZC5BZGRyZXNzTGlzdEZpZWxkTGVuaWVudEltcGw7CmltcG9ydCBvcmcuYXBhY2hlLmphbWVzLm1pbWU0ai5zdHJlYW0uUmF3RmllbGQ7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5nb29nbGUuYXBpLmNsaWVudC5odHRwLmFwYWNoZS5BcGFjaGVIdHRwVHJhbnNwb3J0OwppbXBvcnQgY29tLmdvb2dsZS5hdXRoLm9hdXRoMi5Db21wdXRlRW5naW5lQ3JlZGVudGlhbHM7CmltcG9ydCBjb20uZ29vZ2xlLmF1dGgub2F1dGgyLkdvb2dsZUNyZWRlbnRpYWxzOwppbXBvcnQgY29tLnJld2FyZGx5Lm1haWxmb28ubG9nZ2luZy5FcnJvckFnZ3JlZ2F0b3I7CmltcG9ydCBjb20ucmV3YXJkbHkubWFpbGZvby51dGlscy5Mb2dnZXI7CmltcG9ydCBpby5vcGVuY2Vuc3VzLmNvbW1vbi5EdXJhdGlvbjsKaW1wb3J0IGlvLm9wZW5jZW5zdXMuZXhwb3J0ZXIuc3RhdHMuc3RhY2tkcml2ZXIuU3RhY2tkcml2ZXJTdGF0c0V4cG9ydGVyOwppbXBvcnQgaW8ub3BlbmNlbnN1cy5leHBvcnRlci50cmFjZS5zdGFja2RyaXZlci5TdGFja2RyaXZlckV4cG9ydGVyOwo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5yZXdhcmRseS5tYWlsZm9vLm9hdXRoMi5Ob09hdXRoQ3JlZGVudGlhbHNFeGNlcHRpb247Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5nb29nbGUuY29tbW9uLmNvbGxlY3QuSW1tdXRhYmxlU2V0Owo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5nb29nbGUuYXBpLnNlcnZpY2VzLmdtYWlsLm1vZGVsLk1lc3NhZ2U7CmltcG9ydCBjb20uZ29vZ2xlLmFwaS5zZXJ2aWNlcy5nbWFpbC5tb2RlbC5NZXNzYWdlUGFydEhlYWRlcjsKaW1wb3J0IGNvbS5nb29nbGUuYXBpLnNlcnZpY2VzLmdtYWlsLm1vZGVsLlRocmVhZDsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJR29vZ2xlQ3JlZGVudGlhbHMgY3JlZGVudGlhbHM7CgkJCXRyeSB7CgkJCQljcmVkZW50aWFscyA9IEdvb2dsZUNyZWRlbnRpYWxzLmdldEFwcGxpY2F0aW9uRGVmYXVsdChBcGFjaGVIdHRwVHJhbnNwb3J0OjpuZXcpOwoJCQl9CgkJCWNhdGNoIChJT0V4Y2VwdGlvbiBlKSB7CgkJCQlMb2dnZXIubG9nKCJHb3QgZXJyb3IgcmV0cmlldmluZyBkZWZhdWx0IGNyZWRlbnRpYWxzIHNvIGRlZmF1bHRpbmcgdG8gQ29tcHV0ZSBFbmdpbmUgQ3JlZGVudGlhbHMiKTsKCQkJCUVycm9yQWdncmVnYXRvci5yZWNvcmRVbmNhdWdodEV4Y2VwdGlvbihlKTsKCQkJCWNyZWRlbnRpYWxzID0gQ29tcHV0ZUVuZ2luZUNyZWRlbnRpYWxzLm5ld0J1aWxkZXIoKS5zZXRIdHRwVHJhbnNwb3J0RmFjdG9yeShBcGFjaGVIdHRwVHJhbnNwb3J0OjpuZXcpLmJ1aWxkKCk7CgkJCX0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>transportFa</last-search>
+      <last-search>TeamOrganizationListPage</last-search>
       <last-offset />
-      <last-pattern>transportFa</last-pattern>
-      <last-replace>spanner read messageOrThread</last-replace>
-      <last-substitute>spanner read</last-substitute>
+      <last-pattern>TeamOrganizationListPage</last-pattern>
+      <last-replace>TeamContactOrOrgListPage</last-replace>
+      <last-substitute>TeamOrganizationListPage</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>io.op</entry>
-        <entry>google-cloud-tra</entry>
-        <entry>google-auth-li</entry>
         <entry>com.google.cloud.t</entry>
         <entry>trace</entry>
         <entry>come.google.cloud</entry>
@@ -268,10 +261,11 @@
         <entry>setTrans</entry>
         <entry>spanner read</entry>
         <entry>transportFa</entry>
+        <entry>GMailAPI</entry>
+        <entry>DAO</entry>
+        <entry>TeamOrganizationListPage</entry>
       </history-search>
       <history-cmd>
-        <entry>wq</entry>
-        <entry>qw</entry>
         <entry>%s/ctf/gmailRequests</entry>
         <entry>s/spanner/ds/g</entry>
         <entry>s/U/T/g</entry>
@@ -289,6 +283,8 @@
         <entry>e</entry>
         <entry>we</entry>
         <entry encoding="base64">JzwsJz5zL3NwYW5uZXIgcmVhZC9zcGFubmVyIHJlYWQgbWVzc2FnZU9yVGhyZWFkL2c=</entry>
+        <entry>w\</entry>
+        <entry>%s/TeamOrganizationListPage/TeamContactOrOrgListPage/g</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
