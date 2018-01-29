@@ -3,8 +3,8 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/graphql/GraphQLHandler.java" timestamp="1516745307623">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/graphql/GraphQLHandler.java" timestamp="1517251830841">
+        <mark key="'" line="439" column="95" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/rewardly/mailfoo/emailmanager/SpannerTests.java" timestamp="1516756780609">
         <mark key="[" line="12" column="0" />
@@ -42,8 +42,19 @@
       <file name="$MAVEN_REPOSITORY$/io/opencensus/opencensus-impl-core/0.9.1/opencensus-impl-core-0.9.1-sources.jar!/io/opencensus/implcore/trace/export/SpanExporterImpl.java" timestamp="1516849889822">
         <mark key="'" line="0" column="0" />
       </file>
+      <file name="/a.dummy" timestamp="1517252481661">
+        <mark key="[" line="0" column="18" />
+        <mark key="]" line="0" column="18" />
+        <mark key="." line="0" column="18" />
+      </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataupdaters/creators/TeamContactCreator.java" timestamp="1516306753440">
         <mark key="'" line="50" column="24" />
+      </file>
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/graphql/TeamOrganizationsDataFetcher.java" timestamp="1517252611811">
+        <mark key="[" line="60" column="13" />
+        <mark key="]" line="60" column="21" />
+        <mark key="^" line="60" column="21" />
+        <mark key="." line="60" column="21" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/pom.xml" timestamp="1517178527748">
         <mark key="'" line="0" column="0" />
@@ -62,6 +73,12 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/graphql/TeamContactsDataFetcher.java" timestamp="1517252600256">
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="42" column="12" />
+        <mark key="^" line="42" column="12" />
+        <mark key="." line="42" column="12" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/com/google/auth/google-auth-library-oauth2-http/0.9.0/google-auth-library-oauth2-http-0.9.0.jar!/com/google/auth/oauth2/ComputeEngineCredentials.class" timestamp="1516759034081">
         <mark key="'" line="154" column="39" />
       </file>
@@ -75,7 +92,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="61" column="4" filename="$MAVEN_REPOSITORY$/com/google/cloud/google-cloud-spanner/0.25.0-beta/google-cloud-spanner-0.25.0-beta-sources.jar!/com/google/cloud/spanner/SessionPool.java" />
       <jump line="642" column="6" filename="$MAVEN_REPOSITORY$/com/google/cloud/google-cloud-spanner/0.25.0-beta/google-cloud-spanner-0.25.0-beta-sources.jar!/com/google/cloud/spanner/SessionPool.java" />
       <jump line="60" column="5" filename="$MAVEN_REPOSITORY$/com/google/cloud/google-cloud-spanner/0.25.0-beta/google-cloud-spanner-0.25.0-beta-sources.jar!/com/google/cloud/spanner/SessionPool.java" />
       <jump line="62" column="15" filename="$MAVEN_REPOSITORY$/com/google/cloud/google-cloud-spanner/0.25.0-beta/google-cloud-spanner-0.25.0-beta-sources.jar!/com/google/cloud/spanner/SessionPool.java" />
@@ -175,13 +191,14 @@
       <jump line="146" column="86" filename="$MAVEN_REPOSITORY$/com/google/auth/google-auth-library-oauth2-http/0.9.0/google-auth-library-oauth2-http-0.9.0.jar!/com/google/auth/oauth2/ComputeEngineCredentials.class" />
       <jump line="154" column="39" filename="$MAVEN_REPOSITORY$/com/google/auth/google-auth-library-oauth2-http/0.9.0/google-auth-library-oauth2-http-0.9.0.jar!/com/google/auth/oauth2/ComputeEngineCredentials.class" />
       <jump line="0" column="0" filename="$MAVEN_REPOSITORY$/io/opencensus/opencensus-impl-core/0.9.1/opencensus-impl-core-0.9.1-sources.jar!/io/opencensus/implcore/trace/export/SpanExporterImpl.java" />
+      <jump line="439" column="95" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/graphql/GraphQLHandler.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+aW8ub3BlbmNlbnN1czwvZ3JvdXBJZD4KICAgICAgICAgICAgPGFydGlmYWN0SWQ+b3BlbmNlbnN1cy1leHBvcnRlci10cmFjZS1zdGFja2RyaXZlcjwvYXJ0aWZhY3RJZD4KICAgICAgICAgICAgPHZlcnNpb24+MC45LjE8L3ZlcnNpb24+CiAgICAgICAgPC9kZXBlbmRlbmN5Pgo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">VGVhbU9yZ2FuaXphdGlvbiA=</text>
       </register>
       <register name="-" type="4">
-        <text>5</text>
+        <text encoding="base64">VGVhbU9yZ2FuaXphdGlvbiA=</text>
       </register>
       <register name="/" type="4">
         <text>transportFa</text>
