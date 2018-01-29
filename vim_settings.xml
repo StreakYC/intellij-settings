@@ -3,8 +3,8 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/graphql/GraphQLHandler.java" timestamp="1517255060088">
-        <mark key="'" line="102" column="39" />
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/graphql/GraphQLHandler.java" timestamp="1517265108906">
+        <mark key="'" line="178" column="12" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/spanner/Message.java" timestamp="1516758170649">
         <mark key="[" line="171" column="0" />
@@ -50,12 +50,11 @@
         <mark key="." line="42" column="12" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/handlers/BatchDeleteEntities.java" timestamp="1517261198120" />
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataupdaters/getters/UnifiedThreadContentsGetter.java" timestamp="1517263688736">
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataupdaters/getters/UnifiedThreadContentsGetter.java" timestamp="1517264743619">
         <mark key="'" line="149" column="0" />
-        <mark key="[" line="143" column="102" />
-        <mark key="]" line="143" column="106" />
-        <mark key="." line="143" column="106" />
-        <mark key="^" line="143" column="106" />
+        <mark key="[" line="72" column="0" />
+        <mark key="]" line="72" column="0" />
+        <mark key="." line="72" column="0" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/utils/OfyRequestThreadFactory.java" timestamp="1517259171427">
         <mark key="[" line="11" column="0" />
@@ -76,12 +75,12 @@
       <file name="/Dummy.txt" timestamp="1517262688985">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/gmail/ConcurrentGmailRequester.java" timestamp="1517261734120">
-        <mark key="'" line="75" column="54" />
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="0" />
-        <mark key="." line="24" column="0" />
-        <mark key="^" line="36" column="20" />
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/gmail/ConcurrentGmailRequester.java" timestamp="1517266121513">
+        <mark key="'" line="94" column="54" />
+        <mark key="[" line="120" column="48" />
+        <mark key="]" line="120" column="48" />
+        <mark key="." line="120" column="48" />
+        <mark key="^" line="120" column="48" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/Spanner.java" timestamp="1517258926735">
         <mark key="[" line="134" column="120" />
@@ -127,12 +126,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="197" column="58" filename="$MAVEN_REPOSITORY$/com/google/cloud/google-cloud-spanner/0.25.0-beta/google-cloud-spanner-0.25.0-beta-sources.jar!/com/google/cloud/spanner/SessionPool.java" />
-      <jump line="708" column="18" filename="$MAVEN_REPOSITORY$/com/google/cloud/google-cloud-spanner/0.25.0-beta/google-cloud-spanner-0.25.0-beta-sources.jar!/com/google/cloud/spanner/SessionPool.java" />
-      <jump line="209" column="29" filename="$MAVEN_REPOSITORY$/com/google/cloud/google-cloud-spanner/0.25.0-beta/google-cloud-spanner-0.25.0-beta-sources.jar!/com/google/cloud/spanner/SessionPool.java" />
-      <jump line="379" column="6" filename="$MAVEN_REPOSITORY$/com/google/cloud/google-cloud-spanner/0.25.0-beta/google-cloud-spanner-0.25.0-beta-sources.jar!/com/google/cloud/spanner/SessionPool.java" />
-      <jump line="1327" column="28" filename="$MAVEN_REPOSITORY$/com/google/appengine/appengine-api-1.0-sdk/1.9.57/appengine-api-1.0-sdk-1.9.57.jar!/com/google/apphosting/api/DatastorePb.class" />
-      <jump line="17048" column="53" filename="$MAVEN_REPOSITORY$/com/google/appengine/appengine-api-1.0-sdk/1.9.57/appengine-api-1.0-sdk-1.9.57.jar!/com/google/apphosting/api/DatastorePb.class" />
       <jump line="17052" column="51" filename="$MAVEN_REPOSITORY$/com/google/appengine/appengine-api-1.0-sdk/1.9.57/appengine-api-1.0-sdk-1.9.57.jar!/com/google/apphosting/api/DatastorePb.class" />
       <jump line="76" column="0" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataupdaters/getters/UnifiedThreadContentsGetter.java" />
       <jump line="124" column="25" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataupdaters/getters/UnifiedThreadContentsGetter.java" />
@@ -227,55 +220,61 @@
       <jump line="598" column="51" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataupdaters/DataWorkerFactory.java" />
       <jump line="397" column="35" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataupdaters/DataWorkerFactory.java" />
       <jump line="150" column="0" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataupdaters/getters/UnifiedThreadContentsGetter.java" />
+      <jump line="147" column="57" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/graphql/GraphQLHandler.java" />
+      <jump line="179" column="63" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/graphql/GraphQLHandler.java" />
+      <jump line="203" column="20" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/graphql/GraphQLHandler.java" />
+      <jump line="273" column="36" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/graphql/GraphQLHandler.java" />
+      <jump line="175" column="40" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/graphql/GraphQLHandler.java" />
+      <jump line="178" column="12" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/graphql/GraphQLHandler.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>ThreadManager.currentRequestThreadFactory());</text>
+        <text>;</text>
       </register>
       <register name="-" type="4">
-        <text>ThreadManager.currentRequestThreadFactory());</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
-        <text>Unified</text>
+        <text>dumps</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQkJVHJhY2VQYXJhbXMuREVGQVVMVC50b0J1aWxkZXIoKQoJCQkJCQkJICAgLnNldFNhbXBsZXIoU2FtcGxlcnMuYWx3YXlzU2FtcGxlKCkpCgkJCQkJCQkgICAuYnVpbGQoKTsKCQkJVHJhY2luZy5nZXRUcmFjZUNvbmZpZygpLnVwZGF0ZUFjdGl2ZVRyYWNlUGFyYW1zKFRyYWNlUGFyYW1zLkRFRkFVTFQpOwo=</text>
+        <text encoding="base64">CQkJCQlFcnJvckFnZ3JlZ2F0b3IucmVjb3JkQ3VzdG9tRXJyb3IoIkVycm9yIGZldGNoaW5nIHNpbmdsZSByZXF1ZXN0IGZyb20gY29uY3VycmVudCByZXF1ZXN0ZXIiLCBlKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCQkJU3RyaW5nIGxvZ01lc3NhZ2UgPSAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQlpZiAobnVsbCAhPSB0aGlzLnNlcnZsZXRDb250ZXh0ICYmIG51bGwgIT0gdGhpcy5zZXJ2bGV0Q29udGV4dC5nZXRBdHRyaWJ1dGUoImV4ZWN1dG9yU2VydmljZSIpKSB7CgkJCWV4ZWN1dG9yU2VydmljZSA9IChFeGVjdXRvclNlcnZpY2UpdGhpcy5zZXJ2bGV0Q29udGV4dC5nZXRBdHRyaWJ1dGUoImV4ZWN1dG9yU2VydmljZSIpOwoJCX0gZWxzZSB7CgkJCXRocm93IG5ldyBJbnN1ZmZpY2llbnRQYXJhbWV0ZXJzRXhjZXB0aW9uKCJDb3VsZCBub3QgZ2V0IEV4ZWN1dG9yU2VydmljZSBmcm9tIGNvbnRleHQiKTsKCQl9Cg==</text>
+        <text encoding="base64">CQkJCQliZWFuID0gTWFuYWdlbWVudEZhY3RvcnkuZ2V0VGhyZWFkTVhCZWFuKCk7CgkJCQkJdGhyZWFkSW5mb3MgPSBiZWFuLmdldFRocmVhZEluZm8oYmVhbi5nZXRBbGxUaHJlYWRJZHMoKSwgMTAwKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQlFeGVjdXRvclNlcnZpY2UgZXhlY3V0b3JTZXJ2aWNlOwo=</text>
+        <text encoding="base64">CQkJCQlTdHJpbmdCdWlsZGVyIGZ1bGxMb2cgPSBuZXcgU3RyaW5nQnVpbGRlcigpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">CQkJCQkJU3RyaW5nIHRocmVhZE5hbWUgPSB0aHJlYWRJbmZvLmdldFRocmVhZE5hbWUoKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCQkJaWYgKCEodGhyZWFkTmFtZS5zdGFydHNXaXRoKCJncmFwaHFsIikgfHwgdGhyZWFkTmFtZS5zdGFydHNXaXRoKCJSZXF1ZXN0IikpKSB7CgkJCQkJCQljb250aW51ZTsKCQkJCQkJfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CXB1YmxpYyBVbmlmaWVkVGhyZWFkQ29udGVudHNHZXR0ZXIoKSB7CgkJdGhpcy5zZXJ2bGV0Q29udGV4dCA9IG51bGw7Cgl9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">CQkJCQllbS5jdXJyZW50VGltZU1pbGxpcygpLCBmdWxsTG9nLnRvU3RyaW5nKCkpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJZXhlY3V0b3JTZXJ2aWNlID0gRXhlY3V0b3JzLmNyCg==</text>
+        <text encoding="base64">CQkJCQkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQlFeGVjdXRvclNlcnZpY2UgZXhlY3V0b3JTZXJ2aWNlOwo=</text>
+        <text encoding="base64">CQkJCQlFcnJvckFnZ3JlZ2F0b3IucmVjb3JkQ3VzdG9tRXJyb3IoIklsbGVnYWwgU3RhdGUgRXJyb3IiLCBlKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>Unified</last-search>
+      <last-search>dumps</last-search>
       <last-offset />
-      <last-pattern>Unified</last-pattern>
+      <last-pattern>dumps</last-pattern>
       <last-replace>TeamContactOrOrgListPage</last-replace>
       <last-substitute>TeamOrganizationListPage</last-substitute>
       <last-dir>1</last-dir>
@@ -283,7 +282,6 @@
     </search>
     <history>
       <history-search>
-        <entry>stack</entry>
         <entry>com.google.cloud</entry>
         <entry encoding="base64">Z29vZ2xlLWNsb3VkPA==</entry>
         <entry>io.grpc</entry>
@@ -299,10 +297,11 @@
         <entry>GMailAPI</entry>
         <entry>DAO</entry>
         <entry>TeamOrganizationListPage</entry>
-        <entry>Bean</entry>
         <entry>ThreadMXBean</entry>
         <entry>sc</entry>
         <entry>Unified</entry>
+        <entry>Bean</entry>
+        <entry>dumps</entry>
       </history-search>
       <history-cmd>
         <entry>%s/ctf/gmailRequests</entry>
