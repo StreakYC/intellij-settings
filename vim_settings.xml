@@ -6,10 +6,10 @@
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/graphql/GraphQLHandler.java" timestamp="1517265108906">
         <mark key="'" line="178" column="12" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/spanner/Message.java" timestamp="1517271841807">
-        <mark key="[" line="171" column="0" />
-        <mark key="]" line="171" column="0" />
-        <mark key="." line="171" column="0" />
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/spanner/Message.java" timestamp="1517275039819">
+        <mark key="[" line="125" column="0" />
+        <mark key="]" line="125" column="0" />
+        <mark key="." line="125" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/google/appengine/appengine-api-1.0-sdk/1.9.57/appengine-api-1.0-sdk-1.9.57.jar!/com/google/apphosting/api/DatastorePb.class" timestamp="1516410389503">
         <mark key="'" line="17052" column="51" />
@@ -68,7 +68,7 @@
         <mark key="'" line="154" column="39" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/handlers/BatchDeleteEntities.java" timestamp="1517261198120" />
-      <file name="$MAVEN_REPOSITORY$/com/google/cloud/google-cloud-spanner/0.33.0-beta/google-cloud-spanner-0.33.0-beta-sources.jar!/com/google/cloud/spanner/SessionPool.java" timestamp="1517274036879" />
+      <file name="$MAVEN_REPOSITORY$/com/google/cloud/google-cloud-spanner/0.33.0-beta/google-cloud-spanner-0.33.0-beta-sources.jar!/com/google/cloud/spanner/SessionPool.java" timestamp="1517275225184" />
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataupdaters/getters/UnifiedThreadContentsGetter.java" timestamp="1517264743619">
         <mark key="'" line="149" column="0" />
         <mark key="[" line="72" column="0" />
@@ -97,12 +97,12 @@
       <file name="/Dummy.txt" timestamp="1517262688985">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/Spanner.java" timestamp="1517273727835">
-        <mark key="'" line="164" column="1" />
-        <mark key="[" line="134" column="122" />
-        <mark key="]" line="134" column="122" />
-        <mark key="." line="134" column="122" />
-        <mark key="^" line="134" column="122" />
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/Spanner.java" timestamp="1517275484571">
+        <mark key="'" line="168" column="1" />
+        <mark key="[" line="138" column="121" />
+        <mark key="]" line="138" column="121" />
+        <mark key="." line="138" column="121" />
+        <mark key="^" line="63" column="10" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/google/cloud/google-cloud-spanner/0.33.0-beta/google-cloud-spanner-0.33.0-beta-sources.jar!/com/google/cloud/spanner/DatabaseClientImpl.java" timestamp="1517271887662" />
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/graphql/TeamOrganizationsDataFetcher.java" timestamp="1517253622103">
@@ -138,7 +138,7 @@
         <mark key="." line="49" column="136" />
       </file>
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_152.jdk/Contents/Home/src.zip!/java/util/concurrent/Executors.java" timestamp="1517255750516" />
-      <file name="$MAVEN_REPOSITORY$/com/google/cloud/google-cloud-spanner/0.33.0-beta/google-cloud-spanner-0.33.0-beta-sources.jar!/com/google/cloud/spanner/spi/v1/SpannerRpc.java" timestamp="1517274394971" />
+      <file name="$MAVEN_REPOSITORY$/com/google/cloud/google-cloud-spanner/0.33.0-beta/google-cloud-spanner-0.33.0-beta-sources.jar!/com/google/cloud/spanner/spi/v1/SpannerRpc.java" timestamp="1517275403925" />
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/filters/SpannerFilter.java" timestamp="1516660400756">
         <mark key="'" line="59" column="55" />
       </file>
@@ -257,10 +257,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>;</text>
+        <text>0</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text>dumps</text>
@@ -269,31 +269,31 @@
         <text encoding="base64">CQkJCQlFcnJvckFnZ3JlZ2F0b3IucmVjb3JkQ3VzdG9tRXJyb3IoIkVycm9yIGZldGNoaW5nIHNpbmdsZSByZXF1ZXN0IGZyb20gY29uY3VycmVudCByZXF1ZXN0ZXIiLCBlKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJCQkJU3RyaW5nIGxvZ01lc3NhZ2UgPSAK</text>
+        <text encoding="base64">CQkJc3Bhbm5lci4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJCQliZWFuID0gTWFuYWdlbWVudEZhY3RvcnkuZ2V0VGhyZWFkTVhCZWFuKCk7CgkJCQkJdGhyZWFkSW5mb3MgPSBiZWFuLmdldFRocmVhZEluZm8oYmVhbi5nZXRBbGxUaHJlYWRJZHMoKSwgMTAwKTsK</text>
+        <text encoding="base64">CQlTcGFubmVyLmdldENsaQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJCQlTdHJpbmdCdWlsZGVyIGZ1bGxMb2cgPSBuZXcgU3RyaW5nQnVpbGRlcigpOwo=</text>
+        <text encoding="base64">CQkJCQkJU3RyaW5nIGxvZ01lc3NhZ2UgPSAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJCQkJU3RyaW5nIHRocmVhZE5hbWUgPSB0aHJlYWRJbmZvLmdldFRocmVhZE5hbWUoKTsK</text>
+        <text encoding="base64">CQkJCQliZWFuID0gTWFuYWdlbWVudEZhY3RvcnkuZ2V0VGhyZWFkTVhCZWFuKCk7CgkJCQkJdGhyZWFkSW5mb3MgPSBiZWFuLmdldFRocmVhZEluZm8oYmVhbi5nZXRBbGxUaHJlYWRJZHMoKSwgMTAwKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJCQkJaWYgKCEodGhyZWFkTmFtZS5zdGFydHNXaXRoKCJncmFwaHFsIikgfHwgdGhyZWFkTmFtZS5zdGFydHNXaXRoKCJSZXF1ZXN0IikpKSB7CgkJCQkJCQljb250aW51ZTsKCQkJCQkJfQo=</text>
+        <text encoding="base64">CQkJCQlTdHJpbmdCdWlsZGVyIGZ1bGxMb2cgPSBuZXcgU3RyaW5nQnVpbGRlcigpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCQkJU3RyaW5nIHRocmVhZE5hbWUgPSB0aHJlYWRJbmZvLmdldFRocmVhZE5hbWUoKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJCQllbS5jdXJyZW50VGltZU1pbGxpcygpLCBmdWxsTG9nLnRvU3RyaW5nKCkpOwo=</text>
+        <text encoding="base64">CQkJCQkJaWYgKCEodGhyZWFkTmFtZS5zdGFydHNXaXRoKCJncmFwaHFsIikgfHwgdGhyZWFkTmFtZS5zdGFydHNXaXRoKCJSZXF1ZXN0IikpKSB7CgkJCQkJCQljb250aW51ZTsKCQkJCQkJfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJCQkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJCQlFcnJvckFnZ3JlZ2F0b3IucmVjb3JkQ3VzdG9tRXJyb3IoIklsbGVnYWwgU3RhdGUgRXJyb3IiLCBlKTsK</text>
+        <text encoding="base64">CQkJCQllbS5jdXJyZW50VGltZU1pbGxpcygpLCBmdWxsTG9nLnRvU3RyaW5nKCkpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
