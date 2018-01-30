@@ -4,6 +4,8 @@
     <globalmarks />
     <filemarks>
       <file name="$MAVEN_REPOSITORY$/com/google/api/gax/1.16.0/gax-1.16.0-sources.jar!/com/google/api/gax/rpc/ClientSettings.java" timestamp="1517340415526" />
+      <file name="$MAVEN_REPOSITORY$/org/mortbay/jetty/servlet-api/2.5-20081211/servlet-api-2.5-20081211-sources.jar!/javax/servlet/http/HttpServletRequest.java" timestamp="1517348666128" />
+      <file name="$MAVEN_REPOSITORY$/io/opencensus/opencensus-api/0.10.1/opencensus-api-0.10.1.jar!/io/opencensus/trace/AttributeValue.class" timestamp="1517348573529" />
       <file name="$MAVEN_REPOSITORY$/org/mortbay/jetty/servlet-api/2.5-20081211/servlet-api-2.5-20081211.jar!/javax/servlet/ServletContext.class" timestamp="1517262140903" />
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/pom.xml" timestamp="1517342470603">
         <mark key="'" line="29" column="44" />
@@ -15,17 +17,16 @@
       <file name="$MAVEN_REPOSITORY$/io/opencensus/opencensus-exporter-trace-stackdriver/0.10.1/opencensus-exporter-trace-stackdriver-0.10.1.pom" timestamp="1517342440391" />
       <file name="$MAVEN_REPOSITORY$/com/google/cloud/trace/trace-grpc-api-service/0.6.0/trace-grpc-api-service-0.6.0.pom" timestamp="1517278414756" />
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_152.jdk/Contents/Home/src.zip!/java/lang/management/ThreadMXBean.java" timestamp="1517255127338" />
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/filters/OpenCensusFilter.java" timestamp="1517344030531">
-        <mark key="'" line="94" column="12" />
-        <mark key="[" line="103" column="19" />
-        <mark key="]" line="103" column="43" />
-        <mark key="." line="103" column="43" />
-        <mark key="^" line="103" column="43" />
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/filters/OpenCensusFilter.java" timestamp="1517348714664">
+        <mark key="[" line="47" column="0" />
+        <mark key="]" line="47" column="0" />
+        <mark key="." line="47" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/google/cloud/google-cloud-spanner/0.33.0-beta/google-cloud-spanner-0.33.0-beta.pom" timestamp="1517341612380" />
       <file name="$MAVEN_REPOSITORY$/com/google/api/gax/1.16.0/gax-1.16.0-sources.jar!/com/google/api/gax/rpc/ApiClientHeaderProvider.java" timestamp="1517340945277" />
+      <file name="$MAVEN_REPOSITORY$/com/google/api/gax/1.16.0/gax-1.16.0-sources.jar!/com/google/api/gax/rpc/ApiExceptions.java" timestamp="1517347111351" />
       <file name="$MAVEN_REPOSITORY$/com/google/cloud/google-cloud-spanner/0.33.0-beta/google-cloud-spanner-0.33.0-beta-sources.jar!/com/google/cloud/spanner/SessionPool.java" timestamp="1517275225184" />
-      <file name="$MAVEN_REPOSITORY$/com/google/api/grpc/proto-google-cloud-trace-v2/0.1.28/proto-google-cloud-trace-v2-0.1.28-sources.jar!/com/google/devtools/cloudtrace/v2/Span.java" timestamp="1517342987237" />
+      <file name="$MAVEN_REPOSITORY$/com/google/api/grpc/proto-google-cloud-trace-v2/0.1.28/proto-google-cloud-trace-v2-0.1.28-sources.jar!/com/google/devtools/cloudtrace/v2/Span.java" timestamp="1517346056893" />
       <file name="$MAVEN_REPOSITORY$/com/google/api/gax-grpc/1.16.0/gax-grpc-1.16.0.jar!/com/google/api/gax/grpc/InstantiatingGrpcChannelProvider.class" timestamp="1517340617938" />
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/Spanner.java" timestamp="1517279537923">
         <mark key="'" line="163" column="1" />
@@ -35,8 +36,10 @@
         <mark key="^" line="63" column="10" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/google/cloud/google-cloud-spanner/0.33.0-beta/google-cloud-spanner-0.33.0-beta-sources.jar!/com/google/cloud/spanner/spi/v1/GrpcSpannerRpc.java" timestamp="1517274479760" />
+      <file name="$MAVEN_REPOSITORY$/io/opencensus/opencensus-exporter-trace-stackdriver/0.10.1/opencensus-exporter-trace-stackdriver-0.10.1-sources.jar!/io/opencensus/exporter/trace/stackdriver/StackdriverV2ExporterHandler.java" timestamp="1517347660603" />
       <file name="$MAVEN_REPOSITORY$/io/grpc/grpc-stub/1.7.0/grpc-stub-1.7.0-sources.jar!/io/grpc/stub/ClientCalls.java" timestamp="1517279871423" />
       <file name="$MAVEN_REPOSITORY$/com/google/cloud/google-cloud-spanner/0.33.0-beta/google-cloud-spanner-0.33.0-beta-sources.jar!/com/google/cloud/spanner/spi/v1/SpannerRpc.java" timestamp="1517275403925" />
+      <file name="$MAVEN_REPOSITORY$/org/mortbay/jetty/servlet-api/2.5-20081211/servlet-api-2.5-20081211-sources.jar!/javax/servlet/ServletRequest.java" timestamp="1517348690341" />
       <file name="$MAVEN_REPOSITORY$/com/google/cloud/trace/v1/grpc-consumer/0.4.0/grpc-consumer-0.4.0-sources.jar!/com/google/cloud/trace/grpc/v1/GrpcTraceConsumer.java" timestamp="1517279250135" />
       <file name="$MAVEN_REPOSITORY$/io/opencensus/opencensus-exporter-trace-stackdriver/0.9.1/opencensus-exporter-trace-stackdriver-0.9.1-sources.jar!/io/opencensus/exporter/trace/stackdriver/StackdriverExporter.java" timestamp="1517338863929" />
       <file name="$MAVEN_REPOSITORY$/io/opencensus/opencensus-exporter-trace-stackdriver/0.9.1/opencensus-exporter-trace-stackdriver-0.9.1.pom" timestamp="1517339701040" />
@@ -46,13 +49,18 @@
       <file name="$MAVEN_REPOSITORY$/com/google/api/grpc/proto-google-cloud-trace-v2/0.1.28/proto-google-cloud-trace-v2-0.1.28-sources.jar!/com/google/devtools/cloudtrace/v2/TruncatableString.java" timestamp="1517343636123" />
       <file name="$MAVEN_REPOSITORY$/com/google/api/grpc/grpc-google-devtools-cloudtrace-v1/0.1.1/grpc-google-devtools-cloudtrace-v1-0.1.1-sources.jar!/com/google/devtools/cloudtrace/v1/TraceServiceGrpc.java" timestamp="1517279832080" />
       <file name="$MAVEN_REPOSITORY$/com/google/cloud/google-cloud-spanner/0.33.0-beta/google-cloud-spanner-0.33.0-beta-sources.jar!/com/google/cloud/spanner/DatabaseClient.java" timestamp="1517271851034" />
-      <file name="$MAVEN_REPOSITORY$/com/google/api/gax/1.16.0/gax-1.16.0-sources.jar!/com/google/api/gax/rpc/UnaryCallable.java" timestamp="1517344073317" />
+      <file name="$MAVEN_REPOSITORY$/com/google/api/gax/1.16.0/gax-1.16.0-sources.jar!/com/google/api/gax/rpc/UnaryCallable.java" timestamp="1517346999709" />
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/handlers/BatchDeleteEntities.java" timestamp="1517261198120" />
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataupdaters/getters/UnifiedThreadContentsGetter.java" timestamp="1517343840606">
         <mark key="'" line="149" column="0" />
         <mark key="[" line="72" column="0" />
         <mark key="]" line="72" column="0" />
         <mark key="." line="72" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/rewardly/mailfoo/emailmanager/SpannerTests.java" timestamp="1516756780609">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/google/cloud/google-cloud-spanner/0.33.0-beta/google-cloud-spanner-0.33.0-beta-sources.jar!/com/google/cloud/spanner/DatabaseClientImpl.java" timestamp="1517271887662" />
       <file name="$MAVEN_REPOSITORY$/com/google/cloud/trace/trace-grpc-api-service/0.4.0/trace-grpc-api-service-0.4.0-sources.jar!/com/google/cloud/trace/service/TraceGrpcApiService.java" timestamp="1517279113186" />
@@ -71,6 +79,17 @@
       <file name="$MAVEN_REPOSITORY$/com/google/cloud/google-cloud-trace/0.30.0-beta/google-cloud-trace-0.30.0-beta-sources.jar!/com/google/cloud/trace/v2/TraceServiceClient.java" timestamp="1517339944381" />
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_152.jdk/Contents/Home/src.zip!/java/util/concurrent/Executors.java" timestamp="1517255750516" />
       <file name="$MAVEN_REPOSITORY$/com/google/api/gax/1.16.0/gax-1.16.0-sources.jar!/com/google/api/gax/rpc/TransportChannelProvider.java" timestamp="1517340491870" />
+      <file name="$MAVEN_REPOSITORY$/com/google/cloud/google-cloud-spanner/0.33.0-beta/google-cloud-spanner-0.33.0-beta.jar!/com/google/cloud/spanner/SpannerImpl.class" timestamp="1517346415609" />
+      <file name="/fragment.java" timestamp="1517262688988">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="28" />
+        <mark key="." line="0" column="28" />
+      </file>
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataupdaters/EntityGetter.java" timestamp="1517263542520">
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="0" />
+        <mark key="." line="31" column="0" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="102" column="28" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/spanner/Message.java" />
@@ -175,44 +194,44 @@
       <jump line="29" column="44" filename="$USER_HOME$/src/MailFoo/ServerCommon/pom.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>.</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQkJdHJhY2VyLmdldEN1cnJlbnRTcGFuKCkKCQkJCSAgLnB1dEF0dHJpYnV0ZSgiUGFyYW1ldGVycyIsIEF0dHJpYnV0ZVZhbHVlLnN0cmluZ0F0dHJpYnV0ZVZhbHVlKGh0dHBTZXJ2bGV0UmVxdWVzdC5nZXRNZXRob2QoKSkpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>stringAttributeValue</text>
       </register>
       <register name="/" type="4">
         <text>0.3</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQlmaWx0ZXJDaGFpbi5kb0ZpbHRlcihzZXJ2bGV0UmVxdWVzdCwgc2VydmxldFJlc3BvbnNlKTsK</text>
+        <text encoding="base64">CQkJdHJhY2VyLmdldEN1cnJlbnRTcGFuKCkKCQkJCSAgLnB1dEF0dHJpYnV0ZSgiTWV0aG9kIiwgQXR0cmlidXRlVmFsdWUuc3RyaW5nQXR0cmlidXRlVmFsdWUoaHR0cFNlcnZsZXRSZXF1ZXN0LmdldE1ldGhvZCgpKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJCQkJCSAgLnNldE5hbWVXaXRoU3Bhbk5hbWUobmFtZSkK</text>
+        <text encoding="base64">CQkJdHJhY2VyLmdldEN1cnJlbnRTcGFuKCkKCQkJCSAgLnB1dEF0dHJpYnV0ZSgiUGFyYW1ldGVycyIsIEF0dHJpYnV0ZVZhbHVlLnN0cmluZ0F0dHJpYnV0ZVZhbHVlKGh0dHBTZXJ2bGV0UmVxdWVzdC5nZXRNZXRob2QoKSkpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQluYW1lLgo=</text>
+        <text encoding="base64">CQkJc2NvcGUuCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQlTdHJpbmcgc3BhbklkID0gIjgwNzAyYWI1NTNmZDNjYTFlMzZiZGVlNTRkMTZmOWY0IjsK</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5yZXdhcmRseS5tYWlsZm9vLnV0aWxzLkxvZ2dlcjsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJCQkJCSAgLnMK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQlTcGFuTmFtZS5uZXdCdWlsZGVyKCkuc2V0UHJvamVjdCgibWFpbGZvb2dhZSIpLnNldFNwYW4oInRlc3QtdjIiKS5idWlsZCgpOwo=</text>
+        <text encoding="base64">CQlMb2dnZXIubG9nKFN0cmluZy52YWx1ZU9mKFRyYWNpbmcuZ2V0VHJhY2VDb25maWcoKSkpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQlTcGFuTmFtZSBuYW1lID0gCg==</text>
+        <text encoding="base64">aW1wb3J0IGlvLm9wZW5jZW5zdXMudHJhY2UuU3BhbjsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQlTcGFuTmFtZS5uZXdCdWlsZGVyKCkuc2V0UHJvamVjdCgibWFpbGZvb2dhZSIpLnNldFNwYW4oInRlc3QtdjIiKS5idWlsZCgpOwo=</text>
+        <text encoding="base64">CQlzcGFuLmVuZCgpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQlTcGFuLmdldERlZmF1bHRJbnN0YW5jZSgpLgo=</text>
+        <text encoding="base64">CQlTcGFuIHNwYW4gPSB0cmFjZXIuc3BhbkJ1aWxkZXIoInRlc3QtdjIiKS5zdGFydFNwYW4oKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJCQkJCQkJCQkJCQkJCQkJCS5zZXQK</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5nb29nbGUuY2xvdWQuc3Bhbm5lci5TcGFubmVyOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -251,7 +270,6 @@
         <entry>0.3</entry>
       </history-search>
       <history-cmd>
-        <entry>s/spanner/ds/g</entry>
         <entry>s/U/T/g</entry>
         <entry encoding="base64">JzwsJz5zL3R5cGUvZmllbGRUeXBl</entry>
         <entry encoding="base64">JzwsJz5zL3RoaXMvaW5zdGFuY2UvZw==</entry>
@@ -270,6 +288,7 @@
         <entry>w\</entry>
         <entry>%s/TeamOrganizationListPage/TeamContactOrOrgListPage/g</entry>
         <entry encoding="base64">JzwsJz5zLyovLw==</entry>
+        <entry>ww</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
