@@ -12,6 +12,12 @@
         <mark key="'" line="22" column="76" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/mortbay/jetty/servlet-api/2.5-20081211/servlet-api-2.5-20081211-sources.jar!/javax/servlet/http/HttpServletRequest.java" timestamp="1517348666128" />
+      <file name="$MAVEN_REPOSITORY$/com/google/appengine/appengine-api-1.0-sdk/1.9.57/appengine-api-1.0-sdk-1.9.57.jar!/com/google/apphosting/api/CloudTrace.class" timestamp="1517366091234" />
+      <file name="/a.dummy" timestamp="1517253508438">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="18" />
+        <mark key="." line="0" column="18" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/io/opencensus/opencensus-api/0.10.1/opencensus-api-0.10.1.jar!/io/opencensus/trace/AttributeValue.class" timestamp="1517348573529" />
       <file name="$MAVEN_REPOSITORY$/org/mortbay/jetty/servlet-api/2.5-20081211/servlet-api-2.5-20081211.jar!/javax/servlet/ServletContext.class" timestamp="1517262140903" />
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/pom.xml" timestamp="1517355030637">
@@ -26,12 +32,12 @@
       <file name="$MAVEN_REPOSITORY$/com/google/cloud/trace/trace-grpc-api-service/0.6.0/trace-grpc-api-service-0.6.0.pom" timestamp="1517278414756" />
       <file name="$MAVEN_REPOSITORY$/io/grpc/grpc-core/1.7.0/grpc-core-1.7.0.jar!/io/grpc/internal/CensusTracingModule.class" timestamp="1517352755443" />
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_152.jdk/Contents/Home/src.zip!/java/lang/management/ThreadMXBean.java" timestamp="1517255127338" />
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/filters/OpenCensusFilter.java" timestamp="1517362989147">
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/filters/OpenCensusFilter.java" timestamp="1517366264503">
         <mark key="'" line="60" column="0" />
-        <mark key="[" line="33" column="31" />
-        <mark key="]" line="34" column="45" />
-        <mark key="." line="34" column="45" />
-        <mark key="^" line="34" column="45" />
+        <mark key="[" line="51" column="39" />
+        <mark key="]" line="51" column="52" />
+        <mark key="." line="51" column="52" />
+        <mark key="^" line="51" column="52" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/google/cloud/google-cloud-spanner/0.33.0-beta/google-cloud-spanner-0.33.0-beta.pom" timestamp="1517341612380" />
       <file name="$MAVEN_REPOSITORY$/com/google/api/gax/1.16.0/gax-1.16.0-sources.jar!/com/google/api/gax/rpc/ApiClientHeaderProvider.java" timestamp="1517340945277" />
@@ -44,10 +50,16 @@
       <file name="$MAVEN_REPOSITORY$/com/googlecode/objectify/objectify/5.1.17/objectify-5.1.17-sources.jar!/com/googlecode/objectify/impl/KeyMetadata.java" timestamp="1516240490506">
         <mark key="'" line="68" column="34" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/Spanner.java" timestamp="1517356836652">
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/Spanner.java" timestamp="1517364153472">
         <mark key="'" line="159" column="1" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/google/cloud/google-cloud-spanner/0.33.0-beta/google-cloud-spanner-0.33.0-beta-sources.jar!/com/google/cloud/spanner/spi/v1/GrpcSpannerRpc.java" timestamp="1517274479760" />
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/gmail/GmailAPIHelper.java" timestamp="1517262681702">
+        <mark key="[" line="546" column="78" />
+        <mark key="]" line="546" column="92" />
+        <mark key="." line="546" column="92" />
+        <mark key="^" line="546" column="92" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/io/opencensus/opencensus-exporter-trace-stackdriver/0.10.1/opencensus-exporter-trace-stackdriver-0.10.1-sources.jar!/io/opencensus/exporter/trace/stackdriver/StackdriverV2ExporterHandler.java" timestamp="1517347660603" />
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/utils/MonitoringAsyncDatastoreService.java" timestamp="1517349342980" />
       <file name="$MAVEN_REPOSITORY$/io/grpc/grpc-core/1.7.0/grpc-core-1.7.0-sources.jar!/io/grpc/internal/CensusTracingModule.java" timestamp="1517353788489" />
@@ -90,6 +102,16 @@
         <mark key="'" line="154" column="39" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/handlers/BatchDeleteEntities.java" timestamp="1517261198120" />
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/utils/OfyRequestThreadFactory.java" timestamp="1517259171427">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/logging/dataflow/exporters/CloudTraceContextFieldExporter.java" timestamp="1517365451546">
+        <mark key="[" line="20" column="51" />
+        <mark key="]" line="20" column="51" />
+        <mark key="." line="20" column="51" />
+      </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/rewardly/mailfoo/emailmanager/SpannerTests.java" timestamp="1516756780609">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="0" />
@@ -113,11 +135,18 @@
         <mark key="'" line="135" column="35" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/google/cloud/google-cloud-spanner/0.33.0-beta/google-cloud-spanner-0.33.0-beta-sources.jar!/com/google/cloud/spanner/SpannerImpl.java" timestamp="1517274315584" />
+      <file name="$MAVEN_REPOSITORY$/io/opencensus/opencensus-impl/0.10.1/opencensus-impl-0.10.1-sources.jar!/io/opencensus/impl/internal/DisruptorEventQueue.java" timestamp="1517364512173" />
       <file name="$MAVEN_REPOSITORY$/com/google/cloud/google-cloud-trace/0.30.0-beta/google-cloud-trace-0.30.0-beta-sources.jar!/com/google/cloud/trace/v2/TraceServiceClient.java" timestamp="1517339944381" />
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_152.jdk/Contents/Home/src.zip!/java/util/concurrent/Executors.java" timestamp="1517255750516" />
       <file name="$MAVEN_REPOSITORY$/com/google/api/gax/1.16.0/gax-1.16.0-sources.jar!/com/google/api/gax/rpc/TransportChannelProvider.java" timestamp="1517340491870" />
       <file name="$MAVEN_REPOSITORY$/com/google/cloud/google-cloud-spanner/0.33.0-beta/google-cloud-spanner-0.33.0-beta.jar!/com/google/cloud/spanner/SpannerImpl.class" timestamp="1517346415609" />
-      <file name="/fragment.java" timestamp="1517355982181">
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/utils/Profiler.java" timestamp="1517364060395">
+        <mark key="[" line="60" column="12" />
+        <mark key="]" line="72" column="13" />
+        <mark key="^" line="72" column="13" />
+        <mark key="." line="72" column="13" />
+      </file>
+      <file name="/fragment.java" timestamp="1517365384824">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="28" />
         <mark key="." line="0" column="28" />
@@ -232,43 +261,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>e.printStackTrace();</text>
+        <text>getTraceId</text>
       </register>
       <register name="-" type="4">
-        <text>e.printStackTrace();</text>
+        <text>getTraceId</text>
       </register>
       <register name="/" type="4">
         <text>grpc</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQkJdHJhY2VyLmdldEN1cnJlbnRTcGFuKCkK</text>
+        <text encoding="base64">CQlMb2dnZXIubG9nKFN0cmluZy52YWx1ZU9mKG5lcmYuZ2V0VHJhY2VJZCgpKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkgKi8K</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5nb29nbGUuY2xvdWQudHJhY2UuY29yZS5UcmFjZUNvbnRleHQ7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQltb2RlID0gTW9kZS5QUk9EVUNUSU9OOwoJCXJldHVybiBtb2RlOwoJCS8qKgo=</text>
+        <text encoding="base64">CQlUcmFjZUNvbnRleHQK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQlTcGFuIGN1cnJlbnRTcGFuID0gVHJhY2luZy5nZXRUcmFjZXIoKS5nZXRDdXJyZW50U3BhbigpOwoJCWN1cnJlbnRTcGFuLmVuZCgpOwo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5nb29nbGUuY2xvdWQudHJhY2UuY29yZS5UcmFjZUNvbnRleHQ7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQlUcmFjaW5nLmdldFRyYWNlcigpLnNwYW5CdWlsZGVyKHN0ZXBOYW1lKS5zdGFydFNwYW4oKTsK</text>
+        <text encoding="base64">CQlUcmFjaW5nLgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQlpZiAoKChTcGFuSW1wbCkgY3VycmVudFNwYW4pLm5hbWUpCg==</text>
+        <text encoding="base64">CQkgKi8K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGlvLm9wZW5jZW5zdXMudHJhY2UuaW1wbC5TUGFuOwo=</text>
+        <text encoding="base64">CQltb2RlID0gTW9kZS5QUk9EVUNUSU9OOwoJCXJldHVybiBtb2RlOwoJCS8qKgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQl9Cg==</text>
+        <text encoding="base64">CQlTcGFuIGN1cnJlbnRTcGFuID0gVHJhY2luZy5nZXRUcmFjZXIoKS5nZXRDdXJyZW50U3BhbigpOwoJCWN1cnJlbnRTcGFuLmVuZCgpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQlpZiAoY3VycmVudFNwYW4gIT0gQmxhbmtTcGFuKCkpIHsK</text>
+        <text encoding="base64">CQlUcmFjaW5nLmdldFRyYWNlcigpLnNwYW5CdWlsZGVyKHN0ZXBOYW1lKS5zdGFydFNwYW4oKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQlpZiAoKChTcGFuSW1wbCkgY3VycmVudFNwYW4pLm5hbWUpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
