@@ -33,14 +33,15 @@
       <file name="$MAVEN_REPOSITORY$/com/google/cloud/trace/trace-grpc-api-service/0.6.0/trace-grpc-api-service-0.6.0.pom" timestamp="1517278414756" />
       <file name="$MAVEN_REPOSITORY$/io/grpc/grpc-core/1.7.0/grpc-core-1.7.0.jar!/io/grpc/internal/CensusTracingModule.class" timestamp="1517352755443" />
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_152.jdk/Contents/Home/src.zip!/java/lang/management/ThreadMXBean.java" timestamp="1517255127338" />
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/filters/OpenCensusFilter.java" timestamp="1517426613188">
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/filters/OpenCensusFilter.java" timestamp="1517428055309">
         <mark key="'" line="51" column="0" />
-        <mark key="[" line="76" column="76" />
-        <mark key="]" line="78" column="33" />
-        <mark key="." line="78" column="33" />
-        <mark key="^" line="78" column="33" />
+        <mark key="[" line="60" column="0" />
+        <mark key="]" line="60" column="0" />
+        <mark key="." line="60" column="0" />
+        <mark key="^" line="60" column="62" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/google/cloud/google-cloud-spanner/0.33.0-beta/google-cloud-spanner-0.33.0-beta.pom" timestamp="1517341612380" />
+      <file name="$MAVEN_REPOSITORY$/com/google/cloud/trace/core/0.4.0/core-0.4.0-sources.jar!/com/google/cloud/trace/core/TraceId.java" timestamp="1517428041829" />
       <file name="$MAVEN_REPOSITORY$/com/google/api/gax/1.16.0/gax-1.16.0-sources.jar!/com/google/api/gax/rpc/ApiClientHeaderProvider.java" timestamp="1517340945277" />
       <file name="$MAVEN_REPOSITORY$/com/google/api/gax/1.16.0/gax-1.16.0-sources.jar!/com/google/api/gax/rpc/ApiExceptions.java" timestamp="1517347111351" />
       <file name="$MAVEN_REPOSITORY$/com/google/cloud/google-cloud-spanner/0.33.0-beta/google-cloud-spanner-0.33.0-beta-sources.jar!/com/google/cloud/spanner/SessionPool.java" timestamp="1517275225184" />
@@ -170,6 +171,7 @@
       <file name="$MAVEN_REPOSITORY$/com/google/cloud/google-cloud-trace/0.30.0-beta/google-cloud-trace-0.30.0-beta-sources.jar!/com/google/cloud/trace/v2/TraceServiceClient.java" timestamp="1517339944381" />
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_152.jdk/Contents/Home/src.zip!/java/util/concurrent/Executors.java" timestamp="1517255750516" />
       <file name="$MAVEN_REPOSITORY$/com/google/api/gax/1.16.0/gax-1.16.0-sources.jar!/com/google/api/gax/rpc/TransportChannelProvider.java" timestamp="1517340491870" />
+      <file name="$MAVEN_REPOSITORY$/io/opencensus/opencensus-api/0.10.1/opencensus-api-0.10.1-sources.jar!/io/opencensus/trace/TraceId.java" timestamp="1517428201615" />
       <file name="$MAVEN_REPOSITORY$/com/google/cloud/google-cloud-spanner/0.33.0-beta/google-cloud-spanner-0.33.0-beta.jar!/com/google/cloud/spanner/SpannerImpl.class" timestamp="1517346415609" />
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/utils/Profiler.java" timestamp="1517364060395">
         <mark key="[" line="60" column="12" />
@@ -292,7 +294,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQljb20uZ29vZ2xlLmNsb3VkLnRyYWNlLmNvcmUuVHJhY2VJZCBvbGRUcmFjZUlkID0gbmV3IGNvbS5nb29nbGUuY2xvdWQudHJhY2UuY29yZS5UcmFjZUlkKHRyYWNlSWQpOwkK</text>
       </register>
       <register name="-" type="4">
         <text>)</text>
@@ -304,31 +306,31 @@
         <text encoding="base64">CQkJTG9nZ2VyLmxvZyhBcnJheXMudG9TdHJpbmcoY2xvdWRUcmFjZUNvbnRleHQuZ2V0VHJhY2VJZCgpKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQljb20uZ29vZ2xlLmNsb3VkLnRyYWNlLmNvcmUuVHJhY2VJZCBvbGRUcmFjZUlkID0gbmV3IGNvbS5nb29nbGUuY2xvdWQudHJhY2UuY29yZS5UcmFjZUlkKHRyYWNlSWQpOwkK</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">aW1wb3J0IGNvbS5nb29nbGUuY2xvdWQudHJhY2UuY29yZS5UcmFjZUlkOwo=</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="4">
         <text encoding="base64">CUBUZXN0CglwdWJsaWMgdm9pZCB0ZXN0U2NyYXRjaCgpIHRocm93cyBJbnZhbGlkUHJvdG9jb2xCdWZmZXJFeGNlcHRpb24gewoJCWJ5dGVbXSByYXcgPSBuZXcgYnl0ZVtdezksIDY0LCAzLCAxMDMsIC0zMiwgLTMyLCAtOCwgMzksIDgwLCAxNywgLTE4LCAtNzAsIC04OSwgODQsIDg2LCA5MSwgMTE4LCA1Nn07CgkJYnl0ZVtdIGZyb21MaWIgPSBuZXcgYnl0ZVtdezgwLCAzOSwgLTgsIC0zMiwgLTMyLCAxMDMsIDMsIDY0LCA1NiwgMTE4LCA5MSwgODYsIDg0LCAtODksIC03MCwgLTE4fTsKCgkJQmlnSW50ZWdlciBhc0JJID0gbmV3IEJpZ0ludGVnZXIocmF3KS5zaGlmdFJpZ2h0KDIpOwoKCS8vCWFzc2VydEVxdWFscyhIZXguZW5jb2RlSGV4KGZyb21MaWIpLCBIZXguZW5jb2RlSGV4KGFzQkkuc2hpZnRSaWdodCgyKS50b0J5dGVBcnJheSgpKSk7CgoJCVRyYWNlSWRQcm90byB0cmFjZUlkUHJvdG8gPSBUcmFjZUlkUHJvdG8ucGFyc2VGcm9tKHJhdyk7CgkJQmlnSW50ZWdlciB0cmFjZUlkSGkgPSBVbnNpZ25lZExvbmcuZnJvbUxvbmdCaXRzKHRyYWNlSWRQcm90by5nZXRIaSgpKS5iaWdJbnRlZ2VyVmFsdWUoKTsKCQlCaWdJbnRlZ2VyIHRyYWNlSWRMbyA9IFVuc2lnbmVkTG9uZy5mcm9tTG9uZ0JpdHModHJhY2VJZFByb3RvLmdldExvKCkpLmJpZ0ludGVnZXJWYWx1ZSgpOwoJCUJpZ0ludGVnZXIgdHJhY2VJZCA9IHRyYWNlSWRIaS5zaGlmdExlZnQoNjQpLm9yKHRyYWNlSWRMbyk7CgoJfQ==</text>
       </register>
-      <register name="4" type="4">
+      <register name="6" type="4">
         <text>cloudTraceContext.getTraceId(</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">CQkJTG9nZ2VyLmxvZygpCg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">CQkJCQlUcmFjZUlkLmZyb21CeXRlcyhBcnJheXMuY29weU9mUmFuZ2UoY2xvdWRUcmFjZUNvbnRleHQuZ2V0VHJhY2VJZCgpLCAwLCAxNikpLAo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">CQkJTG9nZ2VyLmxvZyhBcnJheXMudG9TdHJpbmcoY2xvdWRUcmFjZUNvbnRleHQuZ2V0VHJhY2VJZCgpKSk7Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">Ki8K</text>
+        <text encoding="base64">CQkJTG9nZ2VyLmxvZyhBcnJheXMudG9TdHJpbmcoY2xvdWRUcmFjZUNvbnRleHQuZ2V0VHJhY2VJZCgpKSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
