@@ -33,12 +33,11 @@
       <file name="$MAVEN_REPOSITORY$/com/google/cloud/trace/trace-grpc-api-service/0.6.0/trace-grpc-api-service-0.6.0.pom" timestamp="1517278414756" />
       <file name="$MAVEN_REPOSITORY$/io/grpc/grpc-core/1.7.0/grpc-core-1.7.0.jar!/io/grpc/internal/CensusTracingModule.class" timestamp="1517352755443" />
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_152.jdk/Contents/Home/src.zip!/java/lang/management/ThreadMXBean.java" timestamp="1517255127338" />
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/filters/OpenCensusFilter.java" timestamp="1517432041754">
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/filters/OpenCensusFilter.java" timestamp="1517434629146">
         <mark key="'" line="51" column="0" />
-        <mark key="[" line="61" column="5" />
-        <mark key="]" line="62" column="0" />
-        <mark key="." line="62" column="0" />
-        <mark key="^" line="62" column="0" />
+        <mark key="[" line="58" column="0" />
+        <mark key="]" line="58" column="0" />
+        <mark key="." line="58" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/google/cloud/google-cloud-spanner/0.33.0-beta/google-cloud-spanner-0.33.0-beta.pom" timestamp="1517341612380" />
       <file name="$MAVEN_REPOSITORY$/com/google/cloud/trace/core/0.4.0/core-0.4.0-sources.jar!/com/google/cloud/trace/core/TraceId.java" timestamp="1517429282922" />
@@ -128,6 +127,12 @@
         <mark key="'" line="154" column="39" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/handlers/BatchDeleteEntities.java" timestamp="1517261198120" />
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataupdaters/getters/UnifiedThreadContentsGetter.java" timestamp="1517343840606">
+        <mark key="'" line="149" column="0" />
+        <mark key="[" line="72" column="0" />
+        <mark key="]" line="72" column="0" />
+        <mark key="." line="72" column="0" />
+      </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/utils/OfyRequestThreadFactory.java" timestamp="1517259171427">
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="0" />
@@ -138,22 +143,14 @@
         <mark key="]" line="20" column="51" />
         <mark key="." line="20" column="51" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/rewardly/mailfoo/emailmanager/SpannerTests.java" timestamp="1517431791028">
-        <mark key="[" line="225" column="92" />
-        <mark key="]" line="225" column="93" />
-        <mark key="." line="225" column="93" />
-        <mark key="^" line="225" column="90" />
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/rewardly/mailfoo/emailmanager/SpannerTests.java" timestamp="1517434646386">
+        <mark key="[" line="182" column="0" />
+        <mark key="]" line="182" column="0" />
+        <mark key="." line="182" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/google/cloud/google-cloud-spanner/0.33.0-beta/google-cloud-spanner-0.33.0-beta-sources.jar!/com/google/cloud/spanner/DatabaseClientImpl.java" timestamp="1517271887662" />
       <file name="$MAVEN_REPOSITORY$/com/google/cloud/trace/trace-grpc-api-service/0.4.0/trace-grpc-api-service-0.4.0-sources.jar!/com/google/cloud/trace/service/TraceGrpcApiService.java" timestamp="1517279113186" />
       <file name="$MAVEN_REPOSITORY$/io/grpc/grpc-stub/1.2.0/grpc-stub-1.2.0-sources.jar!/io/grpc/stub/ClientCalls.java" timestamp="1517279636149" />
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/graphql/TeamOrganizationsDataFetcher.java" timestamp="1517253622103">
-        <mark key="'" line="46" column="32" />
-        <mark key="[" line="20" column="88" />
-        <mark key="]" line="20" column="111" />
-        <mark key="^" line="20" column="111" />
-        <mark key="." line="20" column="111" />
-      </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/calendar/CalendarSharingServlet.java" timestamp="1517264048326">
         <mark key="[" line="95" column="71" />
         <mark key="]" line="95" column="121" />
@@ -166,6 +163,12 @@
       <file name="$MAVEN_REPOSITORY$/io/opencensus/opencensus-api/0.10.1/opencensus-api-0.10.1-sources.jar!/io/opencensus/trace/BlankSpan.java" timestamp="1517355725311" />
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/TeamContact.java" timestamp="1516747224293">
         <mark key="'" line="135" column="35" />
+      </file>
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/rewardly/mailfoo/unittests/TraceIdTests.java" timestamp="1517434520779">
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="36" column="0" />
+        <mark key="^" line="56" column="67" />
+        <mark key="." line="36" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/google/cloud/google-cloud-spanner/0.33.0-beta/google-cloud-spanner-0.33.0-beta-sources.jar!/com/google/cloud/spanner/SpannerImpl.java" timestamp="1517274315584" />
       <file name="$MAVEN_REPOSITORY$/io/opencensus/opencensus-impl/0.10.1/opencensus-impl-0.10.1-sources.jar!/io/opencensus/impl/internal/DisruptorEventQueue.java" timestamp="1517364512173" />
@@ -180,7 +183,7 @@
         <mark key="^" line="72" column="13" />
         <mark key="." line="72" column="13" />
       </file>
-      <file name="/fragment.java" timestamp="1517431953784">
+      <file name="/fragment.java" timestamp="1517434461792">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="28" />
         <mark key="." line="0" column="28" />
@@ -295,34 +298,34 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CQkJTG9nZ2VyLmxvZygiU2hpZnRlZCBCSSIpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>traceId</text>
+        <text>return</text>
       </register>
       <register name="/" type="4">
         <text>)</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQlVbnNpZ25lZExvbmcgbG93TG9uZyA9ICBVbnNpZ25lZExvbmcuZnJvbUxvbmdCaXRzKExvbmdzLmZyb21CeXRlQXJyYXkoQXJyYXlzLmNvcHlPZlJhbmdlKHJhdywgMCwgMTYpKSk7Cg==</text>
+        <text encoding="base64">CQlTdHJpbmcgY29ycmVjdFRyYWNlSGV4ID0gIjYxMjA4MWQ5ODNjZmU1NTA1MmRhMzgxZjYyZDgxZmYxIjsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJTG9nZ2VyLmxvZygiU2hpZnRlZCBCSSIpOwo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">CQkJTG9nZ2VyLmxvZyhIZXguZW5jb2RlSGV4U3RyaW5nKGFzQkkudG9CeXRlQXJyYXkoKSkpOwo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">CQkJQmlnSW50ZWdlciBhc0JJID0gbmV3IEJpZ0ludGVnZXIoY2xvdWRUcmFjZUNvbnRleHQuZ2V0VHJhY2VJZCgpKS5zaGlmdFJpZ2h0KDIpOwo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">CQlhc3NlcnRFcXVhbHMoIGZyb21MaWIubGVuZ3RoLCAxNik7Cg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="4">
+        <text encoding="base64">CUBUZXN0CglwdWJsaWMgdm9pZCB0ZXN0U2NyYXRjaCgpIHRocm93cyBJbnZhbGlkUHJvdG9jb2xCdWZmZXJFeGNlcHRpb24gewoJCWJ5dGVbXSByYXcgPSBuZXcgYnl0ZVtdezksIDY0LCAzLCAxMDMsIC0zMiwgLTMyLCAtOCwgMzksIDgwLCAxNywgLTE4LCAtNzAsIC04OSwgODQsIDg2LCA5MSwgMTE4LCA1Nn07IC8vIDE4CgkJYnl0ZVtdIGZyb21MaWIgPSBuZXcgYnl0ZVtdezgwLCAzOSwgLTgsIC0zMiwgLTMyLCAxMDMsIDMsIDY0LCA1NiwgMTE4LCA5MSwgODYsIDg0LCAtODksIC03MCwgLTE4fTsgLy8gMTYgKHd0Zj8pCgoJCVRyYWNlSWRQcm90byB0cmFjZUlkUHJvdG8gPSBUcmFjZUlkUHJvdG8ucGFyc2VGcm9tKHJhdyk7CgkJQmlnSW50ZWdlciB0cmFjZUlkSGkgPSBVbnNpZ25lZExvbmcuZnJvbUxvbmdCaXRzKHRyYWNlSWRQcm90by5nZXRIaSgpKS5iaWdJbnRlZ2VyVmFsdWUoKTsKCQlCaWdJbnRlZ2VyIHRyYWNlSWRMbyA9IFVuc2lnbmVkTG9uZy5mcm9tTG9uZ0JpdHModHJhY2VJZFByb3RvLmdldExvKCkpLmJpZ0ludGVnZXJWYWx1ZSgpOwoJCUJpZ0ludGVnZXIgdHJhY2VJZCA9IHRyYWNlSWRIaS5zaGlmdExlZnQoNjQpLm9yKHRyYWNlSWRMbyk7CgkJU3RyaW5nIGxpYlRyYWNlSWQgPSBTdHJpbmcuZm9ybWF0KCIlMDMyeCIsIHRyYWNlSWQpOwoKCX0KCglAVGVzdAoJcHVibGljIHZvaWQgd3RmKCkgewoJCWJ5dGVbXSBmcm9tTGliID0gbmV3IGJ5dGVbXXswLCAtMTE1LCAxMTcsIC0xMjUsIC00NCwgLTExNywgLTExOCwgLTExNSwgNiwgOTEsIC05MiwgLTY2LCAtMTEsIDEwNiwgLTYwLCAtODIsIDE1fTsKCgkJU3RyaW5nIGxpYlRyYWNlSWQgPSBTdHJpbmcuZm9ybWF0KCIlMDMyeCIsIG5ldyBCaWdJbnRlZ2VyKGZyb21MaWIpKTsKCgkJYXNzZXJ0RXF1YWxzKGxpYlRyYWNlSWQsICI4ZDc1ODNkNDhiOGE4ZDA2NWJhNGJlZjU2YWM0YWUwZiIpOwoJCWFzc2VydEVxdWFscyhuZXcgQmlnSW50ZWdlcihmcm9tTGliKSwgbmV3IEJpZ0ludGVnZXIoQXJyYXlzLmNvcHlPZlJhbmdlKGZyb21MaWIsIDAsMTYpKSk7CgoJfQ==</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">CQlVbnNpZ25lZExvbmcgbG93TG9uZyA9ICBVbnNpZ25lZExvbmcuZnJvbUxvbmdCaXRzKExvbmdzLmZyb21CeXRlQXJyYXkoQXJyYXlzLmNvcHlPZlJhbmdlKHJhdywgMTAsMTgpKSk7CgkJYnl0ZVtdIGxvd0J5dGVzID0gQXJyYXlzLmNvcHlPZlJhbmdlKHJhdywgMTAsMTgpOwoJCUFycmF5VXRpbHMucmV2ZXJzZShsb3dCeXRlcyk7CgkJVW5zaWduZWRMb25nIGxvd0xvbmcyID0gVW5zaWduZWRMb25nLmZyb21Mb25nQml0cyhMb25ncy5mcm9tQnl0ZUFycmF5KGxvd0J5dGVzKSk7CgkJVW5zaWduZWRMb25nIGhpZ2hMb25nID0gIFVuc2lnbmVkTG9uZy5mcm9tTG9uZ0JpdHMoTG9uZ3MuZnJvbUJ5dGVBcnJheShBcnJheXMuY29weU9mUmFuZ2UocmF3LCAyLDEwKSkpOwo=</text>
+        <text encoding="base64">CS8vCg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
@@ -331,7 +334,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQlCaWdJbnRlZ2VyIGFzQkkgPSBuZXcgQmlnSW50ZWdlcihyYXcpLnNoaWZ0UmlnaHQoMik7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -348,8 +351,6 @@
     </search>
     <history>
       <history-search>
-        <entry>spanner read</entry>
-        <entry>transportFa</entry>
         <entry>GMailAPI</entry>
         <entry>DAO</entry>
         <entry>TeamOrganizationListPage</entry>
@@ -367,6 +368,8 @@
         <entry>grpc</entry>
         <entry>....</entry>
         <entry encoding="base64">PA==</entry>
+        <entry>&quot;</entry>
+        <entry>}</entry>
         <entry>)</entry>
       </history-search>
       <history-cmd>
