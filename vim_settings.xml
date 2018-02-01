@@ -77,7 +77,7 @@
         <mark key="^" line="49" column="136" />
         <mark key="." line="49" column="136" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/IntegrationTests/src/test/java/com/rewardly/integrationtests/api/modeltests/TeamContactSearchAPITest.java" timestamp="1517513505348">
+      <file name="$USER_HOME$/src/MailFoo/IntegrationTests/src/test/java/com/rewardly/integrationtests/api/modeltests/TeamContactSearchAPITest.java" timestamp="1517514205213">
         <mark key="'" line="44" column="41" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/google/cloud/google-cloud-spanner/0.33.0-beta/google-cloud-spanner-0.33.0-beta-sources.jar!/com/google/cloud/spanner/spi/v1/SpannerRpc.java" timestamp="1517275403925" />
@@ -86,10 +86,10 @@
         <mark key="'" line="59" column="55" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/google/cloud/trace/v1/grpc-consumer/0.4.0/grpc-consumer-0.4.0-sources.jar!/com/google/cloud/trace/grpc/v1/GrpcTraceConsumer.java" timestamp="1517279250135" />
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/io/opencensus/implcore/internal/DaemonThreadFactory.java" timestamp="1517509806673">
-        <mark key="[" line="37" column="51" />
-        <mark key="]" line="37" column="55" />
-        <mark key="." line="37" column="55" />
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/io/opencensus/implcore/internal/DaemonThreadFactory.java" timestamp="1517514231740">
+        <mark key="[" line="37" column="52" />
+        <mark key="]" line="37" column="52" />
+        <mark key="." line="37" column="52" />
         <mark key="^" line="37" column="55" />
       </file>
       <file name="$MAVEN_REPOSITORY$/io/opencensus/opencensus-exporter-trace-stackdriver/0.9.1/opencensus-exporter-trace-stackdriver-0.9.1-sources.jar!/io/opencensus/exporter/trace/stackdriver/StackdriverExporter.java" timestamp="1517338863929" />
@@ -310,11 +310,11 @@
       <jump line="51" column="0" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/filters/OpenCensusFilter.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5nb29nbGUuY29tbW9uLnV0aWwuY29uY3VycmVudC5Nb3JlRXhlY3V0b3JzOwo=</text>
+      <register name="&quot;" type="4">
+        <text>=</text>
       </register>
       <register name="-" type="4">
-        <text>MoreExecutors.platformThreadFactory();</text>
+        <text>=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxodHRwU2VydmxldFJlcXVlc3RcPg==</text>
