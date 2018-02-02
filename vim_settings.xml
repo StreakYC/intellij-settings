@@ -83,6 +83,12 @@
         <mark key="]" line="82" column="0" />
         <mark key="." line="82" column="0" />
       </file>
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/logging/OpenCensusExporter.java" timestamp="1517541958258">
+        <mark key="[" line="41" column="52" />
+        <mark key="]" line="42" column="45" />
+        <mark key="." line="42" column="45" />
+        <mark key="^" line="42" column="45" />
+      </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/graphql/TeamOrganizationsDataFetcher.java" timestamp="1517253622103">
         <mark key="'" line="46" column="32" />
         <mark key="[" line="20" column="88" />
@@ -124,7 +130,7 @@
         <mark key="." line="448" column="64" />
         <mark key="^" line="448" column="64" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/io/opencensus/opencensus-exporter-trace-logging/0.10.1/opencensus-exporter-trace-logging-0.10.1-sources.jar!/io/opencensus/exporter/trace/logging/LoggingExporter.java" timestamp="1517540380346" />
+      <file name="$MAVEN_REPOSITORY$/io/opencensus/opencensus-exporter-trace-logging/0.10.1/opencensus-exporter-trace-logging-0.10.1-sources.jar!/io/opencensus/exporter/trace/logging/LoggingExporter.java" timestamp="1517541729617" />
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/io/opencensus/implcore/internal/DaemonThreadFactory.java" timestamp="1517540428782">
         <mark key="'" line="48" column="62" />
         <mark key="[" line="70" column="8" />
@@ -252,11 +258,11 @@
       <jump line="46" column="62" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/io/opencensus/implcore/internal/DaemonThreadFactory.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>println</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQkJCWxvZ2dlci5sb2coTGV2ZWwuSU5GTywgc3BhbkRhdGEudG9TdHJpbmcoKSk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>println</text>
+        <text>Logger logger = Logger.getLogger(io.opencensus.exporter.trace.logging.LoggingExporter.class.getName());</text>
       </register>
       <register name="/" type="4">
         <text>TODO</text>
@@ -265,31 +271,31 @@
         <text encoding="base64">CQkJdHJhY2VQYXJhbXMgPSBUcmFjZVBhcmFtcy5ERUZBVUxULnRvQnVpbGRlcigpCgkJCQkJCQkJCQkJIC5zZXRTYW1wbGVyKFNhbXBsZXJzLmFsd2F5c1NhbXBsZSgpKQoJCQkJCQkJCQkJCSAuYnVpbGQoKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGlvLm9wZW5jZW5zdXMuZXhwb3J0ZXIudHJhY2UubG9nZ2luZy5Mb2dnaW5nRXhwb3J0ZXI7Cg==</text>
+        <text encoding="base64">CQkJCWxvZ2dlci5sb2coTGV2ZWwuSU5GTywgc3BhbkRhdGEudG9TdHJpbmcoKSk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5yZXdhcmRseS5tYWlsZm9vLnV0aWxzLkxvZ2dlcjsK</text>
+        <text encoding="base64">CXByaXZhdGUgc3RhdGljIGZpbmFsIExvZ2dlciBsb2dnZXIgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJLy8gVE9ETyAtLSBUaGlzIGhhcyBpdCdzIE9XTiBEYWVtb25UaHJlYWRGYWN0b3J5LiAgd3RmCg==</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5sb2dnaW5nLkxldmVsOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHN0YXRpYyBjb20uZ29vZ2xlLmFwcGVuZ2luZS5hcGkuVGhyZWFkTWFuYWdlci5iYWNrZ3JvdW5kVGhyZWFkRmFjdG9yeTsK</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5sb2dnaW5nLkxvZ2dlcjsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkvLyBUT0RPIFRPRE8gVE9ETyAtIGZpZ3VyZSBvdXQgaG93IHRvIG1vdmUgdGhpcyB1cHN0cmVhbSAtIHByb2JhYmx5IGFuIG9wdGlvbgo=</text>
+        <text encoding="base64">CS8qKgoJICogVW5yZWdpc3RlcnMgdGhlIHtAY29kZSBMb2dnaW5nSGFuZGxlcn0uCgkgKgoJICogQHBhcmFtIHNwYW5FeHBvcnRlciB0aGUgaW5zdGFuY2Ugb2YgdGhlIHtAY29kZSBTcGFuRXhwb3J0ZXJ9IGZyb20gd2hlcmUgdGhpcyBzZXJ2aWNlIGlzCgkgKiAgICAgdW5yZWdpc3RlcmVkLgoJICovCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkvLwo=</text>
+        <text encoding="base64">CS8qKiBVbnJlZ2lzdGVycyB0aGUgTG9nZ2luZyBleHBvcnRlciBmcm9tIHRoZSBPcGVuQ2Vuc3VzIGxpYnJhcnkuICovCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CS8qKgoJICogUmVnaXN0ZXJzIHRoZSB7QGNvZGUgTG9nZ2luZ0hhbmRsZXJ9LgoJICoKCSAqIEBwYXJhbSBzcGFuRXhwb3J0ZXIgdGhlIGluc3RhbmNlIG9mIHRoZSB7QGNvZGUgU3BhbkV4cG9ydGVyfSB3aGVyZSB0aGlzIHNlcnZpY2UgaXMgcmVnaXN0ZXJlZC4KCSAqLwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
+        <text encoding="base64">CS8qKiBSZWdpc3RlcnMgdGhlIExvZ2dpbmcgZXhwb3J0ZXIgdG8gdGhlIE9wZW5DZW5zdXMgbGlicmFyeS4gKi8K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgfSBlbHNlIHsK</text>
+        <text encoding="base64">CS8qKgoJICogQW4gT3BlbkNlbnN1cyBzcGFuIGV4cG9ydGVyIGltcGxlbWVudGF0aW9uIHdoaWNoIGxvZ3MgYWxsIGRhdGEuCgkgKgoJICogPHA+RXhhbXBsZSBvZiB1c2FnZToKCSAqCgkgKiA8cHJlPjxjb2RlPgoJICogICBwdWJsaWMgc3RhdGljIHZvaWQgbWFpbihTdHJpbmdbXSBhcmdzKSB7CgkgKiAgICAgTG9nZ2luZ0V4cG9ydGVyLnJlZ2lzdGVyKCk7CgkgKiAgICAgLi4uIC8vIERvIHdvcmsuCgkgKiAgIH0KCSAqIDwvY29kZT48L3ByZT4KCSAqLwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
