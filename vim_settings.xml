@@ -117,7 +117,7 @@
         <mark key="." line="37" column="15" />
         <mark key="^" line="124" column="20" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/rewardly/mailfoo/unittests/SpannerDataModelTest.java" timestamp="1517851654850">
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/rewardly/mailfoo/unittests/SpannerDataModelTest.java" timestamp="1517855836690">
         <mark key="'" line="23" column="0" />
         <mark key="[" line="72" column="0" />
         <mark key="]" line="72" column="0" />
@@ -129,11 +129,11 @@
         <mark key="." line="546" column="92" />
         <mark key="^" line="546" column="92" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/rewardly/mailfoo/unittests/RatchetUnitTests.java" timestamp="1517852505006">
-        <mark key="[" line="9" column="41" />
-        <mark key="]" line="9" column="16" />
-        <mark key="." line="9" column="16" />
-        <mark key="^" line="9" column="16" />
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/rewardly/mailfoo/unittests/RatchetUnitTests.java" timestamp="1517855846342">
+        <mark key="[" line="10" column="8" />
+        <mark key="]" line="10" column="8" />
+        <mark key="." line="10" column="8" />
+        <mark key="^" line="10" column="18" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/rewardly/mailfoo/unittests/TraceIdTests.java" timestamp="1517436993719">
         <mark key="[" line="3" column="0" />
@@ -160,11 +160,11 @@
         <mark key="^" line="3" column="49" />
         <mark key="." line="3" column="49" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/ratchet/Metadata.java" timestamp="1517851365301">
-        <mark key="[" line="3" column="24" />
-        <mark key="]" line="3" column="24" />
-        <mark key="." line="3" column="24" />
-        <mark key="^" line="3" column="24" />
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/ratchet/Metadata.java" timestamp="1517855902332">
+        <mark key="[" line="9" column="30" />
+        <mark key="]" line="10" column="48" />
+        <mark key="." line="10" column="48" />
+        <mark key="^" line="10" column="48" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/io/opencensus/implcore/internal/DaemonThreadFactory.java" timestamp="1517540428782">
         <mark key="'" line="48" column="62" />
@@ -182,10 +182,12 @@
         <mark key="." line="77" column="78" />
         <mark key="^" line="77" column="78" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/ratchet/Registrar.java" timestamp="1517852471668">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/ratchet/Registrar.java" timestamp="1517855365693">
+        <mark key="'" line="10" column="22" />
+        <mark key="[" line="8" column="44" />
+        <mark key="]" line="8" column="63" />
+        <mark key="." line="8" column="63" />
+        <mark key="^" line="8" column="63" />
       </file>
       <file name="/fragment.java" timestamp="1517620655550">
         <mark key="[" line="0" column="0" />
@@ -208,7 +210,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="268" column="26" filename="$USER_HOME$/src/MailFoo/ServerCommon/pom.xml" />
       <jump line="509" column="42" filename="$USER_HOME$/src/MailFoo/ServerCommon/pom.xml" />
       <jump line="537" column="39" filename="$USER_HOME$/src/MailFoo/ServerCommon/pom.xml" />
       <jump line="285" column="29" filename="$USER_HOME$/src/MailFoo/ServerCommon/pom.xml" />
@@ -308,63 +309,63 @@
       <jump line="46" column="62" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/io/opencensus/implcore/internal/DaemonThreadFactory.java" />
       <jump line="22" column="0" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/rewardly/mailfoo/unittests/SpannerDataModelTest.java" />
       <jump line="51" column="20" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/ratchet/ImmutableRatchet.java" />
+      <jump line="8" column="22" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/ratchet/Registrar.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>factory</text>
+        <text encoding="base64">bG9uZyA=</text>
       </register>
       <register name="-" type="4">
-        <text>factory</text>
+        <text encoding="base64">bG9uZyA=</text>
       </register>
       <register name="/" type="4">
-        <text>;</text>
+        <text>T</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQkJCQkJcmV0LmdldChlbnRyeS5nZXRLZXkoKSkucHV0KGtleSwgU2V0cy5uZXdIYXNoU2V0KHZlcnNpb24pKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5yZXdhcmRseS5tYWlsZm9vLmRhdGFhY2Nlc3MucmF0Y2hldC5SYXRjaGV0RmFjdG9yeTsK</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5yZXdhcmRseS5tYWlsZm9vLmRhdGFhY2Nlc3MucmF0Y2hldC5SZWdpc3RyYXI7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQlSYXRjaGV0RmFjdG9yeSBmYWN0b3J5ID0gbmV3IFJhdGNoZXRGYWN0b3J5KCk7Cg==</text>
+        <text encoding="base64">CQlSZWdpc3RyYXIgcmVnaXN0cmFyID0gbmV3IFJlZ2lzdHJhcigpOwoJCXJlZ2lzdHJhci5yZWdpc3RlcihTaW1wbGUuY2xhc3MpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CWZhCg==</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5IYXNodGFibGU7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CWZhY3RvcnkucmVnaXN0ZXIoU2ltcGxlLmNsYXNzKTsK</text>
+        <text encoding="base64">aW1wb3J0IGl0LnVuaW1pLmRzaS5mYXN0dXRpbC5vYmplY3RzLkFic3RyYWN0UmVmZXJlbmNlTGlzdDsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy50ZXN0bmcuYW5ub3RhdGlvbnMuQmVmb3JlQ2xhc3M7Cg==</text>
+        <text encoding="base64">CQlyZWdpc3RyYXIuCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CXB1YmxpYyBNZXRhZGF0YSgpIHsKCX0K</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5yZXdhcmRseS5tYWlsZm9vLmRhdGFhY2Nlc3MucmF0Y2hldC5SYXRjaGV0RmFjdG9yeTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQlUeXBlVXRpbHMK</text>
+        <text encoding="base64">CQlSYXRjaGV0RmFjdG9yeSBmYWN0b3J5ID0gbmV3IFJhdGNoZXRGYWN0b3J5KCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CWZhCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CXB1YmxpYyBzdGF0aWMgUmF0Y2hldEZhY3RvcnkgZ2V0RmFjdG9yeSgpIHsKCQlyZXR1cm4gZmFjdG9yeTsKCX0K</text>
+        <text encoding="base64">CWZhY3RvcnkucmVnaXN0ZXIoU2ltcGxlLmNsYXNzKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>;</last-search>
+      <last-search>T</last-search>
       <last-offset />
-      <last-pattern>;</last-pattern>
-      <last-replace>background</last-replace>
-      <last-substitute>currentRequest</last-substitute>
+      <last-pattern>T</last-pattern>
+      <last-replace>?</last-replace>
+      <last-substitute>T</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>0.30</entry>
         <entry>0.3</entry>
         <entry>gprc</entry>
         <entry>grpc</entry>
@@ -384,9 +385,9 @@
         <entry>TODO</entry>
         <entry>ofy</entry>
         <entry>;</entry>
+        <entry>T</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zL14vIg==</entry>
         <entry encoding="base64">JzwsJz5zLyAvIg==</entry>
         <entry encoding="base64">JzwsJz5zLywvIg==</entry>
         <entry encoding="base64">JzwsJz5zLywvIiw=</entry>
@@ -405,6 +406,7 @@
         <entry encoding="base64">JzwsJz5zL2N1cnJlbnQvYmFja2dyb3VuZA==</entry>
         <entry encoding="base64">JzwsJz5zL2N1cnJlbnRSZXF1ZXN0L2JhY2tncm91bmQ=</entry>
         <entry>wq</entry>
+        <entry encoding="base64">JzwsJz5zL1QvPw==</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
