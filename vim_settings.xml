@@ -83,12 +83,6 @@
         <mark key="^" line="1" column="0" />
         <mark key="." line="102" column="24" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/rewardly/mailfoo/unittests/SpannerDataModelTest.java" timestamp="1517949921275">
-        <mark key="'" line="23" column="0" />
-        <mark key="[" line="72" column="0" />
-        <mark key="]" line="72" column="0" />
-        <mark key="." line="72" column="0" />
-      </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/gmail/GmailAPIHelper.java" timestamp="1517262681702">
         <mark key="[" line="546" column="78" />
         <mark key="]" line="546" column="92" />
@@ -150,11 +144,11 @@
         <mark key="^" line="42" column="12" />
         <mark key="." line="42" column="12" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataupdaters/getters/UnifiedThreadContentsGetter.java" timestamp="1518033595362">
-        <mark key="'" line="175" column="0" />
-        <mark key="[" line="156" column="4" />
-        <mark key="]" line="156" column="4" />
-        <mark key="." line="156" column="4" />
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataupdaters/getters/UnifiedThreadContentsGetter.java" timestamp="1518034818416">
+        <mark key="[" line="136" column="8" />
+        <mark key="]" line="153" column="33" />
+        <mark key="." line="153" column="33" />
+        <mark key="^" line="153" column="33" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/ratchet/ObjectifyFactoryInterceptor.java" timestamp="1517955863252">
         <mark key="[" line="35" column="0" />
@@ -325,10 +319,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Any creator? - or only creators with active guest status?  We could add connecting and stuff later</text>
+        <text>Collections.emptyList();</text>
       </register>
       <register name="-" type="4">
-        <text>Any creator? - or only creators with active guest status?  We could add connecting and stuff later</text>
+        <text>Collections.emptyList();</text>
       </register>
       <register name="/" type="4">
         <text>instance</text>
@@ -337,31 +331,31 @@
         <text encoding="base64">CQkJCVRyZWVTZXQ8TG9uZz4gdmVyc2lvbnMgPSBrZXlzVG9WZXJzaW9uSWRzLnB1dElmQWJzZW50KGtleSwgQ29sbGVjdGlvbnMuc3luY2hyb25pemVkU29ydGVkU2V0KFNldHMubmV3VHJlZVNldCgpKTsKCQkJCXZlcnNpb25zLmFkZCh2ZXJzaW9uLmdldFZlcnNpb24oKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CUd1ZXN0cwoJT3JnPwo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">CQoJCQlMaXN0PFdvcmtmbG93PiB3b3JrZmxvd3NTaGFyZWRJblVzZXJPcmcgPSBEQU8uZ2V0QWxsV29ya2Zsb3dzU2hhcmVkSW5Vc2VyT3JnKHVLZXkpOwoJCUxpc3Q8V29ya2Zsb3c+IHdvcmtmbG93c1NoYXJlZFdpdGh1c2VyVHJhbnNhY3Rpb25sZXNzID0gREFPLmdldEFsbFdvcmtmbG93c1NoYXJlZFdpdGhVc2VyVHJhbnNhY3Rpb25sZXNzKHVLZXkpOwoJCUxpc3Q8V29ya2Zsb3c+IHdvcmtmbG93c1NoYXJlZEluVXNlclRlYW1zVHJhbnNhY3Rpb25sZXNzID0gREFPLmdldEFsbFdvcmtmbG93c1NoYXJlZEluVXNlclRlYW1zVHJhbnNhY3Rpb25sZXNzKHVLZXkpOwo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">CQo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">CW1lbQo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">CQkJCVNvcnRlZFNldDxMb25nPiB2ZXJzaW9ucyA9IGtleXNUb1ZlcnNpb25JZHMucHV0SWZBYnNlbnQoa2V5LAoJCQkJCQlDb2xsZWN0aW9ucy5zeW5jaHJvbml6ZWRTb3J0ZWRTZXQoU2V0cy5uZXdUcmVlU2V0KCkpKTsKCQkJCXZlcnNpb25zLmFkZCh2ZXJzaW9uKTsK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">CQkJCWxvbmcgdmVyc2lvCg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">CQlDb2xsZWN0aW9uPFRocmVhZEtleT4gdGhyZWFkS2V5cyA9IHVzZVNwYW5uZXIgPyBzcGFubmVyVGhyZWFkS2V5cyA6IGRzVGhyZWFkS2V5czsK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">CQlyZXR1cm4gCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">CQl0aHJlYUtleXMgCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">CQkvLyBJZiBndCBjcmVhdG9yIG5vdCBjdXJyZW50bHkgb24gdGVhbSwgcmVtb3ZlIHRoZWlyIHRocmVhZHMKCQkvLyBUaGlzIGlzIGEgc3RvcC1nYXAgc2VjdXJpdHkgbWVhc3VyZS4gIFdlIGFyZSBmZWVsaW5nIG91dCB3aGF0IHRoZSByZXNwb25zZSBpcyBmcm9tIG91ciBjdXN0b21lcnMsIGFuZCB3aGF0CgkJLy8gdGhlaXIgbmVlZHMgYXJlIGJlZm9yZSB3ZSBidWlsZCBhIHJlYWxseSBjb21wbGV4IHN5c3RlbQo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">CQkvLyBJZiBndCBjcmVhdG9yIG5vdCBjdXJyZW50bHkgb24gdGVhbSwgcmVtb3ZlIHRoZWlyIHRocmVhZHMKCQkvLyBUaGlzIGlzIGEgc3RvcC1nYXAgc2VjdXJpdHkgbWVhc3VyZS4gIFdlIGFyZSBmZWVsaW5nIG91dCB3aGF0IHRoZSByZXNwb25zZSBpcyBmcm9tIG91ciBjdXN0b21lcnMsIGFuZCB3aGF0CgkJLy8gdGhlaXIgbmVlZHMgYXJlIGJlZm9yZSB3ZSBidWlsZCBhIHJlYWxseSBjb21wbGV4IHN5c3RlbQoJCWlmICh0ZWFtICE9IG51bGwgJiYgIXRlYW0uaXNVc2VyTWVtYmVyKGd0LmdldENyZWF0b3JLZXkoKSkpIHsKCQkJdGhyZWFkS2V5cyA9IHRocmVhZEtleXMuc3RyZWFtKCkuZmlsdGVyKAoJCQkJCShrZXkpIC0+ICFrZXkudXNlci5nZXRLZXkoKS5lcXVhbHMoZ3QuZ2V0Q3JlYXRvcktleSgpKQoJCQkpLmNvbGxlY3QoQ29sbGVjdG9ycy50b1NldCgpKTsKCQl9Cg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJCXZlcnNpb25zLmFkZCh2ZXJzaW9uLmdldFZlcnNpb24oKSk7Cg==</text>
+        <text encoding="base64">CUd1ZXN0cwoJT3JnPwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJCWtleXNUb1ZlcnNpb25JZHMucHV0KGtleSwgU2V0cy5uZXdUcmVlU2V0KHZlcnNpb24pKTsK</text>
+        <text encoding="base64">CQoJCQlMaXN0PFdvcmtmbG93PiB3b3JrZmxvd3NTaGFyZWRJblVzZXJPcmcgPSBEQU8uZ2V0QWxsV29ya2Zsb3dzU2hhcmVkSW5Vc2VyT3JnKHVLZXkpOwoJCUxpc3Q8V29ya2Zsb3c+IHdvcmtmbG93c1NoYXJlZFdpdGh1c2VyVHJhbnNhY3Rpb25sZXNzID0gREFPLmdldEFsbFdvcmtmbG93c1NoYXJlZFdpdGhVc2VyVHJhbnNhY3Rpb25sZXNzKHVLZXkpOwoJCUxpc3Q8V29ya2Zsb3c+IHdvcmtmbG93c1NoYXJlZEluVXNlclRlYW1zVHJhbnNhY3Rpb25sZXNzID0gREFPLmdldEFsbFdvcmtmbG93c1NoYXJlZEluVXNlclRlYW1zVHJhbnNhY3Rpb25sZXNzKHVLZXkpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
