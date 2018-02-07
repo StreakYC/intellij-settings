@@ -14,6 +14,7 @@
         <mark key="]" line="0" column="9" />
         <mark key="." line="0" column="9" />
       </file>
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/Workflow.java" timestamp="1518039012492" />
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/pom.xml" timestamp="1518031188787" />
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/DAO.java" timestamp="1518032703352">
         <mark key="[" line="206" column="68" />
@@ -144,11 +145,10 @@
         <mark key="^" line="42" column="12" />
         <mark key="." line="42" column="12" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataupdaters/getters/UnifiedThreadContentsGetter.java" timestamp="1518034818416">
-        <mark key="[" line="136" column="8" />
-        <mark key="]" line="153" column="33" />
-        <mark key="." line="153" column="33" />
-        <mark key="^" line="153" column="33" />
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataupdaters/getters/UnifiedThreadContentsGetter.java" timestamp="1518039933385">
+        <mark key="[" line="143" column="0" />
+        <mark key="]" line="143" column="0" />
+        <mark key="." line="143" column="0" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/ratchet/ObjectifyFactoryInterceptor.java" timestamp="1517955863252">
         <mark key="[" line="35" column="0" />
@@ -216,7 +216,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="289" column="29" filename="$USER_HOME$/src/MailFoo/ServerCommon/pom.xml" />
       <jump line="293" column="29" filename="$USER_HOME$/src/MailFoo/ServerCommon/pom.xml" />
       <jump line="308" column="21" filename="$USER_HOME$/src/MailFoo/ServerCommon/pom.xml" />
       <jump line="340" column="29" filename="$USER_HOME$/src/MailFoo/ServerCommon/pom.xml" />
@@ -316,16 +315,17 @@
       <jump line="36" column="70" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/rewardly/mailfoo/unittests/RatchetUnitTests.java" />
       <jump line="12" column="79" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/ratchet/MutationFactory.java" />
       <jump line="30" column="8" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/rewardly/mailfoo/unittests/RatchetUnitTests.java" />
+      <jump line="124" column="30" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataupdaters/getters/UnifiedThreadContentsGetter.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Collections.emptyList();</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>Collections.emptyList();</text>
+        <text>candidateUserKeys</text>
       </register>
       <register name="/" type="4">
-        <text>instance</text>
+        <text>this</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQkJCVRyZWVTZXQ8TG9uZz4gdmVyc2lvbnMgPSBrZXlzVG9WZXJzaW9uSWRzLnB1dElmQWJzZW50KGtleSwgQ29sbGVjdGlvbnMuc3luY2hyb25pemVkU29ydGVkU2V0KFNldHMubmV3VHJlZVNldCgpKTsKCQkJCXZlcnNpb25zLmFkZCh2ZXJzaW9uLmdldFZlcnNpb24oKSk7Cg==</text>
@@ -334,46 +334,44 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CXByaXZhdGUgdm9pZCBzZXRBY2Nlc3NVc2VycygpIHsKCX0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQlDb2xsZWN0aW9uPFRocmVhZEtleT4gdGhyZWFkS2V5cyA9IHVzZVNwYW5uZXIgPyBzcGFubmVyVGhyZWFkS2V5cyA6IGRzVGhyZWFkS2V5czsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQlyZXR1cm4gCg==</text>
+        <text encoding="base64">CQlzZXRBY2Nlc3NVc2VycygpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQl0aHJlYUtleXMgCg==</text>
+        <text encoding="base64">CQlpbmRpcmVjdEFjY2Vzc1VzZXJzID0gbmV3IEhhc2hTZXQ8PigpOwoJCWlmICh3b3JrZmxvdy5pc09yZ1dpZGUoKSkgewoJCQlpbmRpcmVjdEFjY2Vzc1VzZXJzLmFkZEFsbChEQU8uZ2V0VXNlcktleXNJbk9yZyh3b3JrZmxvdy5nZXRPcmdLZXkoKSkpOwoJCX0KCQlpZiAod29ya2Zsb3cuaXNUZWFtV2lkZSgpKSB7CgkJCWlmIChudWxsID09IHRlYW0pIHsKCQkJCXRocm93IG5ldyBCYWRQYXJhbWV0ZXJzRXhjZXB0aW9uKCJObyB0ZWFtIGZvdW5kIGZvciB0ZWFtIHdpZGUgcGlwZWxpbmUiKTsKCQkJfQoJCQlpbmRpcmVjdEFjY2Vzc1VzZXJzLmFkZEFsbCh0ZWFtLmdldFVzZXJLZXlzRm9yVXNpbmdNZW1iZXJzKCkpOwoJCX0KCgkJZGlyZWN0QWNjZXNzVXNlcnMgPSB3b3JrZmxvdy5nZXRVc2Vyc1dpdGhFeHBsaWNpdEFjY2VzcygpOwoJCWRpcmVjdEFjY2Vzc1VzZXJzLnJlbW92ZUFsbChpbmRpcmVjdEFjY2Vzc1VzZXJzKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkvLyBJZiBndCBjcmVhdG9yIG5vdCBjdXJyZW50bHkgb24gdGVhbSwgcmVtb3ZlIHRoZWlyIHRocmVhZHMKCQkvLyBUaGlzIGlzIGEgc3RvcC1nYXAgc2VjdXJpdHkgbWVhc3VyZS4gIFdlIGFyZSBmZWVsaW5nIG91dCB3aGF0IHRoZSByZXNwb25zZSBpcyBmcm9tIG91ciBjdXN0b21lcnMsIGFuZCB3aGF0CgkJLy8gdGhlaXIgbmVlZHMgYXJlIGJlZm9yZSB3ZSBidWlsZCBhIHJlYWxseSBjb21wbGV4IHN5c3RlbQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkvLyBJZiBndCBjcmVhdG9yIG5vdCBjdXJyZW50bHkgb24gdGVhbSwgcmVtb3ZlIHRoZWlyIHRocmVhZHMKCQkvLyBUaGlzIGlzIGEgc3RvcC1nYXAgc2VjdXJpdHkgbWVhc3VyZS4gIFdlIGFyZSBmZWVsaW5nIG91dCB3aGF0IHRoZSByZXNwb25zZSBpcyBmcm9tIG91ciBjdXN0b21lcnMsIGFuZCB3aGF0CgkJLy8gdGhlaXIgbmVlZHMgYXJlIGJlZm9yZSB3ZSBidWlsZCBhIHJlYWxseSBjb21wbGV4IHN5c3RlbQoJCWlmICh0ZWFtICE9IG51bGwgJiYgIXRlYW0uaXNVc2VyTWVtYmVyKGd0LmdldENyZWF0b3JLZXkoKSkpIHsKCQkJdGhyZWFkS2V5cyA9IHRocmVhZEtleXMuc3RyZWFtKCkuZmlsdGVyKAoJCQkJCShrZXkpIC0+ICFrZXkudXNlci5nZXRLZXkoKS5lcXVhbHMoZ3QuZ2V0Q3JlYXRvcktleSgpKQoJCQkpLmNvbGxlY3QoQ29sbGVjdG9ycy50b1NldCgpKTsKCQl9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">CUd1ZXN0cwoJT3JnPwo=</text>
+      <register name="8" type="4">
+        <text encoding="base64">CS8qCgoJICov</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQoJCQlMaXN0PFdvcmtmbG93PiB3b3JrZmxvd3NTaGFyZWRJblVzZXJPcmcgPSBEQU8uZ2V0QWxsV29ya2Zsb3dzU2hhcmVkSW5Vc2VyT3JnKHVLZXkpOwoJCUxpc3Q8V29ya2Zsb3c+IHdvcmtmbG93c1NoYXJlZFdpdGh1c2VyVHJhbnNhY3Rpb25sZXNzID0gREFPLmdldEFsbFdvcmtmbG93c1NoYXJlZFdpdGhVc2VyVHJhbnNhY3Rpb25sZXNzKHVLZXkpOwoJCUxpc3Q8V29ya2Zsb3c+IHdvcmtmbG93c1NoYXJlZEluVXNlclRlYW1zVHJhbnNhY3Rpb25sZXNzID0gREFPLmdldEFsbFdvcmtmbG93c1NoYXJlZEluVXNlclRlYW1zVHJhbnNhY3Rpb25sZXNzKHVLZXkpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>instance</last-search>
+      <last-search>this</last-search>
       <last-offset />
-      <last-pattern>instance</last-pattern>
-      <last-replace>mutation</last-replace>
-      <last-substitute>instance</last-substitute>
+      <last-pattern>this</last-pattern>
+      <last-replace>workflow</last-replace>
+      <last-substitute>this</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>gprc</entry>
-        <entry>grpc</entry>
         <entry>....</entry>
         <entry encoding="base64">PA==</entry>
         <entry>)</entry>
@@ -392,10 +390,10 @@
         <entry>;</entry>
         <entry>T</entry>
         <entry>instance</entry>
+        <entry>thisworkflow</entry>
+        <entry>this</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zLywvIg==</entry>
-        <entry encoding="base64">JzwsJz5zLywvIiw=</entry>
         <entry>q</entry>
         <entry>e</entry>
         <entry>we</entry>
@@ -413,6 +411,8 @@
         <entry>wq</entry>
         <entry encoding="base64">JzwsJz5zL1QvPw==</entry>
         <entry encoding="base64">JzwsJz5zL2luc3RhbmNlL211dGF0aW9uL2c=</entry>
+        <entry encoding="base64">JzwsJz5zL3RoaXN3b3JrZmxvdw==</entry>
+        <entry encoding="base64">JzwsJz5zL3RoaXMvd29ya2Zsb3c=</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
