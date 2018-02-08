@@ -3,20 +3,17 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/ImmutableDataModelTransactionVersionsCallback.java" timestamp="1517964702025">
-        <mark key="[" line="34" column="0" />
-        <mark key="]" line="34" column="0" />
-        <mark key="." line="34" column="0" />
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/ratchet/MutationFactory.java" timestamp="1517875933756">
+        <mark key="'" line="15" column="79" />
+        <mark key="[" line="24" column="16" />
+        <mark key="]" line="24" column="17" />
+        <mark key="." line="24" column="17" />
+        <mark key="^" line="24" column="17" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/googlecode/objectify/objectify/5.1.17/objectify-5.1.17-sources.jar!/com/googlecode/objectify/cache/CachingAsyncDatastoreService.java" timestamp="1517957573490" />
-      <file name="/a.dummy" timestamp="1517942333260">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="9" />
-        <mark key="." line="0" column="9" />
-      </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/Workflow.java" timestamp="1518039012492" />
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/pom.xml" timestamp="1518031188787" />
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/DAO.java" timestamp="1518032703352">
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/DAO.java" timestamp="1518054846904">
         <mark key="[" line="206" column="68" />
         <mark key="]" line="206" column="84" />
         <mark key="^" line="206" column="84" />
@@ -66,17 +63,18 @@
         <mark key="^" line="128" column="16" />
         <mark key="." line="131" column="0" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/ratchet/RatchetObjectifyImpl.java" timestamp="1517956206366">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="16" column="38" />
-        <mark key="^" line="16" column="38" />
-        <mark key="." line="16" column="38" />
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/ratchet/RatchetObjectifyImpl.java" timestamp="1518049388761">
+        <mark key="[" line="16" column="57" />
+        <mark key="]" line="20" column="25" />
+        <mark key="." line="20" column="25" />
+        <mark key="^" line="20" column="25" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/ratchet/DatastoreWriteHookDelegate.java" timestamp="1518048222242">
-        <mark key="[" line="116" column="0" />
-        <mark key="]" line="116" column="0" />
-        <mark key="^" line="42" column="44" />
-        <mark key="." line="116" column="0" />
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/ratchet/DatastoreWriteHookDelegate.java" timestamp="1518056525601">
+        <mark key="'" line="99" column="54" />
+        <mark key="[" line="143" column="0" />
+        <mark key="]" line="143" column="0" />
+        <mark key="^" line="121" column="75" />
+        <mark key="." line="143" column="0" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/ratchet/Ratchet.java" timestamp="1517874605412">
         <mark key="[" line="102" column="24" />
@@ -96,7 +94,7 @@
         <mark key="^" line="4" column="64" />
         <mark key="." line="4" column="64" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/google/appengine/appengine-api-1.0-sdk/1.9.57/appengine-api-1.0-sdk-1.9.57.jar!/com/google/appengine/api/datastore/BaseAsyncDatastoreServiceImpl.class" timestamp="1517957631372" />
+      <file name="$MAVEN_REPOSITORY$/com/google/appengine/appengine-api-1.0-sdk/1.9.57/appengine-api-1.0-sdk-1.9.57.jar!/com/google/appengine/api/datastore/BaseAsyncDatastoreServiceImpl.class" timestamp="1518051214639" />
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/imap/SharedContactThreadContentsServlet.java" timestamp="1517263808736">
         <mark key="[" line="49" column="39" />
         <mark key="]" line="49" column="136" />
@@ -110,8 +108,18 @@
         <mark key="^" line="12" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/googlecode/objectify/objectify/5.1.17/objectify-5.1.17-sources.jar!/com/googlecode/objectify/util/ResultCache.java" timestamp="1517956819147" />
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/filters/SpannerFilter.java" timestamp="1517960344435">
-        <mark key="^" line="59" column="34" />
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/filters/SpannerFilter.java" timestamp="1518050416673">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="^" line="56" column="34" />
+        <mark key="." line="25" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/ratchet/Registrar.java" timestamp="1517866882095">
+        <mark key="'" line="10" column="22" />
+        <mark key="[" line="14" column="52" />
+        <mark key="]" line="15" column="33" />
+        <mark key="." line="15" column="33" />
+        <mark key="^" line="15" column="33" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/ratchet/RatchetSaverImpl.java" timestamp="1517953620257">
         <mark key="[" line="17" column="58" />
@@ -119,7 +127,8 @@
         <mark key="." line="18" column="36" />
         <mark key="^" line="18" column="36" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/google/appengine/appengine-api-1.0-sdk/1.9.57/appengine-api-1.0-sdk-1.9.57.jar!/com/google/appengine/api/datastore/AsyncDatastoreServiceImpl.class" timestamp="1517957723265" />
+      <file name="$MAVEN_REPOSITORY$/com/google/appengine/appengine-api-1.0-sdk/1.9.57/appengine-api-1.0-sdk-1.9.57.jar!/com/google/appengine/api/datastore/Entities.class" timestamp="1518056762404" />
+      <file name="$MAVEN_REPOSITORY$/com/google/appengine/appengine-api-1.0-sdk/1.9.57/appengine-api-1.0-sdk-1.9.57.jar!/com/google/appengine/api/datastore/AsyncDatastoreServiceImpl.class" timestamp="1518051363681" />
       <file name="$USER_HOME$/src/opencensus-java/impl_core/src/main/java/io/opencensus/implcore/internal/DaemonThreadFactory.java" timestamp="1517536829037">
         <mark key="[" line="48" column="25" />
         <mark key="]" line="48" column="36" />
@@ -133,6 +142,12 @@
         <mark key="." line="39" column="0" />
         <mark key="^" line="39" column="0" />
       </file>
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/ratchet/RatchetWriteEngine.java" timestamp="1518052654227">
+        <mark key="[" line="68" column="68" />
+        <mark key="]" line="82" column="38" />
+        <mark key="^" line="82" column="38" />
+        <mark key="." line="82" column="38" />
+      </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/filters/OfyFilter.java" timestamp="1517949991190">
         <mark key="[" line="96" column="4" />
         <mark key="]" line="94" column="0" />
@@ -145,6 +160,7 @@
         <mark key="^" line="42" column="12" />
         <mark key="." line="42" column="12" />
       </file>
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataupdaters/getters/UnifiedThreadContentsGetter.java" timestamp="1518054828828" />
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/ratchet/ObjectifyFactoryInterceptor.java" timestamp="1518048035986">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
@@ -157,21 +173,33 @@
         <mark key="." line="95" column="121" />
         <mark key="^" line="95" column="121" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/rewardly/mailfoo/unittests/StreakSpecificRatchetTests.java" timestamp="1517960456890">
-        <mark key="[" line="61" column="8" />
-        <mark key="]" line="61" column="8" />
-        <mark key="." line="61" column="8" />
-        <mark key="^" line="62" column="41" />
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/rewardly/mailfoo/unittests/StreakSpecificRatchetTests.java" timestamp="1518056053091">
+        <mark key="[" line="106" column="0" />
+        <mark key="]" line="106" column="0" />
+        <mark key="." line="106" column="0" />
+        <mark key="^" line="102" column="42" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/googlecode/objectify/objectify/5.1.17/objectify-5.1.17-sources.jar!/com/googlecode/objectify/impl/WriteEngine.java" timestamp="1518046386312" />
-      <file name="$MAVEN_REPOSITORY$/com/googlecode/objectify/objectify/5.1.17/objectify-5.1.17-sources.jar!/com/googlecode/objectify/impl/ObjectifyImpl.java" timestamp="1517943734722" />
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/SpannerDataModel.java" timestamp="1517874130383">
-        <mark key="[" line="37" column="14" />
-        <mark key="]" line="37" column="15" />
-        <mark key="." line="37" column="15" />
-        <mark key="^" line="124" column="20" />
+      <file name="$MAVEN_REPOSITORY$/com/googlecode/objectify/objectify/5.1.17/objectify-5.1.17-sources.jar!/com/googlecode/objectify/impl/WriteEngine.java" timestamp="1518049531145" />
+      <file name="$MAVEN_REPOSITORY$/com/googlecode/objectify/objectify/5.1.17/objectify-5.1.17-sources.jar!/com/googlecode/objectify/impl/ObjectifyImpl.java" timestamp="1518049365351" />
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/SpannerDataModel.java" timestamp="1518050020985">
+        <mark key="[" line="37" column="39" />
+        <mark key="]" line="40" column="11" />
+        <mark key="." line="40" column="11" />
+        <mark key="^" line="40" column="11" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/GmailThreadIdentifier.java" timestamp="1517859956534" />
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/GmailThreadIdentifier.java" timestamp="1518052781927">
+        <mark key="[" line="27" column="16" />
+        <mark key="]" line="27" column="22" />
+        <mark key="^" line="27" column="22" />
+        <mark key="." line="27" column="22" />
+      </file>
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/rewardly/mailfoo/unittests/RatchetUnitTests.java" timestamp="1517878115655">
+        <mark key="'" line="30" column="8" />
+        <mark key="[" line="54" column="0" />
+        <mark key="]" line="54" column="0" />
+        <mark key="." line="54" column="0" />
+        <mark key="^" line="54" column="62" />
+      </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/rewardly/mailfoo/unittests/Entities/Simple.java" timestamp="1517866213264">
         <mark key="[" line="10" column="4" />
         <mark key="]" line="10" column="10" />
@@ -191,13 +219,14 @@
         <mark key="^" line="9" column="41" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/googlecode/objectify/objectify/5.1.17/objectify-5.1.17-sources.jar!/com/googlecode/objectify/impl/SaverImpl.java" timestamp="1517952297765" />
+      <file name="$MAVEN_REPOSITORY$/com/google/appengine/appengine-api-1.0-sdk/1.9.57/appengine-api-1.0-sdk-1.9.57.jar!/com/google/appengine/api/datastore/DatastoreCallbacks.class" timestamp="1518050649487" />
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/SpannerDataModelTransactionCallback.java" timestamp="1517964784432">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
         <mark key="^" line="76" column="78" />
       </file>
-      <file name="/fragment.java" timestamp="1518042122542">
+      <file name="/fragment.java" timestamp="1518056145973">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -211,7 +240,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="308" column="21" filename="$USER_HOME$/src/MailFoo/ServerCommon/pom.xml" />
       <jump line="340" column="29" filename="$USER_HOME$/src/MailFoo/ServerCommon/pom.xml" />
       <jump line="344" column="29" filename="$USER_HOME$/src/MailFoo/ServerCommon/pom.xml" />
       <jump line="416" column="29" filename="$USER_HOME$/src/MailFoo/ServerCommon/pom.xml" />
@@ -311,46 +339,47 @@
       <jump line="30" column="8" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/rewardly/mailfoo/unittests/RatchetUnitTests.java" />
       <jump line="124" column="30" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataupdaters/getters/UnifiedThreadContentsGetter.java" />
       <jump line="79" column="0" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataupdaters/getters/UnifiedThreadContentsGetter.java" />
+      <jump line="99" column="54" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/ratchet/DatastoreWriteHookDelegate.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQlTeXN0ZW0ub3V0LnByaW50bG4oa2V5c1RvVmVyc2lvbklkcyk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>registerInterceptor();</text>
+        <text>key</text>
       </register>
       <register name="/" type="4">
         <text>this</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQkJCVRyZWVTZXQ8TG9uZz4gdmVyc2lvbnMgPSBrZXlzVG9WZXJzaW9uSWRzLnB1dElmQWJzZW50KGtleSwgQ29sbGVjdGlvbnMuc3luY2hyb25pemVkU29ydGVkU2V0KFNldHMubmV3VHJlZVNldCgpKTsKCQkJCXZlcnNpb25zLmFkZCh2ZXJzaW9uLmdldFZlcnNpb24oKSk7Cg==</text>
+        <text encoding="base64">CQkJCVN5c3RlbS5vdXQucHJpbnRsbihrZXkpOwoJCQkJU3lzdGVtLm91dC5wcmludGxuKHZlcnNpb24pOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQlTeXN0ZW0ub3V0LnByaW50bG4oa2V5c1RvVmVyc2lvbklkcyk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJU3lzdGVtLm91dC5wcmludGxuKHJlcXVlc3QuZ2V0RW50aXR5KDApLmdldFJhd1Byb3BlcnR5KDEpKTsK</text>
+        <text encoding="base64">CQkJCVN5c3RlbS5vdXQucHJpbnRsbih2ZXJzaW9uKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCWxvbmcgdmVyc2lvbiA9IHJlc3AuZ2V0VmVyc2lvbihpbmRleCk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQlLZXkgZW50aXR5R3JvdXBLZXkgPSBFbnRpdGllcy5jcmVhdGVFbnRpdHlHcm91cEtleShrZXkxKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CURhdGFzdG9yZVdyaXRlSG9va0RlbGVnYXRlIGRlbGVnYXRlOwo=</text>
+        <text encoding="base64">CQlQcmludFdyaXRlciB3cml0ZXIgPSBTeXN0ZW0ub3V0Owo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CXByaXZhdGUgdm9pZCByZWdpc3RlckludGVyY2VwdG9yKCkgewoKCX0K</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5nb29nbGVjb2RlLm9iamVjdGlmeS5PYmplY3RpZnlTZXJ2aWNlOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5nb29nbGVjb2RlLm9iamVjdGlmeS5LZXk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5nb29nbGUuYXBwaG9zdGluZy5hcGkuQXBpUHJveHk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkvLyBIYXZpbmcgc2V0RGVsZWdhdGUgcmV0dXJuIHRoZSBvbGQgb25lIHdvdWxkIGJlIG5pY2UKCQkvLyBUT0RPIC0gaG93IHNob3VsZCB0aGlzIHdvcmsgd2l0aCB0aHJlYWQgbG9jYWxpdHk/ICBXaWxsIHRoYXQgY2hhbmdlIHdpdGggdHJhbnNhY3Rpb25zPyBBcmUgd2UgbXVja2luZyB3aXRoCgkJLy8gb2JqZWN0aWZ5IGludGVybmFscz8gVGltZSB3aWxsIHRlbGwhCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -389,7 +418,6 @@
         <entry>this</entry>
       </history-search>
       <history-cmd>
-        <entry>q</entry>
         <entry>e</entry>
         <entry>we</entry>
         <entry encoding="base64">JzwsJz5zL3NwYW5uZXIgcmVhZC9zcGFubmVyIHJlYWQgbWVzc2FnZU9yVGhyZWFkL2c=</entry>
@@ -408,6 +436,7 @@
         <entry encoding="base64">JzwsJz5zL2luc3RhbmNlL211dGF0aW9uL2c=</entry>
         <entry encoding="base64">JzwsJz5zL3RoaXN3b3JrZmxvdw==</entry>
         <entry encoding="base64">JzwsJz5zL3RoaXMvd29ya2Zsb3c=</entry>
+        <entry encoding="base64">JzwsJz53</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
