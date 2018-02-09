@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/ImmutableDataModelTransactionVersionsCallback.java" timestamp="1518131454078">
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/ImmutableDataModelTransactionVersionsCallback.java" timestamp="1518197635507">
         <mark key="[" line="34" column="0" />
         <mark key="]" line="34" column="0" />
         <mark key="." line="34" column="0" />
@@ -208,6 +208,7 @@
         <mark key="^" line="6" column="42" />
         <mark key="." line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/rewardly/mailfoo/emailmanager/SpannerTests.java" timestamp="1518197604197" />
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/graphql/TeamOrganizationsDataFetcher.java" timestamp="1517253622103">
         <mark key="'" line="46" column="32" />
         <mark key="[" line="20" column="88" />
@@ -221,12 +222,12 @@
         <mark key="." line="95" column="121" />
         <mark key="^" line="95" column="121" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/rewardly/mailfoo/unittests/StreakSpecificRatchetTests.java" timestamp="1518133088864">
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/rewardly/mailfoo/unittests/StreakSpecificRatchetTests.java" timestamp="1518197687410">
         <mark key="'" line="26" column="34" />
-        <mark key="[" line="79" column="0" />
-        <mark key="]" line="79" column="0" />
-        <mark key="^" line="76" column="43" />
-        <mark key="." line="79" column="0" />
+        <mark key="[" line="58" column="33" />
+        <mark key="]" line="59" column="4" />
+        <mark key="^" line="59" column="4" />
+        <mark key="." line="59" column="4" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/googlecode/objectify/objectify/5.1.17/objectify-5.1.17-sources.jar!/com/googlecode/objectify/impl/WriteEngine.java" timestamp="1518049531145" />
       <file name="$MAVEN_REPOSITORY$/com/googlecode/objectify/objectify/5.1.17/objectify-5.1.17-sources.jar!/com/googlecode/objectify/impl/ObjectifyImpl.java" timestamp="1518049365351" />
@@ -296,11 +297,10 @@
         <mark key="." line="49" column="0" />
         <mark key="^" line="70" column="115" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/ratchet/RatchetService.java" timestamp="1518134242977">
-        <mark key="[" line="58" column="0" />
-        <mark key="]" line="59" column="34" />
-        <mark key="." line="59" column="34" />
-        <mark key="^" line="59" column="34" />
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/ratchet/RatchetService.java" timestamp="1518197842150">
+        <mark key="[" line="62" column="0" />
+        <mark key="]" line="62" column="0" />
+        <mark key="." line="62" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -406,11 +406,11 @@
       <jump line="9" column="43" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/Workflow.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>d$loadedObject, response.getVersion(i))</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQkJLy8gSSByZWFsbHkgZG9uJ3QgdW5kZXJzdGFuZCB3aHkgdGhleSBkb24ndCBoYQo=</text>
       </register>
       <register name="-" type="4">
-        <text>d$loadedObject, response.getVersion(i))</text>
+        <text encoding="base64">aW50IGkgPSAwOyBpIDwgcmVxdWVzdC5lbnRpdHlTaXplKCk7ICsraQ==</text>
       </register>
       <register name="/" type="4">
         <text>{</text>
@@ -419,31 +419,31 @@
         <text encoding="base64">CQlHbWFpbFRocmVhZElkZW50aWZpZXIgdGhyZWFkSWRlbnRpZmllclR4ID0gbmV3IEdtYWlsVGhyZWFkSWRlbnRpZmllcigKCQkJCW51bGwsCgkJCQlTcGFubmVyLm1ha2VTcGFubmVyUHJlZml4U3RyaW5nKCIxMjMxMjMiKSwKCQkJCUtleS5jcmVhdGUoVXNlci5jbGFzcywgImV4YW1wbGVAY29tbW9uLmNvbSIpLAoJCQkJbnVsbCwKCQkJCW51bGwsCgkJCQludWxsCgkJKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJLy8gSSByZWFsbHkgZG9uJ3QgdW5kZXJzdGFuZCB3aHkgdGhleSBkb24ndCBoYQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQlzcGFubmVyTXV0YXRpb25zLmFkZCgKCQkJCVJhdGNoZXRTZXJ2aWNlLm11dGF0aW9uRmFjdG9yeS5jcmVhdGVVcHNlcnQobG9hZGVkT2JqZWN0LCByZXNwb25zZS5nZXRWZXJzaW9uKGkpKQoJCSk7Cg==</text>
+        <text encoding="base64">CQkJLy8gVE9ETyBuZXcgc3R5bGUgbG9vcC4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CX0K</text>
+        <text encoding="base64">CQlSYXRjaGV0U2VydmljZS5yZWdpc3RlcihHbWFpbFRocmVhZElkZW50aWZpZXIuY2xhc3MpOwo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQlpCg==</text>
+        <text encoding="base64">CQlzcGFubmVyTXV0YXRpb25zLmFkZCgKCQkJCVJhdGNoZXRTZXJ2aWNlLm11dGF0aW9uRmFjdG9yeS5jcmVhdGVVcHNlcnQobG9hZGVkT2JqZWN0LCByZXNwb25zZS5nZXRWZXJzaW9uKGkpKQoJCSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5JdGVyYXRvcjsK</text>
+        <text encoding="base64">CX0K</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQlpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJUHV0UmVxdWVzdCBjdXJyZW50UHV0ID0gcHV0SXRlci5uZXh0KCk7Cg==</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5JdGVyYXRvcjsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
