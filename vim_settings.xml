@@ -3,12 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/ImmutableDataModelTransactionVersionsCallback.java" timestamp="1518197635507">
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/ImmutableDataModelTransactionVersionsCallback.java" timestamp="1518202580912">
         <mark key="[" line="34" column="0" />
         <mark key="]" line="34" column="0" />
         <mark key="." line="34" column="0" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/ratchet/MutationFactory.java" timestamp="1518132271354">
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/ratchet/MutationFactory.java" timestamp="1518202655004">
         <mark key="'" line="23" column="79" />
         <mark key="[" line="56" column="61" />
         <mark key="]" line="57" column="41" />
@@ -84,11 +84,11 @@
         <mark key="^" line="20" column="25" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/googlecode/objectify/objectify/5.1.17/objectify-5.1.17-sources.jar!/com/googlecode/objectify/cmd/Loader.java" timestamp="1518130299420" />
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/ratchet/Writer.java" timestamp="1518200565126">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="14" column="36" />
-        <mark key="^" line="14" column="36" />
-        <mark key="." line="14" column="36" />
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/ratchet/Writer.java" timestamp="1518202605756">
+        <mark key="[" line="15" column="47" />
+        <mark key="]" line="15" column="43" />
+        <mark key="^" line="15" column="43" />
+        <mark key="." line="15" column="43" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/ratchet/DatastoreWriteHookDelegate.java" timestamp="1518125099269">
         <mark key="[" line="24" column="63" />
@@ -304,10 +304,11 @@
         <mark key="." line="49" column="0" />
         <mark key="^" line="70" column="115" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/ratchet/RatchetService.java" timestamp="1518197842150">
-        <mark key="[" line="62" column="0" />
-        <mark key="]" line="62" column="0" />
-        <mark key="." line="62" column="0" />
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/ratchet/RatchetService.java" timestamp="1518202667825">
+        <mark key="[" line="67" column="58" />
+        <mark key="]" line="67" column="58" />
+        <mark key="." line="67" column="58" />
+        <mark key="^" line="66" column="34" />
       </file>
     </filemarks>
     <jumps>
@@ -413,11 +414,11 @@
       <jump line="9" column="43" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/Workflow.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQkJLy8gSSByZWFsbHkgZG9uJ3QgdW5kZXJzdGFuZCB3aHkgdGhleSBkb24ndCBoYQo=</text>
+      <register name="&quot;" type="4">
+        <text>instance</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">aW50IGkgPSAwOyBpIDwgcmVxdWVzdC5lbnRpdHlTaXplKCk7ICsraQ==</text>
+        <text>instance</text>
       </register>
       <register name="/" type="4">
         <text>{</text>
