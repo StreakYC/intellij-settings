@@ -8,7 +8,7 @@
         <mark key="]" line="34" column="0" />
         <mark key="." line="34" column="0" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/ratchet/MutationFactory.java" timestamp="1518202655004">
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/ratchet/MutationFactory.java" timestamp="1518203839945">
         <mark key="'" line="23" column="79" />
         <mark key="[" line="56" column="61" />
         <mark key="]" line="57" column="41" />
@@ -164,12 +164,12 @@
       </file>
       <file name="$MAVEN_REPOSITORY$/com/google/cloud/google-cloud-core-grpc/1.15.0/google-cloud-core-grpc-1.15.0-sources.jar!/com/google/cloud/grpc/GrpcTransportOptions.java" timestamp="1518198648562" />
       <file name="$MAVEN_REPOSITORY$/com/google/appengine/appengine-api-1.0-sdk/1.9.57/appengine-api-1.0-sdk-1.9.57.jar!/com/google/appengine/api/datastore/Entities.class" timestamp="1518056762404" />
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/ratchet/TransactionRecorder.java" timestamp="1518134369599">
-        <mark key="'" line="23" column="4" />
-        <mark key="[" line="66" column="32" />
-        <mark key="]" line="68" column="24" />
-        <mark key="." line="68" column="24" />
-        <mark key="^" line="68" column="24" />
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/ratchet/TransactionRecorder.java" timestamp="1518204054946">
+        <mark key="'" line="24" column="4" />
+        <mark key="[" line="78" column="0" />
+        <mark key="]" line="78" column="0" />
+        <mark key="^" line="67" column="47" />
+        <mark key="." line="78" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/google/appengine/appengine-api-1.0-sdk/1.9.57/appengine-api-1.0-sdk-1.9.57.jar!/com/google/appengine/api/datastore/AsyncDatastoreServiceImpl.class" timestamp="1518051363681" />
       <file name="$USER_HOME$/src/opencensus-java/impl_core/src/main/java/io/opencensus/implcore/internal/DaemonThreadFactory.java" timestamp="1517536829037">
@@ -414,8 +414,8 @@
       <jump line="9" column="43" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/Workflow.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>instance</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>instance</text>
@@ -427,31 +427,31 @@
         <text encoding="base64">CQlHbWFpbFRocmVhZElkZW50aWZpZXIgdGhyZWFkSWRlbnRpZmllclR4ID0gbmV3IEdtYWlsVGhyZWFkSWRlbnRpZmllcigKCQkJCW51bGwsCgkJCQlTcGFubmVyLm1ha2VTcGFubmVyUHJlZml4U3RyaW5nKCIxMjMxMjMiKSwKCQkJCUtleS5jcmVhdGUoVXNlci5jbGFzcywgImV4YW1wbGVAY29tbW9uLmNvbSIpLAoJCQkJbnVsbCwKCQkJCW51bGwsCgkJCQludWxsCgkJKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJLy8gSSByZWFsbHkgZG9uJ3QgdW5kZXJzdGFuZCB3aHkgdGhleSBkb24ndCBoYQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJLy8gVE9ETyBuZXcgc3R5bGUgbG9vcC4K</text>
+        <text encoding="base64">CQkJCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQlSYXRjaGV0U2VydmljZS5yZWdpc3RlcihHbWFpbFRocmVhZElkZW50aWZpZXIuY2xhc3MpOwo=</text>
+        <text encoding="base64">CQkJCXNwYW5uZXJNdXRhdGlvbnMuYWRkKAo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">CQkJUmF0Y2hldFNlcnZpY2UubXV0YXRpb25GYWN0b3J5LmNyZWF0ZVVwc2VydCgKCQkJCQkJCQlpbnN0YW5jZSwKCQkJCQkJCQkKCQkJCQkJKQoJCQkJKTs=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQlzcGFubmVyTXV0YXRpb25zLmFkZCgKCQkJCVJhdGNoZXRTZXJ2aWNlLm11dGF0aW9uRmFjdG9yeS5jcmVhdGVVcHNlcnQobG9hZGVkT2JqZWN0LCByZXNwb25zZS5nZXRWZXJzaW9uKGkpKQoJCSk7Cg==</text>
+        <text encoding="base64">CQkJCU9iamVjdCBpbnN0YW5jZSA9IGtleU9iamVjdHMuZ2V0KGVudHJ5LmdldEtleSgpKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CX0K</text>
+        <text encoding="base64">CQkJLy8gSSByZWFsbHkgZG9uJ3QgdW5kZXJzdGFuZCB3aHkgdGhleSBkb24ndCBoYQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJLy8gVE9ETyBuZXcgc3R5bGUgbG9vcC4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQlpCg==</text>
+        <text encoding="base64">CQlSYXRjaGV0U2VydmljZS5yZWdpc3RlcihHbWFpbFRocmVhZElkZW50aWZpZXIuY2xhc3MpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5JdGVyYXRvcjsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
