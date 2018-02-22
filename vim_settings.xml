@@ -252,6 +252,7 @@
         <mark key="." line="18" column="36" />
         <mark key="^" line="18" column="36" />
       </file>
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/nondatastore/ThreadInfo.java" timestamp="1519327906959" />
       <file name="$USER_HOME$/src/opencensus-java/impl_core/src/main/java/io/opencensus/implcore/internal/DaemonThreadFactory.java" timestamp="1517536829037">
         <mark key="[" line="48" column="25" />
         <mark key="]" line="48" column="36" />
@@ -369,11 +370,11 @@
       <file name="/Dummy.txt" timestamp="1519252120544">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataupdaters/getters/ThreadInfoSpannerGetter.java" timestamp="1519320492232">
-        <mark key="[" line="44" column="140" />
-        <mark key="]" line="44" column="140" />
-        <mark key="." line="44" column="140" />
-        <mark key="^" line="44" column="140" />
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataupdaters/getters/ThreadInfoSpannerGetter.java" timestamp="1519327943341">
+        <mark key="[" line="49" column="4" />
+        <mark key="]" line="50" column="12" />
+        <mark key="." line="50" column="12" />
+        <mark key="^" line="50" column="12" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/calendar/CalendarSharingServlet.java" timestamp="1517264048326">
         <mark key="[" line="95" column="71" />
@@ -394,7 +395,7 @@
         <mark key="^" line="12" column="18" />
         <mark key="." line="12" column="18" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataupdaters/getters/ThreadInfoDataStoreGetter.java" timestamp="1519320425594" />
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataupdaters/getters/ThreadInfoDataStoreGetter.java" timestamp="1519327890208" />
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/ratchet/translate/DataClassTranslatorFactory.java" timestamp="1519237857941">
         <mark key="[" line="12" column="55" />
         <mark key="]" line="12" column="124" />
@@ -602,11 +603,11 @@
       <jump line="106" column="41" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/rewardly/mailfoo/unittests/StreakSpecificRatchetTests.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQkJCg==</text>
+      <register name="&quot;" type="4">
+        <text>bumpLater</text>
       </register>
       <register name="-" type="4">
-        <text>=</text>
+        <text>bumpLater</text>
       </register>
       <register name="/" type="4">
         <text>MailMer</text>
@@ -615,31 +616,31 @@
         <text encoding="base64">CXByaXZhdGUgZmluYWwgRW50aXR5R2V0dGVyIGRhdGFTdG9yZUdldHRlciA9IG5ldyBUaHJlYWRJbmZvRGF0YVN0b3JlR2V0dGVyKCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJCg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">CQlyZXR1cm4gZGF0YVN0b3JlR2V0dGVyLmdldEVudGl0eSh1LCBwYXJhbXMsIGFtKTsK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">CQkvLyBUTwo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5yZXdhcmRseS5tYWlsZm9vLmRhdGF1cGRhdGVycy5nZXR0ZXJzLlRocmVhZEluZm9EYXRhU3RvcmVHZXR0ZXI7Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">CQkJLy8gVE9ETyBhZGQgVGhyZWFkSW5mb1BveHkgaGVyZQo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">CQkJTWFwPFN0cmluZywgQ2FzZT4gY2FzZU1hcCA9IG5ldyBIYXNoTWFwPD4oKTsK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">CQkJZG9BbGxBY2Nlc3NDaGVja3MoYW0sIHUsIGd0aXMsIHdvcmtmbG93TWFwLCBjYXNlRW50aXR5TWFwLCBoZXhJZFRvQ2FzZUtleU1hcCwgZ21haWxUaHJlYWRNYXAsIHRyYWNrZWRUaHJlYWRNYXAsIHRlYW1NYXApOwo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">CQkJcHJlcGFyZU9iamVjdHNGb3JTZXJpYWxpemF0aW9uKHUsIGd0aXMsIGJ1bXBMYXRlcnMsIGNhc2VNYXAsIHRyYWNrZWRUaHJlYWRzLCBnbWFpbFRocmVhZHMpOwoKCQkJTWFwPFN0cmluZywgVGhyZWFkSW5mbz4gdGhyZWFkSW5mb3MgPSBjcmVhdGVUaHJlYWRJbmZvcyhoZXhHbWFpbFRocmVhZElkQXJyYXksIGJ1bXBMYXRlcnMsIGNhc2VNYXAsIHRyYWNrZWRUaHJlYWRzLCBnbWFpbFRocmVhZHMsIGhleElkVG9DYXNlS2V5TWFwKTsKCQkJcC5lbmQoInByZXBhcmVSZXNwb25zZSIpOwo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">CQkJcC5zdGFydCgicHJlcGFyZVJlc3BvbnNlIik7Cg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkvLyBUT0RPIGFkZCBkZWxldGlvbgo=</text>
+        <text encoding="base64">CQkJcC5lbmQoImdldENhc2VzQW5kVHJhY2tlZFRocmVhZHMiKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQlUcmFuc2xhdG9ycyB0cmFuc2xhdG9ycyA9IG5ldyBUcmFuc2xhdG9ycygpOwo=</text>
+        <text encoding="base64">CQkJTG9nZ2VyLmxvZygiR1RJcyBmZXRjaGVkOiAiICsgZ3Rpcy5zaXplKCkpOwoJCQlMb2dnZXIubG9nKCJXb3JrZmxvd3MgZmV0Y2hlZDogIiArIHdvcmtmbG93TWFwLnNpemUoKSk7CgkJCUxvZ2dlci5sb2coIkdtYWlsIFRocmVhZHMgZmV0Y2hlZDogIiArIGdtYWlsVGhyZWFkTWFwLnNpemUoKSk7CgkJCUxvZ2dlci5sb2coIlRyYWNrZWQgVGhyZWFkcyBmZXRjaGVkOiAiICsgdHJhY2tlZFRocmVhZE1hcC5zaXplKCkpOwoJCQlMb2dnZXIubG9nKCJCdW1wIExhdGVycyBmZXRjaGVkOiAiICsgYnVtcExhdGVycy5zaXplKCkpOwoJCQlMb2dnZXIubG9nKCJDYXNlcyBmZXRjaGVkOiAiICsgY2FzZUVudGl0eU1hcC5zaXplKCkpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy50ZXN0bmcuYW5ub3RhdGlvbnMuQmVmb3JlU3VpdGU7Cg==</text>
+        <text encoding="base64">CQkJcC5zdGFydCgiZ2V0Q2FzZXNBbmRUcmFja2VkVGhyZWFkcyIpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
