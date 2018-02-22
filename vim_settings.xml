@@ -372,11 +372,11 @@
       <file name="/Dummy.txt" timestamp="1519252120544">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataupdaters/getters/ThreadInfoSpannerGetter.java" timestamp="1519329665435">
-        <mark key="[" line="61" column="0" />
-        <mark key="]" line="61" column="0" />
-        <mark key="." line="61" column="0" />
-        <mark key="^" line="61" column="55" />
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataupdaters/getters/ThreadInfoSpannerGetter.java" timestamp="1519331431464">
+        <mark key="[" line="62" column="25" />
+        <mark key="]" line="65" column="28" />
+        <mark key="." line="65" column="28" />
+        <mark key="^" line="65" column="28" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/calendar/CalendarSharingServlet.java" timestamp="1517264048326">
         <mark key="[" line="95" column="71" />
@@ -397,7 +397,9 @@
         <mark key="^" line="12" column="18" />
         <mark key="." line="12" column="18" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataupdaters/getters/ThreadInfoDataStoreGetter.java" timestamp="1519327890208" />
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataupdaters/getters/ThreadInfoDataStoreGetter.java" timestamp="1519331033663">
+        <mark key="'" line="82" column="110" />
+      </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/ratchet/translate/DataClassTranslatorFactory.java" timestamp="1519237857941">
         <mark key="[" line="12" column="55" />
         <mark key="]" line="12" column="124" />
@@ -503,11 +505,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="653" column="54" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/google/cloud/spanner/SessionPool.java" />
-      <jump line="658" column="62" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/google/cloud/spanner/SessionPool.java" />
-      <jump line="665" column="54" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/google/cloud/spanner/SessionPool.java" />
-      <jump line="666" column="37" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/google/cloud/spanner/SessionPool.java" />
-      <jump line="671" column="31" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/google/cloud/spanner/SessionPool.java" />
       <jump line="672" column="24" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/google/cloud/spanner/SessionPool.java" />
       <jump line="981" column="24" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/google/cloud/spanner/SessionPool.java" />
       <jump line="57" column="39" filename="$USER_HOME$/src/opencensus-java/impl_core/src/main/java/io/opencensus/implcore/internal/DaemonThreadFactory.java" />
@@ -603,43 +600,48 @@
       <jump line="30" column="45" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/rewardly/mailfoo/unittests/StreakSpecificRatchetTests.java" />
       <jump line="96" column="4" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/rewardly/mailfoo/unittests/StreakSpecificRatchetTests.java" />
       <jump line="106" column="41" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/rewardly/mailfoo/unittests/StreakSpecificRatchetTests.java" />
+      <jump line="64" column="49" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataupdaters/getters/ThreadInfoDataStoreGetter.java" />
+      <jump line="73" column="24" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataupdaters/getters/ThreadInfoDataStoreGetter.java" />
+      <jump line="74" column="58" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataupdaters/getters/ThreadInfoDataStoreGetter.java" />
+      <jump line="77" column="118" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataupdaters/getters/ThreadInfoDataStoreGetter.java" />
+      <jump line="82" column="110" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataupdaters/getters/ThreadInfoDataStoreGetter.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CQkJTWFwPEtleTxXb3JrZmxvdz4sIFdvcmtmbG93PiB3b3JrZmxvd01hcCA9IERBTy5nZXRXb3JrZmxvd3NGb3JHVElzKGd0aXMpOwo=</text>
+        <text encoding="base64">CQkJc2VsZWN0ICogZnJvbSB0cmFja2VkVGhyZWFkIHdoZXJlIGhleEdtYWlsVGhyZWFkSWQgaW4gKCkgLy8gR1RJPwo=</text>
       </register>
       <register name="-" type="4">
-        <text>bumpLater</text>
+        <text>y</text>
       </register>
       <register name="/" type="4">
-        <text>MailMer</text>
+        <text>Case</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CXByaXZhdGUgZmluYWwgRW50aXR5R2V0dGVyIGRhdGFTdG9yZUdldHRlciA9IG5ldyBUaHJlYWRJbmZvRGF0YVN0b3JlR2V0dGVyKCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJTWFwPEtleTxXb3JrZmxvdz4sIFdvcmtmbG93PiB3b3JrZmxvd01hcCA9IERBTy5nZXRXb3JrZmxvd3NGb3JHVElzKGd0aXMpOwo=</text>
+        <text encoding="base64">CQkJc2VsZWN0ICogZnJvbSB0cmFja2VkVGhyZWFkIHdoZXJlIGhleEdtYWlsVGhyZWFkSWQgaW4gKCkgLy8gR1RJPwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJc2VsZWN0ICogZnJvbSB3b3JrZmxvd3Mgd2hlcmUgPz8gaW4gKHNlbGVjdCAqIGZyb20gZ21haWxUaHJlYWRJSWRlbnRpZmllcikgKG9yIGVtYWlsIG1hbmFnZXIpIC8vIG9ubHkgbmVlZGVkIGZvciBwZXJtcyAvIGxpbmtpbmcK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJTWFwPEtleTxHbWFpbFRocmVhZElkZW50aWZpZXI+LCBHbWFpbFRocmVhZElkZW50aWZpZXI+IGd0aXMgPSBEQU8uZ2V0R21haWxUaHJlYWRJZGVudGlmaWVyc0ZvckdtYWlsVGhyZWFkTGlzdChoZXhHbWFpbFRocmVhZElkQXJyYXksIHUpOwoKCQkJTWFwPFN0cmluZywgS2V5PENhc2U+PiBoZXhJZFRvQ2FzZUtleU1hcCA9IGdldENhc2VLZXlzRm9yR1RJcyhndGlzKTsK</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5yZXdhcmRseS5tYWlsZm9vLmRhdGFhY2Nlc3MuUmVxdWVzdFVzZXJDYWNoZTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJUmVxdWVzdFVzZXJDYWNoZS5JTlNUQU5DRS5wcmVmaWxsQ2FjaGUodXNlcktleXNPZkFsbFNoYXJpbmdFbnRyaWVzRm9yQWxsQ2FzZXMpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJTWFwPEtleTxUcmFja2VkVGhyZWFkPiwgVHJhY2tlZFRocmVhZD4gdHJhY2tlZFRocmVhZE1hcCA9IERBTy5nZXRUcmFja2VkVGhyZWFkRm9yR21haWxUaHJlYWRMaXN0KGhleEdtYWlsVGhyZWFkSWRBcnJheSwgdS5nZXRVc2VyS2V5KCkpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJTWFwPFN0cmluZywgR21haWxUaHJlYWQ+IGdtYWlsVGhyZWFkcyA9IGdldEdtYWlsVGhyZWFkc0ZvckhleEdtYWlsVGhyZWFkTGlzdChnbWFpbFRocmVhZE1hcCwgZ3RpcywgaGV4R21haWxUaHJlYWRJZEFycmF5LCB1KTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJTWFwPEtleTxUZWFtPiwgVGVhbT4gdGVhbU1hcCA9IERBTy5nZXRUZWFtc0Zyb21Vc2Vyc1RlYW1zT3JEYXRhc3RvcmUoVGVhbS5nZXRUZWFtS2V5c0ZvclNjb3BlZFRvVGVhbU9iamVjdHMod29ya2Zsb3dNYXAudmFsdWVzKCkpKTsK</text>
+        <text encoding="base64">CQkJLy8gVE9ETywgb2theSwgd3RmIGRvZXMgdGhpcyBkbz8K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJZ2V0Q2FzZXNGb3JIZXhHbWFpbFRocmVhZExpc3QoY2FzZUVudGl0eU1hcCwgZ3RpcywgaGV4R21haWxUaHJlYWRJZEFycmF5LCB1LCBjYXNlTWFwKTsKCQkJTWFwPFN0cmluZywgVHJhY2tlZFRocmVhZD4gdHJhY2tlZFRocmVhZHMgPSBnZXRIZXhHbWFpbFRocmVhZElkc1RvVHJhY2tlZFRocmVhZHModHJhY2tlZFRocmVhZE1hcCk7Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
@@ -649,9 +651,9 @@
       </register>
     </registers>
     <search>
-      <last-search>MailMer</last-search>
+      <last-search>Case</last-search>
       <last-offset />
-      <last-pattern>MailMer</last-pattern>
+      <last-pattern>Case</last-pattern>
       <last-replace>newComplex</last-replace>
       <last-substitute>complex</last-substitute>
       <last-dir>1</last-dir>
@@ -659,7 +661,6 @@
     </search>
     <history>
       <history-search>
-        <entry>columnIndex</entry>
         <entry>equals</entry>
         <entry>key</entry>
         <entry>GmailThreadIdentifier</entry>
@@ -679,6 +680,7 @@
         <entry>DataSt</entry>
         <entry>Write</entry>
         <entry>MailMer</entry>
+        <entry>Case</entry>
       </history-search>
       <history-cmd>
         <entry>s/keyname/webSafeKey</entry>
