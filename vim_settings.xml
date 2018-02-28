@@ -35,7 +35,7 @@
         <mark key="^" line="1190" column="23" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataupdaters/getters/TeamGetter.java" timestamp="1519774082413" />
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataupdaters/getters/UnifiedMessageGetter.java" timestamp="1519777240423">
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataupdaters/getters/UnifiedMessageGetter.java" timestamp="1519780729496">
         <mark key="[" line="43" column="0" />
         <mark key="]" line="43" column="0" />
         <mark key="^" line="43" column="92" />
@@ -170,11 +170,12 @@
         <mark key="^" line="18" column="36" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/googlecode/objectify/objectify/5.1.17/objectify-5.1.17-sources.jar!/com/googlecode/objectify/impl/translate/ClassPopulator.java" timestamp="1519417736884" />
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataupdaters/getters/UnifiedAttachmentGetter.java" timestamp="1519673161607">
-        <mark key="[" line="35" column="16" />
-        <mark key="]" line="35" column="30" />
-        <mark key="^" line="35" column="30" />
-        <mark key="." line="35" column="30" />
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataupdaters/getters/UnifiedAttachmentGetter.java" timestamp="1519780799829">
+        <mark key="'" line="43" column="18" />
+        <mark key="[" line="58" column="0" />
+        <mark key="]" line="58" column="0" />
+        <mark key="^" line="57" column="18" />
+        <mark key="." line="58" column="0" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/utils/SpannerThreadSyncer.java" timestamp="1519773402396">
         <mark key="'" line="52" column="18" />
@@ -615,7 +616,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="18" column="0" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/ratchet/translate/ListTranslator.java" />
       <jump line="59" column="31" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/GmailThreadIdentifier.java" />
       <jump line="23" column="49" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/ratchet/Metadata.java" />
       <jump line="32" column="37" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/ratchet/translate/DateTranslator.java" />
@@ -715,63 +715,63 @@
       <jump line="61" column="49" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/utils/SpannerThreadSyncer.java" />
       <jump line="80" column="28" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/utils/SpannerThreadSyncer.java" />
       <jump line="52" column="18" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/utils/SpannerThreadSyncer.java" />
+      <jump line="43" column="18" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataupdaters/getters/UnifiedAttachmentGetter.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CS8vIFRPRE8gLSBkZWR1cGUgdGhpcyBzaGl0IChBREQgSEFTSCBDT0RFISkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>.printStackTrace(); // TODO do the bounce up thing</text>
       </register>
       <register name="/" type="4">
-        <text>^</text>
+        <text>message</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQkJdGhpcy5naWQgPSBnaWQ7CgkJCXRoaXMubWVzc2FnZUlkID0gbWVzc2FnZUlkOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CS8vIFRPRE8gLSBkZWR1cGUgdGhpcyBzaGl0IChBREQgSEFTSCBDT0RFISkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQlyZXR1cm4gbmV3IEF0dGFjaG1lbnQoKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQlMaXN0PE1lc3NhZ2U+IG1lc3NhZ2VzID0gbmV3IEFycmF5TGlzdDw+KCk7Cg==</text>
+        <text encoding="base64">CS8vIFRPRE8gLSBkZWR1cGUgdGhpcyBzaGl0IChBREQgSEFTSCBDT0RFISkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJTGlzdDxGdXR1cmU8TWVzc2FnZT4+IGZ1dHVyZXM7Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">CQkJCU1lc3NhZ2UgbWVzc2FnZSA9IG51bGw7Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">CQkJCWlmIChudWxsICE9IG1lc3NhZ2UpIHsKCQkJCQltZXNzYWdlcy5hZGQobWVzc2FnZSk7CgkJCQl9Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">CQlyZXR1cm4gcG9vbC5zdWJtaXQoICgpIC0+CgkJCW1ldGFkYXRhLnBhcmFsbGVsU3RyZWFtKCkKCQkJCQkubWFwKChtZXRhKSAtPiB7CgkJCQkJCXRyeSB7CgkJCQkJCQl0cnkgKENsb3NlYWJsZSBjbG9zZWFibGUgPSBPYmplY3RpZnlTZXJ2aWNlLmJlZ2luKCkpIHsKCQkJCQkJCQlyZXR1cm4KCQkJCQkJCX0KCQkJCQkJfQoJCQkJCQljYXRjaCAoSU9FeGNlcHRpb24gfCBOb09hdXRoQ3JlZGVudGlhbHNFeGNlcHRpb24gZSkgewoJCQkJCQkJcmV0dXJuIG51bGw7CgkJCQkJCX0KCQkJCQl9KQoJCQkJCS5maWx0ZXIoT2JqZWN0czo6bm9uTnVsbCkKCQkJCQkuY29sbGVjdChDb2xsZWN0b3JzLnRvTGlzdCgpKQoJCSkuZ2V0KCk7Cg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">CQlMaXN0PE1lc3NhZ2U+IG1lc3NhZ2VzID0gbmV3IEFycmF5TGlzdDw+KCk7Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">CQkJTGlzdDxGdXR1cmU8TWVzc2FnZT4+IGZ1dHVyZXM7Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">CQkJCU1lc3NhZ2UgbWVzc2FnZSA9IG51bGw7Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">CQkJCWlmIChudWxsICE9IG1lc3NhZ2UpIHsKCQkJCQltZXNzYWdlcy5hZGQobWVzc2FnZSk7CgkJCQl9Cg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">CQllcy5zdWJtaXQoKQo=</text>
+        <text encoding="base64">CQlyZXR1cm4gcG9vbC5zdWJtaXQoICgpIC0+CgkJCW1ldGFkYXRhLnBhcmFsbGVsU3RyZWFtKCkKCQkJCQkubWFwKChtZXRhKSAtPiB7CgkJCQkJCXRyeSB7CgkJCQkJCQl0cnkgKENsb3NlYWJsZSBjbG9zZWFibGUgPSBPYmplY3RpZnlTZXJ2aWNlLmJlZ2luKCkpIHsKCQkJCQkJCQlyZXR1cm4KCQkJCQkJCX0KCQkJCQkJfQoJCQkJCQljYXRjaCAoSU9FeGNlcHRpb24gfCBOb09hdXRoQ3JlZGVudGlhbHNFeGNlcHRpb24gZSkgewoJCQkJCQkJcmV0dXJuIG51bGw7CgkJCQkJCX0KCQkJCQl9KQoJCQkJCS5maWx0ZXIoT2JqZWN0czo6bm9uTnVsbCkKCQkJCQkuY29sbGVjdChDb2xsZWN0b3JzLnRvTGlzdCgpKQoJCSkuZ2V0KCk7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text encoding="base64">JzwsJz5zL21lc3NhZ2UvYXR0YWNobWVudC9n</text>
       </register>
     </registers>
     <search>
-      <last-search>^</last-search>
+      <last-search>message</last-search>
       <last-offset />
-      <last-pattern>^</last-pattern>
-      <last-replace encoding="base64">aWYgKG51bGwgIT0gbWVzc2FnZS5YICkg</last-replace>
-      <last-substitute>^</last-substitute>
+      <last-pattern>message</last-pattern>
+      <last-replace>attachment</last-replace>
+      <last-substitute>message</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>public</entry>
         <entry>this</entry>
         <entry>Message</entry>
         <entry>;.*</entry>
@@ -791,9 +791,9 @@
         <entry>$</entry>
         <entry>builder</entry>
         <entry>^</entry>
+        <entry>message</entry>
       </history-search>
       <history-cmd>
-        <entry>s/gid/historyId/g</entry>
         <entry>s/gid/internalDate/g</entry>
         <entry>s/gid/sizeEstimate/g</entry>
         <entry>s/gid/snippet/g</entry>
@@ -813,6 +813,7 @@
         <entry encoding="base64">JzwsJz5zL2J1aWxkZXIvbWFpbGJveEJ1aWxkZXI=</entry>
         <entry encoding="base64">JzwsJz5zL14vaWYgKG51bGwgIT0gbWVzc2FnZS5YICkg</entry>
         <entry>w</entry>
+        <entry encoding="base64">JzwsJz5zL21lc3NhZ2UvYXR0YWNobWVudC9n</entry>
       </history-cmd>
       <history-expr />
       <history-input />
