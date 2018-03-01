@@ -36,13 +36,6 @@
         <mark key="^" line="21" column="16" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/DAO.java" timestamp="1519924563268">
-        <mark key="'" line="545" column="0" />
-        <mark key="[" line="2119" column="59" />
-        <mark key="]" line="2130" column="26" />
-        <mark key="." line="2130" column="26" />
-        <mark key="^" line="2130" column="26" />
-      </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataupdaters/getters/UnifiedMessageGetter.java" timestamp="1519782533763">
         <mark key="[" line="45" column="0" />
         <mark key="]" line="45" column="0" />
@@ -254,12 +247,6 @@
         <mark key="]" line="2" column="0" />
         <mark key="^" line="6" column="42" />
         <mark key="." line="2" column="0" />
-      </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataupdaters/getters/UnifiedThreadContentsGetter.java" timestamp="1519924618803">
-        <mark key="[" line="181" column="34" />
-        <mark key="]" line="182" column="57" />
-        <mark key="^" line="182" column="57" />
-        <mark key="." line="182" column="57" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataupdaters/getters/ThreadInfoSpannerGetter.java" timestamp="1519339476312">
         <mark key="[" line="71" column="59" />
@@ -596,11 +583,11 @@
         <mark key="^" line="29" column="20" />
         <mark key="." line="29" column="20" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/rewardly/mailfoo/helpers/FixtureLoader.java" timestamp="1519922974172">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="6" column="19" />
-        <mark key="." line="6" column="19" />
-        <mark key="^" line="6" column="19" />
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/rewardly/mailfoo/helpers/FixtureLoader.java" timestamp="1519925689595">
+        <mark key="[" line="8" column="54" />
+        <mark key="]" line="8" column="79" />
+        <mark key="." line="8" column="79" />
+        <mark key="^" line="8" column="79" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/ratchet/Metadata.java" timestamp="1519255019518">
         <mark key="[" line="31" column="29" />
@@ -735,11 +722,11 @@
       <jump line="33" column="0" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/nondatastore/MessageToken.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">fQo=</text>
+      <register name="&quot;" type="4">
+        <text>file/test.xml&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>'chantelle@voltera.io'&quot;</text>
+        <text>file/test.xml&quot;</text>
       </register>
       <register name="/" type="4">
         <text>ArrayList</text>
