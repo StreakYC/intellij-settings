@@ -21,12 +21,11 @@
         <mark key="^" line="14" column="18" />
         <mark key="." line="14" column="18" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/spanner/queries/ThreadInfo.java" timestamp="1520624637378">
-        <mark key="'" line="51" column="12" />
-        <mark key="[" line="30" column="83" />
-        <mark key="]" line="31" column="52" />
-        <mark key="^" line="31" column="52" />
-        <mark key="." line="31" column="52" />
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/spanner/queries/ThreadInfo.java" timestamp="1520627791381">
+        <mark key="[" line="66" column="55" />
+        <mark key="]" line="66" column="55" />
+        <mark key="." line="66" column="55" />
+        <mark key="^" line="64" column="51" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/nondatastore/MessageToken.java" timestamp="1519938666286">
         <mark key="'" line="10" column="15" />
@@ -172,12 +171,12 @@
         <mark key="." line="12" column="14" />
         <mark key="^" line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/ratchet/translate/ListTranslator.java" timestamp="1520625273486">
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/ratchet/translate/ListTranslator.java" timestamp="1520626663567">
         <mark key="'" line="21" column="0" />
-        <mark key="[" line="125" column="0" />
-        <mark key="]" line="125" column="0" />
-        <mark key="^" line="129" column="45" />
-        <mark key="." line="125" column="0" />
+        <mark key="[" line="131" column="44" />
+        <mark key="]" line="132" column="101" />
+        <mark key="^" line="132" column="101" />
+        <mark key="." line="132" column="101" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/ratchet/RatchetSaverImpl.java" timestamp="1517953620257">
         <mark key="[" line="17" column="58" />
@@ -787,44 +786,89 @@
       <jump line="21" column="0" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/ratchet/translate/ListTranslator.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQkvLyBUT0RPIHdlIG5lZWQgdG8gYWRkIHRoZSBqb2lucyEKCQkvLyBUT0RPIC0tIHdlIG1heWJlIHdhbnQgdG8gc3VwcG9ydCBzdWJzZWxlY3QsIGl0IGlzIHNvbWV0aW1lcyBmYXN0ZXIvZWFzaWVyLiAgZnVjayBzcGFubmVyCgkJLy8gVE9ETyAtLSBmdWNrLCB0aGlzIGlzIHdoZXJlIHdlIG5lZWQgdGhlIG1ldGFkYXRhIC0gZm9yIHRoZSBqb2lucwoJCS8vIEJVVCAtIHRoZSBjYWxsZXIga25vd3MgdGhhdAo=</text>
+      <register name="&quot;" type="4">
+        <text>Identifier</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>Identifier</text>
       </register>
       <register name="/" type="4">
         <text>)</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgKFN0cmluZyBmaWVsZE5hbWUgOiBtZXRhZGF0YS50YWJsZUZpZWxkTmFtZXMoKSkgewogICAgICAgICAgICB0cnkgewogICAgICAgICAgICAgICAgVHJhbnNsYXRvciB0cmFuc2xhdG9yID0gbWV0YWRhdGEuZ2V0VHJhbnNsYXRvcihmaWVsZE5hbWUpOwogICAgICAgICAgICAgICAgT2JqZWN0IHZhbHVlID0gbWV0YWRhdGEuZ2V0R2V0dGVyKGZpZWxkTmFtZSkuaW52b2tlKGluc3RhbmNlKTsKICAgICAgICAgICAgICAgIFN0cmluZyBwcmVmaXhlZEZpZWxkTmFtZSA9IG5hbWUgKyAiXyIgKyBmaWVsZE5hbWU7CiAgICAgICAgICAgICAgICAvL25vaW5zcGVjdGlvbiB1bmNoZWNrZWQKICAgICAgICAgICAgICAgIHRyYW5zbGF0b3IuYWRkVmFsdWVUb011dGF0aW9uKGJ1aWxkZXIsIHByZWZpeGVkRmllbGROYW1lLCB2YWx1ZSk7CiAgICAgICAgICAgIH0KICAgICAgICAgICAgY2F0Y2ggKFRocm93YWJsZSB0aHJvd2FibGUpIHsKICAgICAgICAgICAgICAgIHRocm93YWJsZS5wcmludFN0YWNrVHJhY2UoKTsKICAgICAgICAgICAgfQogICAgICAgIH0K</text>
+        <text encoding="base64">CQlTdGF0ZW1lbnQgc3RhdGVtZW50ID0gU3RhdGVtZW50Lm5ld0J1aWxkZXIocXVlcnkpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkvLyBUT0RPIHdlIG5lZWQgdG8gYWRkIHRoZSBqb2lucyEKCQkvLyBUT0RPIC0tIHdlIG1heWJlIHdhbnQgdG8gc3VwcG9ydCBzdWJzZWxlY3QsIGl0IGlzIHNvbWV0aW1lcyBmYXN0ZXIvZWFzaWVyLiAgZnVjayBzcGFubmVyCgkJLy8gVE9ETyAtLSBmdWNrLCB0aGlzIGlzIHdoZXJlIHdlIG5lZWQgdGhlIG1ldGFkYXRhIC0gZm9yIHRoZSBqb2lucwoJCS8vIEJVVCAtIHRoZSBjYWxsZXIga25vd3MgdGhhdAo=</text>
+        <text encoding="base64">CQkJQ29sbGVjdG9ycykpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CXByaXZhdGUgTWV0YWRhdGEgaW5uZXJNZXRhZGF0YTsK</text>
+        <text encoding="base64">CS8vIFRPRE8gYWRkIGNyZWF0b3JLZXkvdGhyZWFkSWQgc28gdGhhdCB3ZSBjYW4gZ3JvdXAgYnkgY2xpZW50IHNpZGUgbW9yZSBlYXNpbHkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkvLyBUT0RPIGNvZGUgZ2VuZXJhdGlvbiBmb3Igam9pbnMK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CXByaXZhdGUgTWV0YWRhdGEgZ2V0SW5uZXJNZXRhZGF0YSgpIHsKCQlpZiAobnVsbCA9PSBpbm5lck1ldGFkYXRhKSB7CgkJCWlubmVyTWV0YWRhdGEgPSBuZXcgTWV0YWRhdGEoZXJhc2UoaW5uZXJUeXBlKGRlc3RpbmF0aW9uKSkpOwoJCX0KCQlyZXR1cm4gaW5uZXJNZXRhZGF0YTsKCX0K</text>
+        <text encoding="base64">CQkvLyBUT0RPIC0gc3F1aXNoIGNoaWxkcmVuIGludG8gb25lCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJCQkJCQkJCQkJCSBuZXcgQXJyYXlMaXN0PFN0cmluZz4gewoJCX0pKQo=</text>
+        <text encoding="base64">CQkJIlx0QVJSQVkoU0VMRUNUIEFTIFNUUlVDVCBcbiIgKyAgKyAiKSBnbWFpbFRocmVhZElkZW50aWZpZXIsXG4iICsKCQkJIlxuIiArCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJbWV0YWRhdGEuZ2V0S2V5RmllbGROYW1lKCksCgkJCQltZXRhZGF0YS5nZXRWZXJzaW9uRmllbGROYW1lKCkK</text>
+        <text encoding="base64">CQkJIlx0QVJSQVkoU0VMRUNUIEFTIFNUUlVDVCBcbiIgKyBzZWxlY3RGaWVsZHMoR21haWxUaHJlYWQuY2xhc3MpICsgIikgZ21haWxUaHJlYWQsXG4iICsKCQkJIlx0QVJSQVkoU0VMRUNUIEFTIFNUUlVDVCBcbiIgKyBzZWxlY3RGaWVsZHMoVHJhY2tlZFRocmVhZC5jbGFzcykgKyAiKSB0cmFja2VkVGhyZWFkLFxuIiArCgkJCSJcdEFSUkFZKFNFTEVDVCBBUyBTVFJVQ1QgXG4iICsgc2VsZWN0RmllbGRzKEJ1bXBMYXRlci5jbGFzcykgKyAiKSBhcyBidW1wTGF0ZXJcbiIgKwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPIHN1cmUgdGhleSBjYW4KICAgICAgICB0aHJvdyBuZXcgUnVudGltZUV4Y2VwdGlvbigiRGF0YSBjbGFzc2VzIGNhbm5vdCBiZSBmaWVsZHMgLSBpbXBsZW1lbnQganNvbj8iKTsK</text>
+      <register name="8" type="4">
+        <text>&quot;\n&quot; +
+			&quot;LEFT JOIN gmailThreadIdentifier_gmailThreadKeys\n&quot; +
+			&quot;\tUSING (gmailThreadIdentifierHashId, versionId)\n&quot; +
+			&quot;LEFT JOIN gmailthreadidentifier_bumpLaterKeys\n&quot; +
+			&quot;\tON gmailThreadIdentifier.gmailThreadIdentifierHashId = gmailthreadidentifier_bumpLaterKeys.gmailThreadIdentifierHashId\n&quot; +
+			&quot;\tAND gmailThreadIdentifier.versionId = gmailthreadidentifier_bumpLaterKeys.versionId\n&quot; +
+			&quot;LEFT JOIN gmailthreadidentifier_caseKeys\n&quot; +
+			&quot;\tON gmailThreadIdentifier.gmailThreadIdentifierHashId = gmailthreadidentifier_caseKeys.gmailThreadIdentifierHashId\n&quot; +
+			&quot;\tAND gmailThreadIdentifier.versionId = gmailthreadidentifier_caseKeys.versionId\n&quot; +
+			&quot;LEFT JOIN gmailthreadidentifier_workflowKeys\n&quot; +
+			&quot;\tON gmailThreadIdentifier.gmailThreadIdentifierHashId = gmailthreadidentifier_workflowKeys.gmailThreadIdentifierHashId\n&quot; +
+			&quot;\tAND gmailThreadIdentifier.versionId = gmailthreadidentifier_workflowKeys.versionId\n&quot; +
+			&quot;\n&quot; +
+			&quot;INNER JOIN gmailThread\n&quot; +
+			&quot;\tON gmailThreadIdentifier_gmailThreadKeys.gmailThreadKeys_id = gmailThread.gmailThreadId\n&quot; +
+			&quot;\tAND gmailThreadIdentifier_gmailThreadKeys.gmailThreadKeys_Organization_name = gmailThread.orgKey_name\n&quot; +
+			&quot;\tAND gmailThread.isTip\n&quot; +
+			&quot;LEFT JOIN GmailThread_emailAddresses\n&quot; +
+			&quot;\tON gmailThread.gmailThreadId = GmailThread_emailAddresses.gmailThreadId\n&quot; +
+			&quot;\tAND gmailThread.versionId = GmailThread_emailAddresses.versionId\n&quot; +
+			&quot;LEFT JOIN GmailThread_fileKeys\n&quot; +
+			&quot;\tON gmailThread.gmailThreadId = GmailThread_fileKeys.gmailThreadId\n&quot; +
+			&quot;\tAND gmailThread.versionId = GmailThread_fileKeys.versionId\n&quot; +
+			&quot;LEFT JOIN GmailThread_messageSentTimestamps\n&quot; +
+			&quot;\tON gmailThread.gmailThreadId = GmailThread_messageSentTimestamps.gmailThreadId\n&quot; +
+			&quot;\tAND gmailThread.versionId = GmailThread_messageSentTimestamps.versionId\n&quot; +
+			&quot;LEFT JOIN GmailThread_names\n&quot; +
+			&quot;\tON gmailThread.gmailThreadId = GmailThread_names.gmailThreadId\n&quot; +
+			&quot;\tAND gmailThread.versionId = GmailThread_names.versionId\n&quot; +
+			&quot;LEFT JOIN GmailThread_senderEmailSendTimestampPairs\n&quot; +
+			&quot;\tON gmailThread.gmailThreadId = GmailThread_senderEmailSendTimestampPairs.gmailThreadId\n&quot; +
+			&quot;\tAND gmailThread.versionId = GmailThread_senderEmailSendTimestampPairs.versionId\n&quot; +
+			&quot;\n&quot; +
+			&quot;LEFT JOIN BumpLater\n&quot; +
+			&quot;\tON BumpLater.bumpLaterId = gmailthreadidentifier_bumpLaterKeys.bumpLaterKeys_id\n&quot; +
+			&quot;\tAND BumpLater.isTip&quot; +
+			&quot;\n&quot; +
+			&quot;LEFT JOIN TrackedThread\n&quot; +
+			&quot;\tON TrackedThread.creatorKey_id = gmailThreadIdentifier.userKey_id\n&quot; +
+			&quot;\tAND  TrackedThread.creatorKey_Organization_name = gmailThreadIdentifier.userKey_Organization_name\n&quot; +
+			&quot;\tAND  TrackedThread.hexGmailThreadId = gmailThreadIdentifier.gmailHexId\n&quot; +
+			&quot;LEFT JOIN TrackedThread_trackedLinkKeys\n&quot; +
+			&quot;\tON TrackedThread.trackedThreadId = TrackedThread_trackedLinkKeys.trackedThreadId\n&quot; +
+			&quot;\tAND TrackedThread.versionId = TrackedThread_trackedLinkKeys.versionId\n&quot; +
+			&quot;\tAND TrackedThread.isTip\n&quot; +
+			&quot;\n&quot; +</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQlTdHJpbmcgd2hlcmVDbGF1c2UgPSBTdHJpbmcuZm9ybWF0KHRlbXBsYXRlLCApCg==</text>
+        <text encoding="base64">CQkvLyBUT0RPIHdlIG5lZWQgdG8gYWRkIHRoZSBqb2lucyEKCQkvLyBUT0RPIC0tIHdlIG1heWJlIHdhbnQgdG8gc3VwcG9ydCBzdWJzZWxlY3QsIGl0IGlzIHNvbWV0aW1lcyBmYXN0ZXIvZWFzaWVyLiAgZnVjayBzcGFubmVyCgkJLy8gVE9ETyAtLSBmdWNrLCB0aGlzIGlzIHdoZXJlIHdlIG5lZWQgdGhlIG1ldGFkYXRhIC0gZm9yIHRoZSBqb2lucwoJCS8vIEJVVCAtIHRoZSBjYWxsZXIga25vd3MgdGhhdAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
