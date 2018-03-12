@@ -212,10 +212,11 @@
         <mark key="^" line="5" column="45" />
         <mark key="." line="5" column="45" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/tasks/UpdateGmailThreadTasks.java" timestamp="1520890335703">
-        <mark key="[" line="51" column="0" />
-        <mark key="]" line="51" column="0" />
-        <mark key="." line="51" column="0" />
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/tasks/UpdateGmailThreadTasks.java" timestamp="1520891438091">
+        <mark key="[" line="69" column="0" />
+        <mark key="]" line="84" column="36" />
+        <mark key="." line="84" column="36" />
+        <mark key="^" line="84" column="36" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataupdaters/getters/UnifiedThreadGetter.java" timestamp="1520373782700">
         <mark key="'" line="41" column="26" />
@@ -230,7 +231,7 @@
         <mark key="." line="48" column="36" />
         <mark key="^" line="48" column="36" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/imap/UpdateGmailThreadWithEmailIdsBigTask.java" timestamp="1520877661704">
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/imap/UpdateGmailThreadWithEmailIdsBigTask.java" timestamp="1520890790076">
         <mark key="[" line="102" column="0" />
         <mark key="]" line="102" column="0" />
         <mark key="." line="102" column="0" />
@@ -301,6 +302,7 @@
         <mark key="." line="95" column="121" />
         <mark key="^" line="95" column="121" />
       </file>
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataupdaters/updaters/SingleCaseMover.java" timestamp="1520891704712" />
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/ratchet/translate/LongTranslatorFactory.java" timestamp="1518747083851">
         <mark key="[" line="12" column="15" />
         <mark key="]" line="12" column="18" />
@@ -600,6 +602,7 @@
       <file name="/Dummy.txt" timestamp="1520636739651">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/imap/FindGmailThreadForUserFromGmailAPITask.java" timestamp="1520891258902" />
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/nondatastore/MessageSource.java" timestamp="1519865656918">
         <mark key="[" line="30" column="37" />
         <mark key="]" line="30" column="37" />
@@ -799,11 +802,11 @@
       <jump line="756" column="23" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/DAO.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQkJdXBkYXRlR21haWxUaHJlYWRLZXkoZ21haWxUaHJlYWRLZXksIHVzZXJzQnlHaWQpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>gmailThread.getGmailThreadId(),</text>
       </register>
       <register name="-" type="4">
-        <text>ToIndex</text>
+        <text>gmailThread.getGmailThreadId(),</text>
       </register>
       <register name="/" type="4">
         <text>GmailThreadId</text>
