@@ -4,10 +4,9 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/rewardly/mailfoo/unittests/UnifiedThreadTest.java" timestamp="1521061557682">
-        <mark key="[" line="56" column="37" />
-        <mark key="]" line="57" column="46" />
-        <mark key="^" line="57" column="46" />
-        <mark key="." line="57" column="46" />
+        <mark key="]" line="15" column="46" />
+        <mark key="^" line="15" column="46" />
+        <mark key="." line="15" column="46" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/ImmutableDataModelTransactionVersionsCallback.java" timestamp="1518638374126">
         <mark key="[" line="80" column="0" />
@@ -59,11 +58,12 @@
         <mark key="." line="36" column="50" />
         <mark key="^" line="36" column="50" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/spanner/partial/MessageThread.java" timestamp="1521045080098">
-        <mark key="[" line="84" column="4" />
-        <mark key="]" line="84" column="10" />
-        <mark key="." line="84" column="10" />
-        <mark key="^" line="84" column="10" />
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/spanner/partial/MessageThread.java" timestamp="1521065595175">
+        <mark key="'" line="99" column="71" />
+        <mark key="[" line="98" column="103" />
+        <mark key="]" line="99" column="117" />
+        <mark key="." line="99" column="117" />
+        <mark key="^" line="99" column="117" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/ratchet/objectify/MessagePair.java" timestamp="1519433544834">
         <mark key="[" line="13" column="24" />
@@ -139,8 +139,8 @@
         <mark key="^" line="31" column="34" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/tasks/TeamOrganizationAutoLinkerTask.java" timestamp="1520982988289" />
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/utils/Utils.java" timestamp="1521043906471">
-        <mark key="[" line="543" column="75" />
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/utils/Utils.java" timestamp="1521062394457">
+        <mark key="[" line="543" column="59" />
         <mark key="]" line="543" column="75" />
         <mark key="^" line="543" column="90" />
         <mark key="." line="543" column="75" />
@@ -358,13 +358,19 @@
         <mark key="^" line="5" column="5" />
         <mark key="." line="5" column="5" />
       </file>
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/spanner/Message.java" timestamp="1521065494405">
+        <mark key="[" line="82" column="104" />
+        <mark key="]" line="83" column="22" />
+        <mark key="^" line="83" column="22" />
+        <mark key="." line="83" column="22" />
+      </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/ratchet/TypeUtils.java" timestamp="1520383613339">
         <mark key="[" line="35" column="27" />
         <mark key="]" line="35" column="27" />
         <mark key="^" line="35" column="27" />
         <mark key="." line="35" column="27" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/nondatastore/MessageMetadata.java" timestamp="1521060207332">
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/nondatastore/MessageMetadata.java" timestamp="1521065708917">
         <mark key="[" line="140" column="35" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/ratchet/translate/Translator.java" timestamp="1520302421736">
@@ -557,12 +563,11 @@
         <mark key="." line="80" column="42" />
         <mark key="^" line="80" column="42" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/utils/RemoteAccess.java" timestamp="1521061627850">
-        <mark key="'" line="55" column="22" />
-        <mark key="[" line="27" column="50" />
-        <mark key="]" line="27" column="58" />
-        <mark key="." line="27" column="58" />
-        <mark key="^" line="27" column="58" />
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/utils/RemoteAccess.java" timestamp="1521062813624">
+        <mark key="[" line="60" column="0" />
+        <mark key="]" line="94" column="40" />
+        <mark key="^" line="94" column="40" />
+        <mark key="." line="94" column="40" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/ratchet/SchemaWriter.java" timestamp="1520387531819">
         <mark key="[" line="36" column="34" />
@@ -645,7 +650,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="52" column="18" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/utils/SpannerThreadSyncer.java" />
       <jump line="43" column="18" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataupdaters/getters/UnifiedAttachmentGetter.java" />
       <jump line="12" column="18" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/nondatastore/AttachmentToken.java" />
       <jump line="40" column="23" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/nondatastore/AttachmentToken.java" />
@@ -745,64 +749,63 @@
       <jump line="543" column="52" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/DAO.java" />
       <jump line="106" column="50" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/tasks/UpdateGmailThreadTasks.java" />
       <jump line="76" column="0" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/imap/FindGmailThreadForUserFromGmailAPITask.java" />
+      <jump line="98" column="71" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/spanner/partial/MessageThread.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>IOException, InvalidKeyException, NoOauthCredentialsException</text>
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>IOException, InvalidKeyException, NoOauthCredentialsException</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>&quot;</text>
+        <text>threads</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CXB1YmxpYyBzdGF0aWMgTGlzdDxHbWFpbFRocmVhZElkZW50aWZpZXI+IGdldEdtYWlsVGhyZWFkSWRlbnRpZmllcnNCeUdtYWlsVGhyZWFkS2V5KEtleTxHbWFpbFRocmVhZD4gZ21haWxUaHJlYWRLZXkpIHsKCQlvZnkoKS5jbGVhcigpOwoJCXJldHVybiBvZnkoKS5sb2FkKCkudHlwZShHbWFpbFRocmVhZElkZW50aWZpZXIuY2xhc3MpLmZpbHRlcigiZ21haWxUaHJlYWRLZXlzID0iLCBnbWFpbFRocmVhZEtleSkubGlzdCgpOwoJfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJCX0K</text>
+        <text encoding="base64">CQkJcmV0dXJuIG1lc3NhZ2VzOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJCWlmICgpIHsK</text>
+        <text encoding="base64">CQkJLy8gU3Bhbm5lciByZWFsbHkgc3RhcnRzIGJyZWFraW5nIGF0IHRoaXMgcG9pbnQK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQlVc2VyIHUgPSBEQU8uZ2V0VXNlckJ5RW1haWwoImQuZHVib2lzQGRydWNrZXIuZnIiKTsK</text>
+        <text encoding="base64">CQkJLy8gSSdtIG5vdCByZWFsbHkgc3VyZSB3aGF0IGNhdXNlcyBzdHVmZiB0byBzcGlyYWwgb3V0IGxpCg==</text>
       </register>
       <register name="4" type="4">
-        <text>sales1@traveltheunknown.com</text>
+        <text encoding="base64">Q29sbGVjdGlvbjxTdHJpbmc+IGdpZHM=</text>
       </register>
-      <register name="5" type="4">
-        <text>eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InNvdXJjZXMiOlt7InVzZXJLZXkiOiJhZ3h6Zm0xaGFXeG1iMjluWVdWeVFnc1NERTl5WjJGdWFYcGhkR2x2YmlJZloyRjBaUzUwY21GMlpXeDBhR1YxYm10dWIzZHVRR2R0WVdsc0xtTnZiUXdMRWdSVmMyVnlHSUNBZ0lDQWdJQUtEQSIsIm1lc3NhZ2VJZCI6IjE1ZWM4NmIzYjQxOGFmMGEifSx7InVzZXJLZXkiOiJhZ3h6Zm0xaGFXeG1iMjluWVdWeVBRc1NERTl5WjJGdWFYcGhkR2x2YmlJYWRISmhkbVZzZEdobGRXNXJibTkzYmtCbmJXRnBiQzVqYjIwTUN4SUVWWE5sY2hpQWdJQ0FnSUNBQ2d3IiwibWVzc2FnZUlkIjoiMTVlYzg2YjMwYzdlNDZhYyJ9XX0sImV4cCI6MTUyMTE0NzY2NCwidHlwZSI6Ik1lc3NhZ2VUb2tlbiJ9.03dRQXV01fXJQ5O_BGvnzAup4NFzl4ymU7OhxpwLEH0</text>
+      <register name="5" type="2">
+        <text encoding="base64">CQl9Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text>sales1@traveltheunknown.com</text>
+      <register name="6" type="2">
+        <text encoding="base64">CQl0cnkgKFNjb3BlIHNjID0gdHJhY2VyLnNwYW5CdWlsZGVyKCJTcGFubmVyLk1lc3NhZ2VUaHJlYWQuUXVlcnkiKS5zdGFydFNjb3BlZFNwYW4oKSkgewo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQlwcm9maWxlci5lbmRBY2N1bXVsYXRlKCJnZXQgc3Bhbm5lciByZWFkIGNvbnRleHQiKTsKCQlyY1NwYW4uZW5kKCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQlmaW5hbCBLZXk8V29ya2Zsb3c+IHdvcmtmbG93S2V5ID0gCg==</text>
+        <text encoding="base64">CQlTcGFuIHJjU3BhbiA9IHRyYWNlci5zcGFuQnVpbGRlcigiU3Bhbm5lci5NZXNzYWdlVGhyZWFkLkdldFJlYWRDb250ZXh0Iikuc3RhcnRTcGFuKCk7CgkJcHJvZmlsZXIuc3RhcnRBY2N1bXVsYXRlKCJnZXQgc3Bhbm5lciByZWFkIGNvbnRleHQiKTsK</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">CQkJCQkJZ21haWxUaHJlYWQuZ2V0V29ya2Zsb3dLZXkoKSk7CgkJCQkJaWYgKGRpcnR5KQo=</text>
+      <register name="9" type="4">
+        <text>&quot;d.dubois@drucker.fr</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>&quot;</last-search>
+      <last-search>threads</last-search>
       <last-offset />
-      <last-pattern>&quot;</last-pattern>
-      <last-replace>gmailThread</last-replace>
-      <last-substitute>gThread</last-substitute>
+      <last-pattern>threads</last-pattern>
+      <last-replace>messages</last-replace>
+      <last-substitute>threads</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>)</entry>
-        <entry>GmailThread</entry>
         <entry>gmailThread</entry>
         <entry>gmailThreadIdentifier</entry>
         <entry>de</entry>
@@ -821,9 +824,10 @@
         <entry>getGmailThr</entry>
         <entry>gThread</entry>
         <entry>&quot;</entry>
+        <entry>)</entry>
+        <entry>threads</entry>
       </history-search>
       <history-cmd>
-        <entry>s/GmailThread/BumpLater</entry>
         <entry>s/GmailThread/BumpLater/g</entry>
         <entry encoding="base64">JzwsJz5zL0dtYWlsVGhyZWFkL0J1bXBMYXRlci9n</entry>
         <entry encoding="base64">JzwsJz5zL2dtYWlsVGhyZWFkL2J1bXBMYXRlci9n</entry>
@@ -842,6 +846,7 @@
         <entry encoding="base64">JzwsJz5zL1VzZXJLZXkvVGhyZWFkSWQvZw==</entry>
         <entry>wq</entry>
         <entry>s/gThread/gmailThread/g</entry>
+        <entry encoding="base64">JzwsJz5zL3RocmVhZHMvbWVzc2FnZXMvZw==</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
