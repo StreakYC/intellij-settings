@@ -572,11 +572,11 @@
         <mark key="." line="80" column="42" />
         <mark key="^" line="80" column="42" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/utils/RemoteAccess.java" timestamp="1521145225586">
-        <mark key="[" line="68" column="17" />
-        <mark key="]" line="68" column="4" />
-        <mark key="^" line="68" column="4" />
-        <mark key="." line="68" column="4" />
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/utils/RemoteAccess.java" timestamp="1521149773321">
+        <mark key="[" line="68" column="8" />
+        <mark key="]" line="68" column="16" />
+        <mark key="^" line="68" column="16" />
+        <mark key="." line="68" column="16" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/ratchet/SchemaWriter.java" timestamp="1520387531819">
         <mark key="[" line="36" column="34" />
@@ -767,10 +767,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InNvdXJjZXMiOlt7InVzZXJLZXkiOiJhZ3h6Zm0xaGFXeG1iMjluWVdWeUx3c1NERTl5WjJGdWFYcGhkR2x2YmlJTWJtVjBjWFZsYzNRdVkyOXREQXNTQkZWelpYSVlnSUNBZ05MX2tnb00iLCJtZXNzYWdlSWQiOiIxNjIwYjRhYTdlNjZlZTU1In1dfSwiZXhwIjoxNTIxMjk4NDY0LCJ0eXBlIjoiTWVzc2FnZVRva2VuIn0.tb5TLZLCZ015SUJFdErFEkd9Li3tS_jvW3Wxo4cHLn4</text>
+        <text>jwtFull</text>
       </register>
       <register name="-" type="4">
-        <text>eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InNvdXJjZXMiOlt7InVzZXJLZXkiOiJhZ3h6Zm0xaGFXeG1iMjluWVdWeUx3c1NERTl5WjJGdWFYcGhkR2x2YmlJTWJtVjBjWFZsYzNRdVkyOXREQXNTQkZWelpYSVlnSUNBZ05MX2tnb00iLCJtZXNzYWdlSWQiOiIxNjIwYjRhYTdlNjZlZTU1In1dfSwiZXhwIjoxNTIxMjk4NDY0LCJ0eXBlIjoiTWVzc2FnZVRva2VuIn0.tb5TLZLCZ015SUJFdErFEkd9Li3tS_jvW3Wxo4cHLn4</text>
+        <text>jwtFull</text>
       </register>
       <register name="/" type="4">
         <text>&quot;</text>
@@ -779,32 +779,32 @@
         <text encoding="base64">CQkJCVN0cmluZyBnaWQgPSBzZXRVc2VyR2lkRnJvbVNwYW5uZXIodXNlcik7CgkJCQlpZiAobnVsbCAhPSBnaWQpIHsKCQkJCQl1c2Vyc0J5R2lkLnB1dChnaWQsIHVzZXIpOwo=</text>
       </register>
       <register name="1" type="4">
+        <text>eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InNvdXJjZXMiOlt7InVzZXJLZXkiOiJhZ3h6Zm0xaGFXeG1iMjluWVdWeUxRc1NERTl5WjJGdWFYcGhkR2x2YmlJS2MzUnlaV0ZyTG1OdmJRd0xFZ1JWYzJWeUdJQ0FnS0RyNllnS0RBIiwibWVzc2FnZUlkIjoiMTRkNGVkMmEzM2I2Mzc5NyJ9LHsidXNlcktleSI6ImFneHpmbTFoYVd4bWIyOW5ZV1Z5SndzU0RFOXlaMkZ1YVhwaGRHbHZiaUlLYzNSeVpXRnJMbU52YlF3TEVnUlZjMlZ5R09rSERBIiwibWVzc2FnZUlkIjoiMTRkNGVkMmEzNmU3YWUyYyJ9LHsidXNlcktleSI6ImFneHpmbTFoYVd4bWIyOW5ZV1Z5TFFzU0RFOXlaMkZ1YVhwaGRHbHZiaUlLYzNSeVpXRnJMbU52YlF3TEVnUlZjMlZ5R0lDQWdLREFxSUlLREEiLCJtZXNzYWdlSWQiOiIxNGQ0ZWQyYTI0N2QwODgzIn0seyJ1c2VyS2V5IjoiYWd4emZtMWhhV3htYjI5bllXVnlKZ3NTREU5eVoyRnVhWHBoZEdsdmJpSUtjM1J5WldGckxtTnZiUXdMRWdSVmMyVnlHQUVNIiwibWVzc2FnZUlkIjoiMTRkNGVkMmEyYzEwZjZkNCJ9LHsidXNlcktleSI6ImFneHpmbTFoYVd4bWIyOW5ZV1Z5TFFzU0RFOXlaMkZ1YVhwaGRHbHZiaUlLYzNSeVpXRnJMbU52YlF3TEVnUlZjMlZ5R0lDQWdLQzIwNElLREEiLCJtZXNzYWdlSWQiOiIxNGQ0ZWQyNTM5ZTE3NTI5In0seyJ1c2VyS2V5IjoiYWd4emZtMWhhV3htYjI5bllXVnlMUXNTREU5eVoyRnVhWHBoZEdsdmJpSUtjM1J5WldGckxtTnZiUXdMRWdSVmMyVnlHSUNBZ0tEYzhwRUtEQSIsIm1lc3NhZ2VJZCI6IjE0ZDRlZDJhNDlmZDhmMTUifV19LCJleHAiOjE1MjEzMTc2ODMsInR5cGUiOiJNZXNzYWdlVG9rZW4ifQ.u_utOnFm_KnDEMcaHKUO6M5JoAdloNLZLVs3thf157I</text>
+      </register>
+      <register name="2" type="4">
         <text>eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InNvdXJjZXMiOlt7InVzZXJLZXkiOiJhZ3h6Zm0xaGFXeG1iMjluWVdWeUx3c1NERTl5WjJGdWFYcGhkR2x2YmlJTWJtVjBjWFZsYzNRdVkyOXREQXNTQkZWelpYSVlnSUNBZ05MX2tnb00iLCJtZXNzYWdlSWQiOiIxNjIwYjRhYTdlNjZlZTU1In1dfSwiZXhwIjoxNTIxMjk4NDY0LCJ0eXBlIjoiTWVzc2FnZVRva2VuIn0.tb5TLZLCZ015SUJFdErFEkd9Li3tS_jvW3Wxo4cHLn4</text>
       </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">CQkJCW1wLmdldEZpbGVuYW1lKCksCg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text>owner.getUserKey(),
 				owner.getOrgKey(),</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">CQl9Cg==</text>
-      </register>
       <register name="5" type="2">
-        <text encoding="base64">CQlpZiAoewo=</text>
+        <text encoding="base64">CQl9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQlmb3IgKE1lc3NhZ2VQYXJ0IG1lc3NhZ2VQYXJ0OiBtZXNzYWdlLmdldFBheWxvYWQoKS5nZXRQYXJ0cygpKSB7Cg==</text>
+        <text encoding="base64">CQlpZiAoewo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQl9Cg==</text>
+        <text encoding="base64">CQlmb3IgKE1lc3NhZ2VQYXJ0IG1lc3NhZ2VQYXJ0OiBtZXNzYWdlLmdldFBheWxvYWQoKS5nZXRQYXJ0cygpKSB7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJCg==</text>
+        <text encoding="base64">CQl9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQlpZiAoKQo=</text>
+        <text encoding="base64">CQkJCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
