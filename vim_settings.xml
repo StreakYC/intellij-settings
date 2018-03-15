@@ -178,11 +178,11 @@
         <mark key="." line="52" column="13" />
         <mark key="^" line="52" column="13" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/containers/src/main/java/com/streak/emailmanager/MessageSaver.java" timestamp="1521140167657">
-        <mark key="[" line="228" column="101" />
-        <mark key="]" line="228" column="104" />
-        <mark key="." line="228" column="104" />
-        <mark key="^" line="228" column="104" />
+      <file name="$USER_HOME$/src/MailFoo/containers/src/main/java/com/streak/emailmanager/MessageSaver.java" timestamp="1521141307834">
+        <mark key="[" line="194" column="60" />
+        <mark key="]" line="195" column="0" />
+        <mark key="." line="195" column="0" />
+        <mark key="^" line="194" column="59" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/spanner/partial/MessageThreadLink.java" timestamp="1520979910593">
         <mark key="[" line="25" column="0" />
@@ -196,7 +196,7 @@
         <mark key="^" line="48" column="36" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/oauth2/GoogleClientSecretsHelper.java" timestamp="1521043845826" />
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/imap/UpdateGmailThreadWithEmailIdsBigTask.java" timestamp="1521055478684">
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/imap/UpdateGmailThreadWithEmailIdsBigTask.java" timestamp="1521141211364">
         <mark key="[" line="102" column="0" />
         <mark key="]" line="102" column="0" />
         <mark key="." line="102" column="0" />
@@ -767,8 +767,8 @@
       <jump line="2202" column="0" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/DAO.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>metadata</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQlmb3IgKE1lc3NhZ2VQYXJ0IG1lc3NhZ2VQYXJ0OiBtZXNzYWdlLmdldFBheWxvYWQoKS5nZXRQYXJ0cygpKSB7Cg==</text>
       </register>
       <register name="-" type="4">
         <text>metadata</text>
@@ -779,32 +779,32 @@
       <register name="0" type="2">
         <text encoding="base64">CQkJCVN0cmluZyBnaWQgPSBzZXRVc2VyR2lkRnJvbVNwYW5uZXIodXNlcik7CgkJCQlpZiAobnVsbCAhPSBnaWQpIHsKCQkJCQl1c2Vyc0J5R2lkLnB1dChnaWQsIHVzZXIpOwo=</text>
       </register>
-      <register name="1" type="4">
-        <text>support@agenturmatching.de</text>
+      <register name="1" type="2">
+        <text encoding="base64">CQlmb3IgKE1lc3NhZ2VQYXJ0IG1lc3NhZ2VQYXJ0OiBtZXNzYWdlLmdldFBheWxvYWQoKS5nZXRQYXJ0cygpKSB7Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text>agxzfm1haWxmb29nYWVyNQsSDE9yZ2FuaXphdGlvbiIOZ29vZ2xlbWFpbC5jb20MCxILR21haWxUaHJlYWQYwdOQkwUM</text>
+      <register name="2" type="2">
+        <text encoding="base64">CQl9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ki8K</text>
+        <text encoding="base64">CQkJCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">LyoK</text>
+        <text encoding="base64">CQlpZiAoKQo=</text>
       </register>
       <register name="5" type="4">
-        <text>eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InNvdXJjZXMiOlt7InVzZXJLZXkiOiJhZ3h6Zm0xaGFXeG1iMjluWVdWeU5Bc1NERTl5WjJGdWFYcGhkR2x2YmlJUmJIVnBlbWh3YWtCbmJXRnBiQzVqYjIwTUN4SUVWWE5sY2hpQWdJQ0FnSUNBQ2d3IiwibWVzc2FnZUlkIjoiMTYxOWZiMmNiYWM5ODJkZCJ9XX0sImV4cCI6MTUyMTIzODgwMywidHlwZSI6Ik1lc3NhZ2VUb2tlbiJ9.5v9BbCWnsAfdRh1AeqLfX6GqwO2A4Ux121EigwDRy3c</text>
+        <text>support@agenturmatching.de</text>
       </register>
       <register name="6" type="4">
-        <text>creator doesn't have a gid!</text>
+        <text>agxzfm1haWxmb29nYWVyNQsSDE9yZ2FuaXphdGlvbiIOZ29vZ2xlbWFpbC5jb20MCxILR21haWxUaHJlYWQYwdOQkwUM</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQlNYXA8U3RyaW5nLCBVc2VyPiB1c2Vyc0J5R2lkID0gREFPLmdldEdpZFVzZXJNYXBGb3JVc2VyS2V5cyhnbWFpbFRocmVhZC5nZXRBbGxVc2Vyc0tleXNXaXRoQWNjZXNzKCkpOwo=</text>
+        <text encoding="base64">Ki8K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJCQkJR3NvbkN1c3RvbS53cml0ZVRvUmVzcG9uc2UoVXRpbHMuZmFpbHVyZUpTT04oKSwgcmVzcCk7Cg==</text>
+        <text encoding="base64">LyoK</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">CQkJCQkJR3NvbkN1c3RvbS53cml0ZVRvUmVzcG9uc2UoVXRpbHMuZmFpbHVyZU5vdExvZ2dlZEluSnNvbigpLCByZXNwKTsK</text>
+      <register name="9" type="4">
+        <text>eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InNvdXJjZXMiOlt7InVzZXJLZXkiOiJhZ3h6Zm0xaGFXeG1iMjluWVdWeU5Bc1NERTl5WjJGdWFYcGhkR2x2YmlJUmJIVnBlbWh3YWtCbmJXRnBiQzVqYjIwTUN4SUVWWE5sY2hpQWdJQ0FnSUNBQ2d3IiwibWVzc2FnZUlkIjoiMTYxOWZiMmNiYWM5ODJkZCJ9XX0sImV4cCI6MTUyMTIzODgwMywidHlwZSI6Ik1lc3NhZ2VUb2tlbiJ9.5v9BbCWnsAfdRh1AeqLfX6GqwO2A4Ux121EigwDRy3c</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
