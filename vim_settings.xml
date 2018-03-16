@@ -350,12 +350,12 @@
         <mark key="^" line="5" column="5" />
         <mark key="." line="5" column="5" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/spanner/Message.java" timestamp="1521237170990">
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/spanner/Message.java" timestamp="1521238386124">
         <mark key="'" line="74" column="8" />
-        <mark key="[" line="95" column="12" />
-        <mark key="]" line="98" column="13" />
-        <mark key="." line="98" column="13" />
-        <mark key="^" line="98" column="13" />
+        <mark key="[" line="99" column="39" />
+        <mark key="]" line="99" column="43" />
+        <mark key="." line="99" column="43" />
+        <mark key="^" line="99" column="43" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/ratchet/TypeUtils.java" timestamp="1520383613339">
         <mark key="[" line="35" column="27" />
@@ -754,10 +754,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>MessageFile</text>
+        <text>H</text>
       </register>
       <register name="-" type="4">
-        <text>MessageFile</text>
+        <text>H</text>
       </register>
       <register name="/" type="4">
         <text>&quot;</text>
@@ -765,39 +765,32 @@
       <register name="0" type="2">
         <text encoding="base64">CQlBdHRhY2htZW50VG9rZW4gdG9rZW4gPSBBdHRhY2htZW50VG9rZW4uZnJvbVRva2VuKHBhcmFtcy5nZXQoQ29uc3RhbnRzLkpXVF9QQVJBTSkpOwo=</text>
       </register>
-      <register name="1" type="4">
-        <text>jonathan@streak.com</text>
+      <register name="1" type="2">
+        <text encoding="base64">CQkJCSIgSk9JTkB7Sk9JTl9UWVBFPUhBU0hfSk9JTn0gQWNjb3VudHMgVVNJTkcgKGdpZCkgIiArIC8vIFRPRE8gLSB0aGlzIGRvdWJsZXMgcXVlcnkgdGltZSEK</text>
       </register>
       <register name="2" type="4">
-        <text>agxzfm1haWxmb29nYWVyMQsSDE9yZ2FuaXphdGlvbiIKc3RyZWFrLmNvbQwLEgtHbWFpbFRocmVhZBjJ9oPqCgw</text>
+        <text>jonathan@streak.com</text>
       </register>
       <register name="3" type="4">
-        <text>this.customMimeType</text>
+        <text>agxzfm1haWxmb29nYWVyMQsSDE9yZ2FuaXphdGlvbiIKc3RyZWFrLmNvbQwLEgtHbWFpbFRocmVhZBjJ9oPqCgw</text>
       </register>
       <register name="4" type="4">
         <text>this.customMimeType</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="5" type="4">
+        <text>this.customMimeType</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CXByaXZhdGUgU3RyaW5nIGN1c3RvbU1pbWVUeXBlOwo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">CQkJdGhpcy5jdXN0b21NaW1lVHlwZSA9IGF0dGFjaG1lbnQubWltZVR5cGU7Cg==</text>
+      <register name="7" type="2">
+        <text encoding="base64">CXByaXZhdGUgU3RyaW5nIGN1c3RvbU1pbWVUeXBlOwo=</text>
       </register>
-      <register name="9" type="4">
-        <text>if (Utils.isAttachmentMimetypeWhitelisted(attachment.mimeType)) {
-				resp.setContentType(attachment.mimeType);
-			}
-			else {
-				resp.setContentType(&quot;application/octet-stream&quot;);
-			}
-			resp.addHeader(&quot;Cache-Control&quot;, &quot;private, max-age=604800&quot;);
-			resp.addHeader(&quot;X-Content-Type-Options&quot;, &quot;nosniff&quot;);</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">CQkJdGhpcy5jdXN0b21NaW1lVHlwZSA9IGF0dGFjaG1lbnQubWltZVR5cGU7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
