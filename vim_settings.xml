@@ -180,12 +180,12 @@
         <mark key="." line="52" column="13" />
         <mark key="^" line="52" column="13" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/containers/src/main/java/com/streak/emailmanager/MessageSaver.java" timestamp="1521151227263">
-        <mark key="'" line="279" column="16" />
-        <mark key="[" line="202" column="29" />
-        <mark key="]" line="202" column="58" />
-        <mark key="." line="202" column="58" />
-        <mark key="^" line="202" column="58" />
+      <file name="$USER_HOME$/src/MailFoo/containers/src/main/java/com/streak/emailmanager/MessageSaver.java" timestamp="1521157695726">
+        <mark key="'" line="281" column="16" />
+        <mark key="[" line="271" column="42" />
+        <mark key="]" line="274" column="8" />
+        <mark key="." line="274" column="8" />
+        <mark key="^" line="274" column="8" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/spanner/partial/MessageThreadLink.java" timestamp="1520979910593">
         <mark key="[" line="25" column="0" />
@@ -278,11 +278,10 @@
         <mark key="." line="63" column="92" />
         <mark key="^" line="63" column="92" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/containers/src/main/java/com/streak/emailmanager/SpannerConstants.java" timestamp="1521151339370">
-        <mark key="[" line="6" column="45" />
-        <mark key="]" line="6" column="56" />
-        <mark key="." line="6" column="56" />
-        <mark key="^" line="6" column="56" />
+      <file name="$USER_HOME$/src/MailFoo/containers/src/main/java/com/streak/emailmanager/SpannerConstants.java" timestamp="1521158210964">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataupdaters/getters/ThreadInfoSpannerGetter.java" timestamp="1520558264447">
         <mark key="[" line="54" column="0" />
@@ -654,7 +653,7 @@
         <mark key="]" line="23" column="0" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1521152184523">
+      <file name="/fragment.java" timestamp="1521157488666">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="10" />
         <mark key="." line="0" column="10" />
@@ -776,11 +775,11 @@
       <jump line="252" column="16" filename="$USER_HOME$/src/MailFoo/containers/src/main/java/com/streak/emailmanager/MessageSaver.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>b</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CXB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIFNQQU5ORVJfSU5TVEFOQ0UgPSAic3Bhbm5lcmRldiI7CglwdWJsaWMgc3RhdGljIGZpbmFsIFN0cmluZyBTUEFOTkVSX0RCID0gImRldl9qb25hdGhhbiI7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>b</text>
+        <text>historyId</text>
       </register>
       <register name="/" type="4">
         <text>mp</text>
@@ -789,9 +788,12 @@
         <text encoding="base64">CS8vcHVibGljIHN0YXRpYyBmaW5hbCBTdHJpbmcgU1BBTk5FUl9JTlNUQU5DRSA9ICJzcGFubmVyMSI7CgkvL3B1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIFNQQU5ORVJfREIgPSAiZGIxIjsK</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">CXB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIFNQQU5ORVJfSU5TVEFOQ0UgPSAic3Bhbm5lcmRldiI7CglwdWJsaWMgc3RhdGljIGZpbmFsIFN0cmluZyBTUEFOTkVSX0RCID0gImRldl9qb25hdGhhbiI7Cg==</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text>/*
 		if (GmailAPIUtils.getHeaderValue(&quot;Content-ID&quot;, mp.getHeaders()) == null) {
 			Logger.log(&quot;File didn't have a Content-ID&quot;);
@@ -814,27 +816,24 @@
 		}
 */</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">CQltZXNzYWdlUGFydC5nZXRQYXJ0cygpLmZvckVhY2gobXAgLT4gYWRkRmlsZXMobXAsIGFmdGVyTWVzc2FnZU11dGF0aW9ucywgZ2lkLCBtZXNzYWdlSWQpKTsK</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InNvdXJjZXMiOlt7InVzZXJLZXkiOiJhZ3h6Zm0xaGFXeG1iMjluWVdWeUxRc1NERTl5WjJGdWFYcGhkR2x2YmlJS2MzUnlaV0ZyTG1OdmJRd0xFZ1JWYzJWeUdJQ0FnS0RyNllnS0RBIiwibWVzc2FnZUlkIjoiMTRkNGVkMmEzM2I2Mzc5NyJ9LHsidXNlcktleSI6ImFneHpmbTFoYVd4bWIyOW5ZV1Z5SndzU0RFOXlaMkZ1YVhwaGRHbHZiaUlLYzNSeVpXRnJMbU52YlF3TEVnUlZjMlZ5R09rSERBIiwibWVzc2FnZUlkIjoiMTRkNGVkMmEzNmU3YWUyYyJ9LHsidXNlcktleSI6ImFneHpmbTFoYVd4bWIyOW5ZV1Z5TFFzU0RFOXlaMkZ1YVhwaGRHbHZiaUlLYzNSeVpXRnJMbU52YlF3TEVnUlZjMlZ5R0lDQWdLREFxSUlLREEiLCJtZXNzYWdlSWQiOiIxNGQ0ZWQyYTI0N2QwODgzIn0seyJ1c2VyS2V5IjoiYWd4emZtMWhhV3htYjI5bllXVnlKZ3NTREU5eVoyRnVhWHBoZEdsdmJpSUtjM1J5WldGckxtTnZiUXdMRWdSVmMyVnlHQUVNIiwibWVzc2FnZUlkIjoiMTRkNGVkMmEyYzEwZjZkNCJ9LHsidXNlcktleSI6ImFneHpmbTFoYVd4bWIyOW5ZV1Z5TFFzU0RFOXlaMkZ1YVhwaGRHbHZiaUlLYzNSeVpXRnJMbU52YlF3TEVnUlZjMlZ5R0lDQWdLQzIwNElLREEiLCJtZXNzYWdlSWQiOiIxNGQ0ZWQyNTM5ZTE3NTI5In0seyJ1c2VyS2V5IjoiYWd4emZtMWhhV3htYjI5bllXVnlMUXNTREU5eVoyRnVhWHBoZEdsdmJpSUtjM1J5WldGckxtTnZiUXdMRWdSVmMyVnlHSUNBZ0tEYzhwRUtEQSIsIm1lc3NhZ2VJZCI6IjE0ZDRlZDJhNDlmZDhmMTUifV19LCJleHAiOjE1MjEzMTc2ODMsInR5cGUiOiJNZXNzYWdlVG9rZW4ifQ.u_utOnFm_KnDEMcaHKUO6M5JoAdloNLZLVs3thf157I</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InNvdXJjZXMiOlt7InVzZXJLZXkiOiJhZ3h6Zm0xaGFXeG1iMjluWVdWeUx3c1NERTl5WjJGdWFYcGhkR2x2YmlJTWJtVjBjWFZsYzNRdVkyOXREQXNTQkZWelpYSVlnSUNBZ05MX2tnb00iLCJtZXNzYWdlSWQiOiIxNjIwYjRhYTdlNjZlZTU1In1dfSwiZXhwIjoxNTIxMjk4NDY0LCJ0eXBlIjoiTWVzc2FnZVRva2VuIn0.tb5TLZLCZ015SUJFdErFEkd9Li3tS_jvW3Wxo4cHLn4</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">CQkJCW1wLmdldEZpbGVuYW1lKCksCg==</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text>owner.getUserKey(),
 				owner.getOrgKey(),</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">CQl9Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">CQlpZiAoewo=</text>
+        <text encoding="base64">CQl9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
