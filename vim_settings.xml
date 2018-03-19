@@ -350,7 +350,7 @@
         <mark key="^" line="5" column="5" />
         <mark key="." line="5" column="5" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/spanner/Message.java" timestamp="1521242039311">
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/spanner/Message.java" timestamp="1521485781021">
         <mark key="'" line="74" column="8" />
         <mark key="[" line="75" column="0" />
         <mark key="]" line="75" column="0" />
@@ -363,7 +363,7 @@
         <mark key="^" line="35" column="27" />
         <mark key="." line="35" column="27" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/nondatastore/MessageMetadata.java" timestamp="1521228628066">
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/nondatastore/MessageMetadata.java" timestamp="1521485768971">
         <mark key="[" line="85" column="42" />
         <mark key="]" line="85" column="50" />
         <mark key="." line="85" column="50" />
@@ -514,12 +514,12 @@
         <mark key="^" line="60" column="72" />
         <mark key="." line="60" column="72" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/spanner/MessageFile.java" timestamp="1521224487901">
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/spanner/MessageFile.java" timestamp="1521486087706">
         <mark key="'" line="11" column="4" />
-        <mark key="[" line="14" column="11" />
-        <mark key="]" line="14" column="12" />
-        <mark key="." line="14" column="12" />
-        <mark key="^" line="38" column="37" />
+        <mark key="[" line="20" column="62" />
+        <mark key="]" line="19" column="40" />
+        <mark key="." line="19" column="40" />
+        <mark key="^" line="19" column="40" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/ratchet/translate/DataClassTranslator.java" timestamp="1520624725550">
         <mark key="[" line="84" column="37" />
@@ -563,11 +563,11 @@
         <mark key="." line="80" column="42" />
         <mark key="^" line="80" column="42" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/utils/RemoteAccess.java" timestamp="1521236604493">
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/utils/RemoteAccess.java" timestamp="1521485612078">
         <mark key="[" line="71" column="13" />
         <mark key="]" line="71" column="13" />
         <mark key="." line="71" column="13" />
-        <mark key="^" line="70" column="102" />
+        <mark key="^" line="70" column="99" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/ratchet/SchemaWriter.java" timestamp="1520387531819">
         <mark key="[" line="36" column="34" />
@@ -753,11 +753,11 @@
       <jump line="34" column="30" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataupdaters/getters/UnifiedAttachmentGetter.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>lanny@arrival3d.com</text>
       </register>
       <register name="-" type="4">
-        <text>H</text>
+        <text>lanny@arrival3d.com</text>
       </register>
       <register name="/" type="4">
         <text>&quot;</text>
@@ -765,32 +765,32 @@
       <register name="0" type="2">
         <text encoding="base64">CQlBdHRhY2htZW50VG9rZW4gdG9rZW4gPSBBdHRhY2htZW50VG9rZW4uZnJvbVRva2VuKHBhcmFtcy5nZXQoQ29uc3RhbnRzLkpXVF9QQVJBTSkpOwo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>lanny@arrival3d.com</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">CQlmaWxlcyA9IG5ldyBBcnJheUxpc3Q8PigpOwo=</text>
+      <register name="2" type="4">
+        <text>agxzfm1haWxmb29nYWVyMwsSDE9yZ2FuaXphdGlvbiINYXJyaXZhbDNkLmNvbQwLEgtHbWFpbFRocmVhZBjhtuFhDA</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJCSIgSk9JTkB7Sk9JTl9UWVBFPUhBU0hfSk9JTn0gQWNjb3VudHMgVVNJTkcgKGdpZCkgIiArIC8vIFRPRE8gLSB0aGlzIGRvdWJsZXMgcXVlcnkgdGltZSEK</text>
-      </register>
-      <register name="4" type="4">
-        <text>jonathan@streak.com</text>
-      </register>
-      <register name="5" type="4">
-        <text>agxzfm1haWxmb29nYWVyMQsSDE9yZ2FuaXphdGlvbiIKc3RyZWFrLmNvbQwLEgtHbWFpbFRocmVhZBjJ9oPqCgw</text>
-      </register>
-      <register name="6" type="4">
-        <text>this.customMimeType</text>
-      </register>
-      <register name="7" type="4">
-        <text>this.customMimeType</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">CXByaXZhdGUgU3RyaW5nIGN1c3RvbU1pbWVUeXBlOwo=</text>
+      <register name="4" type="2">
+        <text encoding="base64">CQlmaWxlcyA9IG5ldyBBcnJheUxpc3Q8PigpOwo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">CQkJCSIgSk9JTkB7Sk9JTl9UWVBFPUhBU0hfSk9JTn0gQWNjb3VudHMgVVNJTkcgKGdpZCkgIiArIC8vIFRPRE8gLSB0aGlzIGRvdWJsZXMgcXVlcnkgdGltZSEK</text>
+      </register>
+      <register name="6" type="4">
+        <text>jonathan@streak.com</text>
+      </register>
+      <register name="7" type="4">
+        <text>agxzfm1haWxmb29nYWVyMQsSDE9yZ2FuaXphdGlvbiIKc3RyZWFrLmNvbQwLEgtHbWFpbFRocmVhZBjJ9oPqCgw</text>
+      </register>
+      <register name="8" type="4">
+        <text>this.customMimeType</text>
+      </register>
+      <register name="9" type="4">
+        <text>this.customMimeType</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
