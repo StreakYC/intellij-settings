@@ -57,12 +57,12 @@
         <mark key="^" line="36" column="31" />
         <mark key="." line="36" column="31" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/mae/MetaVisibilityService.java" timestamp="1522109898070">
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/mae/MetaVisibilityService.java" timestamp="1522111042926">
         <mark key="'" line="52" column="8" />
-        <mark key="[" line="52" column="12" />
-        <mark key="]" line="52" column="34" />
-        <mark key="." line="52" column="34" />
-        <mark key="^" line="52" column="34" />
+        <mark key="[" line="45" column="68" />
+        <mark key="]" line="45" column="104" />
+        <mark key="." line="45" column="104" />
+        <mark key="^" line="45" column="104" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/filters/OpenCensusFilter.java" timestamp="1517596220852">
         <mark key="[" line="35" column="59" />
@@ -508,11 +508,11 @@
         <mark key="." line="16" column="54" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/handlers/CreateEntity.java" timestamp="1521748827416" />
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/nondatastore/MessageMetadata.java" timestamp="1522106303483">
-        <mark key="[" line="63" column="49" />
-        <mark key="]" line="100" column="120" />
-        <mark key="." line="100" column="120" />
-        <mark key="^" line="100" column="120" />
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/nondatastore/MessageMetadata.java" timestamp="1522111560032">
+        <mark key="[" line="66" column="46" />
+        <mark key="]" line="66" column="49" />
+        <mark key="." line="66" column="49" />
+        <mark key="^" line="66" column="49" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/mae/nodes/Leaf.java" timestamp="1521670706410">
         <mark key="[" line="2" column="0" />
@@ -612,11 +612,12 @@
         <mark key="." line="14" column="12" />
         <mark key="^" line="20" column="58" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/UnifiedAccessFlow.java" timestamp="1522108592821">
-        <mark key="[" line="10" column="4" />
-        <mark key="]" line="10" column="10" />
-        <mark key="^" line="10" column="10" />
-        <mark key="." line="10" column="10" />
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/UnifiedAccessFlow.java" timestamp="1522111204988">
+        <mark key="'" line="9" column="10" />
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="5" />
+        <mark key="^" line="11" column="5" />
+        <mark key="." line="11" column="5" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/ratchet/objectify/Annotations.java" timestamp="1519489614804">
         <mark key="[" line="8" column="31" />
@@ -932,7 +933,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="110" column="0" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/rewardly/mailfoo/unittests/ThreadInfoTests.java" />
       <jump line="96" column="8" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/rewardly/mailfoo/unittests/ThreadInfoTests.java" />
       <jump line="100" column="8" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/rewardly/mailfoo/unittests/ThreadInfoTests.java" />
       <jump line="101" column="8" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/rewardly/mailfoo/unittests/ThreadInfoTests.java" />
@@ -1032,6 +1032,7 @@
       <jump line="38" column="16" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/UnifiedAccessApproval.java" />
       <jump line="39" column="16" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/UnifiedAccessApproval.java" />
       <jump line="52" column="8" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/mae/MetaVisibilityService.java" />
+      <jump line="9" column="10" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/UnifiedAccessFlow.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1041,7 +1042,7 @@
         <text encoding="base64">Zmxvd1Zpc2liaWxpdHkg</text>
       </register>
       <register name="/" type="4">
-        <text>flowByGid</text>
+        <text>^</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQlpZiAoZmxvd0J5R2lkLmNvbnRhaW5zS2V5KG1lc3NhZ2UuZ2lkKSkgewoJCQlmbG93VmlzaWJpbGl0eSA9IGZsb3dCeUdpZC5nZXQobWVzc2FnZS5naWQpLmV2YWx1YXRlKG1lc3NhZ2UpOwoJCX0K</text>
@@ -1078,11 +1079,11 @@
       </register>
     </registers>
     <search>
-      <last-search>flowByGid</last-search>
+      <last-search>^</last-search>
       <last-offset />
-      <last-pattern>flowByGid</last-pattern>
-      <last-replace>materializedVisibilityServiceMap</last-replace>
-      <last-substitute>flowByGid</last-substitute>
+      <last-pattern>^</last-pattern>
+      <last-replace>public</last-replace>
+      <last-substitute>^</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -1102,12 +1103,12 @@
         <entry>public</entry>
         <entry>User</entry>
         <entry encoding="base64">VXNlciA=</entry>
-        <entry>^</entry>
         <entry>&quot;</entry>
         <entry>pipeline</entry>
         <entry>box</entry>
         <entry>)</entry>
         <entry>flowByGid</entry>
+        <entry>^</entry>
       </history-search>
       <history-cmd>
         <entry>s/box/pipeline/g</entry>
@@ -1122,13 +1123,13 @@
         <entry>s/from/bcc/g</entry>
         <entry>s/from/contacts/g</entry>
         <entry encoding="base64">JzwsJz5zL3B1YmxpYy9AT3ZlcnJpZGUgcHVibGlj</entry>
-        <entry encoding="base64">JzwsJz5zL14vcHVibGlj</entry>
         <entry>q</entry>
         <entry>s/pipeline/box/g</entry>
         <entry>s/box/thread/g</entry>
         <entry>s/box/threadId/g</entry>
         <entry>s/box/messageId/g</entry>
         <entry encoding="base64">JzwsJz5zL2Zsb3dCeUdpZC9tYXRlcmlhbGl6ZWRWaXNpYmlsaXR5U2VydmljZU1hcA==</entry>
+        <entry encoding="base64">JzwsJz5zL14vcHVibGlj</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
