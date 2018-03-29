@@ -96,11 +96,11 @@
         <mark key="." line="13" column="23" />
         <mark key="^" line="13" column="23" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/UnifiedAccessApproval.java" timestamp="1522347546551">
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/UnifiedAccessApproval.java" timestamp="1522348728866">
         <mark key="'" line="78" column="12" />
-        <mark key="[" line="82" column="18" />
-        <mark key="]" line="82" column="18" />
-        <mark key="." line="82" column="18" />
+        <mark key="[" line="85" column="15" />
+        <mark key="]" line="85" column="15" />
+        <mark key="." line="85" column="15" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/nondatastore/AbstractToken.java" timestamp="1519938717823">
         <mark key="[" line="12" column="0" />
@@ -508,12 +508,12 @@
         <mark key="^" line="35" column="27" />
         <mark key="." line="35" column="27" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/UnifiedAccessTeamApproval.java" timestamp="1522347661974">
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/UnifiedAccessTeamApproval.java" timestamp="1522349747489">
         <mark key="'" line="61" column="34" />
-        <mark key="[" line="61" column="115" />
-        <mark key="]" line="61" column="34" />
-        <mark key="^" line="61" column="34" />
-        <mark key="." line="61" column="34" />
+        <mark key="[" line="74" column="51" />
+        <mark key="]" line="74" column="99" />
+        <mark key="^" line="74" column="99" />
+        <mark key="." line="74" column="99" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/mae/models/Thread.java" timestamp="1522270733462">
         <mark key="'" line="14" column="4" />
@@ -587,9 +587,9 @@
         <mark key="^" line="21" column="8" />
         <mark key="." line="21" column="8" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/UnifiedAccessUserApproval.java" timestamp="1522347640839">
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/UnifiedAccessUserApproval.java" timestamp="1522349759452">
         <mark key="'" line="35" column="8" />
-        <mark key="[" line="44" column="106" />
+        <mark key="[" line="71" column="73" />
         <mark key="]" line="44" column="124" />
         <mark key="^" line="44" column="124" />
         <mark key="." line="44" column="124" />
@@ -1095,43 +1095,49 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">T2JqZWN0IA==</text>
+        <text>String</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">T2JqZWN0IA==</text>
+        <text>String</text>
       </register>
       <register name="/" type="4">
         <text>&quot;</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQkJdG8gPSBuZXcgVXNlcnMobWVzc2FnZS5tYWlsYm94ZXMuc3RyZWFtKCkKCQkJCQkJCQkJCQkuZmlsdGVyKG1haWxib3ggLT4gbWFpbGJveC5pc1RvKQoJCQkJCQkJCQkJCS5tYXAobWFpbGJveCAtPiBtYWlsYm94Lm1haWxib3hFbWFpbCkKCQkJCQkJCQkJCQkuY29sbGVjdChDb2xsZWN0b3JzCgkJCQkJCQkJCQkJCS50b1NldCgpKSk7Cg==</text>
+        <text encoding="base64">CQlyZXR1cm4gY3JlYXRlRnJvbVN0YXRlbWVudCgKCQkJU3RhdGVtZW50Lm5ld0J1aWxkZXIoCgkJCQkiU0VMRUNUICogRlJPTSBUZWFtQXBwcm92YWxzIFdIRVJFIG93bmVyR2lkIElOIFVOTkVTVChAb3duZXJHaWRzKSBBTkQgdGFyZ2V0VGVhbUlkID0gQHRhcmdldFRlYW1JZCBBTkQgYWN0aXZlIEFORCB0aXAiKQoJCQkJCSAuYmluZCgidGFyZ2V0SWQiKS50byh0YXJnZXRUZWFtSWQpCgkJCQkJIC5iaW5kKCJvd25lckdpZHMiKS50b1N0cmluZ0FycmF5KG93bmVyR2lkcykKCQkJCQkgLmJ1aWxkKCkKCQkpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CXB1YmxpYyBzdGF0aWMK</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">CQlyZXR1cm4gbnVsbDsK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">CQo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">CS8vIHdoeSBkbyB3ZSB3YW50IHRvIGdldCBhcHByb3ZhbHM/Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">CUl0IHdpbGwgCg==</text>
-      </register>
-      <register name="6" type="4">
-        <text encoding="base64">CS8vIGdldCBzaW5nbGUgYnkga2V5CgkvLyBnZXQgYWxs</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">CQlMaXN0PFVuaWZpZWRBY2Nlc3NBcHByb3ZhbD4gcGVyc29uYWw7Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">CQlyZXR1cm4gY3JlYXRlRnJvbVN0YXRlbWVudCgKCQkJU3RhdGVtZW50Lm5ld0J1aWxkZXIoCgkJCQkiU0VMRUNUICogRlJPTSBUZWFtQXBwcm92YWxzIFdIRVJFIG93bmVyR2lkIElOIFVOTkVTVChAb3duZXJHaWRzKSBBTkQgdGFyZ2V0VGVhbUlkID0gQHRhcmdldFRlYW1JZCBBTkQgYWN0aXZlIEFORCB0aXAiKQoJCQkJCSAuYmluZCgidGFyZ2V0SWQiKS50byh0YXJnZXRUZWFtSWQpCgkJCQkJIC5iaW5kKCJvd25lckdpZHMiKS50b1N0cmluZ0FycmF5KG93bmVyR2lkcykKCQkJCQkgLmJ1aWxkKCkKCQkpOwo=</text>
+      </register>
+      <register name="4" type="4">
+        <text>createFromStatement(
+			Statement.newBuilder(
+				&quot;SELECT * FROM UserApprovals WHERE ownerGid IN UNNEST(@ownerGids) AND targetId = @targetId AND active AND tip&quot;)
+					 .bind(&quot;targetId&quot;).to(targetGid)
+					 .bind(&quot;ownerGids&quot;).toStringArray(ownerGids)
+					 .build()
+		);</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">CXB1YmxpYyBzdGF0aWMK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">CQlyZXR1cm4gbnVsbDsK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">CQo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">CS8vIHRvZG8gaW5qZWN0IGluIGRhbyB0byB0aGlzPwo=</text>
+        <text encoding="base64">CS8vIHdoeSBkbyB3ZSB3YW50IHRvIGdldCBhcHByb3ZhbHM/Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQlEQU8uc3RvcmVVCg==</text>
+        <text encoding="base64">CUl0IHdpbGwgCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
