@@ -300,11 +300,11 @@
         <mark key="]" line="167" column="0" />
         <mark key="." line="167" column="0" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/containers/src/main/java/com/rewardly/mailfoo/utils/BackendHealth.java" timestamp="1522782109731">
-        <mark key="[" line="11" column="37" />
-        <mark key="]" line="13" column="92" />
-        <mark key="^" line="13" column="92" />
-        <mark key="." line="13" column="92" />
+      <file name="$USER_HOME$/src/MailFoo/containers/src/main/java/com/rewardly/mailfoo/utils/BackendHealth.java" timestamp="1522783348993">
+        <mark key="[" line="14" column="27" />
+        <mark key="]" line="14" column="60" />
+        <mark key="." line="14" column="60" />
+        <mark key="^" line="14" column="60" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/ratchet/TypeUtils.java" timestamp="1520383613339">
         <mark key="[" line="35" column="27" />
@@ -691,10 +691,11 @@
         <mark key="^" line="14" column="37" />
         <mark key="." line="14" column="37" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/containers/src/main/java/com/rewardly/mailfoo/utils/BackendService.java" timestamp="1522782499737">
-        <mark key="[" line="38" column="26" />
-        <mark key="]" line="232" column="0" />
-        <mark key="." line="232" column="0" />
+      <file name="$USER_HOME$/src/MailFoo/containers/src/main/java/com/rewardly/mailfoo/utils/BackendService.java" timestamp="1522783418282">
+        <mark key="[" line="38" column="19" />
+        <mark key="]" line="38" column="85" />
+        <mark key="^" line="38" column="85" />
+        <mark key="." line="38" column="85" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataupdaters/getters/ThreadInfoSpannerGetter.java" timestamp="1520558264447">
         <mark key="[" line="54" column="0" />
@@ -1076,44 +1077,44 @@
       <jump line="79" column="12" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/utils/RemoteAccess.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQkvLyBUT0RPIC0gaXMgdGhpcyBob3cgd2UgY29ubmVjdCB0byB0aGUgCg==</text>
+      <register name="&quot;" type="4">
+        <text>backend</text>
       </register>
       <register name="-" type="4">
-        <text>This is the entrance point for requests coming from Nginx.  We Proxy requests through XXXX</text>
+        <text>backend</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwcmludE1ldGFcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQkJCQlMb2dnZXIubG9nKAoJCQkJCQkiUmVxdWVzdCBpcyBpbiBnbWFpbCB0aHJlYWQgdmlldyBhbmQgdXNlciBpcyBub3QgaW4gc2hvd1VuaWZpZWRUaHJlYWRJbmRpY2F0b3IgZXhwZXJpbWVudCwgc28gb21pdHRpbmcgb3RoZXJzJyBtZXNzYWdlIG1ldGFkYXRhIik7Cg==</text>
+        <text encoding="base64">CQlTeXN0ZW0uZXJyLnByaW50bG4oIkhlYWx0aCBjaGVja2VkIik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkvLyBUT0RPIC0gaXMgdGhpcyBob3cgd2UgY29ubmVjdCB0byB0aGUgCg==</text>
+        <text encoding="base64">ICoK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">VGhpcyBpbnRlcmNlcHRzIGNhbGxzIHRvIEdvb2dsZSBBUElzLCBhbmQgcm91dGVzIHRoZW0gCg==</text>
+        <text encoding="base64">ICogVGhpcyBkb2VzIHdoYXQgZXhhY3RseT8K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJcmV0dXJuCg==</text>
+        <text encoding="base64">ICogV2hhdCBzdGF0aWMgaW5mb3JtYXRpb24gZG8gSSBuZWVkIHRvIGtlZXAgZm9yIHRoZSBudW1iZXIgb2YgbGl2ZSBjb25uZWN0aW9ucz8K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CS8vCg==</text>
+        <text encoding="base64">CQkvLyBUT0RPIGFjdHVhbGx5IGNoZWNrIGhlYWx0aAoKCQkvLyBUaGlzIHByb2JhYmx5IGludm9sdmVzIHR5aW5nIGluIGEgc3RhdGljIHZhcmlhYmxlIGluIHNvbWV0aGluZyBJIGNhbiBhY3R1YWxseSBoaXQuCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">IyBnY2xvdWQgYmV0YSBjb21wdXRlIGluc3RhbmNlLWdyb3VwcyBtYW5hZ2VkIHJvbGxpbmctYWN0aW9uIHN0YXJ0LXVwZGF0ZSBhcGktbGItdGVzdCAtLXZlcnNpb24gdGVtcGxhdGU9YXBpLWxiLXRlc3QtJFJFViAtLXpvbmU9dXMtY2VudHJhbDEtYgo=</text>
+        <text encoding="base64">CQkvLyBUT0RPIC0gaXMgdGhpcyBob3cgd2UgY29ubmVjdCB0byB0aGUgCg==</text>
       </register>
-      <register name="6" type="4">
-        <text>agxzfm1haWxmb29nYWVyMgsSDE9yZ2FuaXphdGlvbiILZ29vbGV0cy5uZXQMCxILR21haWxUaHJlYWQY8fyB7gIM</text>
+      <register name="6" type="2">
+        <text encoding="base64">VGhpcyBpbnRlcmNlcHRzIGNhbGxzIHRvIEdvb2dsZSBBUElzLCBhbmQgcm91dGVzIHRoZW0gCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJCS8vIGNoYW5nZSBub3RoaW5nCg==</text>
+        <text encoding="base64">CQkJcmV0dXJuCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJfQo=</text>
+        <text encoding="base64">CS8vCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyBnY2xvdWQgYmV0YSBjb21wdXRlIGluc3RhbmNlLWdyb3VwcyBtYW5hZ2VkIHJvbGxpbmctYWN0aW9uIHN0YXJ0LXVwZGF0ZSBhcGktbGItdGVzdCAtLXZlcnNpb24gdGVtcGxhdGU9YXBpLWxiLXRlc3QtJFJFViAtLXpvbmU9dXMtY2VudHJhbDEtYgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
