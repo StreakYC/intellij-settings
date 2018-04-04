@@ -398,7 +398,7 @@
         <mark key="." line="9" column="41" />
         <mark key="^" line="9" column="41" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/utils/ApiServerServlet.java" timestamp="1522874785312">
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/utils/ApiServerServlet.java" timestamp="1522878401733">
         <mark key="[" line="291" column="69" />
         <mark key="]" line="302" column="104" />
         <mark key="^" line="302" column="104" />
@@ -821,6 +821,13 @@
         <mark key="." line="55" column="71" />
         <mark key="^" line="55" column="71" />
       </file>
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/utils/RemoteAccess.java" timestamp="1522878509825">
+        <mark key="'" line="95" column="12" />
+        <mark key="[" line="88" column="0" />
+        <mark key="]" line="207" column="10" />
+        <mark key="." line="207" column="10" />
+        <mark key="^" line="207" column="10" />
+      </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/ratchet/SchemaWriter.java" timestamp="1520387531819">
         <mark key="[" line="36" column="34" />
         <mark key="]" line="36" column="40" />
@@ -1004,8 +1011,8 @@
       <jump line="79" column="12" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/utils/RemoteAccess.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>&quot;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="-" type="4">
         <text>&quot;</text>
@@ -1017,31 +1024,31 @@
         <text encoding="base64">CQkJCWRlbGVnYXRlU2V0ID0gdHJ1ZTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJfQo=</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQlzdGF0dXMgPSBTZXJ2aW5nU3RhdHVzLlNFUlZJTkc7Cg==</text>
+        <text encoding="base64">CQkJfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQlzdGF0dXMgPSBTZXJ2aW5nU3RhdHVzLlNFUlZJTkc7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CXByaXZhdGUgU2VydmluZ1N0YXR1cyBzdGF0dXM7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQlTeXN0ZW0uZXJyLnByaW50bG4oIkRvaW5nIGZpbHRlciIpOwoJCVN5c3RlbS5lcnIucHJpbnRsbihzZXJ2bGV0UmVxdWVzdC5nZXRBdHRyaWJ1dGUoIkFQSV9MQiIpKTsK</text>
+        <text encoding="base64">CXByaXZhdGUgU2VydmluZ1N0YXR1cyBzdGF0dXM7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJCVN5c3RlbS5lcnIucHJpbnRsbihBcGlQcm94eS5nZXREZWxlZ2F0ZSgpKTsK</text>
+        <text encoding="base64">CQlTeXN0ZW0uZXJyLnByaW50bG4oIkRvaW5nIGZpbHRlciIpOwoJCVN5c3RlbS5lcnIucHJpbnRsbihzZXJ2bGV0UmVxdWVzdC5nZXRBdHRyaWJ1dGUoIkFQSV9MQiIpKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CXByaXZhdGUgc3RhdGljIGJvb2xlYW4gaGFzUnVuID0gZmFsc2U7IC8vIFRPRE8gLSBJJ20gbm90IHN1cmUgaWYgdGhpcyBpcyBuZWVkZWQuICBJbiBnZW5lcmFsLCBJIHNob3VsZCBicmluZyBpbiB0aGUgc3lzdGVtIHBhcmFtcyBzdHVmZgo=</text>
+        <text encoding="base64">CQkJCVN5c3RlbS5lcnIucHJpbnRsbihBcGlQcm94eS5nZXREZWxlZ2F0ZSgpKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQl9Cg==</text>
+        <text encoding="base64">CXByaXZhdGUgc3RhdGljIGJvb2xlYW4gaGFzUnVuID0gZmFsc2U7IC8vIFRPRE8gLSBJJ20gbm90IHN1cmUgaWYgdGhpcyBpcyBuZWVkZWQuICBJbiBnZW5lcmFsLCBJIHNob3VsZCBicmluZyBpbiB0aGUgc3lzdGVtIHBhcmFtcyBzdHVmZgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQlpZiAoIWhhc1J1bikgewoJCQlTeXN0ZW0uZXJyLnByaW50bG4oIm5vIGhhcyBydW4iKTsKCQkJaGFzUnVuID0gdHJ1ZTsK</text>
+        <text encoding="base64">CQl9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
