@@ -33,10 +33,11 @@
         <mark key="^" line="36" column="31" />
         <mark key="." line="36" column="31" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/filters/OpenCensusFilter.java" timestamp="1523049195313">
-        <mark key="[" line="48" column="0" />
-        <mark key="]" line="48" column="0" />
-        <mark key="." line="48" column="0" />
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/filters/OpenCensusFilter.java" timestamp="1523053355317">
+        <mark key="[" line="33" column="23" />
+        <mark key="]" line="33" column="73" />
+        <mark key="." line="33" column="73" />
+        <mark key="^" line="33" column="73" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/UnifiedAccessApproval.java" timestamp="1522433957725">
         <mark key="'" line="79" column="12" />
@@ -568,10 +569,10 @@
         <mark key="^" line="16" column="0" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1523048117131">
+      <file name="/fragment.java" timestamp="1523053324033">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="12" />
-        <mark key="." line="0" column="12" />
+        <mark key="]" line="0" column="23" />
+        <mark key="." line="0" column="23" />
         <mark key="^" line="0" column="19" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/rewardly/mailfoo/unittests/MaeRemoteTest.java" timestamp="1522451720511">
@@ -641,7 +642,7 @@
         <mark key="." line="15" column="9" />
         <mark key="^" line="15" column="9" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/api/APIV1EndpointManager.java" timestamp="1523051578056" />
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/api/APIV1EndpointManager.java" timestamp="1523052195493" />
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/utils/Utils.java" timestamp="1521680836007">
         <mark key="[" line="544" column="4" />
         <mark key="]" line="544" column="4" />
@@ -1127,11 +1128,11 @@
       <jump line="130" column="20" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/nondatastore/MessageMetadata.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>contains</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>contains</text>
       </register>
       <register name="/" type="4">
         <text>+</text>
