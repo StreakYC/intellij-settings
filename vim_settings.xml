@@ -30,11 +30,11 @@
         <mark key="^" line="14" column="18" />
         <mark key="." line="14" column="18" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/containers/src/main/java/com/rewardly/mailfoo/filters/RemoteFilter.java" timestamp="1523300051838">
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="0" />
-        <mark key="^" line="27" column="45" />
-        <mark key="." line="25" column="0" />
+      <file name="$USER_HOME$/src/MailFoo/containers/src/main/java/com/rewardly/mailfoo/filters/RemoteFilter.java" timestamp="1523304864583">
+        <mark key="[" line="27" column="17" />
+        <mark key="]" line="27" column="17" />
+        <mark key="^" line="26" column="16" />
+        <mark key="." line="27" column="17" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/pom.xml" timestamp="1521678661683">
         <mark key="[" line="91" column="21" />
@@ -65,7 +65,7 @@
         <mark key="." line="25" column="24" />
         <mark key="^" line="25" column="24" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/Spanner.java" timestamp="1521161066972">
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/Spanner.java" timestamp="1523304286418">
         <mark key="[" line="140" column="24" />
         <mark key="]" line="140" column="24" />
         <mark key="." line="140" column="24" />
@@ -402,6 +402,7 @@
         <mark key="^" line="49" column="136" />
         <mark key="." line="49" column="136" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/google/appengine/appengine-remote-api/1.9.57/appengine-remote-api-1.9.57.jar!/com/google/appengine/tools/remoteapi/OAuthClient.class" timestamp="1523305664367" />
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/mae/conditions/IsMe.java" timestamp="1522180743034">
         <mark key="[" line="6" column="23" />
         <mark key="]" line="6" column="62" />
@@ -527,6 +528,7 @@
         <mark key="^" line="8" column="67" />
         <mark key="." line="36" column="0" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/google/appengine/appengine-remote-api/1.9.57/appengine-remote-api-1.9.57.jar!/com/google/appengine/tools/remoteapi/RemoteApiInstaller.class" timestamp="1523305348607" />
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/utils/jwt/JWTDecoder.java" timestamp="1520957203339">
         <mark key="[" line="36" column="40" />
         <mark key="]" line="36" column="26" />
@@ -545,7 +547,7 @@
         <mark key="^" line="16" column="0" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1523059078474">
+      <file name="/fragment.java" timestamp="1523305351020">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="23" />
         <mark key="." line="0" column="23" />
@@ -625,6 +627,7 @@
         <mark key="." line="544" column="4" />
         <mark key="^" line="544" column="4" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/google/appengine/appengine-remote-api/1.9.57/appengine-remote-api-1.9.57.jar!/com/google/appengine/repackaged/com/google/api/client/http/HttpRequest.class" timestamp="1523305724248" />
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/mae/nodes/Node.java" timestamp="1521673319027">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="6" column="90" />
@@ -856,7 +859,7 @@
         <mark key="." line="19" column="40" />
         <mark key="^" line="19" column="40" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/google/appengine/appengine-remote-api/1.9.57/appengine-remote-api-1.9.57.jar!/com/google/appengine/tools/remoteapi/RemoteApiOptions.class" timestamp="1523298216141" />
+      <file name="$MAVEN_REPOSITORY$/com/google/appengine/appengine-remote-api/1.9.57/appengine-remote-api-1.9.57.jar!/com/google/appengine/tools/remoteapi/RemoteApiOptions.class" timestamp="1523304345616" />
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/test/resources/fixtures/teams.json" timestamp="1522432943448">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="13" column="1" />
@@ -1050,11 +1053,11 @@
       <jump line="130" column="20" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/nondatastore/MessageMetadata.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQkJCg==</text>
+      <register name="&quot;" type="4">
+        <text>useApplicationDefaultCredential</text>
       </register>
       <register name="-" type="4">
-        <text>GoogleCredentials.getApplicationDefault(ApacheHttpTransport::new);</text>
+        <text>useApplicationDefaultCredential</text>
       </register>
       <register name="/" type="4">
         <text>+</text>
@@ -1063,31 +1066,31 @@
         <text encoding="base64">CQkJCWF0dHJpYnV0ZXMucHV0KCJnYWUvcmVxdWVzdF9sb2dfaWQiLCBudWxsKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJCg==</text>
+        <text encoding="base64">CQkJY3JlCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJR29vZ2xlQ3JlZGVudGlhbHMgY3JlZGVudGlhbHMgPSBDb21wdXRlRW5naW5lQ3JlZGVudGlhbHMub2YoQXBhY2hlSHR0cFRyYW5zcG9ydDo6bmV3KTsK</text>
+        <text encoding="base64">CQkJCS51c2VDb21wdXRlRW5naW5lQ3JlZGVudGlhbCgpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJCS51c2VBcHBsaWNhdGlvbkRlZmF1bHRDcmVkZW50aWFsKCk7Cg==</text>
+        <text encoding="base64">CQkJCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJY3JlZGVudGlhbHMuCg==</text>
+        <text encoding="base64">CQkJR29vZ2xlQ3JlZGVudGlhbHMgY3JlZGVudGlhbHMgPSBDb21wdXRlRW5naW5lQ3JlZGVudGlhbHMub2YoQXBhY2hlSHR0cFRyYW5zcG9ydDo6bmV3KTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJCS4K</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">CQkJCS51c2VBcHBsaWNhdGlvbkRlZmF1bHRDcmVkZW50aWFsKCk7Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">CQkJY3JlZGVudGlhbHMuCg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">CQlpZiAoMSA9PSAxIHx8Q29uc3RhbnRzLmlzUHJvZCgpKSB7CgkJCVJlbW90ZUFwaU9wdGlvbnMgb3B0aW9ucyA9IG5ldyBSZW1vdGVBcGlPcHRpb25zKCkK</text>
+        <text encoding="base64">CQkJCS4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJU3Bhbm5lci5zZXRNb2RlKE1vZGUuUFJPRFVDVElPTik7Cg==</text>
+        <text encoding="base64">CQkJCS51c2VBcHBsaWNhdGlvbkRlZmF1bHRDcmVkZW50aWFsKCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQlpZiAoMSA9PSAxIHx8Q29uc3RhbnRzLmlzUHJvZCgpKSB7CgkJCVJlbW90ZUFwaU9wdGlvbnMgb3B0aW9ucyA9IG5ldyBSZW1vdGVBcGlPcHRpb25zKCkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
