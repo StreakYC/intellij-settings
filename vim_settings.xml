@@ -83,9 +83,9 @@
         <mark key="." line="25" column="24" />
         <mark key="^" line="25" column="24" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/Spanner.java" timestamp="1523320961780">
-        <mark key="[" line="140" column="24" />
-        <mark key="]" line="140" column="24" />
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/Spanner.java" timestamp="1523383892442">
+        <mark key="[" line="83" column="0" />
+        <mark key="]" line="83" column="89" />
         <mark key="." line="140" column="24" />
         <mark key="^" line="140" column="24" />
       </file>
@@ -689,7 +689,7 @@
         <mark key="^" line="33" column="1" />
         <mark key="." line="33" column="1" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/curls" timestamp="1523380943204">
+      <file name="$USER_HOME$/src/MailFoo/curls" timestamp="1523383693472">
         <mark key="[" line="55" column="133" />
         <mark key="]" line="24" column="0" />
         <mark key="." line="24" column="0" />
@@ -1144,8 +1144,8 @@
       <jump line="70" column="56" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/filters/ExtractRequestDataFilter.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQkJCQkJCWNyZWRlbnRpYWxzID0gQ29tcHV0ZUVuZ2luZUNyZWRlbnRpYWxzLm9mKGFwYWNoZUh0dHBGYWN0b3J5KTsK</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -1154,7 +1154,7 @@
         <text>)</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQkJCQkiICBcInByaXZhdGVfa2V5XCI6IFwiLS0tLS1CRUdJTiBQUklWQVRFIEtFWS0tLS0tXFxuTUlJRXZ3SUJBREFOQmdrcWhraUc5dzBCQVFFRkFBU0NCS2t3Z2dTbEFnRUFBb0lCQVFDM0NmSHVkNDBqbGI2VVxcbmlJOFF0NWE1b3ZiMEFSTW5oMS93RGZOSWorUFova25lb2R0Y2xXYVBET0ZCSWdOSDJZTmd5TkNkaHZEdk82WDRcXG5NSEV5V0hlVFVyOVgzbWY0NFZUODczVUQ0OWtTcmpqKzE5V01QWmpjVGZ0L05Camh6c0RnQ2hzMlhnemFjUXJyXFxuNllWNzRlMGxhb0hpKzZGajJCUjJ2OGg5QTJFK29nVFdlcW04bTBhTUcyOUxNdVBZYXpKUzNXbXJrcDlHekVwelxcbkIxUkM2S21hbFJyTWZ6ZkR4clEzVjNvenF4SEFtQkZWNmYwcUYydUlnejlzSjN3QmxTK2QxT0U3Sy81UXo0eVlcXG5hbnc5NHRBeklOSW1BVThRbmo0NTIxazJUU212NDBKM3lEQTBnQWVETkNuTUxKTXVtMGYrM0hIUU93Q3NZaCtEXFxuMmRvYi9XK2JBZ01CQUFFQ2dnRUFUOVFNQ2pOa3dGVFNNZ2llMEswcEZOeFF0UmwwNTZRQWdQc3NsQVNCWExVdFxcbk5XWkUvQXVDbDdnSDA3YklWSUUyYmJNWFhPU1oxdFNlYlhCL0pmUjBiakhFRnNmK2M0cWUzTk40cHRJci9ad3pcXG5hbDNxbWtmUkQ2QUpKREN0KzJtSE1BN29VRjFUWUwrMWdpOHVFdG4xYWdDYUZrc2xWNXpKVEFNWHB3SWUyc2ZqXFxuOXhaMzh5ZGN3dUdnbWhsZjdBcXJDRXV5QWJPZ3dGZ2pCUDdoSndxMFdleXJqZ2hSRklkZmMxN2hUL2Zqb3E5ZVxcbjFqaFRwdUdjVDJqYmNOT1pObkRmcEpHNU1QWnpyOC92Rno3ZDVtUzY5YnM2QjkxdlJINGNvZWpobm9xa080Si9cXG5ISS9VaVBzcVFMVUpETG4wYmVkZ0l1aXBtMnNlN1EzbGR1Y2E4andONVFLQmdRRHV5VXJ4QVgrNnR6cjM0dXFnXFxuQzZuMjZFOG1rL3pFZHJINzhOREFnMmx6bnNRUVdMNEZ2YXNaQ2lBWFNrZzFKSS9rTXE1Qnh6QkQ2eHd4d2xRVVxcblkxU2NTZmVvT3kwcXBDdkE0QmFYYlpib25Ib3NaSlg3aXQvN29KVHZxQWc2UXcyKzRrd1VIYXpMN0paWUszU0hcXG5sRjRTRzF6L2wvRWU4WnlVUi8zV2RsUnNYUUtCZ1FERU85cmhhMWVweDY0cytOcTBNMVp0NW1pMnJubU5jbGVqXFxuUWpUTmEzb2NjRUJTU0I2ZXRVKzRTKzRIMzlkWVQ5dEtYS3BsUVFicHNyeEtIa21GNnZJOGlPeUFDcUFqR0JLRFxcblJnWmRZbFlGdVJybGV2MXBHVy84NkdSMkVydm9KOUpwK09LSC84WVJyV3JQSXJOVk1mRXJVVUhtdDN1UzcvckJcXG5JL2VlbjVWTVZ3S0JnUUNEUEloK3F0YzdsSWJKUktLMDhaUXBTb1p0Nm5uS3RIMmZ2VHZPQXF1TFN4L3c2QVVQXFxuL0swenB0ZjZWTzRZbnc2aVdhUmlMSXAvV1pGMlc1cUFWaE5qamxlWjAyUkFnbGcxdWpOUWFIKy9PbmovT3cwZlxcblliVTJnNHczcHo5V1hoSUk3akRvQVdNOTlMcXduTGwvNW5CSlBWYkFkdzZqZGlFYmNmRzEwL1VVVlFLQmdRQ3pcXG5BSDZMUGlXN1ErRElPVUVYTy9WTlR1NmFKZEhQaTB3U0txU0w5Y3h3QUoxTDhXbXRFR3RtREMxWGxZS1VsbFBOXFxuSTNaejRydHhsbzlYZFFWUVdaOGFSVFNuSUFvdnVSZTZFN2hlbXdNcE9VOGxvZWxqWThiYUJ3c05BYzNTMmZDQVxcbnBuM04zUzFLbHN4bG9wdS96VXpYWE1vbXNaelJ6b01JaDh5ckw1czdCUUtCZ1FDYUk0QjFRQklkWkdHeVlRSXNcXG5oMDNIenYvZGdzaGc4ZkNIOC9vS01OVVdXNGRTUkkrOEVJaEVKMFF5STlyWmpmcmQrdlpGR3BzR3ZGRHNwQ1ZrXFxuZVdJVG53L0ZRa1pJa2V6RENTRzhSUkN0Vkh3NjlscUFqV1p1L1N0bmRXd1lnK2hvdHJvNmppQ0kzb0RkRnJNK1xcbmtMYlpaQ3U3KzRQdUY3QWt6T2grUTlPRC9BPT1cXG4tLS0tLUVORCBQUklWQVRFIEtFWS0tLS0tXFxuXCIsXG4iICsK</text>
+        <text encoding="base64">CQkJCQkJCWNyZWRlbnRpYWxzID0gQ29tcHV0ZUVuZ2luZUNyZWRlbnRpYWxzLm9mKGFwYWNoZUh0dHBGYWN0b3J5KTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
