@@ -23,6 +23,9 @@
         <mark key="^" line="853" column="0" />
         <mark key="." line="853" column="0" />
       </file>
+      <file name="$USER_HOME$/src/MailFoo/containers/web-api/service.yaml" timestamp="1523493938884">
+        <mark key="[" line="8" column="19" />
+      </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/ratchet/translate/KeyTranslatorFactory.java" timestamp="1518746997199">
         <mark key="[" line="14" column="15" />
         <mark key="]" line="14" column="18" />
@@ -185,8 +188,12 @@
       <file name="$USER_HOME$/src/MailFoo/containers/dd-agent/dd-agent.yaml" timestamp="1523489898571">
         <mark key="[" line="12" column="45" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/containers/web-api/deployment.yaml" timestamp="1523492537298">
+      <file name="$USER_HOME$/src/MailFoo/containers/web-api/deployment.yaml" timestamp="1523494403257">
         <mark key="'" line="15" column="11" />
+        <mark key="[" line="3" column="26" />
+        <mark key="]" line="21" column="22" />
+        <mark key="." line="21" column="22" />
+        <mark key="^" line="21" column="22" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/rewardly/mailfoo/unittests/DatastoreTest.java" timestamp="1520894306981">
         <mark key="[" line="9" column="41" />
@@ -1125,43 +1132,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>deployment</text>
+        <text>jmx</text>
       </register>
       <register name="-" type="4">
-        <text>deployment</text>
+        <text>jmx</text>
       </register>
       <register name="/" type="4">
         <text>^</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQkJCQkJb3B0aW9ucyA9IFNwYW5uZXJPcHRpb25zLm5ld0J1aWxkZXIoKQoJCQkJCQkJCQkJCQkgIC5zZXRQcm9qZWN0SWQoIm1haWxmb29nYWUiKQoJCQkJCQkJCQkJCQkgIC5zZXRDcmVkZW50aWFscyhjcmVkZW50aWFscykKCQkJCQkJCQkJCQkJICAuc2V0U2Vzc2lvblBvb2xPcHRpb24oU2Vzc2lvblBvb2xPcHRpb25zLm5ld0J1aWxkZXIoKQoJCQkJCQkJCQkJCQkJCQkJCQkJCQkJICAuYnVpbGQoKSkKCQkJCQkJCQkJCQkJICAuYnVpbGQoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgIC0gY29udGFpbmVyUG9ydDogNDU2NwogICAgICAgICAgICBuYW1lOiBqbXgK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwb3J0czoKICAgICAgICAtIGNvbnRhaW5lclBvcnQ6IDQ1NjcKICAgICAgICAgICAgbmFtZTogam14Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBTdGFzaGVkIGNoYW5nZXMK</text>
+        <text encoding="base64">ICAgICAgICBwb3J0czoKICAgICAgICAtIGNvbnRhaW5lclBvcnQ6IDQ1NjcKICAgICAgICAgICAgbmFtZTogam14Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjb21tYW5kOiBbImphdmEiLCAiLURqYXZhLnV0aWwubG9nZ2luZy5jb25maWcuZmlsZT13ZWItYXBpLWxvZ2dpbmcucHJvcGVydGllcyIsICItbXgyZyIsICItY3AiLCAiY29udGFpbmVycy5qYXIiLCAiY29tLnN0cmVhay5vbmVvZmYuU2VydmVyQ29tbW9uSHR0cFNlcnZlciIsICJ3ZWJhcHAiXQo9PT09PT09CiAgICAgICAgaW1hZ2U6IGdjci5pby9tYWlsZm9vZ2FlL21haWxmb29fY29udGFpbmVyczo5M2YzZmNkCg==</text>
+        <text encoding="base64">Pj4+Pj4+PiBTdGFzaGVkIGNoYW5nZXMK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">PDw8PDw8PCBVcGRhdGVkIHVwc3RyZWFtCg==</text>
+        <text encoding="base64">ICAgICAgICBjb21tYW5kOiBbImphdmEiLCAiLURqYXZhLnV0aWwubG9nZ2luZy5jb25maWcuZmlsZT13ZWItYXBpLWxvZ2dpbmcucHJvcGVydGllcyIsICItbXgyZyIsICItY3AiLCAiY29udGFpbmVycy5qYXIiLCAiY29tLnN0cmVhay5vbmVvZmYuU2VydmVyQ29tbW9uSHR0cFNlcnZlciIsICJ3ZWJhcHAiXQo9PT09PT09CiAgICAgICAgaW1hZ2U6IGdjci5pby9tYWlsZm9vZ2FlL21haWxmb29fY29udGFpbmVyczo5M2YzZmNkCg==</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">PDw8PDw8PCBVcGRhdGVkIHVwc3RyZWFtCg==</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAJICAgICJ3ZWJhcHAiCg==</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>mitja.mirtic@goolets.net</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text>agxzfm1haWxmb29nYWVyMgsSDE9yZ2FuaXphdGlvbiILZ29vbGV0cy5uZXQMCxILR21haWxUaHJlYWQY4aie5QIM</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text>0.43.0-beta</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">CQk8ZGVwZW5kZW5jeT4KCQkJPGdyb3VwSWQ+Y29tLmRhdGFkb2docTwvZ3JvdXBJZD4KCQkJPGFydGlmYWN0SWQ+ZGQtdHJhY2Utb3Q8L2FydGlmYWN0SWQ+CgkJCTx2ZXJzaW9uPjAuNi4wPC92ZXJzaW9uPgoJCTwvZGVwZW5kZW5jeT4K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
