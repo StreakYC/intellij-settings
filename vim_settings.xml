@@ -14,6 +14,9 @@
         <mark key="]" line="23" column="0" />
         <mark key="." line="23" column="0" />
       </file>
+      <file name="/a.dummy" timestamp="1523056056232">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/Workflow.java" timestamp="1522954691780">
         <mark key="[" line="853" column="0" />
         <mark key="]" line="853" column="0" />
@@ -179,7 +182,12 @@
         <mark key="^" line="36" column="23" />
         <mark key="." line="36" column="13" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/containers/dd-agent/dd-agent.yaml" timestamp="1523488481414" />
+      <file name="$USER_HOME$/src/MailFoo/containers/dd-agent/dd-agent.yaml" timestamp="1523489898571">
+        <mark key="[" line="12" column="45" />
+      </file>
+      <file name="$USER_HOME$/src/MailFoo/containers/web-api/deployment.yaml" timestamp="1523492537298">
+        <mark key="'" line="15" column="11" />
+      </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/rewardly/mailfoo/unittests/DatastoreTest.java" timestamp="1520894306981">
         <mark key="[" line="9" column="41" />
         <mark key="]" line="9" column="44" />
@@ -496,6 +504,9 @@
         <mark key="^" line="5" column="18" />
         <mark key="." line="5" column="18" />
       </file>
+      <file name="/Dummy.txt" timestamp="1522958678394">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/nondatastore/MessageSource.java" timestamp="1522273173182">
         <mark key="[" line="11" column="34" />
         <mark key="]" line="12" column="19" />
@@ -687,10 +698,10 @@
         <mark key="." line="57" column="43" />
         <mark key="^" line="57" column="43" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/curls" timestamp="1523396596465">
-        <mark key="[" line="80" column="0" />
-        <mark key="]" line="76" column="92" />
-        <mark key="." line="76" column="92" />
+      <file name="$USER_HOME$/src/MailFoo/curls" timestamp="1523492326210">
+        <mark key="[" line="17" column="40" />
+        <mark key="]" line="17" column="40" />
+        <mark key="." line="17" column="40" />
         <mark key="^" line="24" column="0" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataupdaters/creators/UnifiedApprovalCreator.java" timestamp="1522443230491">
@@ -1011,7 +1022,6 @@
       <file name="$MAVEN_REPOSITORY$/com/google/apis/google-api-services-compute/v1-rev160-1.22.0/google-api-services-compute-v1-rev160-1.22.0.jar!/com/google/api/services/compute/Compute.class" timestamp="1522873503600" />
     </filemarks>
     <jumps>
-      <jump line="988" column="62" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/sharing/UserActionAccessManagementRecorderImpl.java" />
       <jump line="1091" column="16" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/sharing/UserActionAccessManagementRecorderImpl.java" />
       <jump line="10" column="10" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/UnifiedAccessApproval.java" />
       <jump line="15" column="0" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/UnifiedAccessApproval.java" />
@@ -1111,63 +1121,63 @@
       <jump line="312" column="19" filename="$MAVEN_REPOSITORY$/com/google/appengine/appengine-api-1.0-sdk/1.9.57/appengine-api-1.0-sdk-1.9.57.jar!/com/google/appengine/repackaged/com/google/api/client/http/HttpRequest.class" />
       <jump line="313" column="102" filename="$MAVEN_REPOSITORY$/com/google/appengine/appengine-api-1.0-sdk/1.9.57/appengine-api-1.0-sdk-1.9.57.jar!/com/google/appengine/repackaged/com/google/api/client/http/HttpRequest.class" />
       <jump line="321" column="69" filename="$MAVEN_REPOSITORY$/com/google/appengine/appengine-api-1.0-sdk/1.9.57/appengine-api-1.0-sdk-1.9.57.jar!/com/google/appengine/repackaged/com/google/api/client/http/HttpRequest.class" />
+      <jump line="34" column="11" filename="$USER_HOME$/src/MailFoo/containers/web-api/deployment.yaml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>mitja.mirtic@goolets.net</text>
+        <text>deployment</text>
       </register>
       <register name="-" type="4">
-        <text>mitja.mirtic@goolets.net</text>
+        <text>deployment</text>
       </register>
       <register name="/" type="4">
-        <text>&quot;</text>
+        <text>^</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQkJCQkJb3B0aW9ucyA9IFNwYW5uZXJPcHRpb25zLm5ld0J1aWxkZXIoKQoJCQkJCQkJCQkJCQkgIC5zZXRQcm9qZWN0SWQoIm1haWxmb29nYWUiKQoJCQkJCQkJCQkJCQkgIC5zZXRDcmVkZW50aWFscyhjcmVkZW50aWFscykKCQkJCQkJCQkJCQkJICAuc2V0U2Vzc2lvblBvb2xPcHRpb24oU2Vzc2lvblBvb2xPcHRpb25zLm5ld0J1aWxkZXIoKQoJCQkJCQkJCQkJCQkJCQkJCQkJCQkJICAuYnVpbGQoKSkKCQkJCQkJCQkJCQkJICAuYnVpbGQoKTsK</text>
       </register>
-      <register name="1" type="4">
-        <text>mitja.mirtic@goolets.net</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBwb3J0czoKICAgICAgICAtIGNvbnRhaW5lclBvcnQ6IDQ1NjcKICAgICAgICAgICAgbmFtZTogam14Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text>agxzfm1haWxmb29nYWVyMgsSDE9yZ2FuaXphdGlvbiILZ29vbGV0cy5uZXQMCxILR21haWxUaHJlYWQY4aie5QIM</text>
+      <register name="2" type="2">
+        <text encoding="base64">Pj4+Pj4+PiBTdGFzaGVkIGNoYW5nZXMK</text>
       </register>
-      <register name="3" type="4">
-        <text>0.43.0-beta</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBjb21tYW5kOiBbImphdmEiLCAiLURqYXZhLnV0aWwubG9nZ2luZy5jb25maWcuZmlsZT13ZWItYXBpLWxvZ2dpbmcucHJvcGVydGllcyIsICItbXgyZyIsICItY3AiLCAiY29udGFpbmVycy5qYXIiLCAiY29tLnN0cmVhay5vbmVvZmYuU2VydmVyQ29tbW9uSHR0cFNlcnZlciIsICJ3ZWJhcHAiXQo9PT09PT09CiAgICAgICAgaW1hZ2U6IGdjci5pby9tYWlsZm9vZ2FlL21haWxmb29fY29udGFpbmVyczo5M2YzZmNkCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQk8ZGVwZW5kZW5jeT4KCQkJPGdyb3VwSWQ+Y29tLmRhdGFkb2docTwvZ3JvdXBJZD4KCQkJPGFydGlmYWN0SWQ+ZGQtdHJhY2Utb3Q8L2FydGlmYWN0SWQ+CgkJCTx2ZXJzaW9uPjAuNi4wPC92ZXJzaW9uPgoJCTwvZGVwZW5kZW5jeT4K</text>
+        <text encoding="base64">PDw8PDw8PCBVcGRhdGVkIHVwc3RyZWFtCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGlvLm9wZW50cmFjaW5nLnV0aWwuR2xvYmFsVHJhY2VyOwo=</text>
+        <text encoding="base64">ICAgICAgICAJICAgICJ3ZWJhcHAiCg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">CTxkZXBlbmRlbmN5PgoJCTxncm91cElkPmNvbS5kYXRhZG9naHE8L2dyb3VwSWQ+CgkJPGFydGlmYWN0SWQ+ZGQtdHJhY2UtYXBpPC9hcnRpZmFjdElkPgoJCTx2ZXJzaW9uPjAuNi4wPC92ZXJzaW9uPgoJPC9kZXBlbmRlbmN5Pgo=</text>
+      <register name="6" type="4">
+        <text>mitja.mirtic@goolets.net</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="7" type="4">
+        <text>agxzfm1haWxmb29nYWVyMgsSDE9yZ2FuaXphdGlvbiILZ29vbGV0cy5uZXQMCxILR21haWxUaHJlYWQY4aie5QIM</text>
       </register>
       <register name="8" type="4">
-        <text>&quot;mailfoogae</text>
+        <text>0.43.0-beta</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJCVN0YWNrZHJpdmVyU3RhdHNDb25maWd1cmF0aW9uLmJ1aWxkZXIoKS5idWlsZCgpKTsK</text>
+        <text encoding="base64">CQk8ZGVwZW5kZW5jeT4KCQkJPGdyb3VwSWQ+Y29tLmRhdGFkb2docTwvZ3JvdXBJZD4KCQkJPGFydGlmYWN0SWQ+ZGQtdHJhY2Utb3Q8L2FydGlmYWN0SWQ+CgkJCTx2ZXJzaW9uPjAuNi4wPC92ZXJzaW9uPgoJCTwvZGVwZW5kZW5jeT4K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>&quot;</last-search>
+      <last-search>^</last-search>
       <last-offset />
-      <last-pattern>&quot;</last-pattern>
-      <last-replace />
-      <last-substitute>+</last-substitute>
+      <last-pattern>^</last-pattern>
+      <last-replace encoding="base64">ICA=</last-replace>
+      <last-substitute>^</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>gid</entry>
         <entry>;</entry>
         <entry>sources</entry>
         <entry encoding="base64">XDxjb2xsZWN0XD4=</entry>
@@ -1187,9 +1197,9 @@
         <entry>urlStr</entry>
         <entry encoding="base64">PA==</entry>
         <entry>&quot;</entry>
+        <entry>^</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zL3RocmVhZElkL3RhcmdldEdpZC9n</entry>
         <entry encoding="base64">JzwsJz5zL293bmVyR2lkL2dpZC9n</entry>
         <entry encoding="base64">JzwsJz5zL2dpZC9kYXRhL2c=</entry>
         <entry encoding="base64">JzwsJz5zLzsvIG5ldyBVc2VycygpOw==</entry>
@@ -1208,6 +1218,7 @@
         <entry encoding="base64">JzwsJz5zLysvLw==</entry>
         <entry>q</entry>
         <entry>wq</entry>
+        <entry encoding="base64">JzwsJz5zL14vICA=</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
