@@ -190,12 +190,8 @@
       <file name="$USER_HOME$/src/MailFoo/containers/dd-agent/dd-agent.yaml" timestamp="1523489898571">
         <mark key="[" line="12" column="45" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/containers/web-api/deployment.yaml" timestamp="1523652226168">
-        <mark key="'" line="6" column="4" />
-        <mark key="[" line="18" column="188" />
-        <mark key="]" line="18" column="188" />
-        <mark key="." line="18" column="188" />
-        <mark key="^" line="18" column="219" />
+      <file name="$USER_HOME$/src/MailFoo/containers/web-api/deployment.yaml" timestamp="1523654551075">
+        <mark key="'" line="19" column="1" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/rewardly/mailfoo/unittests/DatastoreTest.java" timestamp="1520894306981">
         <mark key="[" line="9" column="41" />
@@ -768,6 +764,9 @@
         <mark key="." line="41" column="0" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/listeners/RemoteContextListener.java" timestamp="1523553911168" />
+      <file name="$MAVEN_REPOSITORY$/com/google/appengine/appengine-api-1.0-sdk/1.9.57/appengine-api-1.0-sdk-1.9.57.jar!/com/google/appengine/repackaged/com/google/api/client/http/HttpRequest.class" timestamp="1523406825941">
+        <mark key="'" line="321" column="69" />
+      </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataupdaters/getters/ThreadInfoSpannerGetter.java" timestamp="1520558264447">
         <mark key="[" line="54" column="0" />
         <mark key="]" line="54" column="0" />
@@ -1029,9 +1028,6 @@
       <file name="$MAVEN_REPOSITORY$/com/google/apis/google-api-services-compute/v1-rev160-1.22.0/google-api-services-compute-v1-rev160-1.22.0.jar!/com/google/api/services/compute/Compute.class" timestamp="1522873503600" />
     </filemarks>
     <jumps>
-      <jump line="10" column="10" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/UnifiedAccessApproval.java" />
-      <jump line="15" column="0" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/UnifiedAccessApproval.java" />
-      <jump line="6" column="23" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/UnifiedAccessRequest.java" />
       <jump line="18" column="0" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/UnifiedAccessRequest.java" />
       <jump line="37" column="16" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/UnifiedAccessApproval.java" />
       <jump line="38" column="16" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/UnifiedAccessApproval.java" />
@@ -1129,63 +1125,65 @@
       <jump line="321" column="69" filename="$MAVEN_REPOSITORY$/com/google/appengine/appengine-api-1.0-sdk/1.9.57/appengine-api-1.0-sdk-1.9.57.jar!/com/google/appengine/repackaged/com/google/api/client/http/HttpRequest.class" />
       <jump line="34" column="11" filename="$USER_HOME$/src/MailFoo/containers/web-api/deployment.yaml" />
       <jump line="6" column="4" filename="$USER_HOME$/src/MailFoo/containers/web-api/deployment.yaml" />
+      <jump line="18" column="60" filename="$USER_HOME$/src/MailFoo/containers/web-api/deployment.yaml" />
+      <jump line="19" column="6" filename="$USER_HOME$/src/MailFoo/containers/web-api/deployment.yaml" />
+      <jump line="27" column="1" filename="$USER_HOME$/src/MailFoo/containers/web-api/deployment.yaml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>-</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>-</text>
       </register>
       <register name="/" type="4">
-        <text>-2</text>
+        <text>^</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgIC0gY29udGFpbmVyUG9ydDogNDU2NwogICAgICAgICAgICBuYW1lOiBqbXgK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQlyZXR1cm4gaGFuZGxlcjsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICJhdHRyaWJ1dGUiOiBbIk1heCIsICJNZWFuIiwgIjk1dGhQZXJjZW50aWxlIiwgIjk5dGhQZXJjZW50aWxlIiwgIkZpdmVNaW51dGVSYXRlIiwgIk9uZU1pbnV0ZVJhdGUiXQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQlJbnN0cnVtZW50Cg==</text>
+        <text encoding="base64">CQlyZXR1cm4gaGFuZGxlcjsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">CQlJbnN0cnVtZW50Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQlzdGF0aWMgZmluYWwgTWV0cmljUmVnaXN0cnkgbWV0cmljcyA9IG5ldyBNZXRyaWNSZWdpc3RyeSgpOwo=</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJCQlyZXF1ZXN0LnNldEF0dHJpYnV0ZSgiQVBJX0xCIiwKCQkJCQkJIjEiKTsgLy8gVE9ETyB3aHkgaXMgdGhpcyBhIHJlcXVlc3QgYXR0cmlidXRlIGluc3RlYWQgb2YgYSBzeXN0ZW0gcHJvcGVydHk/Cg==</text>
+        <text encoding="base64">CQlzdGF0aWMgZmluYWwgTWV0cmljUmVnaXN0cnkgbWV0cmljcyA9IG5ldyBNZXRyaWNSZWdpc3RyeSgpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">LS0tCmFwaVZlcnNpb246IHYxCmtpbmQ6IFNlcnZpY2UKbWV0YWRhdGE6CiAgbmFtZTogam14CnNwZWM6CiAgdHlwZTogTm9kZVBvcnQKICBwb3J0czoKICAtIHBvcnQ6IDQ1NjcKICAgIG5vZGVQb3J0OiA0NTY3CiAgICBuYW1lOiBqbXgKICBzZWxlY3RvcjoKICAgIGFwcDogd2ViLWFwaS0yCg==</text>
+        <text encoding="base64">CQkJCQlyZXF1ZXN0LnNldEF0dHJpYnV0ZSgiQVBJX0xCIiwKCQkJCQkJIjEiKTsgLy8gVE9ETyB3aHkgaXMgdGhpcyBhIHJlcXVlc3QgYXR0cmlidXRlIGluc3RlYWQgb2YgYSBzeXN0ZW0gcHJvcGVydHk/Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIA==</text>
+      <register name="7" type="2">
+        <text encoding="base64">LS0tCmFwaVZlcnNpb246IHYxCmtpbmQ6IFNlcnZpY2UKbWV0YWRhdGE6CiAgbmFtZTogam14CnNwZWM6CiAgdHlwZTogTm9kZVBvcnQKICBwb3J0czoKICAtIHBvcnQ6IDQ1NjcKICAgIG5vZGVQb3J0OiA0NTY3CiAgICBuYW1lOiBqbXgKICBzZWxlY3RvcjoKICAgIGFwcDogd2ViLWFwaS0yCg==</text>
       </register>
       <register name="8" type="4">
         <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIA==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjb21tYW5kOiBbImphdmEiLCAiLURqYXZhLnV0aWwubG9nZ2luZy5jb25maWcuZmlsZT13ZWItYXBpLWxvZ2dpbmcucHJvcGVydGllcyIsICItbXgyZyIsICItY3AiLCAiY29udGFpbmVycy5qYXIiLCAiY29tLnN0cmVhay5vbmVvZmYuU2VydmVyQ29tbW9uSHR0cFNlcnZlciIsICJ3ZWJhcHAiXQo=</text>
+      <register name="9" type="4">
+        <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIA==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search>-2</last-search>
+      <last-search>^</last-search>
       <last-offset />
-      <last-pattern>-2</last-pattern>
-      <last-replace />
-      <last-substitute>-2</last-substitute>
+      <last-pattern>^</last-pattern>
+      <last-replace encoding="base64">CQkJCQkJCQkJCQkJCQkJ</last-replace>
+      <last-substitute>^</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>sources</entry>
         <entry encoding="base64">XDxjb2xsZWN0XD4=</entry>
         <entry>ret.</entry>
         <entry>duplicte</entry>
@@ -1203,12 +1201,11 @@
         <entry>urlStr</entry>
         <entry encoding="base64">PA==</entry>
         <entry>&quot;</entry>
-        <entry>^</entry>
         <entry>-2</entry>
+        <entry encoding="base64">XiAgICAgICAg</entry>
+        <entry>^</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zL2dpZC9kYXRhL2c=</entry>
-        <entry encoding="base64">JzwsJz5zLzsvIG5ldyBVc2VycygpOw==</entry>
         <entry encoding="base64">JzwsJz5zLzsvID0gbmV3IFVzZXJzKCk7</entry>
         <entry encoding="base64">JzwsJz5zL3NvdXJjZXMvY29udGVudFNvdXJjZXMoKS9n</entry>
         <entry encoding="base64">JzwsJz5zL3JldC4vLw==</entry>
@@ -1222,11 +1219,13 @@
         <entry encoding="base64">JzwsJz5zL1RocmVhZC9NZXNzYWdlL2c=</entry>
         <entry encoding="base64">JzwsJz5zL0FwcHJvdmFsL1JlcXVlc3Q=</entry>
         <entry encoding="base64">JzwsJz5zLysvLw==</entry>
-        <entry>q</entry>
         <entry>wq</entry>
         <entry encoding="base64">JzwsJz5zL14vICA=</entry>
         <entry>%s/-2//</entry>
+        <entry encoding="base64">JzwsJz5zL14gICAgICAgIC8v</entry>
+        <entry encoding="base64">JzwsJz5zL14vCQkJCQkJCQkJCQkJCQkJ</entry>
         <entry>w</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
