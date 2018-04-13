@@ -23,7 +23,7 @@
         <mark key="^" line="853" column="0" />
         <mark key="." line="853" column="0" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/containers/web-api/service.yaml" timestamp="1523583127992">
+      <file name="$USER_HOME$/src/MailFoo/containers/web-api/service.yaml" timestamp="1523643022389">
         <mark key="[" line="22" column="9" />
         <mark key="]" line="22" column="12" />
         <mark key="^" line="22" column="12" />
@@ -191,12 +191,12 @@
       <file name="$USER_HOME$/src/MailFoo/containers/dd-agent/dd-agent.yaml" timestamp="1523489898571">
         <mark key="[" line="12" column="45" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/containers/web-api/deployment.yaml" timestamp="1523583105414">
+      <file name="$USER_HOME$/src/MailFoo/containers/web-api/deployment.yaml" timestamp="1523642785685">
         <mark key="'" line="15" column="11" />
-        <mark key="[" line="28" column="166" />
-        <mark key="]" line="28" column="166" />
-        <mark key="." line="28" column="166" />
-        <mark key="^" line="28" column="152" />
+        <mark key="[" line="28" column="361" />
+        <mark key="]" line="28" column="360" />
+        <mark key="." line="28" column="360" />
+        <mark key="^" line="28" column="360" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/rewardly/mailfoo/unittests/DatastoreTest.java" timestamp="1520894306981">
         <mark key="[" line="9" column="41" />
@@ -1133,10 +1133,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>http</text>
+        <text>&quot;-Djava.rmi.server.hostname=0.0.0.0&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>http</text>
+        <text>&quot;-Djava.rmi.server.hostname=0.0.0.0&quot;</text>
       </register>
       <register name="/" type="4">
         <text>^</text>
