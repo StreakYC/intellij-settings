@@ -23,8 +23,11 @@
         <mark key="^" line="853" column="0" />
         <mark key="." line="853" column="0" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/containers/web-api/service.yaml" timestamp="1523569183255">
-        <mark key="[" line="8" column="19" />
+      <file name="$USER_HOME$/src/MailFoo/containers/web-api/service.yaml" timestamp="1523583127992">
+        <mark key="[" line="22" column="9" />
+        <mark key="]" line="22" column="12" />
+        <mark key="^" line="22" column="12" />
+        <mark key="." line="22" column="12" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/ratchet/translate/KeyTranslatorFactory.java" timestamp="1518746997199">
         <mark key="[" line="14" column="15" />
@@ -188,7 +191,7 @@
       <file name="$USER_HOME$/src/MailFoo/containers/dd-agent/dd-agent.yaml" timestamp="1523489898571">
         <mark key="[" line="12" column="45" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/containers/web-api/deployment.yaml" timestamp="1523576081048">
+      <file name="$USER_HOME$/src/MailFoo/containers/web-api/deployment.yaml" timestamp="1523583105414">
         <mark key="'" line="15" column="11" />
         <mark key="[" line="28" column="166" />
         <mark key="]" line="28" column="166" />
@@ -1130,10 +1133,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIA==</text>
+        <text>http</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;-agentlib:jdwp=transport=dt_socket,server=y,suspend=n,address=4567&quot;,</text>
+        <text>http</text>
       </register>
       <register name="/" type="4">
         <text>^</text>
