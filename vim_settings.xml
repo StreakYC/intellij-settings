@@ -694,11 +694,12 @@
         <mark key="." line="57" column="43" />
         <mark key="^" line="57" column="43" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/curls" timestamp="1523656249684">
-        <mark key="[" line="17" column="40" />
-        <mark key="]" line="17" column="40" />
-        <mark key="." line="17" column="40" />
-        <mark key="^" line="24" column="0" />
+      <file name="$USER_HOME$/src/MailFoo/curls" timestamp="1524101463599">
+        <mark key="'" line="86" column="0" />
+        <mark key="[" line="90" column="0" />
+        <mark key="]" line="90" column="0" />
+        <mark key="^" line="91" column="36" />
+        <mark key="." line="90" column="0" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataupdaters/creators/UnifiedApprovalCreator.java" timestamp="1522443230491">
         <mark key="[" line="58" column="21" />
@@ -1024,7 +1025,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="38" column="16" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/UnifiedAccessApproval.java" />
       <jump line="39" column="16" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/UnifiedAccessApproval.java" />
       <jump line="52" column="8" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/mae/MetaVisibilityService.java" />
       <jump line="9" column="10" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/UnifiedAccessFlow.java" />
@@ -1124,152 +1124,63 @@
       <jump line="27" column="1" filename="$USER_HOME$/src/MailFoo/containers/web-api/deployment.yaml" />
       <jump line="477" column="22" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/GmailThread.java" />
       <jump line="0" column="0" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/ratchet/objectify/Service.java" />
+      <jump line="86" column="0" filename="$USER_HOME$/src/MailFoo/curls" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGF2cm8uc2hhZGVkLmNvbS5nb29nbGUuY29tbW9uLmNvbGxlY3QuU2V0czsK</text>
+        <text encoding="base64">ICAgNTMgIHN5c2N0bCBuZXQuY29yZS5uZXRkZXZfbWF4X2JhY2tsb2cK</text>
       </register>
       <register name="-" type="4">
         <text>Collection</text>
       </register>
       <register name="/" type="4">
-        <text>^</text>
+        <text>..</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQkJcmVzcC5nZXRXcml0ZXIoKS5wcmludGxuKCJSaWdodCBhcyByYWluIik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGF2cm8uc2hhZGVkLmNvbS5nb29nbGUuY29tbW9uLmNvbGxlY3QuU2V0czsK</text>
+        <text encoding="base64">ICAgNTMgIHN5c2N0bCBuZXQuY29yZS5uZXRkZXZfbWF4X2JhY2tsb2cK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CUBUZXN0Cg==</text>
+        <text encoding="base64">ICAgNTEgIHN5c2N0bCBuZXQuY29yZS5zb21heGNvbm4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgNDkgIHN5c2N0bCBuZXQuaXB2NC50Y3BfbWF4X3N5bl9iYWNrbG9nID0gNDA5Ngo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CXB1YmxpYyB2b2lkIHRlc3RHZXRVbmlxdWVNZXNzYWdlQ291bnRGcm9tVGhyZWFkc0V4Y2x1ZGluZ1RocmVhZCgpIAo=</text>
+        <text encoding="base64">ICAgNDYgIHN5c2N0bCB0Y3BfbW9kZXJhdGVfcmN2YnVmCg==</text>
       </register>
-      <register name="5" type="4">
-        <text>{
-		String gidA = nextGid();
-		String gidB = nextGid();
-		String threadIdA = nextId();
-		String threadIdB = nextId();
-		String rfc1 = nextId();
-		String rfc2 = nextId();
-		String rfc3 = nextId(); // This message is only in A's inbox
-		String rfc4 = nextId(); // 4-6 are only in B's inbox
-		String rfc5 = nextId();
-		String rfc6 = nextId(); // This message was in B's inbox but is deleted
-
-		Spanner.getClient().write(Arrays.asList(
-			Mutation
-				.newInsertBuilder(&quot;Messages&quot;)
-				.set(&quot;gid&quot;).to(gidA)
-				.set(&quot;threadId&quot;).to(threadIdA)
-				.set(&quot;rfcMessageId&quot;).to(rfc1)
-				.set(&quot;messageId&quot;).to(nextId())
-				.set(&quot;seenOnIndexRun&quot;).to(1)
-				.build(),
-			Mutation
-				.newInsertBuilder(&quot;Messages&quot;)
-				.set(&quot;gid&quot;).to(gidB)
-				.set(&quot;threadId&quot;).to(threadIdB)
-				.set(&quot;rfcMessageId&quot;).to(rfc1)
-				.set(&quot;messageId&quot;).to(nextId())
-				.set(&quot;seenOnIndexRun&quot;).to(1)
-				.build(),
-
-			Mutation
-				.newInsertBuilder(&quot;Messages&quot;)
-				.set(&quot;gid&quot;).to(gidA)
-				.set(&quot;threadId&quot;).to(threadIdA)
-				.set(&quot;rfcMessageId&quot;).to(rfc2)
-				.set(&quot;messageId&quot;).to(nextId())
-				.set(&quot;seenOnIndexRun&quot;).to(1)
-				.build(),
-			Mutation
-				.newInsertBuilder(&quot;Messages&quot;)
-				.set(&quot;gid&quot;).to(gidB)
-				.set(&quot;threadId&quot;).to(threadIdB)
-				.set(&quot;rfcMessageId&quot;).to(rfc2)
-				.set(&quot;messageId&quot;).to(nextId())
-				.set(&quot;seenOnIndexRun&quot;).to(1)
-				.build(),
-
-
-			Mutation
-				.newInsertBuilder(&quot;Messages&quot;)
-				.set(&quot;gid&quot;).to(gidA)
-				.set(&quot;threadId&quot;).to(threadIdA)
-				.set(&quot;rfcMessageId&quot;).to(rfc3)
-				.set(&quot;messageId&quot;).to(nextId())
-				.set(&quot;seenOnIndexRun&quot;).to(1)
-				.build(),
-
-			Mutation
-				.newInsertBuilder(&quot;Messages&quot;)
-				.set(&quot;gid&quot;).to(gidB)
-				.set(&quot;threadId&quot;).to(threadIdB)
-				.set(&quot;rfcMessageId&quot;).to(rfc4)
-				.set(&quot;messageId&quot;).to(nextId())
-				.set(&quot;seenOnIndexRun&quot;).to(1)
-				.build(),
-			Mutation
-				.newInsertBuilder(&quot;Messages&quot;)
-				.set(&quot;gid&quot;).to(gidB)
-				.set(&quot;threadId&quot;).to(threadIdB)
-				.set(&quot;rfcMessageId&quot;).to(rfc5)
-				.set(&quot;messageId&quot;).to(nextId())
-				.set(&quot;seenOnIndexRun&quot;).to(1)
-				.build(),
-			Mutation
-				.newInsertBuilder(&quot;Messages&quot;)
-				.set(&quot;gid&quot;).to(gidB)
-				.set(&quot;threadId&quot;).to(threadIdB)
-				.set(&quot;rfcMessageId&quot;).to(rfc6)
-				.set(&quot;messageId&quot;).to(nextId())
-				.set(&quot;seenOnIndexRun&quot;).to(0) // deleted
-				.build()
-		));
-
-		long result = MessageThread.getUniqueMessageCountFromThreadsExcludingThread(
-			Arrays.asList(new MessageThread(gidA, threadIdA), new MessageThread(gidB, threadIdB)),
-			gidA, threadIdA
-		);
-		assertEquals(result, 2);
-	}</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgNDcgIHN5c2N0bCAtYSB8IGdyZXAgdGNwX21vZGVyYXRlX3JjdmJ1ZgogICA0OCAgc3lzY3RsIC1hIHwgZ3JlcCBtYXhfc3luX2JhY2tsb2cK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBCYXNpYyBSYXRjaGV0IHN0dWZmOlNlcnZlckNvbW1vbi9zcmMvdGVzdC9qYXZhL2NvbS9yZXdhcmRseS9tYWlsZm9vL2VtYWlsbWFuYWdlci9TcGFubmVyVGVzdHMuamF2YQo=</text>
+        <text encoding="base64">aW1wb3J0IGF2cm8uc2hhZGVkLmNvbS5nb29nbGUuY29tbW9uLmNvbGxlY3QuU2V0czsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFEOlNlcnZlckNvbW1vbi9zcmMvdGVzdC9qYXZhL2NvbS9yZXdhcmRseS9tYWlsZm9vL2VtYWlsbWFuYWdlci9TcGFubmVyVGVzdC5qYXZhCj09PT09PT0K</text>
+        <text encoding="base64">CUBUZXN0Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5nb29nbGUuY29tbW9uLmNvbGxlY3QuU2V0czsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CXB1YmxpYyBzdGF0aWMgY2xhc3MgU2VuZGVyRW1haWxTZW5kVGltZXN0YW1wUGFpciBpbXBsZW1lbnRzIENvbXBhcmFibGU8U2VuZGVyRW1haWxTZW5kVGltZXN0YW1wUGFpcj4gewoJCXByaXZhdGUgU3RyaW5nIGVtYWlsOwoJCXByaXZhdGUgRGF0ZSBzZW5kVGltZXN0YW1wOwoKCQlARGVwcmVjYXRlZAoJCXB1YmxpYyBTZW5kZXJFbWFpbFNlbmRUaW1lc3RhbXBQYWlyKCkgewoJCX0KCgkJcHVibGljIFNlbmRlckVtYWlsU2VuZFRpbWVzdGFtcFBhaXIoU3RyaW5nIGVtYWlsLCBEYXRlIHNlbmRUaW1lc3RhbXApIHsKCQkJdGhpcy5lbWFpbCA9IGVtYWlsOwoJCQl0aGlzLnNlbmRUaW1lc3RhbXAgPSBzZW5kVGltZXN0YW1wOwoJCX0KCgkJcHVibGljIFN0cmluZyBnZXRFbWFpbCgpIHsKCQkJcmV0dXJuIGVtYWlsOwoJCX0KCgkJQE92ZXJyaWRlCgkJcHVibGljIGJvb2xlYW4gZXF1YWxzKE9iamVjdCBvKSB7CgkJCWlmICh0aGlzID09IG8pIHsKCQkJCXJldHVybiB0cnVlOwoJCQl9CgkJCWlmIChvID09IG51bGwgfHwgZ2V0Q2xhc3MoKSAhPSBvLmdldENsYXNzKCkpIHsKCQkJCXJldHVybiBmYWxzZTsKCQkJfQoKCQkJU2VuZGVyRW1haWxTZW5kVGltZXN0YW1wUGFpciB0aGF0ID0gKFNlbmRlckVtYWlsU2VuZFRpbWVzdGFtcFBhaXIpIG87CgoJCQlpZiAoZW1haWwgIT0gbnVsbCA/ICFlbWFpbC5lcXVhbHModGhhdC5lbWFpbCkgOiB0aGF0LmVtYWlsICE9IG51bGwpIHsKCQkJCXJldHVybiBmYWxzZTsKCQkJfQoJCQlyZXR1cm4gIShzZW5kVGltZXN0YW1wICE9IG51bGwgPyAhc2VuZFRpbWVzdGFtcC5lcXVhbHModGhhdC5zZW5kVGltZXN0YW1wKSA6IHRoYXQuc2VuZFRpbWVzdGFtcCAhPSBudWxsKTsKCgkJfQoKCQlAT3ZlcnJpZGUKCQlwdWJsaWMgaW50IGhhc2hDb2RlKCkgewoJCQlpbnQgcmVzdWx0ID0gZW1haWwgIT0gbnVsbCA/IGVtYWlsLmhhc2hDb2RlKCkgOiAwOwoJCQlyZXN1bHQgPSAzMSAqIHJlc3VsdCArIChzZW5kVGltZXN0YW1wICE9IG51bGwgPyBzZW5kVGltZXN0YW1wLmhhc2hDb2RlKCkgOiAwKTsKCQkJcmV0dXJuIHJlc3VsdDsKCQl9CgoJCUBPdmVycmlkZQoJCXB1YmxpYyBpbnQgY29tcGFyZVRvKFNlbmRlckVtYWlsU2VuZFRpbWVzdGFtcFBhaXIgbykgewoJCQlyZXR1cm4gdGhpcy5nZXRTZW5kVGltZXN0YW1wKCkuY29tcGFyZVRvKG8uZ2V0U2VuZFRpbWVzdGFtcCgpKTsKCQl9CgoJCXB1YmxpYyBEYXRlIGdldFNlbmRUaW1lc3RhbXAoKSB7CgkJCXJldHVybiBzZW5kVGltZXN0YW1wOwoJCX0KCX0KCg==</text>
+        <text encoding="base64">CXB1YmxpYyB2b2lkIHRlc3RHZXRVbmlxdWVNZXNzYWdlQ291bnRGcm9tVGhyZWFkc0V4Y2x1ZGluZ1RocmVhZCgpIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>^</last-search>
+      <last-search>..</last-search>
       <last-offset />
-      <last-pattern>^</last-pattern>
-      <last-replace encoding="base64">CQkJCQkJCQkJCQkJCQkJ</last-replace>
-      <last-substitute>^</last-substitute>
+      <last-pattern>..</last-pattern>
+      <last-replace />
+      <last-substitute>..</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxjb2xsZWN0XD4=</entry>
-        <entry>ret.</entry>
         <entry>duplicte</entry>
         <entry>duplicate</entry>
         <entry>active</entry>
@@ -1288,10 +1199,10 @@
         <entry>-2</entry>
         <entry encoding="base64">XiAgICAgICAg</entry>
         <entry>^</entry>
+        <entry>.....</entry>
+        <entry>..</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zLzsvID0gbmV3IFVzZXJzKCk7</entry>
-        <entry encoding="base64">JzwsJz5zL3NvdXJjZXMvY29udGVudFNvdXJjZXMoKS9n</entry>
         <entry encoding="base64">JzwsJz5zL3JldC4vLw==</entry>
         <entry encoding="base64">JzwsJz5zL2R1cGxpY3RlL290aGVy</entry>
         <entry encoding="base64">JzwsJz5zL2R1cGxpY2F0ZS9vdGhlcg==</entry>
@@ -1309,6 +1220,8 @@
         <entry encoding="base64">JzwsJz5zL14vCQkJCQkJCQkJCQkJCQkJ</entry>
         <entry>q</entry>
         <entry>wq</entry>
+        <entry encoding="base64">JzwsJz5zLy4uLi4uLy8=</entry>
+        <entry encoding="base64">JzwsJz5zLy4uLy8=</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
