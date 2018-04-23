@@ -113,7 +113,7 @@
         <mark key="." line="25" column="24" />
         <mark key="^" line="25" column="24" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/Spanner.java" timestamp="1524519051930">
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/Spanner.java" timestamp="1524525028241">
         <mark key="'" line="150" column="16" />
         <mark key="[" line="150" column="0" />
         <mark key="]" line="150" column="31" />
@@ -346,6 +346,12 @@
         <mark key="]" line="82" column="38" />
         <mark key="^" line="82" column="38" />
         <mark key="." line="82" column="38" />
+      </file>
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/filters/OfyFilter.java" timestamp="1524525059272">
+        <mark key="[" line="171" column="33" />
+        <mark key="]" line="171" column="54" />
+        <mark key="^" line="171" column="54" />
+        <mark key="." line="171" column="54" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/containers/gce_be/create-template.sh" timestamp="1523049039638">
         <mark key="[" line="15" column="35" />
@@ -935,12 +941,11 @@
         <mark key="^" line="58" column="0" />
         <mark key="." line="58" column="0" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/rewardly/mailfoo/unittests/StreakSpecificRatchetTests.java" timestamp="1524523722929">
-        <mark key="'" line="239" column="0" />
-        <mark key="[" line="161" column="0" />
-        <mark key="]" line="220" column="5" />
-        <mark key="." line="220" column="5" />
-        <mark key="^" line="220" column="5" />
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/rewardly/mailfoo/unittests/StreakSpecificRatchetTests.java" timestamp="1524524908671">
+        <mark key="'" line="235" column="0" />
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="0" />
+        <mark key="." line="32" column="0" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/mae/Combined.java" timestamp="1522107846217">
         <mark key="[" line="11" column="13" />
@@ -1166,11 +1171,11 @@
       <jump line="240" column="0" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/rewardly/mailfoo/unittests/StreakSpecificRatchetTests.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQlTcGFubmVyLnNldE1vZGUoTW9kZS5QRVJTT05BTCk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>.</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">cHJpdmF0ZSA=</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>..</text>
@@ -1179,25 +1184,25 @@
         <text encoding="base64">ICAgICAgICB3cml0ZUNsYXNzKHNwYW5uZXIsIFRyYWNrZWRUaHJlYWQuY2xhc3MpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQlTcGFubmVyLnNldE1vZGUoTW9kZS5QRVJTT05BTCk7Cg==</text>
+        <text encoding="base64">aW1wb3J0IG9yZy50ZXN0bmcuYW5ub3RhdGlvbnMuQWZ0ZXJDbGFzczsK</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQlTcGFubmVyLnNldE1vZGUoTW9kZS5QRVJTT05BTCk7Cg==</text>
+        <text encoding="base64">CUBBZnRlckNsYXNzCglwdWJsaWMgdm9pZCBhZnRlckNsYXNzKCkgewoJCVNlcnZpY2UudGVhckRvd24oKTsKCX0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQlTcGFubmVyLnNldE1vZGUoTW9kZS5QRVJTT05BTCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQlTcGFubmVyLnNldE1vZGUoTW9kZS5QRVJTT05BTCk7Cg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="6" type="2">
         <text encoding="base64">CQlTcGFubmVyLnNldE1vZGUoTW9kZS5QRVJTT05BTCk7Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">CQlTcGFubmVyLnNldE1vZGUoTW9kZS5QRVJTT05BTCk7Cg==</text>
