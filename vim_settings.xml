@@ -79,6 +79,13 @@
         <mark key="^" line="36" column="31" />
         <mark key="." line="36" column="31" />
       </file>
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/filters/OpenCensusFilter.java" timestamp="1524674570034">
+        <mark key="'" line="38" column="64" />
+        <mark key="[" line="88" column="16" />
+        <mark key="]" line="85" column="94" />
+        <mark key="." line="85" column="94" />
+        <mark key="^" line="85" column="94" />
+      </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/proto/backend.proto" timestamp="1523461182075">
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="0" />
@@ -584,11 +591,12 @@
         <mark key="]" line="34" column="0" />
         <mark key="." line="34" column="0" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/containers/src/main/java/com/rewardly/mailfoo/filters/BackendLoggingHandler.java" timestamp="1522798892153">
-        <mark key="[" line="60" column="124" />
-        <mark key="]" line="62" column="34" />
-        <mark key="^" line="62" column="34" />
-        <mark key="." line="62" column="34" />
+      <file name="$USER_HOME$/src/MailFoo/containers/src/main/java/com/rewardly/mailfoo/filters/BackendLoggingHandler.java" timestamp="1524674620362">
+        <mark key="'" line="41" column="12" />
+        <mark key="[" line="61" column="12" />
+        <mark key="]" line="61" column="12" />
+        <mark key="^" line="61" column="13" />
+        <mark key="." line="61" column="12" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/mae/conditions/Or.java" timestamp="1521679166704">
         <mark key="[" line="7" column="4" />
@@ -781,11 +789,10 @@
         <mark key="^" line="17" column="35" />
         <mark key="." line="17" column="35" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/filters/LogRequestFilter.java" timestamp="1523463888520">
-        <mark key="[" line="95" column="80" />
-        <mark key="]" line="96" column="87" />
-        <mark key="^" line="96" column="87" />
-        <mark key="." line="96" column="87" />
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/filters/LogRequestFilter.java" timestamp="1524674283453">
+        <mark key="[" line="106" column="0" />
+        <mark key="]" line="106" column="0" />
+        <mark key="." line="106" column="0" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/ratchet/translate/EnumTranslatorFactory.java" timestamp="1518746959786">
         <mark key="[" line="12" column="15" />
@@ -1083,8 +1090,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="628" column="43" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/User.java" />
-      <jump line="631" column="49" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/User.java" />
       <jump line="632" column="97" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/User.java" />
       <jump line="635" column="98" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/User.java" />
       <jump line="636" column="86" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/User.java" />
@@ -1183,55 +1188,57 @@
       <jump line="241" column="0" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/rewardly/mailfoo/unittests/StreakSpecificRatchetTests.java" />
       <jump line="240" column="0" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/rewardly/mailfoo/unittests/StreakSpecificRatchetTests.java" />
       <jump line="43" column="0" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/rewardly/mailfoo/unittests/RatchetUnitTests.java" />
+      <jump line="39" column="64" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/filters/OpenCensusFilter.java" />
+      <jump line="40" column="12" filename="$USER_HOME$/src/MailFoo/containers/src/main/java/com/rewardly/mailfoo/filters/BackendLoggingHandler.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>(</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>(</text>
       </register>
       <register name="/" type="4">
-        <text>)</text>
+        <text>Objects</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQkJCQlwcmVmaXggPSBpbm5lclR5cGUuZ2V0QXJyYXlFbGVtZW50VHlwZSgpLmdldFN0cnVjdEZpZWxkcygpLmdldCgwKS5nZXROYW1lKCkucmVwbGFjZUZpcnN0KCJeXFx3K18iLCAiIik7Cg==</text>
       </register>
-      <register name="1" type="4">
-        <text>&quot;^\\w+_&quot;, &quot;&quot;</text>
+      <register name="1" type="2">
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5PYmplY3RzOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJCQlwcmVmaXg7Cg==</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5PYmplY3RzOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJCQlUeXBlIGVsZW1lbnRUeXBlID0gaW5uZXJUeXBlLmdldEFycmF5RWxlbWVudFR5cGUoKTsK</text>
+        <text encoding="base64">CQkJfSBjYXRjaCAoSWxsZWdhbFN0YXRlRXhjZXB0aW9uIGUpIHsKCQkJCUxvZ2dlci5sb2coIklsbGVnYWwgc3RhdGUgKFRoaXMgZ2VuZXJhbGx5IG1lYW5zIHNvbWV0aGluZyBpcyBtaXNjb25maWd1cmVkKSIpOwo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAJU3RyaW5nIHByZWZpeCA9IDsK</text>
+      <register name="4" type="4">
+        <text>&quot;^\\w+_&quot;, &quot;&quot;</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCQlwcmVmaXg7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKCFtZXRhZGF0YS5oYXNGaWVsZChmaWVsZE5hbWUpKSB7CiAgICAgICAgICAgICAgICAvLyBUT0RPIC0gdGhpcyBpcyBqYW5rIGFzIGZ1Y2sKICAgICAgICAgICAgICAgIGZpZWxkTmFtZSA9IGZpZWxkTmFtZS5yZXBsYWNlRmlyc3QoIl5cXHcrXyIsICIiKTsKICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">CQkJCQlUeXBlIGVsZW1lbnRUeXBlID0gaW5uZXJUeXBlLmdldEFycmF5RWxlbWVudFR5cGUoKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC8vIFRPRE8gLSB0aGlzIG5lZWRzIGEgY29udGV4dCB3aXRoIGl0IHRvIGF2b2lkIHRoZSBzdHVwaWQgcmVwbGFjZUZpcnN0IGNyYXAK</text>
+        <text encoding="base64">ICAgICAgICAJU3RyaW5nIHByZWZpeCA9IDsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5yZXdhcmRseS5tYWlsZm9vLmRhdGFhY2Nlc3MucmF0Y2hldC5vYmplY3RpZnkudHJhbnNsYXRlLktleVRyYW5zbGF0b3JGYWN0b3J5Owo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5yZXdhcmRseS5tYWlsZm9vLmRhdGFhY2Nlc3MucmF0Y2hldC50cmFuc2xhdGUuRGVmYXVsdFRyYW5zbGF0b3JGYWN0b3J5Owo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKCFtZXRhZGF0YS5oYXNGaWVsZChmaWVsZE5hbWUpKSB7CiAgICAgICAgICAgICAgICAvLyBUT0RPIC0gdGhpcyBpcyBqYW5rIGFzIGZ1Y2sKICAgICAgICAgICAgICAgIGZpZWxkTmFtZSA9IGZpZWxkTmFtZS5yZXBsYWNlRmlyc3QoIl5cXHcrXyIsICIiKTsKICAgICAgICAgICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>)</last-search>
+      <last-search>Objects</last-search>
       <last-offset />
-      <last-pattern>)</last-pattern>
+      <last-pattern>Objects</last-pattern>
       <last-replace />
       <last-substitute>..</last-substitute>
       <last-dir>1</last-dir>
@@ -1239,7 +1246,6 @@
     </search>
     <history>
       <history-search>
-        <entry>duplicate</entry>
         <entry>active</entry>
         <entry>ownerGid</entry>
         <entry>Thread</entry>
@@ -1259,6 +1265,7 @@
         <entry>..</entry>
         <entry>Complex</entry>
         <entry>)</entry>
+        <entry>Objects</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2R1cGxpY2F0ZS9vdGhlcg==</entry>
