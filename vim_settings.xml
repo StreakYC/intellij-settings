@@ -987,11 +987,11 @@
         <mark key="." line="92" column="31" />
         <mark key="^" line="92" column="31" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/utils/RedisMemcacheService.java" timestamp="1524861287355">
-        <mark key="[" line="51" column="29" />
-        <mark key="]" line="51" column="38" />
-        <mark key="." line="51" column="38" />
-        <mark key="^" line="51" column="38" />
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/utils/RedisMemcacheService.java" timestamp="1524865470977">
+        <mark key="[" line="37" column="38" />
+        <mark key="]" line="37" column="70" />
+        <mark key="." line="37" column="70" />
+        <mark key="^" line="37" column="70" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataupdaters/deleters/UnifiedApprovalEntityDeleter.java" timestamp="1522450916811">
         <mark key="[" line="14" column="0" />
@@ -1116,52 +1116,52 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>result.get(index));</text>
+        <text>null;</text>
       </register>
       <register name="-" type="4">
-        <text>result.get(index));</text>
+        <text>null;</text>
       </register>
       <register name="/" type="4">
-        <text>Iden</text>
+        <text>j</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQl0cnkgKEplZGlzIGplZGlzID0gcG9vbC5nZXRSZXNvdXJjZSgpKSB7Cg==</text>
+        <text encoding="base64">CQl0cnkgKEplZGlzIGplZGlzID0gcG9vbC5nZXRSZXNvdXJjZSgpKSB7CgkJCWJ5dGVbXSBieXRlcyA9IGplZGlzLmdldChTdHJpbmcudmFsdWVPZihrZXkpLmdldEJ5dGVzKCkpOwoJCQlyZXR1cm4gRW50aXR5VHJhbnNsYXRvci5jcmVhdGVGcm9tUGJCeXRlcyhieXRlcyk7CgkJfQo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">CQkJCWluZGV4Kys7Cg==</text>
+      <register name="1" type="4">
+        <text>Longs.fromByteArray(</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJaW50IGluZGV4ID0gMDsK</text>
+        <text encoding="base64">CQlyZXR1cm4gbmV3IElkZW50aWZpYWJsZVZhbHVlSW1wbChnZXQoa2V5KSwgNDIpOyAvLyBUT0RPIC0gdGhpcyBpcyBzb21ldGhpbmcgYWJvdXQgQ0FTCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJTGlzdDxTdHJpbmc+IHJlc3VsdCA9IGplZGlzLm1nZXQoCgkJCQlBcnJheXMuY29weU9mKGtleXMuc3RyZWFtKCkubWFwKFN0cmluZzo6dmFsdWVPZikudG9BcnJheSgpLCBrZXlzLnNpemUoKSwgU3RyaW5nW10uY2xhc3MpCgkJCSk7Cg==</text>
+        <text encoding="base64">CQkJCWluZGV4Kys7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQl9Cg==</text>
+        <text encoding="base64">CQkJaW50IGluZGV4ID0gMDsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQl0cnkgKEplZGlzIGplZGlzID0gcG9vbC5nZXRSZXNvdXJjZSgpKSB7Cg==</text>
+        <text encoding="base64">CQkJTGlzdDxTdHJpbmc+IHJlc3VsdCA9IGplZGlzLm1nZXQoCgkJCQlBcnJheXMuY29weU9mKGtleXMuc3RyZWFtKCkubWFwKFN0cmluZzo6dmFsdWVPZikudG9BcnJheSgpLCBrZXlzLnNpemUoKSwgU3RyaW5nW10uY2xhc3MpCgkJCSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQlyZXR1cm4ga2V5cy5zdHJlYW0oKS5tYXAodGhpczo6Z2V0KS5jb2xsZWN0KAo=</text>
+        <text encoding="base64">CQl9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQl0cnkgKEplZGlzIGplZGlzID0gcG9vbC5nZXRSZXNvdXJjZSgpKSB7CgkJCUxpc3Q8U3RyaW5nPiByZXN1bHQgPSBqZWRpcy5tZ2V0KAoJCQkJQXJyYXlzLmNvcHlPZihrZXlzLnN0cmVhbSgpLm1hcChTdHJpbmc6OnZhbHVlT2YpLnRvQXJyYXkoKSwga2V5cy5zaXplKCksIFN0cmluZ1tdLmNsYXNzKQoJCQkpOwoJCQlNYXA8VCwgT2JqZWN0PiByZXQgPSBuZXcgSGFzaE1hcDw+KCk7CgkJCWludCBpbmRleCA9IDA7CgkJCWZvciAoVCBrZXkgOiBrZXlzKSB7CgkJCQlyZXQucHV0KGtleSwgcmVzdWx0LmdldChpbmRleCkpOwoJCQkJaW5kZXgrKzsKCQkJfQoJCQlyZXR1cm4gcmV0OwoJCX0K</text>
+        <text encoding="base64">CQl0cnkgKEplZGlzIGplZGlzID0gcG9vbC5nZXRSZXNvdXJjZSgpKSB7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJRW50aXR5IGVudGl0eSA9IChFbnRpdHkpIHZhbHVlOwo=</text>
+        <text encoding="base64">CQlyZXR1cm4ga2V5cy5zdHJlYW0oKS5tYXAodGhpczo6Z2V0KS5jb2xsZWN0KAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQl0cnkgKEplZGlzIGplZGlzID0gcG9vbC5nZXRSZXNvdXJjZSgpKSB7CgkJCUxpc3Q8U3RyaW5nPiByZXN1bHQgPSBqZWRpcy5tZ2V0KAoJCQkJQXJyYXlzLmNvcHlPZihrZXlzLnN0cmVhbSgpLm1hcChTdHJpbmc6OnZhbHVlT2YpLnRvQXJyYXkoKSwga2V5cy5zaXplKCksIFN0cmluZ1tdLmNsYXNzKQoJCQkpOwoJCQlNYXA8VCwgT2JqZWN0PiByZXQgPSBuZXcgSGFzaE1hcDw+KCk7CgkJCWludCBpbmRleCA9IDA7CgkJCWZvciAoVCBrZXkgOiBrZXlzKSB7CgkJCQlyZXQucHV0KGtleSwgcmVzdWx0LmdldChpbmRleCkpOwoJCQkJaW5kZXgrKzsKCQkJfQoJCQlyZXR1cm4gcmV0OwoJCX0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>Iden</last-search>
+      <last-search>j</last-search>
       <last-offset />
-      <last-pattern>Iden</last-pattern>
+      <last-pattern>j</last-pattern>
       <last-replace>keys</last-replace>
       <last-substitute>collection</last-substitute>
       <last-dir>1</last-dir>
@@ -1169,7 +1169,6 @@
     </search>
     <history>
       <history-search>
-        <entry>+</entry>
         <entry>urlStr</entry>
         <entry encoding="base64">PA==</entry>
         <entry>&quot;</entry>
@@ -1189,6 +1188,7 @@
         <entry>collection</entry>
         <entry>mget</entry>
         <entry>Iden</entry>
+        <entry>j</entry>
       </history-search>
       <history-cmd>
         <entry>s/Thread/Message/g</entry>
