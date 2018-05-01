@@ -156,12 +156,11 @@
         <mark key="." line="165" column="0" />
         <mark key="^" line="164" column="58" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/utils/MetaMemcacheService.java" timestamp="1525137285287">
-        <mark key="'" line="42" column="8" />
-        <mark key="[" line="42" column="50" />
-        <mark key="]" line="42" column="50" />
-        <mark key="." line="42" column="50" />
-        <mark key="^" line="190" column="1" />
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/utils/MetaMemcacheService.java" timestamp="1525200799303">
+        <mark key="'" line="185" column="66" />
+        <mark key="[" line="185" column="100" />
+        <mark key="]" line="185" column="100" />
+        <mark key="." line="185" column="100" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/ratchet/RatchetSaverImpl.java" timestamp="1517953620257">
         <mark key="[" line="17" column="58" />
@@ -1020,7 +1019,7 @@
         <mark key="." line="92" column="31" />
         <mark key="^" line="92" column="31" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/utils/RedisMemcacheService.java" timestamp="1525195711388">
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/utils/RedisMemcacheService.java" timestamp="1525201515432">
         <mark key="'" line="51" column="28" />
         <mark key="[" line="40" column="0" />
         <mark key="]" line="40" column="61" />
@@ -1047,8 +1046,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="15" column="12" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataupdaters/deleters/UnifiedApprovalDeleter.java" />
-      <jump line="125" column="39" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/utils/Constants.java" />
       <jump line="139" column="52" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/utils/Constants.java" />
       <jump line="153" column="37" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/utils/Constants.java" />
       <jump line="158" column="36" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/utils/Constants.java" />
@@ -1147,64 +1144,64 @@
       <jump line="52" column="8" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/utils/MetaMemcacheService.java" />
       <jump line="47" column="8" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/utils/MetaMemcacheService.java" />
       <jump line="42" column="8" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/utils/MetaMemcacheService.java" />
+      <jump line="24" column="60" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/utils/MetaMemcacheService.java" />
+      <jump line="184" column="66" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/utils/MetaMemcacheService.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQkvLyBUT0RPIC0gd2UgbWF5YmUgb25seSB3YW50IHRoaXMgb24gR0NFLiAgd2hvIGtub3dzIHRob3VnaCwgb3IgbWF5YmUgZGlmZmVyZW50PyBzbyBtYW55IHF1ZXN0aW9ucyEK</text>
+      <register name="&quot;" type="4">
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>;</text>
+        <text>es.submit(\(.*\);</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQkJCQltZ2V0S2V5cy5hZGQoU3RyaW5nLnZhbHVlT2Yoa2V5KS5nZXRCeXRlcygpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkvLyBUT0RPIC0gd2UgbWF5YmUgb25seSB3YW50IHRoaXMgb24gR0NFLiAgd2hvIGtub3dzIHRob3VnaCwgb3IgbWF5YmUgZGlmZmVyZW50PyBzbyBtYW55IHF1ZXN0aW9ucyEK</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5jb25jdXJyZW50LkV4ZWN1dG9yczsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQlyZXR1cm4gbnVsbDsK</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5jb25jdXJyZW50LkV4ZWN1dG9yU2VydmljZTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQlyZXR1cm4gbnVsbDsK</text>
+        <text encoding="base64">CXByaXZhdGUgZmluYWwgRXhlY3V0b3JTZXJ2aWNlIGVzID0gRXhlY3V0b3JzLm5ld0ZpeGVkVGhyZWFkUG9vbCgxKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">CQkvLyBUT0RPIC0gd2UgbWF5YmUgb25seSB3YW50IHRoaXMgb24gR0NFLiAgd2hvIGtub3dzIHRob3VnaCwgb3IgbWF5YmUgZGlmZmVyZW50PyBzbyBtYW55IHF1ZXN0aW9ucyEK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQllcy5zdWJtaXQoKCkgLT4gcmVkaXNTZXJ2aWNlLmdldElkZW50aWZpYWJsZXMoa2V5cykpOwo=</text>
+        <text encoding="base64">CQlyZXR1cm4gbnVsbDsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CXByaXZhdGUgZmluYWwgTWVtY2FjaGVTZXJ2aWNlIGRlZmF1bHRTZXJ2aWNlOwo=</text>
+        <text encoding="base64">CQlyZXR1cm4gbnVsbDsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQlkZWZhdWx0U2VydmljZSA9IFNlcnZpY2VGYWN0b3J5RmFjdG9yeS5nZXRGYWN0b3J5KElNZW1jYWNoZVNlcnZpY2VGYWN0b3J5LmNsYXNzKQo=</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQlkZAo=</text>
+        <text encoding="base64">CQllcy5zdWJtaXQoKCkgLT4gcmVkaXNTZXJ2aWNlLmdldElkZW50aWZpYWJsZXMoa2V5cykpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUuYmVhbS5zZGsuZXh0ZW5zaW9ucy5nY3Aub3B0aW9ucy5HY3NPcHRpb25zLkV4ZWN1dG9yU2VydmljZUZhY3Rvcnk7Cg==</text>
+        <text encoding="base64">CXByaXZhdGUgZmluYWwgTWVtY2FjaGVTZXJ2aWNlIGRlZmF1bHRTZXJ2aWNlOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>%s/es.submit(\(.*\);/Executors.defaultThreadFactory().newThread(\1.start();</text>
       </register>
     </registers>
     <search>
-      <last-search>;</last-search>
+      <last-search>es.submit(\(.*\);</last-search>
       <last-offset />
-      <last-pattern>;</last-pattern>
-      <last-replace>);</last-replace>
-      <last-substitute>;</last-substitute>
+      <last-pattern>es.submit(\(.*\);</last-pattern>
+      <last-replace>Executors.defaultThreadFactory().newThread(\1.start();</last-replace>
+      <last-substitute>es.submit(\(.*\);</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>^</entry>
-        <entry>.....</entry>
         <entry>..</entry>
         <entry>Complex</entry>
         <entry>Objects</entry>
@@ -1223,12 +1220,10 @@
         <entry>redisMemcacheService</entry>
         <entry>^.*defaultService.*$</entry>
         <entry>;</entry>
+        <entry>es.submit(</entry>
+        <entry>es.submit(\(.*\);</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zLysvLw==</entry>
-        <entry encoding="base64">JzwsJz5zL14vICA=</entry>
-        <entry>%s/-2//</entry>
-        <entry encoding="base64">JzwsJz5zL14gICAgICAgIC8v</entry>
         <entry encoding="base64">JzwsJz5zL14vCQkJCQkJCQkJCQkJCQkJ</entry>
         <entry>q</entry>
         <entry encoding="base64">JzwsJz5zLy4uLi4uLy8=</entry>
@@ -1245,6 +1240,10 @@
         <entry>%s/^.*defaultService.*$/\0\r\0/g</entry>
         <entry>s/;/);</entry>
         <entry>w</entry>
+        <entry>%s/es.submit(/Executors.defaultThreadFactory().newThread(</entry>
+        <entry>%s/es.submit(\(.*\);/Executors.defaultThreadFactory().newThread(\1/).start();</entry>
+        <entry>%s/es.submit(\(.*\);/Executors.defaultThreadFactory().newThread(\1).start();</entry>
+        <entry>%s/es.submit(\(.*\);/Executors.defaultThreadFactory().newThread(\1.start();</entry>
       </history-cmd>
       <history-expr />
       <history-input />
