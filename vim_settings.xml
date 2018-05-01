@@ -583,7 +583,7 @@
         <mark key="^" line="16" column="0" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1525127609836">
+      <file name="/fragment.java" timestamp="1525133597911">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="34" />
         <mark key="." line="0" column="34" />
@@ -884,11 +884,11 @@
         <mark key="^" line="20" column="58" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/google/appengine/tools/remoteapi/UnprivilegedRemoteApiInstaller.java" timestamp="1524767789456" />
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/utils/RedisMemcacheServiceFactory.java" timestamp="1525131858400">
-        <mark key="[" line="56" column="8" />
-        <mark key="]" line="56" column="9" />
-        <mark key="." line="56" column="9" />
-        <mark key="^" line="56" column="9" />
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/utils/RedisMemcacheServiceFactory.java" timestamp="1525133734409">
+        <mark key="[" line="41" column="57" />
+        <mark key="]" line="41" column="59" />
+        <mark key="." line="41" column="59" />
+        <mark key="^" line="41" column="59" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/rewardly/mailfoo/unittests/Entities/Complex.java" timestamp="1519247043888">
         <mark key="[" line="20" column="23" />
@@ -1133,11 +1133,11 @@
       <jump line="46" column="28" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/utils/RedisMemcacheService.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQkvKgo=</text>
+      <register name="&quot;" type="4">
+        <text>SSL</text>
       </register>
       <register name="-" type="4">
-        <text>addAttributes</text>
+        <text>SSL</text>
       </register>
       <register name="/" type="4">
         <text>putIf</text>
@@ -1146,31 +1146,31 @@
         <text encoding="base64">CQkJCQltZ2V0S2V5cy5hZGQoU3RyaW5nLnZhbHVlT2Yoa2V5KS5nZXRCeXRlcygpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkvKgo=</text>
+        <text encoding="base64">CQkvL3Bvb2wgPSBpbml0aWFsaXplRGV2UG9vbCgpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkqKi8K</text>
+        <text encoding="base64">CQkvKgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJc2MuYQo=</text>
+        <text encoding="base64">CQkqKi8K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJCQlBcnJheXMuY29weU9mKG1nZXRLZXlzLnRvQXJyYXkoKSwga2V5cy5zaXplKCksIEJ5dGVbXS5jbGFzcykK</text>
+        <text encoding="base64">CQkJc2MuYQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJCQlBcnJheXMuY29weU9mKGtleXMuc3RyZWFtKCkubWFwKFN0cmluZzo6dmFsdWVPZikudG9BcnJheSgpLCBrZXlzLnNpemUoKSwgQnl0ZVtdLmNsYXNzKQo=</text>
+        <text encoding="base64">CQkJCQlBcnJheXMuY29weU9mKG1nZXRLZXlzLnRvQXJyYXkoKSwga2V5cy5zaXplKCksIEJ5dGVbXS5jbGFzcykK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJCQljYXNSZXNwb25zZXMucHV0KGtleSwgbXVsdGkuZ2V0KFN0cmluZy52YWx1ZU9mKGtleSkgKyAiOmNhcyIpKTsK</text>
+        <text encoding="base64">CQkJCQlBcnJheXMuY29weU9mKGtleXMuc3RyZWFtKCkubWFwKFN0cmluZzo6dmFsdWVPZikudG9BcnJheSgpLCBrZXlzLnNpemUoKSwgQnl0ZVtdLmNsYXNzKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJCQl2YWx1ZVJlc3BvbnNlcy5wdXQoa2V5LCBtdWx0aS5nZXQoOwo=</text>
+        <text encoding="base64">CQkJCQljYXNSZXNwb25zZXMucHV0KGtleSwgbXVsdGkuZ2V0KFN0cmluZy52YWx1ZU9mKGtleSkgKyAiOmNhcyIpKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJCQkvLyBUT0RPIG1nZXQK</text>
+        <text encoding="base64">CQkJCQl2YWx1ZVJlc3BvbnNlcy5wdXQoa2V5LCBtdWx0aS5nZXQoOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJCU1hcDxULCBSZXNwb25zZTxieXRlW10+PiB2YWx1ZVJlc3BvbnNlcyA9IG5ldyBIYXNoTWFwPD4oKTsKCQkJCU1hcDxULCBSZXNwb25zZTxTdHJpbmc+PiBjYXNSZXNwb25zZXMgPSBuZXcgSGFzaE1hcDw+KCk7CgkJCQlQaXBlbGluZSBtdWx0aSA9IGplZGlzLnBpcGVsaW5lZCgpOwo=</text>
+        <text encoding="base64">CQkJCQkvLyBUT0RPIG1nZXQK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
