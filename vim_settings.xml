@@ -24,8 +24,8 @@
         <mark key="^" line="144" column="0" />
         <mark key="." line="144" column="0" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/utils/MetaMemcacheService.java" timestamp="1525220211274">
-        <mark key="'" line="41" column="0" />
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/utils/MetaMemcacheService.java" timestamp="1525298865371">
+        <mark key="'" line="28" column="34" />
         <mark key="[" line="412" column="13" />
         <mark key="]" line="390" column="0" />
         <mark key="." line="390" column="0" />
@@ -98,18 +98,14 @@
       </file>
       <file name="$MAVEN_REPOSITORY$/io/opencensus/opencensus-api/0.10.1/opencensus-api-0.10.1-sources.jar!/io/opencensus/trace/Tracer.java" timestamp="1525202980559" />
       <file name="$MAVEN_REPOSITORY$/com/google/appengine/appengine-api-1.0-sdk/1.9.57/appengine-api-1.0-sdk-1.9.57.jar!/com/google/appengine/spi/ServiceFactoryFactory.class" timestamp="1524779626481" />
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/utils/RedisMemcacheService.java" timestamp="1525280586563">
-        <mark key="'" line="51" column="28" />
-        <mark key="[" line="86" column="39" />
-        <mark key="]" line="86" column="55" />
-        <mark key="." line="86" column="55" />
-        <mark key="^" line="86" column="55" />
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/utils/RedisMemcacheService.java" timestamp="1525300009100">
+        <mark key="'" line="347" column="1" />
+        <mark key="[" line="187" column="0" />
+        <mark key="]" line="187" column="0" />
+        <mark key="." line="187" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="186" column="42" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/utils/Constants.java" />
-      <jump line="79" column="12" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/utils/RemoteAccess.java" />
-      <jump line="130" column="20" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/nondatastore/MessageMetadata.java" />
       <jump line="70" column="56" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/filters/ExtractRequestDataFilter.java" />
       <jump line="443" column="32" filename="$MAVEN_REPOSITORY$/com/google/appengine/appengine-api-1.0-sdk/1.9.57/appengine-api-1.0-sdk-1.9.57.jar!/com/google/appengine/repackaged/com/google/api/client/http/HttpRequest.class" />
       <jump line="312" column="19" filename="$MAVEN_REPOSITORY$/com/google/appengine/appengine-api-1.0-sdk/1.9.57/appengine-api-1.0-sdk-1.9.57.jar!/com/google/appengine/repackaged/com/google/api/client/http/HttpRequest.class" />
@@ -207,40 +203,43 @@
       <jump line="32" column="56" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/utils/MetaMemcacheService.java" />
       <jump line="37" column="44" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/utils/MetaMemcacheService.java" />
       <jump line="43" column="0" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/utils/MetaMemcacheService.java" />
+      <jump line="28" column="34" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/utils/MetaMemcacheService.java" />
+      <jump line="75" column="94" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/utils/RedisMemcacheService.java" />
+      <jump line="348" column="1" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/utils/RedisMemcacheService.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CQkJVGhyZWFkLmN1cnJlbnRUaHJlYWQoKS5pbnRlcnJ1cHQoKTsK</text>
+        <text encoding="base64">CQkJCWlmIChuZXdWYWx1ZSBpbnN0YW5jZW9mIEVudGl0eSkgewoJCQkJCUVudGl0eSBlbnRpdHkgPSAoRW50aXR5KSBuZXdWYWx1ZTsKCQkJCQlFbnRpdHlQcm90byBwcm90byA9IEVudGl0eVRyYW5zbGF0b3IuY29udmVydFRvUGIoZW50aXR5KTsKCQkJCQl2YWx1ZSA9IHByb3RvLnRvQnl0ZUFycmF5KCk7CgkJCQl9CgkJCQllbHNlIHsKCQkJCQl2YWx1ZSA9IFN0cmluZy52YWx1ZU9mKG5ld1ZhbHVlKS5nZXRCeXRlcygpOwoJCQkJfQo=</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>toWrite</text>
       </register>
       <register name="/" type="4">
-        <text>finally</text>
+        <text>current_span</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQkJCVRocmVhZC5jdXJyZW50VGhyZWFkKCkuaW50ZXJydXB0KCk7Cg==</text>
+        <text encoding="base64">CQl0aHJvdyBuZXcgTm90SW1wbGVtZW50ZWRFeGNlcHRpb24oKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJVGhyZWFkLmN1cnJlbnRUaHJlYWQoKS5pbnRlcnJ1cHQoKTsK</text>
+        <text encoding="base64">CQkJCWlmIChuZXdWYWx1ZSBpbnN0YW5jZW9mIEVudGl0eSkgewoJCQkJCUVudGl0eSBlbnRpdHkgPSAoRW50aXR5KSBuZXdWYWx1ZTsKCQkJCQlFbnRpdHlQcm90byBwcm90byA9IEVudGl0eVRyYW5zbGF0b3IuY29udmVydFRvUGIoZW50aXR5KTsKCQkJCQl2YWx1ZSA9IHByb3RvLnRvQnl0ZUFycmF5KCk7CgkJCQl9CgkJCQllbHNlIHsKCQkJCQl2YWx1ZSA9IFN0cmluZy52YWx1ZU9mKG5ld1ZhbHVlKS5nZXRCeXRlcygpOwoJCQkJfQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJfQoJCQlmaW5hbGx5IHsK</text>
+        <text encoding="base64">CQkJCQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJfQoJCQlmaW5hbGx5IHsK</text>
+        <text encoding="base64">CQlyZXR1cm4gbnVsbDsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJfQoJCQlmaW5hbGx5IHsK</text>
+        <text encoding="base64">CQlJTkZPIENMSUVOVFMK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJfQoJCQlmaW5hbGx5IHsK</text>
+        <text encoding="base64">CQlyZXR1cm4gbnVsbDsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJfQoJCQlmaW5hbGx5IHsK</text>
+        <text encoding="base64">CQkJCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJfQoJCQlmaW5hbGx5IHsK</text>
+        <text encoding="base64">CQkJVGhyZWFkLmN1cnJlbnRUaHJlYWQoKS5pbnRlcnJ1cHQoKTsK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">CQkJfQoJCQlmaW5hbGx5IHsK</text>
@@ -253,17 +252,16 @@
       </register>
     </registers>
     <search>
-      <last-search>finally</last-search>
+      <last-search>current_span</last-search>
       <last-offset />
-      <last-pattern>finally</last-pattern>
-      <last-replace>catch (Throwable ignore)</last-replace>
-      <last-substitute>finally</last-substitute>
+      <last-pattern>current_span</last-pattern>
+      <last-replace>currentSpan</last-replace>
+      <last-substitute>current_span</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>)</entry>
         <entry>entityMem</entry>
         <entry>memcache</entry>
         <entry>Object o</entry>
@@ -283,9 +281,9 @@
         <entry encoding="base64">KCkgLT4g</entry>
         <entry>).start</entry>
         <entry>finally</entry>
+        <entry>current_span</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz53</entry>
         <entry>we</entry>
         <entry>wq</entry>
         <entry>%s/Object o/Object key</entry>
@@ -304,6 +302,7 @@
         <entry>%s/).start/;}).start</entry>
         <entry>%s/).start/;}}).start</entry>
         <entry encoding="base64">JzwsJz4lcy9maW5hbGx5L2NhdGNoIChUaHJvd2FibGUgaWdub3JlKQ==</entry>
+        <entry>%s/current_span/currentSpan/g</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
