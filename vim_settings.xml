@@ -24,11 +24,12 @@
         <mark key="^" line="144" column="0" />
         <mark key="." line="144" column="0" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/utils/MetaMemcacheService.java" timestamp="1525298865371">
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/utils/MetaMemcacheService.java" timestamp="1525302043758">
         <mark key="'" line="28" column="34" />
-        <mark key="[" line="412" column="13" />
-        <mark key="]" line="390" column="0" />
-        <mark key="." line="390" column="0" />
+        <mark key="[" line="24" column="8" />
+        <mark key="]" line="24" column="22" />
+        <mark key="." line="24" column="22" />
+        <mark key="^" line="24" column="22" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/filters/OfyFilter.java" timestamp="1524777388318">
         <mark key="[" line="171" column="33" />
@@ -64,15 +65,16 @@
         <mark key="^" line="12" column="17" />
         <mark key="." line="12" column="17" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/curls" timestamp="1525295253156">
+      <file name="$USER_HOME$/src/MailFoo/curls" timestamp="1525301971492">
         <mark key="[" line="93" column="51" />
         <mark key="]" line="93" column="51" />
         <mark key="." line="93" column="51" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/utils/MonitoringOfyFactory.java" timestamp="1525220114729">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/utils/MonitoringOfyFactory.java" timestamp="1525302631380">
+        <mark key="[" line="19" column="16" />
+        <mark key="]" line="19" column="44" />
+        <mark key="." line="19" column="44" />
+        <mark key="^" line="19" column="44" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/ratchet/translate/LongTranslator.java" timestamp="1524691958185">
         <mark key="[" line="31" column="8" />
@@ -208,11 +210,11 @@
       <jump line="348" column="1" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/utils/RedisMemcacheService.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQkJCWlmIChuZXdWYWx1ZSBpbnN0YW5jZW9mIEVudGl0eSkgewoJCQkJCUVudGl0eSBlbnRpdHkgPSAoRW50aXR5KSBuZXdWYWx1ZTsKCQkJCQlFbnRpdHlQcm90byBwcm90byA9IEVudGl0eVRyYW5zbGF0b3IuY29udmVydFRvUGIoZW50aXR5KTsKCQkJCQl2YWx1ZSA9IHByb3RvLnRvQnl0ZUFycmF5KCk7CgkJCQl9CgkJCQllbHNlIHsKCQkJCQl2YWx1ZSA9IFN0cmluZy52YWx1ZU9mKG5ld1ZhbHVlKS5nZXRCeXRlcygpOwoJCQkJfQo=</text>
+      <register name="&quot;" type="4">
+        <text>MetaMemcacheServiceFactory</text>
       </register>
       <register name="-" type="4">
-        <text>toWrite</text>
+        <text>MetaMemcacheServiceFactory</text>
       </register>
       <register name="/" type="4">
         <text>current_span</text>
