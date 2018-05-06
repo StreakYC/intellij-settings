@@ -1143,7 +1143,7 @@
         <mark key="." line="92" column="31" />
         <mark key="^" line="92" column="31" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/utils/RedisMemcacheService.java" timestamp="1525567076818">
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/utils/RedisMemcacheService.java" timestamp="1525568982168">
         <mark key="'" line="149" column="59" />
         <mark key="[" line="71" column="0" />
         <mark key="]" line="71" column="0" />
@@ -1284,7 +1284,7 @@
         <text>, ThreadManagementFilter.getExecutorService());</text>
       </register>
       <register name="/" type="4">
-        <text>mu</text>
+        <text>Multi</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQkicmVkaXMubG9nKHJlZGlzLkxPR19XQVJOSU5HLCBcImZvbyBiYXJcIilcbiIgKwo=</text>
@@ -1321,9 +1321,9 @@
       </register>
     </registers>
     <search>
-      <last-search>mu</last-search>
+      <last-search>Multi</last-search>
       <last-offset />
-      <last-pattern>mu</last-pattern>
+      <last-pattern>Multi</last-pattern>
       <last-replace>\r</last-replace>
       <last-substitute>\r\r</last-substitute>
       <last-dir>1</last-dir>
@@ -1331,7 +1331,6 @@
     </search>
     <history>
       <history-search>
-        <entry>;</entry>
         <entry>es.submit(</entry>
         <entry>es.submit(\(.*\);</entry>
         <entry encoding="base64">KCkgLT4g</entry>
@@ -1349,8 +1348,9 @@
         <entry>getBy</entry>
         <entry>execsh</entry>
         <entry>sha</entry>
-        <entry>multi</entry>
         <entry>mu</entry>
+        <entry>multi</entry>
+        <entry>Multi</entry>
       </history-search>
       <history-cmd>
         <entry>%s/^.*defaultService.*$/\0\r\0/g</entry>
