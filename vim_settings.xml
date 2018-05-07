@@ -855,7 +855,7 @@
         <mark key="." line="54" column="0" />
         <mark key="^" line="43" column="17" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/containers/src/main/java/com/googlecode/objectify/cache/MemcacheServiceRetryProxy.java" timestamp="1524256372087">
+      <file name="$USER_HOME$/src/MailFoo/containers/src/main/java/com/googlecode/objectify/cache/MemcacheServiceRetryProxy.java" timestamp="1525698086941">
         <mark key="[" line="79" column="68" />
         <mark key="]" line="79" column="69" />
         <mark key="." line="79" column="69" />
@@ -1137,12 +1137,12 @@
         <mark key="." line="92" column="31" />
         <mark key="^" line="92" column="31" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/utils/RedisMemcacheService.java" timestamp="1525568982168">
-        <mark key="'" line="149" column="59" />
-        <mark key="[" line="71" column="0" />
-        <mark key="]" line="71" column="0" />
-        <mark key="." line="71" column="0" />
-        <mark key="^" line="56" column="50" />
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/utils/RedisMemcacheService.java" timestamp="1525698488343">
+        <mark key="'" line="241" column="38" />
+        <mark key="[" line="240" column="13" />
+        <mark key="]" line="241" column="38" />
+        <mark key="." line="241" column="38" />
+        <mark key="^" line="241" column="38" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/ratchet/Metadata.java" timestamp="1524696409497">
         <mark key="[" line="118" column="24" />
@@ -1169,7 +1169,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="120" column="0" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/rewardly/mailfoo/unittests/StreakSpecificRatchetTests.java" />
       <jump line="241" column="0" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/rewardly/mailfoo/unittests/StreakSpecificRatchetTests.java" />
       <jump line="240" column="0" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/rewardly/mailfoo/unittests/StreakSpecificRatchetTests.java" />
       <jump line="43" column="0" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/rewardly/mailfoo/unittests/RatchetUnitTests.java" />
@@ -1269,10 +1268,11 @@
       <jump line="97" column="53" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/utils/RedisMemcacheService.java" />
       <jump line="144" column="28" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/utils/RedisMemcacheService.java" />
       <jump line="149" column="59" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/utils/RedisMemcacheService.java" />
+      <jump line="241" column="38" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/utils/RedisMemcacheService.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJRXhjZXAK</text>
       </register>
       <register name="-" type="4">
         <text>, ThreadManagementFilter.getExecutorService());</text>
@@ -1284,7 +1284,7 @@
         <text encoding="base64">CQkicmVkaXMubG9nKHJlZGlzLkxPR19XQVJOSU5HLCBcImZvbyBiYXJcIilcbiIgKwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJRXhjZXAK</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
@@ -1311,7 +1311,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
@@ -1365,8 +1365,8 @@
         <entry>%s/Thread.currentThread().interrupt();//</entry>
         <entry>%s/\r\r/\r/g</entry>
         <entry>q</entry>
-        <entry>wq</entry>
         <entry>w</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
