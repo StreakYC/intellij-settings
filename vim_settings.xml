@@ -3,6 +3,9 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="/a.dummy" timestamp="1525895478924">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/DAO.java" timestamp="1525890648531" />
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/Spanner.java" timestamp="1525881600472" />
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/rewardly/mailfoo/unittests/FixtureTest.java" timestamp="1525881713154">
@@ -11,10 +14,19 @@
         <mark key="^" line="23" column="58" />
         <mark key="." line="23" column="58" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/IntegrationTests/src/test/java/com/rewardly/integrationtests/api/modeltests/TimeInStagesReportAPITest.java" timestamp="1525893557216" />
+      <file name="$USER_HOME$/src/MailFoo/IntegrationTests/src/test/java/com/rewardly/integrationtests/api/modeltests/TimeInStagesReportAPITest.java" timestamp="1525897308733">
+        <mark key="'" line="226" column="103" />
+        <mark key="[" line="46" column="57" />
+        <mark key="]" line="225" column="62" />
+        <mark key="." line="225" column="62" />
+        <mark key="^" line="225" column="62" />
+      </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataupdaters/updaters/SendLaterV2EntityUpdater.java" timestamp="1525890353210" />
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/newsfeed/NewsfeedManager.java" timestamp="1525894414374">
-        <mark key="[" line="84" column="91" />
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/newsfeed/NewsfeedManager.java" timestamp="1525896051440">
+        <mark key="[" line="91" column="84" />
+        <mark key="]" line="91" column="104" />
+        <mark key="^" line="91" column="104" />
+        <mark key="." line="91" column="104" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/IntegrationTests/src/test/java/com/rewardly/integrationtests/api/APITestBase.java" timestamp="1525890264661">
         <mark key="[" line="347" column="25" />
@@ -39,6 +51,7 @@
         <mark key="." line="110" column="0" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/IntegrationTests/src/test/java/com/rewardly/integrationtests/api/modeltests/BoxBatchEditingAPITest.java" timestamp="1525808101061" />
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/caching/CaseCachedKeysManager.java" timestamp="1525895515276" />
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataupdaters/getters/SendLaterGetter.java" timestamp="1525890287037" />
       <file name="$USER_HOME$/src/MailFoo/IntegrationTests/src/test/java/com/rewardly/integrationtests/api/modeltests/SendLaterV2APITest.java" timestamp="1525892430898">
         <mark key="'" line="175" column="31" />
@@ -47,7 +60,7 @@
         <mark key="^" line="241" column="9" />
         <mark key="." line="242" column="8" />
       </file>
-      <file name="/fragment.java" timestamp="1525894279140">
+      <file name="/fragment.java" timestamp="1525896439905">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -72,11 +85,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="206" column="24" filename="$MAVEN_REPOSITORY$/redis/clients/jedis/2.9.0/jedis-2.9.0.jar!/redis/clients/jedis/Jedis.class" />
-      <jump line="208" column="20" filename="$MAVEN_REPOSITORY$/redis/clients/jedis/2.9.0/jedis-2.9.0.jar!/redis/clients/jedis/Jedis.class" />
-      <jump line="56" column="82" filename="$MAVEN_REPOSITORY$/com/googlecode/objectify/objectify/5.1.17/objectify-5.1.17-sources.jar!/com/googlecode/objectify/cache/EntityMemcache.java" />
-      <jump line="59" column="16" filename="$MAVEN_REPOSITORY$/com/googlecode/objectify/objectify/5.1.17/objectify-5.1.17-sources.jar!/com/googlecode/objectify/cache/EntityMemcache.java" />
-      <jump line="78" column="31" filename="$MAVEN_REPOSITORY$/com/googlecode/objectify/objectify/5.1.17/objectify-5.1.17-sources.jar!/com/googlecode/objectify/cache/EntityMemcache.java" />
       <jump line="194" column="80" filename="$MAVEN_REPOSITORY$/com/googlecode/objectify/objectify/5.1.17/objectify-5.1.17-sources.jar!/com/googlecode/objectify/cache/EntityMemcache.java" />
       <jump line="171" column="11" filename="$MAVEN_REPOSITORY$/com/googlecode/objectify/objectify/5.1.17/objectify-5.1.17-sources.jar!/com/googlecode/objectify/cache/EntityMemcache.java" />
       <jump line="347" column="29" filename="$MAVEN_REPOSITORY$/com/googlecode/objectify/objectify/5.1.17/objectify-5.1.17-sources.jar!/com/googlecode/objectify/cache/EntityMemcache.java" />
@@ -172,16 +180,21 @@
       <jump line="43" column="28" filename="$USER_HOME$/src/MailFoo/IntegrationTests/src/test/java/com/rewardly/integrationtests/api/modeltests/SendLaterV2APITest.java" />
       <jump line="63" column="20" filename="$USER_HOME$/src/MailFoo/IntegrationTests/src/test/java/com/rewardly/integrationtests/api/modeltests/SendLaterV2APITest.java" />
       <jump line="175" column="31" filename="$USER_HOME$/src/MailFoo/IntegrationTests/src/test/java/com/rewardly/integrationtests/api/modeltests/SendLaterV2APITest.java" />
+      <jump line="152" column="0" filename="$USER_HOME$/src/MailFoo/IntegrationTests/src/test/java/com/rewardly/integrationtests/api/modeltests/TimeInStagesReportAPITest.java" />
+      <jump line="181" column="13" filename="$USER_HOME$/src/MailFoo/IntegrationTests/src/test/java/com/rewardly/integrationtests/api/modeltests/TimeInStagesReportAPITest.java" />
+      <jump line="208" column="8" filename="$USER_HOME$/src/MailFoo/IntegrationTests/src/test/java/com/rewardly/integrationtests/api/modeltests/TimeInStagesReportAPITest.java" />
+      <jump line="232" column="40" filename="$USER_HOME$/src/MailFoo/IntegrationTests/src/test/java/com/rewardly/integrationtests/api/modeltests/TimeInStagesReportAPITest.java" />
+      <jump line="226" column="103" filename="$USER_HOME$/src/MailFoo/IntegrationTests/src/test/java/com/rewardly/integrationtests/api/modeltests/TimeInStagesReportAPITest.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">U2V0PFQ+KQ==</text>
+        <text>(</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">U2V0PFQ+KQ==</text>
+        <text>(</text>
       </register>
       <register name="/" type="4">
-        <text>sendDa</text>
+        <text encoding="base64">ID09</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQlleGlzdGluZ1NlbmRMYXRlci5wdXQoInNlbmREYXRlIiwgU3RyaW5nLnZhbHVlT2YoU3lzdGVtLmN1cnJlbnRUaW1lTWlsbGlzKCkpKTsK</text>
@@ -214,23 +227,20 @@
         <text encoding="base64">CQkiIgo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text encoding="base64">JzwsJz5zLyA9PS8s</text>
       </register>
     </registers>
     <search>
-      <last-search>sendDa</last-search>
+      <last-search encoding="base64">ID09</last-search>
       <last-offset />
-      <last-pattern>sendDa</last-pattern>
-      <last-replace>False</last-replace>
-      <last-substitute>True</last-substitute>
+      <last-pattern encoding="base64">ID09</last-pattern>
+      <last-replace>,</last-replace>
+      <last-substitute encoding="base64">ID09</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxnZXRCeXRlc1w+</entry>
-        <entry>String.va</entry>
-        <entry>getBy</entry>
         <entry>execsh</entry>
         <entry>sha</entry>
         <entry>mu</entry>
@@ -248,12 +258,11 @@
         <entry>True</entry>
         <entry>&quot;</entry>
         <entry>sendDa</entry>
+        <entry>assert</entry>
+        <entry encoding="base64">YXNzZXJ0IA==</entry>
+        <entry encoding="base64">ID09</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/).start/;}).start</entry>
-        <entry>%s/).start/;}}).start</entry>
-        <entry encoding="base64">JzwsJz4lcy9maW5hbGx5L2NhdGNoIChUaHJvd2FibGUgaWdub3JlKQ==</entry>
-        <entry>%s/current_span/currentSpan/g</entry>
         <entry encoding="base64">JzwsJz4lcy9FeGVjdXRvcnMuZGVmYXVsdFRocmVhZEZhY3RvcnkoKS5uZXdUaHJlYWQoL2VzLnN1Ym1pdCg=</entry>
         <entry>%s/.start()//</entry>
         <entry>%s/catch (Throwable ignore) {/g</entry>
@@ -269,7 +278,11 @@
         <entry>s/1/2/g</entry>
         <entry>s/2/1/g</entry>
         <entry encoding="base64">JzwsJz5zL1RydWUvRmFsc2U=</entry>
+        <entry encoding="base64">JzwsJz5zL2Fzc2VydC9Bc3NlcnQuYXNzZXJ0RXF1YWxzKA==</entry>
         <entry>w</entry>
+        <entry encoding="base64">JzwsJz5zL2Fzc2VydC9Bc3NlcnQuYXNzZXJ0RXF1YWxz</entry>
+        <entry encoding="base64">JzwsJz5zL2Fzc2VydCAvQXNzZXJ0LmFzc2VydEVxdWFscyg=</entry>
+        <entry encoding="base64">JzwsJz5zLyA9PS8s</entry>
       </history-cmd>
       <history-expr />
       <history-input />
