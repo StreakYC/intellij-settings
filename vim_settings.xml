@@ -102,6 +102,7 @@
         <mark key="." line="49" column="37" />
         <mark key="^" line="49" column="36" />
       </file>
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/Spanner.java" timestamp="1525881600472" />
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/ratchet/RatchetObjectifyImpl.java" timestamp="1518049388761">
         <mark key="[" line="16" column="57" />
         <mark key="]" line="20" column="25" />
@@ -197,7 +198,7 @@
         <mark key="^" line="5" column="45" />
         <mark key="." line="5" column="45" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/rewardly/mailfoo/unittests/FixtureTest.java" timestamp="1522432426617">
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/rewardly/mailfoo/unittests/FixtureTest.java" timestamp="1525881713154">
         <mark key="[" line="23" column="79" />
         <mark key="]" line="23" column="58" />
         <mark key="^" line="23" column="58" />
@@ -478,6 +479,13 @@
         <mark key="]" line="48" column="0" />
         <mark key="." line="48" column="0" />
       </file>
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/rewardly/mailfoo/unittests/RedisMemcacheServiceTest.java" timestamp="1525882180232">
+        <mark key="'" line="40" column="8" />
+        <mark key="[" line="71" column="38" />
+        <mark key="]" line="45" column="43" />
+        <mark key="." line="45" column="43" />
+        <mark key="^" line="45" column="43" />
+      </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/gmail/GmailAPIHelper.java" timestamp="1521680799313">
         <mark key="[" line="139" column="8" />
         <mark key="]" line="139" column="8" />
@@ -665,7 +673,7 @@
         <mark key="^" line="16" column="0" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1525733268896">
+      <file name="/fragment.java" timestamp="1525881325027">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="25" />
         <mark key="." line="0" column="25" />
@@ -1090,6 +1098,7 @@
         <mark key="^" line="12" column="20" />
         <mark key="." line="12" column="20" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/easymock/easymock/3.0/easymock-3.0.jar!/org/easymock/EasyMock.class" timestamp="1525881032225" />
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/mae/FlowVisibilityService.java" timestamp="1522451601019">
         <mark key="[" line="53" column="22" />
         <mark key="]" line="55" column="71" />
@@ -1119,6 +1128,9 @@
         <mark key="." line="92" column="31" />
         <mark key="^" line="92" column="31" />
       </file>
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/utils/RedisMemcacheService.java" timestamp="1525881902129">
+        <mark key="'" line="377" column="29" />
+      </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/ratchet/Metadata.java" timestamp="1524696409497">
         <mark key="[" line="118" column="24" />
         <mark key="]" line="118" column="24" />
@@ -1144,15 +1156,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="240" column="0" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/rewardly/mailfoo/unittests/StreakSpecificRatchetTests.java" />
-      <jump line="43" column="0" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/rewardly/mailfoo/unittests/RatchetUnitTests.java" />
-      <jump line="39" column="64" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/filters/OpenCensusFilter.java" />
-      <jump line="40" column="12" filename="$USER_HOME$/src/MailFoo/containers/src/main/java/com/rewardly/mailfoo/filters/BackendLoggingHandler.java" />
-      <jump line="47" column="53" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/OpenCensusApiDelegate.java" />
-      <jump line="123" column="62" filename="$MAVEN_REPOSITORY$/com/googlecode/objectify/objectify/5.1.17/objectify-5.1.17-sources.jar!/com/googlecode/objectify/ObjectifyFactory.java" />
-      <jump line="182" column="13" filename="$MAVEN_REPOSITORY$/com/googlecode/objectify/objectify/5.1.17/objectify-5.1.17-sources.jar!/com/googlecode/objectify/ObjectifyFactory.java" />
-      <jump line="58" column="29" filename="$MAVEN_REPOSITORY$/com/googlecode/objectify/objectify/5.1.17/objectify-5.1.17-sources.jar!/com/googlecode/objectify/ObjectifyFactory.java" />
-      <jump line="137" column="26" filename="$MAVEN_REPOSITORY$/com/googlecode/objectify/objectify/5.1.17/objectify-5.1.17-sources.jar!/com/googlecode/objectify/cache/EntityMemcache.java" />
       <jump line="138" column="23" filename="$MAVEN_REPOSITORY$/com/googlecode/objectify/objectify/5.1.17/objectify-5.1.17-sources.jar!/com/googlecode/objectify/cache/EntityMemcache.java" />
       <jump line="143" column="17" filename="$MAVEN_REPOSITORY$/com/googlecode/objectify/objectify/5.1.17/objectify-5.1.17-sources.jar!/com/googlecode/objectify/cache/EntityMemcache.java" />
       <jump line="154" column="17" filename="$MAVEN_REPOSITORY$/com/googlecode/objectify/objectify/5.1.17/objectify-5.1.17-sources.jar!/com/googlecode/objectify/cache/EntityMemcache.java" />
@@ -1244,64 +1247,71 @@
       <jump line="149" column="59" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/utils/RedisMemcacheService.java" />
       <jump line="241" column="38" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/utils/RedisMemcacheService.java" />
       <jump line="61" column="12" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/utils/RedisMemcacheService.java" />
+      <jump line="40" column="0" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/rewardly/mailfoo/unittests/RedisMemcacheServiceTest.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/rewardly/mailfoo/unittests/RedisMemcacheServiceTest.java" />
+      <jump line="5" column="4" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/rewardly/mailfoo/unittests/RedisMemcacheServiceTest.java" />
+      <jump line="26" column="8" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/rewardly/mailfoo/unittests/RedisMemcacheServiceTest.java" />
+      <jump line="27" column="8" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/rewardly/mailfoo/unittests/RedisMemcacheServiceTest.java" />
+      <jump line="196" column="22" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/utils/RedisMemcacheService.java" />
+      <jump line="377" column="29" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/utils/RedisMemcacheService.java" />
+      <jump line="38" column="8" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/rewardly/mailfoo/unittests/RedisMemcacheServiceTest.java" />
+      <jump line="39" column="8" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/rewardly/mailfoo/unittests/RedisMemcacheServiceTest.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
-        <text>&quot;</text>
+        <text>1</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQkJUFVUX09ORV9JRl9VTlRPVUNIRURfU0hBMSA9IG1kLmRpZ2VzdChQVVRfT05FX0lGX1VOVE9VQ0hFRF9TQ1JJUFQuZ2V0Qnl0ZXMoKSk7Cg==</text>
+        <text encoding="base64">CQl2YWx1ZU1hcC5wdXQoa2V5MSwgdmFsdWUxKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQl0cnkgewoJCQlUaHJlYWQuc2xlZXAoMzAwMCk7CgkJfQoJCWNhdGNoIChJbnRlcnJ1cHRlZEV4Y2VwdGlvbiBlKSB7CgkJCWUucHJpbnRTdGFja1RyYWNlKCk7CgkJfQo=</text>
+        <text encoding="base64">CQlBc3NlcnQuYQo=</text>
       </register>
-      <register name="3" type="4">
-        <text>__streak__debounce__task__unique</text>
+      <register name="3" type="2">
+        <text encoding="base64">CUBUZXN0CglwdWJsaWMgdm9pZCB0ZXN0UHV0KCkgewoJfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHJlZGlzLmNsaWVudHMuamVkaXMuSmVkaXM7Cg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">CXB1YmxpYyBzdGF0aWMgdm9pZCBtYWluKFN0cmluZ1tdIGFyZ3MpIHRocm93cyBUaHJvd2FibGUgCg==</text>
+      <register name="5" type="2">
+        <text encoding="base64">CUBUZXN0CglwdWJsaWMgdm9pZCB0ZXN0R2V0UHV0KCkgewoJfQo=</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">ewoJCUtleVN0b3JlIGFwcEtleVN0b3JlID0gS2V5U3RvcmUuZ2V0SW5zdGFuY2UoIlBLQ1MxMiIpOwoJCWJ5dGVbXSBjZXJ0Qnl0ZXMgPSBCYXNlNjQuZGVjb2RlVG9CeXRlcyhDTElFTlRfQ0VSVF9CQVNFNjQpOwoJCUJ5dGVBcnJheUlucHV0U3RyZWFtIGlzID0gbmV3IEJ5dGVBcnJheUlucHV0U3RyZWFtKGNlcnRCeXRlcyk7CgkJYXBwS2V5U3RvcmUubG9hZChpcywgInRlc3QiLnRvQ2hhckFycmF5KCkpOwoJCUVudW1lcmF0aW9uPFN0cmluZz4gYWxpYXNlcyA9IGFwcEtleVN0b3JlLmFsaWFzZXMoKTsKCQl3aGlsZSAoYWxpYXNlcy5oYXNNb3JlRWxlbWVudHMoKSkgewoJCQlTdHJpbmcgYWxpYXMgPSBhbGlhc2VzLm5leHRFbGVtZW50KCk7CgkJCVN5c3RlbS5vdXQucHJpbnRsbihhbGlhcyk7CgkJCVN5c3RlbS5vdXQucHJpbnRsbihhcHBLZXlTdG9yZS5nZXRFbnRyeShhbGlhcywgbmV3IFBhc3N3b3JkUHJvdGVjdGlvbigidGVzdCIudG9DaGFyQXJyYXkoKSkpKTsKCQkJLy8gU3lzdGVtLm91dC5wcmludGxuKGFwcEtleVN0b3JlLmdldEtleShhbGlhcywgbnVsbCkuZ2V0QWxnb3JpdGhtKCkpOwoJCX0KCQlLZXlNYW5hZ2VyRmFjdG9yeSBrZXlNYW5hZ2VyRmFjdG9yeSA9IEtleU1hbmFnZXJGYWN0b3J5LmdldEluc3RhbmNlKCJTdW5YNTA5Iik7CgkJa2V5TWFuYWdlckZhY3RvcnkuaW5pdChhcHBLZXlTdG9yZSwgInRlc3QiLnRvQ2hhckFycmF5KCkpOwoJCUtleU1hbmFnZXJbXSBrZXlNYW5hZ2VycyA9IGtleU1hbmFnZXJGYWN0b3J5LmdldEtleU1hbmFnZXJzKCk7CgoJCVNTTENvbnRleHQgY29udGV4dCA9IFNTTENvbnRleHQuZ2V0SW5zdGFuY2UoIlRMUyIpOwoJCWNvbnRleHQuaW5pdChrZXlNYW5hZ2VycywgbnVsbCwgbnVsbCk7CgkJSmVkaXMgamVkaXMgPSBuZXcgSmVkaXMoInJlZGlzLnN0cmVhay5ob3JzZSIsIDk4NzYsIHRydWUsIGNvbnRleHQuZ2V0U29ja2V0RmFjdG9yeSgpLCBudWxsLCBudWxsKTsKCQlTeXN0ZW0ub3V0LnByaW50bG4oamVkaXMuaW5mbygpKTsKCX0=</text>
+      <register name="6" type="2">
+        <text encoding="base64">CUBUZXN0CglwdWJsaWMgdm9pZCB0ZXN0R2V0SWRlbnRpZmlhYmxlcygpIHsKCX0KCglAVGVzdAoJcHVibGljIHZvaWQgdGVzdEdldElkZW50aWZpYWJsZSgpIHsKCX0KCglAVGVzdAoJcHVibGljIHZvaWQgdGVzdENvbnRhaW5zKCkgewoJfQoKCUBUZXN0CglwdWJsaWMgdm9pZCB0ZXN0R2V0QWxsKCkgewoJfQoKCUBUZXN0CglwdWJsaWMgdm9pZCB0ZXN0R2V0KCkgewoJfQoKCUBUZXN0CglwdWJsaWMgdm9pZCB0ZXN0UHV0KCkgewoJfQoKCUBUZXN0CglwdWJsaWMgdm9pZCB0ZXN0UHV0MSgpIHsKCX0KCglAVGVzdAoJcHVibGljIHZvaWQgdGVzdFB1dEFsbCgpIHsKCX0KCglAVGVzdAoJcHVibGljIHZvaWQgdGVzdFB1dEFsbDEoKSB7Cgl9CglAVGVzdAoJcHVibGljIHZvaWQgdGVzdFB1dDIoKSB7Cgl9CgoJQFRlc3QKCXB1YmxpYyB2b2lkIHRlc3RQdXRBbGwyKCkgewoJfQoKCUBUZXN0CglwdWJsaWMgdm9pZCB0ZXN0UHV0SWZVbnRvdWNoZWQoKSB7Cgl9CgoJQFRlc3QKCXB1YmxpYyB2b2lkIHRlc3RQdXRJZlVudG91Y2hlZDEoKSB7Cgl9CgoJQFRlc3QKCXB1YmxpYyB2b2lkIHRlc3RQdXRJZlVudG91Y2hlZDIoKSB7Cgl9CgoJQFRlc3QKCXB1YmxpYyB2b2lkIHRlc3RQdXRJZlVudG91Y2hlZDMoKSB7Cgl9CgoJQFRlc3QKCXB1YmxpYyB2b2lkIHRlc3REZWxldGUoKSB7Cgl9CgoJQFRlc3QKCXB1YmxpYyB2b2lkIHRlc3REZWxldGUxKCkgewoJfQoKCUBUZXN0CglwdWJsaWMgdm9pZCB0ZXN0RGVsZXRlQWxsKCkgewoJfQoKCUBUZXN0CglwdWJsaWMgdm9pZCB0ZXN0RGVsZXRlQWxsMSgpIHsKCX0KCglAVGVzdAoJcHVibGljIHZvaWQgdGVzdEluY3JlbWVudCgpIHsKCX0KCglAVGVzdAoJcHVibGljIHZvaWQgdGVzdEluY3JlbWVudDEoKSB7Cgl9CgoJQFRlc3QKCXB1YmxpYyB2b2lkIHRlc3RJbmNyZW1lbnRBbGwoKSB7Cgl9CgoJQFRlc3QKCXB1YmxpYyB2b2lkIHRlc3RJbmNyZW1lbnRBbGwxKCkgewoJfQoKCUBUZXN0CglwdWJsaWMgdm9pZCB0ZXN0SW5jcmVtZW50QWxsMigpIHsKCX0KCglAVGVzdAoJcHVibGljIHZvaWQgdGVzdEluY3JlbWVudEFsbDMoKSB7Cgl9CgoJQFRlc3QKCXB1YmxpYyB2b2lkIHRlc3RDbGVhckFsbCgpIHsKCX0KCglAVGVzdAoJcHVibGljIHZvaWQgdGVzdEdldFN0YXRpc3RpY3MoKSB7Cgl9CgoJQFRlc3QKCXB1YmxpYyB2b2lkIHRlc3RHZXROYW1lc3BhY2UoKSB7Cgl9CgoJQFRlc3QKCXB1YmxpYyB2b2lkIHRlc3RTZXROYW1lc3BhY2UoKSB7Cgl9CgoJQFRlc3QKCXB1YmxpYyB2b2lkIHRlc3RHZXRFcnJvckhhbmRsZXIoKSB7Cgl9CgoJQFRlc3QKCXB1YmxpYyB2b2lkIHRlc3RTZXRFcnJvckhhbmRsZXIoKSB7Cgl9CgoJQFRlc3QKCXB1YmxpYyB2b2lkIHRlc3RKYXZhRGVzZXJpYWxpemUoKSB7Cgl9CgoJQFRlc3QKCXB1YmxpYyB2b2lkIHRlc3RKYXZhU2VyaWFsaXplKCkgewoJfQo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQl0cnkgewo=</text>
+        <text encoding="base64">aW1wb3J0IG5ldC5zZi5qc3IxMDdjYWNoZS5DYWNoZTsKaW1wb3J0IG5ldC5zZi5qc3IxMDdjYWNoZS5DYWNoZVN0YXRpc3RpY3M7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQl9CgkJY2F0Y2ggKElPRXhjZXB0aW9uIGUpIHsKCQkJdGhyb3cgbmV3IFJ1bnRpbWVFeGNlcHRpb24oZSk7CgkJfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>&quot;</last-search>
+      <last-search>1</last-search>
       <last-offset />
-      <last-pattern>&quot;</last-pattern>
-      <last-replace />
-      <last-substitute>IF_UNTOUCHED</last-substitute>
+      <last-pattern>1</last-pattern>
+      <last-replace>3</last-replace>
+      <last-substitute>1</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">KCkgLT4g</entry>
-        <entry>).start</entry>
         <entry>finally</entry>
         <entry>current_span</entry>
         <entry>Executors.defaultThreadFactory().newThread(</entry>
@@ -1320,10 +1330,10 @@
         <entry>Multi</entry>
         <entry>IF_UNTOUCHED</entry>
         <entry>&quot;</entry>
+        <entry>Serial</entry>
+        <entry>1</entry>
       </history-search>
       <history-cmd>
-        <entry>s/;/);</entry>
-        <entry>%s/es.submit(/Executors.defaultThreadFactory().newThread(</entry>
         <entry>%s/es.submit(\(.*\);/Executors.defaultThreadFactory().newThread(\1/).start();</entry>
         <entry>%s/es.submit(\(.*\);/Executors.defaultThreadFactory().newThread(\1).start();</entry>
         <entry>%s/es.submit(\(.*\);/Executors.defaultThreadFactory().newThread(\1.start();</entry>
@@ -1341,6 +1351,8 @@
         <entry>q</entry>
         <entry>s/IF_UNTOUCHED//g</entry>
         <entry>wq</entry>
+        <entry>s/1/2/g</entry>
+        <entry>s/1/3/g</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
