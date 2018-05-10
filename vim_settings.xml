@@ -689,6 +689,12 @@
         <mark key="^" line="36" column="26" />
         <mark key="." line="36" column="26" />
       </file>
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/realtime/RealtimeTask.java" timestamp="1525987661652">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="80" column="0" />
+        <mark key="]" line="80" column="0" />
+        <mark key="." line="80" column="0" />
+      </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/ratchet/translate/BooleanTranslatorFactory.java" timestamp="1518747113754">
         <mark key="[" line="12" column="15" />
         <mark key="]" line="12" column="21" />
@@ -1220,7 +1226,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="187" column="66" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/utils/MetaMemcacheService.java" />
       <jump line="182" column="8" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/utils/MetaMemcacheService.java" />
       <jump line="177" column="8" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/utils/MetaMemcacheService.java" />
       <jump line="172" column="8" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/utils/MetaMemcacheService.java" />
@@ -1320,13 +1325,14 @@
       <jump line="171" column="27" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/utils/RedisMemcacheService.java" />
       <jump line="515" column="0" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/utils/RedisMemcacheService.java" />
       <jump line="121" column="27" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/utils/RedisMemcacheService.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/realtime/RealtimeTask.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>WARNING</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>WARNING</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
         <text>pool.getResource</text>
@@ -1335,7 +1341,7 @@
         <text encoding="base64">CQlSZWRpc01lbWNhY2hlU2VydmljZSBzZXJ2aWNlID0gUmVkaXNNZW1jYWNoZVNlcnZpY2VGYWN0b3J5LklOU1RBTkNFLmdldE1lbWNhY2hlU2VydmljZSgiIik7CgkJdHJ5IChKZWRpcyBqID0gc2VydmljZS5nZXRSZXNvdXJjZSgpKSB7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQl0cnkgKEplZGlzIGogPSBSZWRpc01lbWNhY2hlU2VydmljZUZhY3RvcnkuSU5TVEFOQ0UuZ2V0UG9vbCgpLmdldFJlc291cmNlKCkpIHsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">CQl0cnkgKEplZGlzIGogPSBSZWRpc01lbWNhY2hlU2VydmljZUZhY3RvcnkuSU5TVEFOQ0UuZ2V0UG9vbCgpLmdldFJlc291cmNlKCkpIHsK</text>
@@ -1344,22 +1350,22 @@
         <text encoding="base64">CQl0cnkgKEplZGlzIGogPSBSZWRpc01lbWNhY2hlU2VydmljZUZhY3RvcnkuSU5TVEFOQ0UuZ2V0UG9vbCgpLmdldFJlc291cmNlKCkpIHsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmF4Lm5ldC5zc2wuU1NMU29ja2V0RmFjdG9yeTsK</text>
+        <text encoding="base64">CQl0cnkgKEplZGlzIGogPSBSZWRpc01lbWNhY2hlU2VydmljZUZhY3RvcnkuSU5TVEFOQ0UuZ2V0UG9vbCgpLmdldFJlc291cmNlKCkpIHsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGphdmF4Lm5ldC5zc2wuU1NMU29ja2V0RmFjdG9yeTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJU1NMQ29udGV4dCBjb250ZXh0ID0gU1NMQ29udGV4dC5nZXRJbnN0YW5jZSgiVExTIik7CgkJCWNvbnRleHQuaW5pdChrZXlNYW5hZ2VycywgbnVsbCwgbnVsbCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJU1NMU29ja2V0RmFjdG9yeSBzb2NrZXRGYWN0b3J5ID0gY29udGV4dC5nZXRTb2NrZXRGYWN0b3J5KCk7Cg==</text>
+        <text encoding="base64">CQkJU1NMQ29udGV4dCBjb250ZXh0ID0gU1NMQ29udGV4dC5nZXRJbnN0YW5jZSgiVExTIik7CgkJCWNvbnRleHQuaW5pdChrZXlNYW5hZ2VycywgbnVsbCwgbnVsbCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQl0aHJvdyBuZXcgUnVuCg==</text>
+        <text encoding="base64">CQkJU1NMU29ja2V0RmFjdG9yeSBzb2NrZXRGYWN0b3J5ID0gY29udGV4dC5nZXRTb2NrZXRGYWN0b3J5KCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJCQlFcnJvckFnZ3JlZ2F0b3IucmVjb3JkQ3VzdG9tRXJyb3IoZSk7Cg==</text>
+        <text encoding="base64">CQl0aHJvdyBuZXcgUnVuCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
