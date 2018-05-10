@@ -15,11 +15,11 @@
         <mark key="." line="50" column="0" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataupdaters/updaters/WorkflowEntityUpdater.java" timestamp="1525899984780" />
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/tracking/TrackedViewMemcacheHandler.java" timestamp="1524258145251">
-        <mark key="[" line="160" column="35" />
-        <mark key="]" line="160" column="41" />
-        <mark key="^" line="160" column="41" />
-        <mark key="." line="160" column="41" />
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/tracking/TrackedViewMemcacheHandler.java" timestamp="1525917431661">
+        <mark key="[" line="29" column="19" />
+        <mark key="]" line="34" column="41" />
+        <mark key="." line="34" column="41" />
+        <mark key="^" line="34" column="41" />
       </file>
       <file name="/a.dummy" timestamp="1525895478924">
         <mark key="[" line="0" column="0" />
@@ -1292,53 +1292,53 @@
       <jump line="43" column="31" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/utils/RedisMemcacheService.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>contains</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQkJCWxhc3RTaXplID0gdHJhY2tlZFZpZXdTZXQuc2l6ZSgpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>contains</text>
+        <text encoding="base64">ID0gdHJhY2tlZFZpZXdTZXQuc2l6ZSgp</text>
       </register>
       <register name="/" type="4">
-        <text>ONE</text>
+        <text>;</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQkiICByZWRpcy5jYWxsKCdzZXQnLCBLRVlTW2kgKiAyIC0gMV0sIHRvc3RyaW5nKHYpKVxuIiArCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkibG9jYWwga2V5ID0gS0VZU1sxXVxuIiArCgkJImxvY2FsIGNhc0tleSA9IEtFWVNbMl1cbiIgKwoJCSJsb2NhbCB2YWx1ZSA9IHRvc3RyaW5nKEFSR1ZbMV0pXG4iICsKCQkibG9jYWwgZXhwaXJhdGlvbiA9IHRvbnVtYmVyKEFSR1ZbMl0pXG4iICsKCQkicmVkaXMuY2FsbCgnc2V0Jywga2V5LCB2YWx1ZSlcbiIgKwoJCSJyZWRpcy5jYWxsKCdpbmNyJywgY2FzS2V5KVxuIiArCgkJIiAgaWYgKDAgfj0gZXhwaXJhdGlvbiBhbmQgbmlsIH49IGV4cGlyYXRpb24pXG4iICsKCQkiICB0aGVuXG4iICsKCQkiICAgIHJlZGlzLmNhbGwoJ2V4cGlyZScsIGtleSwgZXhwaXJhdGlvbilcbiIgKwoJCSIgICAgcmVkaXMuY2FsbCgnZXhwaXJlJywgY2FzS2V5LCBleHBpcmF0aW9uKVxuIiArCgkJIiAgZW5kXG4iICsKCQkicmV0dXJuIHRydWUiOwo=</text>
+        <text encoding="base64">CQkJCWxhc3RTaXplID0gdHJhY2tlZFZpZXdTZXQuc2l6ZSgpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCXRyYWNrZWRWaWV3U2V0LmFkZEFsbCg7CgkJCX0gd2hpbGUgKGxhc3RTaXplICE9IHRyYWNrZWRWaWV3U2V0LnNpemUoKSk7Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text>Collections.emptyList(</text>
+      <register name="3" type="2">
+        <text encoding="base64">CQkJCWxhc3RTaXplID0gdHJhY2tlZFZpZXdTZXQuc2l6ZSgpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQljYXRjaCAoVGhyb3dhYmxlIHQpIHsKCQkJLy8gVE9ETyBidWJibGUgZXhjZXB0aW9uCgkJCXJldHVybiBDb2xsZWN0aW9ucy5lbXB0eVNldCgpOwoJCX0K</text>
+        <text encoding="base64">CQkJZG8gewo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJCXJldHVybiBtYXAua2V5U2V0KCk7Cg==</text>
+        <text encoding="base64">CQkJaW50IGxhc3RTaXplOwo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">CQkJCWplZGlzLm1zZXQoKTsK</text>
+      <register name="6" type="4">
+        <text encoding="base64">ID0gdHJhY2tlZFZpZXdTZXQuc2l6ZSgp</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJCQlwdXQoZXMuZ2V0S2V5KCksIGVzLmdldFZhbHVlKCkpOwo=</text>
+        <text encoding="base64">CQkJCQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkvLyBUT0RPIGJhdGNoaWZ5Cg==</text>
+        <text encoding="base64">CQkJPSBqLnNwb3AoY3JlYXRlTWVtY2FjaGVLZXkoZ3VpZCksIDEwMDApOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQl0cnkgewo=</text>
+        <text encoding="base64">CQkibG9jYWwga2V5ID0gS0VZU1sxXVxuIiArCgkJImxvY2FsIGNhc0tleSA9IEtFWVNbMl1cbiIgKwoJCSJsb2NhbCB2YWx1ZSA9IHRvc3RyaW5nKEFSR1ZbMV0pXG4iICsKCQkibG9jYWwgZXhwaXJhdGlvbiA9IHRvbnVtYmVyKEFSR1ZbMl0pXG4iICsKCQkicmVkaXMuY2FsbCgnc2V0Jywga2V5LCB2YWx1ZSlcbiIgKwoJCSJyZWRpcy5jYWxsKCdpbmNyJywgY2FzS2V5KVxuIiArCgkJIiAgaWYgKDAgfj0gZXhwaXJhdGlvbiBhbmQgbmlsIH49IGV4cGlyYXRpb24pXG4iICsKCQkiICB0aGVuXG4iICsKCQkiICAgIHJlZGlzLmNhbGwoJ2V4cGlyZScsIGtleSwgZXhwaXJhdGlvbilcbiIgKwoJCSIgICAgcmVkaXMuY2FsbCgnZXhwaXJlJywgY2FzS2V5LCBleHBpcmF0aW9uKVxuIiArCgkJIiAgZW5kXG4iICsKCQkicmV0dXJuIHRydWUiOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>ONE</last-search>
+      <last-search>;</last-search>
       <last-offset />
-      <last-pattern>ONE</last-pattern>
+      <last-pattern>;</last-pattern>
       <last-replace>ALL</last-replace>
       <last-substitute>ONE</last-substitute>
       <last-dir>1</last-dir>
@@ -1346,7 +1346,6 @@
     </search>
     <history>
       <history-search>
-        <entry>mu</entry>
         <entry>multi</entry>
         <entry>Multi</entry>
         <entry>IF_UNTOUCHED</entry>
@@ -1366,6 +1365,7 @@
         <entry encoding="base64">ID09</entry>
         <entry>)</entry>
         <entry>ONE</entry>
+        <entry>;</entry>
       </history-search>
       <history-cmd>
         <entry>%s/.start()//</entry>
