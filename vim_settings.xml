@@ -53,12 +53,12 @@
         <mark key="." line="96" column="20" />
         <mark key="^" line="96" column="20" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/DAO.java" timestamp="1525974168539">
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/DAO.java" timestamp="1525975666609">
         <mark key="'" line="136" column="57" />
-        <mark key="[" line="2344" column="28" />
-        <mark key="]" line="2348" column="32" />
-        <mark key="." line="2348" column="32" />
-        <mark key="^" line="2348" column="32" />
+        <mark key="[" line="2344" column="90" />
+        <mark key="]" line="2347" column="13" />
+        <mark key="." line="2347" column="13" />
+        <mark key="^" line="2347" column="13" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerSync-war/src/main/webapp/WEB-INF/web.xml" timestamp="1525474226563">
         <mark key="[" line="28" column="0" />
@@ -1019,11 +1019,10 @@
         <mark key="." line="14" column="12" />
         <mark key="^" line="20" column="58" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/utils/RedisMemcacheServiceFactory.java" timestamp="1525910950755">
-        <mark key="[" line="26" column="35" />
-        <mark key="]" line="27" column="9" />
-        <mark key="^" line="27" column="9" />
-        <mark key="." line="27" column="9" />
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/utils/RedisMemcacheServiceFactory.java" timestamp="1525975443595">
+        <mark key="[" line="79" column="0" />
+        <mark key="]" line="79" column="0" />
+        <mark key="." line="79" column="0" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/rewardly/mailfoo/unittests/Entities/Complex.java" timestamp="1519247043888">
         <mark key="[" line="20" column="23" />
@@ -1171,12 +1170,12 @@
         <mark key="." line="92" column="31" />
         <mark key="^" line="92" column="31" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/utils/RedisMemcacheService.java" timestamp="1525912945590">
-        <mark key="'" line="43" column="31" />
-        <mark key="[" line="43" column="26" />
-        <mark key="]" line="43" column="31" />
-        <mark key="." line="43" column="31" />
-        <mark key="^" line="43" column="31" />
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/utils/RedisMemcacheService.java" timestamp="1525976093832">
+        <mark key="'" line="121" column="27" />
+        <mark key="[" line="120" column="22" />
+        <mark key="]" line="121" column="27" />
+        <mark key="." line="121" column="27" />
+        <mark key="^" line="121" column="27" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/ratchet/Metadata.java" timestamp="1524696409497">
         <mark key="[" line="118" column="24" />
@@ -1203,9 +1202,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="23" column="34" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/utils/MetaMemcacheService.java" />
-      <jump line="16" column="0" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/utils/MetaMemcacheService.java" />
-      <jump line="27" column="0" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/utils/MetaMemcacheService.java" />
       <jump line="187" column="66" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/utils/MetaMemcacheService.java" />
       <jump line="182" column="8" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/utils/MetaMemcacheService.java" />
       <jump line="177" column="8" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/utils/MetaMemcacheService.java" />
@@ -1303,63 +1299,65 @@
       <jump line="2341" column="57" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/DAO.java" />
       <jump line="135" column="59" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/DAO.java" />
       <jump line="136" column="57" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/DAO.java" />
+      <jump line="171" column="27" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/utils/RedisMemcacheService.java" />
+      <jump line="515" column="0" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/utils/RedisMemcacheService.java" />
+      <jump line="121" column="27" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/utils/RedisMemcacheService.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>e</text>
+        <text>5</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>5</text>
       </register>
       <register name="/" type="4">
-        <text>getEn</text>
+        <text>pool.getResource</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQkiICByZWRpcy5jYWxsKCdzZXQnLCBLRVlTW2kgKiAyIC0gMV0sIHRvc3RyaW5nKHYpKVxuIiArCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQlwLnN0YXJ0KCJub3RpZmljYXRpb25zIik7Cg==</text>
+        <text encoding="base64">CQl0aHJvdyBuZXcgUnVuCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJcmV0dXJuIG51bGw7Cg==</text>
+        <text encoding="base64">CQkJCQlFcnJvckFnZ3JlZ2F0b3IucmVjb3JkQ3VzdG9tRXJyb3IoZSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJfQo=</text>
+        <text encoding="base64">CQkJCWJhY2tvZmYgKj0gMjsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJdHJ5IHsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJY2F0Y2ggKEludGVycnVwdGVkRXhjZXB0aW9uIGUpIHsKCQkJCXJldHVybiBudWxsOwoJCQl9Cg==</text>
+        <text encoding="base64">CQl9IGNhdGNoIChKZWRpc0Nvbm5lY3Rpb25FeGNlcHRpb24gZSApIHsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CXB1YmxpYyBzdGF0aWMgVHJhY2tlZFRocmVhZCAoS2V5PFRyYWNrZWRUaHJlYWQ+IHRyYWNrZWRUaHJlYWRLZXkpIHsK</text>
+        <text encoding="base64">CQkJfQoK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQlhc3NlcnQgdHQgIT0gbnVsbDsK</text>
+        <text encoding="base64">CQl9IGNhdGNoIChKZWRpc0Nvbm5lY3Rpb25FeGNlcHRpb24gZSApIHsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJCWxhc3RTaXplID0gdHJhY2tlZFZpZXdTZXQuc2l6ZSgpOwo=</text>
+        <text encoding="base64">CQl0cnkgewo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJCXRyYWNrZWRWaWV3U2V0LmFkZEFsbCg7CgkJCX0gd2hpbGUgKGxhc3RTaXplICE9IHRyYWNrZWRWaWV3U2V0LnNpemUoKSk7Cg==</text>
+        <text encoding="base64">CSAqIEBwYXJhbSBlbnRpdHlLZXkKCSAqIEBwYXJhbSA8VD4KCSAqIEByZXR1cm4K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>getEn</last-search>
+      <last-search>pool.getResource</last-search>
       <last-offset />
-      <last-pattern>getEn</last-pattern>
-      <last-replace>ALL</last-replace>
-      <last-substitute>ONE</last-substitute>
+      <last-pattern>pool.getResource</last-pattern>
+      <last-replace>getResource</last-replace>
+      <last-substitute>pool.getResource</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>Multi</entry>
         <entry>IF_UNTOUCHED</entry>
         <entry>Serial</entry>
         <entry>get</entry>
@@ -1379,9 +1377,9 @@
         <entry>ONE</entry>
         <entry>;</entry>
         <entry>getEn</entry>
+        <entry>pool.getResource</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/.start()//</entry>
         <entry>%s/catch (Throwable ignore) {/g</entry>
         <entry>%s/catch (Throwable ignore) {/</entry>
         <entry>%s/Thread.currentThread().interrupt();//</entry>
@@ -1400,6 +1398,7 @@
         <entry encoding="base64">JzwsJz5zL2Fzc2VydCAvQXNzZXJ0LmFzc2VydEVxdWFscyg=</entry>
         <entry encoding="base64">JzwsJz5zLyA9PS8s</entry>
         <entry encoding="base64">JzwsJz5zL09ORS9BTEwvZw==</entry>
+        <entry encoding="base64">JzwsJz5zL3Bvb2wuZ2V0UmVzb3VyY2UvZ2V0UmVzb3VyY2UvZw==</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
