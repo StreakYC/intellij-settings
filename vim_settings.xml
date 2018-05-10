@@ -53,7 +53,13 @@
         <mark key="." line="96" column="20" />
         <mark key="^" line="96" column="20" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/DAO.java" timestamp="1525899839817" />
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/DAO.java" timestamp="1525974168539">
+        <mark key="'" line="136" column="57" />
+        <mark key="[" line="2344" column="28" />
+        <mark key="]" line="2348" column="32" />
+        <mark key="." line="2348" column="32" />
+        <mark key="^" line="2348" column="32" />
+      </file>
       <file name="$USER_HOME$/src/MailFoo/ServerSync-war/src/main/webapp/WEB-INF/web.xml" timestamp="1525474226563">
         <mark key="[" line="28" column="0" />
         <mark key="]" line="28" column="0" />
@@ -1121,6 +1127,13 @@
         <mark key="." line="23" column="0" />
         <mark key="^" line="35" column="52" />
       </file>
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/tracking/StoreTrackedViewTask.java" timestamp="1525974281340">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="175" column="15" />
+        <mark key="]" line="174" column="54" />
+        <mark key="." line="174" column="54" />
+        <mark key="^" line="174" column="54" />
+      </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/ratchet/translate/StringTranslatorFactory.java" timestamp="1518747102474">
         <mark key="[" line="12" column="15" />
         <mark key="]" line="12" column="20" />
@@ -1190,10 +1203,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="347" column="29" filename="$MAVEN_REPOSITORY$/com/googlecode/objectify/objectify/5.1.17/objectify-5.1.17-sources.jar!/com/googlecode/objectify/cache/EntityMemcache.java" />
-      <jump line="291" column="74" filename="$MAVEN_REPOSITORY$/com/googlecode/objectify/objectify/5.1.17/objectify-5.1.17-sources.jar!/com/googlecode/objectify/cache/EntityMemcache.java" />
-      <jump line="106" column="28" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/utils/RedisMemcacheService.java" />
-      <jump line="46" column="28" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/utils/RedisMemcacheService.java" />
       <jump line="23" column="34" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/utils/MetaMemcacheService.java" />
       <jump line="16" column="0" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/utils/MetaMemcacheService.java" />
       <jump line="27" column="0" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/utils/MetaMemcacheService.java" />
@@ -1290,55 +1299,59 @@
       <jump line="267" column="43" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/utils/RedisMemcacheService.java" />
       <jump line="40" column="52" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/utils/RedisMemcacheService.java" />
       <jump line="43" column="31" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/utils/RedisMemcacheService.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/tracking/StoreTrackedViewTask.java" />
+      <jump line="2341" column="57" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/DAO.java" />
+      <jump line="135" column="59" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/DAO.java" />
+      <jump line="136" column="57" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/DAO.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQkJCWxhc3RTaXplID0gdHJhY2tlZFZpZXdTZXQuc2l6ZSgpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>e</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ID0gdHJhY2tlZFZpZXdTZXQuc2l6ZSgp</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
-        <text>;</text>
+        <text>getEn</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQkiICByZWRpcy5jYWxsKCdzZXQnLCBLRVlTW2kgKiAyIC0gMV0sIHRvc3RyaW5nKHYpKVxuIiArCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJCWxhc3RTaXplID0gdHJhY2tlZFZpZXdTZXQuc2l6ZSgpOwo=</text>
+        <text encoding="base64">CQlwLnN0YXJ0KCJub3RpZmljYXRpb25zIik7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJCXRyYWNrZWRWaWV3U2V0LmFkZEFsbCg7CgkJCX0gd2hpbGUgKGxhc3RTaXplICE9IHRyYWNrZWRWaWV3U2V0LnNpemUoKSk7Cg==</text>
+        <text encoding="base64">CQkJcmV0dXJuIG51bGw7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJCWxhc3RTaXplID0gdHJhY2tlZFZpZXdTZXQuc2l6ZSgpOwo=</text>
+        <text encoding="base64">CQkJfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJZG8gewo=</text>
+        <text encoding="base64">CQkJdHJ5IHsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJaW50IGxhc3RTaXplOwo=</text>
+        <text encoding="base64">CQkJY2F0Y2ggKEludGVycnVwdGVkRXhjZXB0aW9uIGUpIHsKCQkJCXJldHVybiBudWxsOwoJCQl9Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">ID0gdHJhY2tlZFZpZXdTZXQuc2l6ZSgp</text>
+      <register name="6" type="2">
+        <text encoding="base64">CXB1YmxpYyBzdGF0aWMgVHJhY2tlZFRocmVhZCAoS2V5PFRyYWNrZWRUaHJlYWQ+IHRyYWNrZWRUaHJlYWRLZXkpIHsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJCQo=</text>
+        <text encoding="base64">CQlhc3NlcnQgdHQgIT0gbnVsbDsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJPSBqLnNwb3AoY3JlYXRlTWVtY2FjaGVLZXkoZ3VpZCksIDEwMDApOwo=</text>
+        <text encoding="base64">CQkJCWxhc3RTaXplID0gdHJhY2tlZFZpZXdTZXQuc2l6ZSgpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkibG9jYWwga2V5ID0gS0VZU1sxXVxuIiArCgkJImxvY2FsIGNhc0tleSA9IEtFWVNbMl1cbiIgKwoJCSJsb2NhbCB2YWx1ZSA9IHRvc3RyaW5nKEFSR1ZbMV0pXG4iICsKCQkibG9jYWwgZXhwaXJhdGlvbiA9IHRvbnVtYmVyKEFSR1ZbMl0pXG4iICsKCQkicmVkaXMuY2FsbCgnc2V0Jywga2V5LCB2YWx1ZSlcbiIgKwoJCSJyZWRpcy5jYWxsKCdpbmNyJywgY2FzS2V5KVxuIiArCgkJIiAgaWYgKDAgfj0gZXhwaXJhdGlvbiBhbmQgbmlsIH49IGV4cGlyYXRpb24pXG4iICsKCQkiICB0aGVuXG4iICsKCQkiICAgIHJlZGlzLmNhbGwoJ2V4cGlyZScsIGtleSwgZXhwaXJhdGlvbilcbiIgKwoJCSIgICAgcmVkaXMuY2FsbCgnZXhwaXJlJywgY2FzS2V5LCBleHBpcmF0aW9uKVxuIiArCgkJIiAgZW5kXG4iICsKCQkicmV0dXJuIHRydWUiOwo=</text>
+        <text encoding="base64">CQkJCXRyYWNrZWRWaWV3U2V0LmFkZEFsbCg7CgkJCX0gd2hpbGUgKGxhc3RTaXplICE9IHRyYWNrZWRWaWV3U2V0LnNpemUoKSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>;</last-search>
+      <last-search>getEn</last-search>
       <last-offset />
-      <last-pattern>;</last-pattern>
+      <last-pattern>getEn</last-pattern>
       <last-replace>ALL</last-replace>
       <last-substitute>ONE</last-substitute>
       <last-dir>1</last-dir>
@@ -1346,7 +1359,6 @@
     </search>
     <history>
       <history-search>
-        <entry>multi</entry>
         <entry>Multi</entry>
         <entry>IF_UNTOUCHED</entry>
         <entry>Serial</entry>
@@ -1366,6 +1378,7 @@
         <entry>)</entry>
         <entry>ONE</entry>
         <entry>;</entry>
+        <entry>getEn</entry>
       </history-search>
       <history-cmd>
         <entry>%s/.start()//</entry>
