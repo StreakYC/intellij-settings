@@ -823,11 +823,11 @@
         <mark key="." line="75" column="51" />
         <mark key="^" line="75" column="51" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/utils/ConfiguredMemecacheService.java" timestamp="1526071297681">
-        <mark key="[" line="18" column="90" />
-        <mark key="]" line="14" column="50" />
-        <mark key="." line="14" column="50" />
-        <mark key="^" line="14" column="50" />
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/utils/ConfiguredMemecacheService.java" timestamp="1526072365704">
+        <mark key="[" line="29" column="8" />
+        <mark key="]" line="29" column="8" />
+        <mark key="." line="29" column="8" />
+        <mark key="^" line="25" column="34" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataupdaters/creators/UnifiedApprovalCreator.java" timestamp="1522443230491">
         <mark key="[" line="58" column="21" />
@@ -1145,7 +1145,7 @@
         <mark key="." line="174" column="54" />
         <mark key="^" line="174" column="54" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/utils/ConfiguredMemcacheServiceFactory.java" timestamp="1526071263965">
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/utils/ConfiguredMemcacheServiceFactory.java" timestamp="1526072307153">
         <mark key="[" line="8" column="13" />
         <mark key="]" line="11" column="0" />
         <mark key="^" line="11" column="0" />
@@ -1315,10 +1315,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">TWVtY2FjaGVTZXJ2aWNlIA==</text>
+        <text>return ConfiguredMemcacheServiceFactory;</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">TWVtY2FjaGVTZXJ2aWNlIA==</text>
+        <text>return ConfiguredMemcacheServiceFactory;</text>
       </register>
       <register name="/" type="4">
         <text>pool.getResource</text>
@@ -1327,31 +1327,31 @@
         <text encoding="base64">CQlSZWRpc01lbWNhY2hlU2VydmljZSBzZXJ2aWNlID0gUmVkaXNNZW1jYWNoZVNlcnZpY2VGYWN0b3J5LklOU1RBTkNFLmdldE1lbWNhY2hlU2VydmljZSgiIik7CgkJdHJ5IChKZWRpcyBqID0gc2VydmljZS5nZXRSZXNvdXJjZSgpKSB7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CU1lbWNhY2hlU2VydmljZQo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5nb29nbGUuYXBwZW5naW5lLmFwaS5tZW1jYWNoZS5NZW1jYWNoZVNlcnZpY2VGYWN0b3J5Owo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5nb29nbGUuYXBwZW5naW5lLmFwaS5tZW1jYWNoZS5NZW1jYWNoZVNlcnZpY2U7Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">CQkJCQlMb2dnZXIubG9nKHJldC5nZXQoa2V5KS5nZXRWYWx1ZSgpLnRvU3RyaW5nKCkpOwo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">CQkJCQl9Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">CQkJCQlpZiAoIk5FR0FUSVZFIi5lcXVhbHMocmV0LmdldChrZXkpLmdldFZhbHVlKCkudG9TdHJpbmcoKSkpIHsK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">CQkJCQkJcmV0LnJlbW92ZGUoa2V5KTsK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">CXByaXZhdGUgZmluYWwgbWVtY2FjaGVTZXJ2aWNlOwo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">CU1lbWNhY2hlU2VydmljZQo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">aW1wb3J0IGNvbS5nb29nbGUuYXBwZW5naW5lLmFwaS5tZW1jYWNoZS5NZW1jYWNoZVNlcnZpY2VGYWN0b3J5Owo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">aW1wb3J0IGNvbS5nb29nbGUuYXBwZW5naW5lLmFwaS5tZW1jYWNoZS5NZW1jYWNoZVNlcnZpY2U7Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">CQkJCQlMb2dnZXIubG9nKHJldC5nZXQoa2V5KS5nZXRWYWx1ZSgpLnRvU3RyaW5nKCkpOwo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">CQkJCQl9Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">CQkJCQlpZiAoIk5FR0FUSVZFIi5lcXVhbHMocmV0LmdldChrZXkpLmdldFZhbHVlKCkudG9TdHJpbmcoKSkpIHsK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">CQl0cnkgKEplZGlzIGogPSBSZWRpc01lbWNhY2hlU2VydmljZUZhY3RvcnkuSU5TVEFOQ0UuZ2V0UG9vbCgpLmdldFJlc291cmNlKCkpIHsK</text>
+        <text encoding="base64">CQkJCQkJcmV0LnJlbW92ZGUoa2V5KTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
