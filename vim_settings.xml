@@ -617,10 +617,10 @@
         <mark key="^" line="16" column="0" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1525990026964">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="/fragment.java" timestamp="1526084060032">
+        <mark key="[" line="0" column="65" />
+        <mark key="]" line="0" column="65" />
+        <mark key="." line="0" column="65" />
         <mark key="^" line="0" column="2" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/rewardly/mailfoo/unittests/MaeRemoteTest.java" timestamp="1522451720511">
@@ -1027,11 +1027,11 @@
         <mark key="." line="174" column="54" />
         <mark key="^" line="174" column="54" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/utils/ConfiguredMemcacheServiceFactory.java" timestamp="1526082093205">
-        <mark key="[" line="33" column="124" />
-        <mark key="]" line="36" column="4" />
-        <mark key="." line="36" column="4" />
-        <mark key="^" line="36" column="4" />
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/utils/ConfiguredMemcacheServiceFactory.java" timestamp="1526084527513">
+        <mark key="[" line="35" column="18" />
+        <mark key="]" line="35" column="50" />
+        <mark key="." line="35" column="50" />
+        <mark key="^" line="35" column="50" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/ratchet/translate/StringTranslatorFactory.java" timestamp="1518747102474">
         <mark key="[" line="12" column="15" />
@@ -1187,10 +1187,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>namespace</text>
+        <text>NotImplementedException</text>
       </register>
       <register name="-" type="4">
-        <text>namespace</text>
+        <text>NotImplementedException</text>
       </register>
       <register name="/" type="4">
         <text>=</text>
@@ -1199,31 +1199,31 @@
         <text encoding="base64">CQlzZXJ2aWNlc0Zvcih2YWx1ZXMua2V5U2V0KCkpLmZvckVhY2goKHR5cGUsIGtleVN1YnNldCkgLT4gc2VydmljZXMuZ2V0KHR5cGUpLnB1dEFsbCgKCQkJa2V5U3Vic2V0LnN0cmVhbSgpLmNvbGxlY3QoQ29sbGVjdG9ycy50b01hcChGdW5jdGlvbi5pZGVudGl0eSgpLCB2YWx1ZXM6OmdldCkpLCBleHBpcmVzKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5EYXRlOwo=</text>
+        <text encoding="base64">aW1wb3J0IHN1bi5yZWZsZWN0LmdlbmVyaWNzLnJlZmxlY3RpdmVPYmplY3RzLk5vdEltcGxlbWVudGVkRXhjZXB0aW9uOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQlzeW5jaHJvbml6ZWQgKCkK</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">CXB1YmxpYyBzdGF0aWMgdm9pZCBtYWluKFN0cmluZ1tdIGFyZ3VtZW50cykgewoJCVN5c3RlbS5vdXQucHJpbnRsbigibW9vIik7CgkJbmV3IE9meVJlcXVlc3RUaHJlYWRGYWN0b3J5KCJtb28iKS5uZXdUaHJlYWQoQ29uZmlndXJlZE1lbWNhY2hlU2VydmljZUZhY3Rvcnk6OnVwZGF0ZUNvbmZpZykuc3RhcnQoKTsKCX0K</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">CTsK</text>
+        <text encoding="base64">CQl1cGRhdGVDb25maWcoKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5mdW5jdGlvbi5GdW5jdGlvbjsK</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5EYXRlOwo=</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">TWFwPFNFUlZJQ0VfVFlQRSwgTGlzdDxUPj4gcmV0IA==</text>
+      <register name="6" type="2">
+        <text encoding="base64">CQlzeW5jaHJvbml6ZWQgKCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJcmV0dXJuIHJldDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">TWFwPFNFUlZJQ0VfVFlQRSwgTGlzdDxUPj4gcmV0IA==</text>
+      <register name="8" type="2">
+        <text encoding="base64">CTsK</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">TWFwPFNFUlZJQ0VfVFlQRSwgVD4g</text>
+      <register name="9" type="2">
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5mdW5jdGlvbi5GdW5jdGlvbjsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
