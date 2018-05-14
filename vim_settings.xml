@@ -287,11 +287,10 @@
         <mark key="." line="58" column="42" />
         <mark key="^" line="58" column="42" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/utils/MemcacheServiceConfiguration.java" timestamp="1526334975812">
-        <mark key="[" line="11" column="84" />
-        <mark key="]" line="22" column="39" />
-        <mark key="^" line="22" column="39" />
-        <mark key="." line="22" column="39" />
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/utils/MemcacheServiceConfiguration.java" timestamp="1526338257052">
+        <mark key="[" line="40" column="15" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/ratchet/objectify/translate/KeyTranslator.java" timestamp="1524699356153">
         <mark key="[" line="164" column="4" />
@@ -451,11 +450,11 @@
         <mark key="." line="79" column="69" />
         <mark key="^" line="75" column="81" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/rewardly/mailfoo/unittests/ConfiguredMemcacheTest.java" timestamp="1526336644875">
-        <mark key="[" line="71" column="19" />
-        <mark key="]" line="71" column="19" />
-        <mark key="^" line="71" column="19" />
-        <mark key="." line="71" column="19" />
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/rewardly/mailfoo/unittests/ConfiguredMemcacheTest.java" timestamp="1526337538742">
+        <mark key="[" line="70" column="19" />
+        <mark key="]" line="70" column="19" />
+        <mark key="^" line="71" column="32" />
+        <mark key="." line="70" column="19" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/containers/src/main/java/com/streak/oneoff/ApiLb.java" timestamp="1522952625191">
         <mark key="[" line="36" column="14" />
@@ -1195,11 +1194,11 @@
       <jump line="12" column="4" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/utils/ScheduledMemcacheServiceConfiguration.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">KEtleTxXb3JrZmxvdz4pLmdldENsYXNzKCk=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IGphdmEubGFuZy5yZWZsZWN0LlR5cGU7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">KEtleTxXb3JrZmxvdz4pLmdldENsYXNzKCk=</text>
+        <text encoding="base64">a2xhc3Mg</text>
       </register>
       <register name="/" type="4">
         <text>)</text>
@@ -1208,31 +1207,31 @@
         <text encoding="base64">CWZpbmFsIHByaXZhdGUgTG9jYWxEYXRlVGltZSBzd2l0Y2hUaW1lOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJbmV3IEhhc2hNYXA8PigpCg==</text>
+        <text encoding="base64">aW1wb3J0IGphdmEubGFuZy5yZWZsZWN0LlR5cGU7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CXB1YmxpYyBlbnVtIFNFUlZJQ0VfVFlQRSB7TUVNQ0FDSEUsIFJFRElTfQo=</text>
+        <text encoding="base64">aW1wb3J0IGphdmEubGFuZy5yZWZsZWN0LlBhcmFtZXRlcml6ZWRUeXBlOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQl9Cg==</text>
+        <text encoding="base64">CQkJa2V5Lmtpbgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkoQ29uZmlndXJlZE1lbWNhY2hlU2VydmljZUZhY3RvcnkuY2xhc3MpIHsK</text>
+        <text encoding="base64">CQkJVHlwZSB0eXBlID0ga2V5LmdldENsYXNzKCkuZ2V0R2VuZXJpY0ludGVyZmFjZXMoKVswXTsKCQkJaWYgKCEodHlwZSBpbnN0YW5jZW9mIFBhcmFtZXRlcml6ZWRUeXBlKSkgewoJCQkJdGhyb3cgbmV3IFJ1bnRpbWVFeGNlcHRpb24oIk11c3QgYmUgcGFyYW1ldGVyaXplZCEgIiArIHR5cGUpOwoJCQl9CgkJCVBhcmFtZXRlcml6ZWRUeXBlIHB0ID0gKFBhcmFtZXRlcml6ZWRUeXBlKSB0eXBlOwoJCQlUeXBlW10gYXJndW1lbnRzID0gcHQuZ2V0QWN0dWFsVHlwZUFyZ3VtZW50cygpOwoJCQlpZiAoYXJndW1lbnRzLmxlbmd0aCAhPSAxKSB7CgkJCQl0aHJvdyBuZXcgUnVudGltZUV4Y2VwdGlvbigiTXVzdCBoYXZlIG9ubHkgb25lIGFyZ3VtZW50ISIpOwoJCQl9CgkJCUNsYXNzPD8+IGtsYXNzID0gYXJndW1lbnRzWzBdOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQlyZXR1cm4gY29uZmlndXJhdGlvbi5hY3RpdmVDb25maWd1cmF0aW9uKCk7Cg==</text>
+        <text encoding="base64">CQlPYmplY3Qga2V5dHlwZSA9IEtleSA8IFdvcmtmbG93ID47Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text>configuration.activeConfiguration(</text>
+      <register name="6" type="2">
+        <text encoding="base64">CQkJbmV3IEhhc2hNYXA8PigpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQl1cGRhdGVDb25maWcoKTsK</text>
+        <text encoding="base64">CXB1YmxpYyBlbnVtIFNFUlZJQ0VfVFlQRSB7TUVNQ0FDSEUsIFJFRElTfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkvLyBUT0RPIC0gdGhlIHRpY2svdG9jayBjYW4gc3RpbGwgaGFwcGVuLCBzbyBwdWxsIHRoYXQgb3V0LiBnYWdoLgo=</text>
+        <text encoding="base64">CQl9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CWZpbmFsIHByaXZhdGUgTG9jYWxEYXRlVGltZSBzd2l0Y2hUaW1lOwo=</text>
+        <text encoding="base64">CQkoQ29uZmlndXJlZE1lbWNhY2hlU2VydmljZUZhY3RvcnkuY2xhc3MpIHsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
