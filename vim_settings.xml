@@ -15,6 +15,7 @@
         <mark key="." line="43" column="34" />
         <mark key="^" line="43" column="34" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/google/appengine/appengine-api-1.0-sdk/1.9.57/appengine-api-1.0-sdk-1.9.57.jar!/com/google/appengine/api/memcache/MemcacheSerialization.class" timestamp="1526425611993" />
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/Workflow.java" timestamp="1522954691780">
         <mark key="[" line="853" column="0" />
         <mark key="]" line="853" column="0" />
@@ -456,7 +457,7 @@
         <mark key="." line="79" column="69" />
         <mark key="^" line="75" column="81" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/rewardly/mailfoo/unittests/ConfiguredMemcacheTest.java" timestamp="1526409964596">
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/rewardly/mailfoo/unittests/ConfiguredMemcacheTest.java" timestamp="1526426827482">
         <mark key="[" line="70" column="97" />
         <mark key="]" line="70" column="94" />
         <mark key="^" line="70" column="94" />
@@ -944,7 +945,7 @@
         <mark key="." line="174" column="54" />
         <mark key="^" line="174" column="54" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/utils/ConfiguredMemcacheServiceFactory.java" timestamp="1526408302584">
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/utils/ConfiguredMemcacheServiceFactory.java" timestamp="1526426883438">
         <mark key="[" line="27" column="41" />
         <mark key="]" line="29" column="43" />
         <mark key="." line="29" column="43" />
@@ -1030,6 +1031,13 @@
         <mark key="." line="13" column="0" />
         <mark key="^" line="223" column="66" />
       </file>
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/utils/RemoteAccess.java" timestamp="1526427179330">
+        <mark key="'" line="147" column="16" />
+        <mark key="[" line="129" column="0" />
+        <mark key="]" line="129" column="0" />
+        <mark key="^" line="147" column="16" />
+        <mark key="." line="129" column="0" />
+      </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/ratchet/SchemaWriter.java" timestamp="1524697076564">
         <mark key="[" line="63" column="27" />
         <mark key="]" line="68" column="13" />
@@ -1066,12 +1074,12 @@
         <mark key="." line="92" column="31" />
         <mark key="^" line="92" column="31" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/utils/RedisMemcacheService.java" timestamp="1526421049813">
-        <mark key="'" line="264" column="0" />
-        <mark key="[" line="505" column="0" />
-        <mark key="]" line="505" column="0" />
-        <mark key="." line="505" column="0" />
-        <mark key="^" line="432" column="72" />
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/utils/RedisMemcacheService.java" timestamp="1526426758500">
+        <mark key="'" line="496" column="35" />
+        <mark key="[" line="444" column="15" />
+        <mark key="]" line="436" column="33" />
+        <mark key="^" line="436" column="33" />
+        <mark key="." line="436" column="33" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/ratchet/translate/BooleanTranslatorFactory.java" timestamp="1518747113754">
         <mark key="[" line="12" column="15" />
@@ -1111,11 +1119,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="127" column="8" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/utils/MetaMemcacheService.java" />
-      <jump line="122" column="8" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/utils/MetaMemcacheService.java" />
-      <jump line="117" column="8" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/utils/MetaMemcacheService.java" />
-      <jump line="112" column="8" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/utils/MetaMemcacheService.java" />
-      <jump line="107" column="8" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/utils/MetaMemcacheService.java" />
       <jump line="101" column="8" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/utils/MetaMemcacheService.java" />
       <jump line="96" column="8" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/utils/MetaMemcacheService.java" />
       <jump line="89" column="8" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/utils/MetaMemcacheService.java" />
@@ -1211,55 +1214,60 @@
       <jump line="250" column="82" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/api/AuthFilter.java" />
       <jump line="134" column="82" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/api/AuthFilter.java" />
       <jump line="223" column="68" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/api/AuthFilter.java" />
+      <jump line="272" column="48" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/utils/RedisMemcacheService.java" />
+      <jump line="304" column="43" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/utils/RedisMemcacheService.java" />
+      <jump line="337" column="43" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/utils/RedisMemcacheService.java" />
+      <jump line="496" column="35" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/utils/RedisMemcacheService.java" />
+      <jump line="149" column="16" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/utils/RemoteAccess.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>INFO</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>INFO</text>
+        <text>REDIS</text>
       </register>
       <register name="/" type="4">
-        <text>INSTAN</text>
+        <text>IdentifiableValueImpl</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQlNZW1jYWNoZVNlcnZpY2Ugc2VydmljZSA9IENvbmZpZ3VyZWRNZW1jYWNoZVNlcnZpY2VGYWN0b3J5LklOU1RBTkNFLmdldE1lbWNhY2hlU2VydmljZSgiIik7Cg==</text>
+        <text encoding="base64">CQkJbmV3IEhhc2hNYXA8PigpCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQlwdWJsaWMgSWRlbnRpZmlhYmxlVmFsdWVJbXBsKFJlc3BvbnNlPGJ5dGVbXT4gdmFsdWVSZXNwb25zZSwgUmVzcG9uc2U8U3RyaW5nPiBjYXNSZXNwb25zZSkgewoJCQlieXRlW10gYnl0ZXMgPSB2YWx1ZVJlc3BvbnNlLmdldCgpOwoKCQkJaWYgKG51bGwgPT0gYnl0ZXMpIHsKCQkJCXJldHVybjsKCQkJfQoJCQl0cnkgewoJCQkJdmFsdWUgPSBFbnRpdHlUcmFuc2xhdG9yLmNyZWF0ZUZyb21QYkJ5dGVzKGJ5dGVzKTsKCQkJfQoJCQljYXRjaCAoSWxsZWdhbEFyZ3VtZW50RXhjZXB0aW9uIGlnbm9yZSkgewoJCQkJdmFsdWUgPSBqYXZhRGVzZXJpYWxpemUoYnl0ZXMpOwoJCQl9CgoJCQljYXNJZCA9IGNhc1Jlc3BvbnNlLmdldCgpID09IG51bGwgPyAwIDogTG9uZy52YWx1ZU9mKGNhc1Jlc3BvbnNlLmdldCgpKTsKCQl9Cg==</text>
+        <text encoding="base64">CQkJd3JpdGVNYygpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQl9Cg==</text>
+        <text encoding="base64">CQkJa2V5TWFwCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJCWouZXhwaXJlKGZpcmViYXNlQWNjZXNzVG9rZW5LZXksIDYwMCk7Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHJlZGlzLmNsaWVudHMuamVkaXMuSmVkaXM7Cg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">CQkJfQo=</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">CQkJdHJ5IHsKCQkJCXZhbHVlID0gRW50aXR5VHJhbnNsYXRvci5jcmVhdGVGcm9tUGJCeXRlcyhieXRlcyk7CgkJCX0KCQkJY2F0Y2ggKElsbGVnYWxBcmd1bWVudEV4Y2VwdGlvbiBpZ25vcmUpIHsK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">CQkJCX0K</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJdHJ5IChKZWRpcyBqID0gLklOU1RBTkNFLmdldFBvb2woKS5nZXRSZXNvdXJjZSgpKSB7Cg==</text>
+        <text encoding="base64">CQkJCXRyeSB7CgkJCQkJcmV0dXJuIEVudGl0eVRyYW5zbGF0b3IuY3JlYXRlRnJvbVBiQnl0ZXMoYnl0ZXMpOwoJCQkJfQoJCQkJY2F0Y2ggKElsbGVnYWxBcmd1bWVudEV4Y2VwdGlvbiB8IE51bGxQb2ludGVyRXhjZXB0aW9uIGlnbm9yZSkgewo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQl0cnkgKEplZGlzIGogPSBSZWRpc01lbWNhY2hlU2VydmljZUZhY3RvcnkuSU5TVEFOQ0UuZ2V0UG9vbCgpLmdldFJlc291cmNlKCkpIHsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5yZXdhcmRseS5tYWlsZm9vLmRhdGFhY2Nlc3MudXRpbHMuUmVkaXNNZW1jYWNoZVNlcnZpY2VGYWN0b3J5Owo=</text>
+        <text encoding="base64">CXByaXZhdGUgc3RhdGljIGJ5dGVbXSB0b1JlZGlzVmFsdWUoT2JqZWN0IHZhbHVlKSB7CgkJcmV0dXJuIGphdmFTZXJpYWxpemUodmFsdWUpOwoJfQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>INSTAN</last-search>
+      <last-search>IdentifiableValueImpl</last-search>
       <last-offset />
-      <last-pattern>INSTAN</last-pattern>
+      <last-pattern>IdentifiableValueImpl</last-pattern>
       <last-replace>final private</last-replace>
       <last-substitute>private</last-substitute>
       <last-dir>1</last-dir>
@@ -1267,8 +1275,6 @@
     </search>
     <history>
       <history-search>
-        <entry>assert</entry>
-        <entry encoding="base64">YXNzZXJ0IA==</entry>
         <entry encoding="base64">ID09</entry>
         <entry>ONE</entry>
         <entry>;</entry>
@@ -1287,6 +1293,8 @@
         <entry>Configu</entry>
         <entry>INST</entry>
         <entry>INSTAN</entry>
+        <entry>toRedis</entry>
+        <entry>IdentifiableValueImpl</entry>
       </history-search>
       <history-cmd>
         <entry>%s/\r\r/\r/g</entry>
