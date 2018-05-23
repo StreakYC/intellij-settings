@@ -47,10 +47,10 @@
         <mark key="^" line="36" column="31" />
         <mark key="." line="36" column="31" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/filters/OpenCensusFilter.java" timestamp="1527031661371">
-        <mark key="]" line="172" column="16" />
-        <mark key="^" line="172" column="16" />
-        <mark key="." line="172" column="16" />
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/filters/OpenCensusFilter.java" timestamp="1527033013057">
+        <mark key="[" line="44" column="0" />
+        <mark key="]" line="44" column="0" />
+        <mark key="." line="44" column="0" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/utils/RedisEntityMemecache.java" timestamp="1524782592930">
         <mark key="[" line="43" column="5" />
@@ -1130,11 +1130,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="47" column="8" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/utils/MetaMemcacheService.java" />
-      <jump line="438" column="8" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/utils/MetaMemcacheService.java" />
-      <jump line="41" column="9" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/utils/MetaMemcacheService.java" />
-      <jump line="443" column="51" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/utils/MetaMemcacheService.java" />
-      <jump line="0" column="0" filename="$MAVEN_REPOSITORY$/io/grpc/grpc-core/1.7.0/grpc-core-1.7.0-sources.jar!/io/grpc/internal/CensusTracingModule.java" />
       <jump line="244" column="54" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/utils/RedisMemcacheService.java" />
       <jump line="165" column="40" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/utils/RedisMemcacheService.java" />
       <jump line="211" column="69" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/utils/RedisMemcacheService.java" />
@@ -1230,55 +1225,60 @@
       <jump line="149" column="44" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/utils/RedisMemcacheService.java" />
       <jump line="0" column="0" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/billing/PreviewChargeHandler.java" />
       <jump line="150" column="60" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/filters/OpenCensusFilter.java" />
+      <jump line="159" column="33" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/filters/OpenCensusFilter.java" />
+      <jump line="13" column="34" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/filters/OpenCensusFilter.java" />
+      <jump line="16" column="44" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/filters/OpenCensusFilter.java" />
+      <jump line="86" column="12" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/filters/OpenCensusFilter.java" />
+      <jump line="135" column="0" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/filters/OpenCensusFilter.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Arrays.copyOf(context.getTraceId(), 16)),</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>Arrays.copyOf(context.getTraceId(), 16)),</text>
       </register>
       <register name="/" type="4">
-        <text>filter</text>
+        <text>Logg</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQkJCUxvZ2dlci5sb2coU3RyaW5nLmZvcm1hdCgiJTAzMngiLCBjb250ZXh0LmdldFNwYW5JZCgpKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJCUxvZ2dlci5sb2coU3RyaW5nLmZvcm1hdCgiJTAzMngiLCBjb250ZXh0LmdldFNwYW5JZCgpKSk7CgkJCQlMb2dnZXIubG9nKFN0cmluZy5mb3JtYXQoIiUwMzJ4IiwgQXJyYXlzLmNvcHlPZihjb250ZXh0LmdldFRyYWNlSWQoKSwgMTYpKSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5nb29nbGUuYXBwZW5naW5lLnJlcGFja2FnZWQuY29tLmdvb2dsZS5wcm90b2J1Zi5JbnZhbGlkUHJvdG9jb2xCdWZmZXJFeGNlcHRpb247Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">ewoJQE92ZXJyaWRlIHB1YmxpYyB2b2lkIGluaXQoRmlsdGVyQ29uZmlnIGZpbHRlckNvbmZpZykgewoKCgkJUHJvcGVydGllcyBwcm9wZXJ0aWVzID0gU3lzdGVtLmdldFByb3BlcnRpZXMoKTsKCQlUcmFjZVBhcmFtcyB0cmFjZVBhcmFtczsKCQlpZiAobnVsbCAhPSBwcm9wZXJ0aWVzLmdldFByb3BlcnR5KCJ0cmFjaW5nLnByb2JhYmlsaXR5IikpIHsKCQkJdHJhY2VQYXJhbXMgPSBUcmFjZVBhcmFtcy5ERUZBVUxULnRvQnVpbGRlcigpCgkJCQkJCQkJCQkJIC5zZXRTYW1wbGVyKFNhbXBsZXJzLnByb2JhYmlsaXR5U2FtcGxlcigKCQkJCQkJCQkJCQkJIERvdWJsZS52YWx1ZU9mKHByb3BlcnRpZXMuZ2V0UHJvcGVydHkoInRyYWNpbmcucHJvYmFiaWxpdHkiKSkKCQkJCQkJCQkJCQkgKSkKCQkJCQkJCQkJCQkgLmJ1aWxkKCk7CgkJfQoJCWVsc2UgaWYgKENvbnN0YW50cy5pc1Byb2QoKSkgewoJCQkvLyBOb3RlOiBUaGUgcHJvYmFiaWxpdHkgc2FtcGxlciwgdW5saWtlIG5ldmVyL2Fsd2F5cywgcHJvcGFnYXRlcyBzYW1wbGluZwoJCQkvLyBkZWNpc2lvbiBmcm9tIHBhcmVudCBzcGFuLCB3aGljaCBpcyB3aGF0IHdlIHdhbnQuCgkJCXRyYWNlUGFyYW1zID0gVHJhY2VQYXJhbXMuREVGQVVMVC50b0J1aWxkZXIoKQoJCQkJCQkJCQkJCSAuc2V0U2FtcGxlcihTYW1wbGVycy5wcm9iYWJpbGl0eVNhbXBsZXIoMC4wKSkKCQkJCQkJCQkJCQkgLmJ1aWxkKCk7CgkJfQoJCWVsc2UgewoJCQl0cmFjZVBhcmFtcyA9IFRyYWNlUGFyYW1zLkRFRkFVTFQudG9CdWlsZGVyKCkKCQkJCQkJCQkJCQkgLnNldFNhbXBsZXIoU2FtcGxlcnMubmV2ZXJTYW1wbGUoKSkKCQkJCQkJCQkJCQkgLmJ1aWxkKCk7CgkJfQoJCVRyYWNpbmcuZ2V0VHJhY2VDb25maWcoKS51cGRhdGVBY3RpdmVUcmFjZVBhcmFtcyh0cmFjZVBhcmFtcyk7CgkJdHJ5IHsKCQkJR29vZ2xlQ3JlZGVudGlhbHMgY3JlZGVudGlhbHMgPSBHb29nbGVDcmVkZW50aWFscy5nZXRBcHBsaWNhdGlvbkRlZmF1bHQoQXBhY2hlSHR0cFRyYW5zcG9ydDo6bmV3KTsKCQkJU3RhY2tkcml2ZXJFeHBvcnRlci5jcmVhdGVBbmRSZWdpc3RlcldpdGhDcmVkZW50aWFsc0FuZFByb2plY3RJZChjcmVkZW50aWFscywgIm1haWxmb29nYWUiKTsKCQl9CgkJY2F0Y2ggKElPRXhjZXB0aW9uIGUpIHsKCQkJLy8gTG9nIG91dCB0byBjb25zb2xlIGR1cmluZyB0ZXN0cwoJCQlMb2dnaW5nRXhwb3J0ZXIucmVnaXN0ZXIoKTsKCQl9Cgl9CgoJQE92ZXJyaWRlCglwdWJsaWMgdm9pZCBkb0ZpbHRlcihTZXJ2bGV0UmVxdWVzdCBzZXJ2bGV0UmVxdWVzdCwgU2VydmxldFJlc3BvbnNlIHNlcnZsZXRSZXNwb25zZSwgRmlsdGVyQ2hhaW4gZmlsdGVyQ2hhaW4pCgkJdGhyb3dzIElPRXhjZXB0aW9uLCBTZXJ2bGV0RXhjZXB0aW9uIHsKCgkJdHJ5IChTY29wZSBzY29wZSA9IGdldFNjb3BlKHNlcnZsZXRSZXF1ZXN0KSkgewoJCQlTdGF0dXNFeHBvc2luZ1NlcnZsZXRSZXNwb25zZSByZXNwb25zZSA9IG5ldyBTdGF0dXNFeHBvc2luZ1NlcnZsZXRSZXNwb25zZSgoSHR0cFNlcnZsZXRSZXNwb25zZSkgc2VydmxldFJlc3BvbnNlKTsKCQkJdHJ5IHsKCQkJCWZpbHRlckNoYWluLmRvRmlsdGVyKHNlcnZsZXRSZXF1ZXN0LCByZXNwb25zZSk7CgkJCX0KCQkJZmluYWxseSB7CgkJCQlpbnQgc2V0Q29kZSA9IHJlc3BvbnNlLmdldFN0YXR1cygpOwoJCQkJVHJhY2luZy5nZXRUcmFjZXIoKQoJCQkJCSAgIC5nZXRDdXJyZW50U3BhbigpCgkJCQkJICAgLnB1dEF0dHJpYnV0ZSgiL2h0dHAvc3RhdHVzX2NvZGUiLAoJCQkJCQkgICBBdHRyaWJ1dGVWYWx1ZS5zdHJpbmdBdHRyaWJ1dGVWYWx1ZShTdHJpbmcudmFsdWVPZihzZXRDb2RlID4gMCA/IHNldENvZGUgOiAyMDApKSk7CgkJCX0KCQl9Cgl9CgoJcHJpdmF0ZSBTY29wZSBnZXRTY29wZShTZXJ2bGV0UmVxdWVzdCBzZXJ2bGV0UmVxdWVzdCkgewoJCVRyYWNlciB0cmFjZXIgPSBUcmFjaW5nLmdldFRyYWNlcigpOwoJCVNwYW5Db250ZXh0IHBhcmVudHNDb250ZXh0ID0gZ2V0UGFyZW50U3BhbkNvbnRleHQoKTsKCQlpZiAobnVsbCAhPSBwYXJlbnRzQ29udGV4dCkgewoJCQlMb2dnZXIubG9nKCJQYXJlbnQgQ29udGV4dCBGb3VuZCIpOwoJCQlMb2dnZXIubG9nKHBhcmVudHNDb250ZXh0LnRvU3RyaW5nKCkpOwoJCQlyZXR1cm4gdHJhY2VyLnNwYW5CdWlsZGVyV2l0aFJlbW90ZVBhcmVudChTdHJpbmcudmFsdWVPZihzZXJ2bGV0UmVxdWVzdCksIHBhcmVudHNDb250ZXh0KS5zdGFydFNjb3BlZFNwYW4oKTsKCQl9CgkJZWxzZSB7CgkJCUh0dHBTZXJ2bGV0UmVxdWVzdCByZXF1ZXN0ID0gKEh0dHBTZXJ2bGV0UmVxdWVzdCkgc2VydmxldFJlcXVlc3Q7CgkJCVN0cmluZyBwYXRoID0gcmVxdWVzdC5nZXRSZXF1ZXN0VVJJKCkuc3Vic3RyaW5nKHJlcXVlc3QuZ2V0Q29udGV4dFBhdGgoKS5sZW5ndGgoKSk7CgkJCVNjb3BlIHNjb3BlID0gdHJhY2VyLnNwYW5CdWlsZGVyKHBhdGgpLnN0YXJ0U2NvcGVkU3BhbigpOwoJCQlNYXA8U3RyaW5nLCBBdHRyaWJ1dGVWYWx1ZT4gYXR0cmlidXRlcyA9IG5ldyBIYXNoTWFwPD4oKTsKCQkJaWYgKG51bGwgIT0gQXBpUHJveHkuZ2V0Q3VycmVudEVudmlyb25tZW50KCkgJiYKCQkJCUFwaVByb3h5LmdldEN1cnJlbnRFbnZpcm9ubWVudCgpCgkJCQkJCS5nZXRBdHRyaWJ1dGVzKCkKCQkJCQkJLmNvbnRhaW5zS2V5KCJjb20uZ29vZ2xlLmFwcGVuZ2luZS5ydW50aW1lLnJlcXVlc3RfbG9nX2lkIikpIHsKCQkJCWF0dHJpYnV0ZXMucHV0KCJnYWUvcmVxdWVzdF9sb2dfaWQiLAoJCQkJCUF0dHJpYnV0ZVZhbHVlLnN0cmluZ0F0dHJpYnV0ZVZhbHVlKChTdHJpbmcpIEFwaVByb3h5LmdldEN1cnJlbnRFbnZpcm9ubWVudCgpCgkJCQkJCQkJCQkJCQkJCQkJCSAuZ2V0QXR0cmlidXRlcygpCgkJCQkJCQkJCQkJCQkJCQkJCSAuZ2V0KAoJCQkJCQkJCQkJCQkJCQkJCQkJICJjb20uZ29vZ2xlLmFwcGVuZ2luZS5ydW50aW1lLnJlcXVlc3RfbG9nX2lkIikpKTsKCQkJfQoJCQlhdHRyaWJ1dGVzLnB1dCgiL2h0dHAvaG9zdCIsIEF0dHJpYnV0ZVZhbHVlLnN0cmluZ0F0dHJpYnV0ZVZhbHVlKHJlcXVlc3QuZ2V0U2VydmVyTmFtZSgpKSk7CgkJCWF0dHJpYnV0ZXMucHV0KCIvaHR0cC91cmwiLCBBdHRyaWJ1dGVWYWx1ZS5zdHJpbmdBdHRyaWJ1dGVWYWx1ZShyZXF1ZXN0LmdldFJlcXVlc3RVUkkoKSkpOwoJCQlhdHRyaWJ1dGVzLnB1dCgiL2h0dHAvbWV0aG9kIiwgQXR0cmlidXRlVmFsdWUuc3RyaW5nQXR0cmlidXRlVmFsdWUocmVxdWVzdC5nZXRNZXRob2QoKSkpOwoKCQkJdHJhY2VyLmdldEN1cnJlbnRTcGFuKCkucHV0QXR0cmlidXRlcyhhdHRyaWJ1dGVzKTsKCQkJTG9nZ2VyLmxvZygiQnVpbHQgU2NvcGUiKTsKCQkJTG9nZ2VyLmxvZyhzY29wZS50b1N0cmluZygpKTsKCQkJcmV0dXJuIHNjb3BlOwoJCX0KCX0KCglzdGF0aWMgcHVibGljIGJ5dGVbXSBwYXJzZVRyYWNlSWRQcm90byhieXRlW10gcHJvdG9CeXRlcykKCQl0aHJvd3Mg</text>
+      <register name="3" type="2">
+        <text encoding="base64">CQkJTG9nZ2VyLmxvZyhzY29wZS50b1N0cmluZygpKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJCXRyYWNlSWRCeXRlcyA9IAo=</text>
+        <text encoding="base64">CQkJTG9nZ2VyLmxvZygiQnVpbHQgU2NvcGUiKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJCXRyYWNlLmdldFRyYWNlSWRCeXRlcygpLnRvQnl0ZUFycmF5KCk7Cg==</text>
+        <text encoding="base64">CQkJTG9nZ2VyLmxvZyhwYXJlbnRzQ29udGV4dC50b1N0cmluZygpKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJCVRyYWNlIHRyYWNlID0gVHJhY2UuZ2V0RGVmYXVsdEluc3RhbmNlKCk7Cg==</text>
+        <text encoding="base64">CQkJTG9nZ2VyLmxvZygiUGFyZW50IENvbnRleHQgRm91bmQiKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJCXRyYWNlLgo=</text>
+        <text encoding="base64">CQlMb2dnZXIubG9nKCJObyBTcGFuIENvbnRleHQgQXZhaWxhYmxlIik7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJY29udGV4dC4K</text>
+        <text encoding="base64">CQkJTG9nZ2VyLmxvZygiRm91bmQgU3BhbiBDb250ZXh0Iik7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJQ2xvdWRUcmFjZSBjdCA9IChDbG91ZFRyYWNlKSBlbnZBdHRyaWJ1dGVzLmdldCgiY29tLmdvb2dsZS5hcHBob3N0aW5nLmFwaS5jbG91ZFRyYWNlIik7Cg==</text>
+        <text encoding="base64">CQkJCQlFeGNlcHRpb24K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>filter</last-search>
+      <last-search>Logg</last-search>
       <last-offset />
-      <last-pattern>filter</last-pattern>
+      <last-pattern>Logg</last-pattern>
       <last-replace>before</last-replace>
       <last-substitute>after</last-substitute>
       <last-dir>1</last-dir>
@@ -1286,7 +1286,6 @@
     </search>
     <history>
       <history-search>
-        <entry>public</entry>
         <entry>se</entry>
         <entry>va</entry>
         <entry>re</entry>
@@ -1306,6 +1305,7 @@
         <entry>mget</entry>
         <entry>&quot;</entry>
         <entry>filter</entry>
+        <entry>Logg</entry>
       </history-search>
       <history-cmd>
         <entry>s/1/3/g</entry>
