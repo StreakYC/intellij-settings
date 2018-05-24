@@ -4,14 +4,7 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/src/MailFoo/backend-war/src/main/webapp/WEB-INF/web.xml" timestamp="1527020366628" />
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/DAO.java" timestamp="1526062591326">
-        <mark key="'" line="136" column="57" />
-        <mark key="[" line="2344" column="90" />
-        <mark key="]" line="2347" column="13" />
-        <mark key="." line="2347" column="13" />
-        <mark key="^" line="2347" column="13" />
-      </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataupdaters/creators/TaskCreator.java" timestamp="1527124304903" />
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataupdaters/creators/TaskCreator.java" timestamp="1527187513753" />
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/filters/OpenCensusFilter.java" timestamp="1527104528801">
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="0" />
@@ -19,13 +12,6 @@
         <mark key="^" line="122" column="86" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/tasks/DelayedTaskDueTask.java" timestamp="1527122150573" />
-      <file name="$USER_HOME$/src/MailFoo/IntegrationTests/src/test/java/com/rewardly/integrationtests/api/modeltests/TimeInStagesReportAPITest.java" timestamp="1525903466939">
-        <mark key="'" line="226" column="103" />
-        <mark key="[" line="231" column="100" />
-        <mark key="]" line="231" column="101" />
-        <mark key="." line="231" column="101" />
-        <mark key="^" line="151" column="100" />
-      </file>
       <file name="$MAVEN_REPOSITORY$/com/google/appengine/appengine-api-1.0-sdk/1.9.57/appengine-api-1.0-sdk-1.9.57.jar!/com/google/appengine/api/taskqueue/QueueImpl.class" timestamp="1527114010708" />
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/newsfeed/NewsfeedManager.java" timestamp="1526971007701">
         <mark key="[" line="9" column="0" />
@@ -44,12 +30,12 @@
       <file name="$MAVEN_REPOSITORY$/com/google/appengine/appengine-remote-api/1.9.57/appengine-remote-api-1.9.57.jar!/com/google/appengine/tools/remoteapi/OAuthClient.class" timestamp="1527117377705" />
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataupdaters/getters/NewsfeedEntryV2Getter.java" timestamp="1526924769044" />
       <file name="$MAVEN_REPOSITORY$/com/google/appengine/appengine-api-1.0-sdk/1.9.57/appengine-api-1.0-sdk-1.9.57.jar!/com/google/appengine/api/utils/FutureWrapper.class" timestamp="1527112690262" />
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/utils/RemoteAccess.java" timestamp="1527181720608">
-        <mark key="'" line="253" column="8" />
-        <mark key="[" line="159" column="49" />
-        <mark key="]" line="160" column="32" />
-        <mark key="." line="160" column="32" />
-        <mark key="^" line="160" column="32" />
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/utils/RemoteAccess.java" timestamp="1527188975865">
+        <mark key="'" line="244" column="8" />
+        <mark key="[" line="153" column="20" />
+        <mark key="]" line="153" column="24" />
+        <mark key="." line="153" column="24" />
+        <mark key="^" line="153" column="24" />
       </file>
       <file name="/fragment.java" timestamp="1527123975392">
         <mark key="[" line="0" column="0" />
@@ -73,13 +59,6 @@
         <mark key="." line="100" column="7" />
         <mark key="^" line="100" column="7" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/utils/ConfiguredMemecacheService.java" timestamp="1526414856598">
-        <mark key="'" line="57" column="52" />
-        <mark key="[" line="18" column="20" />
-        <mark key="]" line="18" column="26" />
-        <mark key="." line="18" column="26" />
-        <mark key="^" line="57" column="141" />
-      </file>
       <file name="$MAVEN_REPOSITORY$/com/google/appengine/appengine-api-1.0-sdk/1.9.57/appengine-api-1.0-sdk-1.9.57.jar!/com/google/appengine/api/datastore/DatastoreServiceFactory.class" timestamp="1527127116824" />
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/utils/StatusExposingServletResponse.java" timestamp="1526941630148" />
       <file name="$MAVEN_REPOSITORY$/com/google/appengine/appengine-api-1.0-sdk/1.9.57/appengine-api-1.0-sdk-1.9.57.jar!/com/google/appengine/api/taskqueue/Queue.class" timestamp="1527111723402" />
@@ -89,39 +68,11 @@
       <file name="$MAVEN_REPOSITORY$/com/google/appengine/appengine-api-1.0-sdk/1.9.57/appengine-api-1.0-sdk-1.9.57.jar!/com/google/apphosting/api/CloudTraceContext.class" timestamp="1527028827081" />
       <file name="$MAVEN_REPOSITORY$/com/google/appengine/appengine-api-1.0-sdk/1.9.57/appengine-api-1.0-sdk-1.9.57.jar!/com/google/appengine/api/taskqueue/QueueApiHelper.class" timestamp="1527126225669" />
       <file name="$MAVEN_REPOSITORY$/com/google/appengine/appengine-api-1.0-sdk/1.9.57/appengine-api-1.0-sdk-1.9.57.jar!/com/google/appengine/api/taskqueue/TaskQueuePb.class" timestamp="1527125966448" />
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/utils/ConfiguredMemcacheService.java" timestamp="1526487573620">
-        <mark key="'" line="43" column="66" />
-        <mark key="[" line="57" column="122" />
-        <mark key="]" line="57" column="120" />
-        <mark key="." line="57" column="120" />
-        <mark key="^" line="57" column="120" />
-      </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/tracking/StoreTrackedViewTask.java" timestamp="1525974281340">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="175" column="15" />
-        <mark key="]" line="174" column="54" />
-        <mark key="." line="174" column="54" />
-        <mark key="^" line="174" column="54" />
-      </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/utils/ScheduledMemcacheServiceConfiguration.java" timestamp="1526507601655">
-        <mark key="'" line="13" column="4" />
-        <mark key="[" line="33" column="4" />
-        <mark key="]" line="33" column="10" />
-        <mark key="^" line="33" column="10" />
-        <mark key="." line="33" column="10" />
-      </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/tasks/DelayedActionEntityTask.java" timestamp="1527123562946">
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/tasks/DelayedActionEntityTask.java" timestamp="1527187500831">
         <mark key="[" line="107" column="0" />
         <mark key="]" line="107" column="0" />
         <mark key="^" line="107" column="1" />
         <mark key="." line="107" column="0" />
-      </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/utils/RedisMemcacheService.java" timestamp="1526948886581">
-        <mark key="'" line="149" column="44" />
-        <mark key="[" line="187" column="101" />
-        <mark key="]" line="187" column="105" />
-        <mark key="." line="187" column="105" />
-        <mark key="^" line="187" column="105" />
       </file>
     </filemarks>
     <jumps>
@@ -228,52 +179,52 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CQkJCXR4bi5jb21taXQoKTsK</text>
+        <text encoding="base64">CQkJLy8JCXR4biwK</text>
       </register>
       <register name="-" type="4">
-        <text>newTransaction()</text>
+        <text encoding="base64">CQkJCQ==</text>
       </register>
       <register name="/" type="4">
-        <text>doSy</text>
+        <text>&quot;</text>
       </register>
       <register name="0" type="4">
         <text>w</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJCXR4bi5jb21taXQoKTsK</text>
+        <text encoding="base64">CQkJLy8JCXR4biwK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">LyoK</text>
+        <text encoding="base64">CQkJCXR4bi5jb21taXQoKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ki8K</text>
+        <text encoding="base64">CQkJUXVldWUgcXVldWUgPSBRdWV1ZUZhY3RvcnkuZ2V0UXVldWUoInRyYWNrdmlld3MiKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJCUFzeW5jRGF0YXN0b3JlU2VydmljZQo=</text>
+        <text encoding="base64">CQkJTG9nZ2VyLmdldEdsb2JhbCgpLnNldExldmVsKExldmVsLkZJTkVTVCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJUXVldWUgcXVldWUgPSBRdWV1ZUZhY3RvcnkuZ2V0RGVmYXVsdFF1ZXVlKCk7Cg==</text>
+        <text encoding="base64">CQkJCVVzZXIgdSA9IERBTy5nZXRVc2VyQnlFbWFpbCgiam9uYXRoYW5Ac3RyZWFrLmNvbSIpOwoJCQkJdS5zZXRQaG9uZU51bWJlcigiMjY5LTQ5MS0wMzY2Iik7CgkJCQlEQU8uc3RvcmVFbnRpdHkodSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJCQlpbnN0YWxsZXIuaW5zdGFsbChvcHRpb25zKTsK</text>
+        <text encoding="base64">CQkJKi8K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJCQlUYXNrUXVldWVTZXJ2aWNlRXJyb3IuRXJyb3JDb2RlOwo=</text>
+        <text encoding="base64">CQkJLypkZAo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">CQkJCQl0YXNrcXVldWVfc2VydmljZV9wYi5UYXNrUXVldWVTZXJ2aWNlRXJyb3IuUVVFVUVfUEFVU0VEOgoJCQkJCVF1ZXVlUGF1c2VkRXJyb3IK</text>
+      <register name="8" type="4">
+        <text>jdobbie@gmail.com</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJCQlCYWRUcmFuc2FjdGlvblN0YXRlRXJyb3IgdHg7Cg==</text>
+        <text encoding="base64">CQkJCXR4bi5jb21taXQoKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>doSy</last-search>
+      <last-search>&quot;</last-search>
       <last-offset />
-      <last-pattern>doSy</last-pattern>
+      <last-pattern>&quot;</last-pattern>
       <last-replace>before</last-replace>
       <last-substitute>after</last-substitute>
       <last-dir>1</last-dir>
@@ -297,10 +248,10 @@
         <entry>before</entry>
         <entry>after</entry>
         <entry>mget</entry>
-        <entry>&quot;</entry>
         <entry>filter</entry>
         <entry>Logg</entry>
         <entry>doSy</entry>
+        <entry>&quot;</entry>
       </history-search>
       <history-cmd>
         <entry>s/1/3/g</entry>
