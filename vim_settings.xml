@@ -3,6 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/nondatastore/MessageMetadata.java" timestamp="1527639243586" />
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataupdaters/DataWorkerFactory.java" timestamp="1527636000073">
         <mark key="[" line="649" column="0" />
         <mark key="]" line="649" column="0" />
@@ -24,6 +25,7 @@
         <mark key="]" line="88" column="0" />
         <mark key="." line="88" column="0" />
       </file>
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/DAO.java" timestamp="1527639846892" />
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/rewardly/mailfoo/unittests/DatastoreTest.java" timestamp="1527634072708">
         <mark key="[" line="52" column="43" />
         <mark key="]" line="53" column="35" />
@@ -85,11 +87,6 @@
         <mark key="." line="149" column="35" />
         <mark key="^" line="149" column="35" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/SpannerWriteDuplicator.java" timestamp="1527637954753">
-        <mark key="[" line="32" column="99" />
-        <mark key="]" line="36" column="0" />
-        <mark key="." line="36" column="0" />
-      </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/ratchet/objectify/DeletePair.java" timestamp="1527630360166">
         <mark key="[" line="49" column="16" />
         <mark key="]" line="49" column="58" />
@@ -113,11 +110,11 @@
         <mark key="." line="62" column="18" />
         <mark key="^" line="62" column="18" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/utils/RemoteAccess.java" timestamp="1527636547338">
-        <mark key="[" line="290" column="4" />
-        <mark key="]" line="291" column="5" />
-        <mark key="^" line="291" column="5" />
-        <mark key="." line="291" column="5" />
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/utils/RemoteAccess.java" timestamp="1527639112632">
+        <mark key="[" line="130" column="21" />
+        <mark key="]" line="130" column="39" />
+        <mark key="^" line="130" column="39" />
+        <mark key="." line="130" column="39" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/api/APIV2EndpointManager.java" timestamp="1527635272761">
         <mark key="[" line="228" column="0" />
@@ -257,11 +254,11 @@
       <jump line="42" column="11" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataupdaters/getters/ThreadInfoGetter.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAqIHRoYXQgb3VyIHN0YXRpYyB2YXJpYWJsZXMgZXhpc3QgYmV0d2VlbiByZXF1ZXN0cywgYnV0IHRoZXkgYXJlIG5vdCBhY2Nlc3NpYmxlLgo=</text>
+      <register name="&quot;" type="4">
+        <text>m</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICBUaGF0IG1lYW5z</text>
+        <text>m</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">Pj4+</text>
