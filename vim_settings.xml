@@ -75,11 +75,6 @@
         <mark key="]" line="147" column="0" />
         <mark key="." line="147" column="0" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/utils/Constants.java" timestamp="1527802333382">
-        <mark key="[" line="610" column="0" />
-        <mark key="]" line="610" column="0" />
-        <mark key="." line="610" column="0" />
-      </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/utils/RequestDataService.java" timestamp="1527637622788">
         <mark key="[" line="199" column="0" />
         <mark key="]" line="199" column="0" />
@@ -129,11 +124,11 @@
         <mark key="]" line="12" column="28" />
         <mark key="." line="12" column="28" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/ratchet/schema/Table.java" timestamp="1527728909091">
-        <mark key="[" line="10" column="39" />
-        <mark key="]" line="23" column="41" />
-        <mark key="^" line="23" column="41" />
-        <mark key="." line="23" column="41" />
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/ratchet/schema/Table.java" timestamp="1527803881216">
+        <mark key="'" line="10" column="14" />
+        <mark key="[" line="18" column="44" />
+        <mark key="]" line="18" column="44" />
+        <mark key="." line="18" column="44" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/TrackedThread.java" timestamp="1527657892694">
         <mark key="[" line="11" column="0" />
@@ -212,11 +207,11 @@
         <mark key="^" line="176" column="5" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataupdaters/exceptions/EmailInBadAccountException.java" timestamp="1527798903448" />
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/filters/ExtractRequestDataFilter.java" timestamp="1527802705794">
-        <mark key="[" line="89" column="20" />
-        <mark key="]" line="89" column="25" />
-        <mark key="." line="89" column="25" />
-        <mark key="^" line="89" column="25" />
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/ratchet/schema/ChildTable.java" timestamp="1527803873470">
+        <mark key="[" line="3" column="4" />
+        <mark key="]" line="3" column="4" />
+        <mark key="^" line="3" column="5" />
+        <mark key="." line="3" column="4" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/nondatastore/AttachmentToken.java" timestamp="1527636403162">
         <mark key="[" line="2" column="0" />
@@ -241,7 +236,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="40" column="0" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/rewardly/mailfoo/unittests/RedisMemcacheServiceTest.java" />
       <jump line="0" column="0" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/rewardly/mailfoo/unittests/RedisMemcacheServiceTest.java" />
       <jump line="5" column="4" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/rewardly/mailfoo/unittests/RedisMemcacheServiceTest.java" />
       <jump line="26" column="8" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/rewardly/mailfoo/unittests/RedisMemcacheServiceTest.java" />
@@ -341,63 +335,63 @@
       <jump line="104" column="24" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/ratchet/ImmutableTransactionCallable.java" />
       <jump line="71" column="8" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/ratchet/Readme.md" />
       <jump line="146" column="1" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/ratchet/Readme.md" />
+      <jump line="10" column="14" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/ratchet/schema/Table.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>break</text>
+        <text>Table</text>
       </register>
       <register name="-" type="4">
-        <text>break</text>
+        <text>Table</text>
       </register>
       <register name="/" type="4">
-        <text>&quot;</text>
+        <text>private</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQlkbi5zdWIuZ2V0KDApLm51bWJlcnMuYWRkKDUpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQlTdHJpbmcgYXV0aEVtYWlsID0gbnVsbDsK</text>
+        <text encoding="base64">CQl0aGlzLnBhcmVudCA9IHBhcmVudDsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQlwYXJlbnQgPSBudWxsOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQlpZiAobnVsbCAhPSBhdXRoRW1haWwpIHsKCQkJCgkJfQo=</text>
+        <text encoding="base64">CQlTdHJpbmcgYXV0aEVtYWlsID0gbnVsbDsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJCQlpc0FkbWluRnJvbVNldCA9IHRydWU7Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">CQlCb29sZWFuIGlzQWRtaW5Gcm9tU2V0ID0gZmFsc2U7Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">CQlhZG1pbnMuYWRkKCJyb2JAc3RyZWFrLmNvbSIpOwo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">CQlhZG1pbnMuYWRkKCJlcmlrQHN0cmVhay5jb20iKTsK</text>
-      </register>
-      <register name="8" type="4">
-        <text>jonathan@streak.com</text>
-      </register>
-      <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">CQlpZiAobnVsbCAhPSBhdXRoRW1haWwpIHsKCQkJCgkJfQo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">CQkJCQlpc0FkbWluRnJvbVNldCA9IHRydWU7Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">CQlCb29sZWFuIGlzQWRtaW5Gcm9tU2V0ID0gZmFsc2U7Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">CQlhZG1pbnMuYWRkKCJyb2JAc3RyZWFrLmNvbSIpOwo=</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">CQlhZG1pbnMuYWRkKCJlcmlrQHN0cmVhay5jb20iKTsK</text>
+      </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text encoding="base64">JzwsJz5zL3ByaXZhdGUvcHJvdGVjdGVk</text>
       </register>
     </registers>
     <search>
-      <last-search>&quot;</last-search>
+      <last-search>private</last-search>
       <last-offset />
-      <last-pattern>&quot;</last-pattern>
-      <last-replace encoding="base64">ICAgIA==</last-replace>
-      <last-substitute>\t</last-substitute>
+      <last-pattern>private</last-pattern>
+      <last-replace>protected</last-replace>
+      <last-substitute>private</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>)</entry>
         <entry>toMap</entry>
         <entry>Redis</entry>
         <entry>Configu</entry>
@@ -417,9 +411,9 @@
         <entry encoding="base64">Pj4+</entry>
         <entry>\t</entry>
         <entry>&quot;</entry>
+        <entry>private</entry>
       </history-search>
       <history-cmd>
-        <entry>s/2/1/g</entry>
         <entry encoding="base64">JzwsJz5zL1RydWUvRmFsc2U=</entry>
         <entry encoding="base64">JzwsJz5zL2Fzc2VydC9Bc3NlcnQuYXNzZXJ0RXF1YWxzKA==</entry>
         <entry encoding="base64">JzwsJz5zL2Fzc2VydC9Bc3NlcnQuYXNzZXJ0RXF1YWxz</entry>
@@ -439,6 +433,7 @@
         <entry>%s/\t/    /g</entry>
         <entry>wq</entry>
         <entry>w</entry>
+        <entry encoding="base64">JzwsJz5zL3ByaXZhdGUvcHJvdGVjdGVk</entry>
       </history-cmd>
       <history-expr />
       <history-input />
