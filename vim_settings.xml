@@ -36,7 +36,7 @@
         <mark key="]" line="557" column="0" />
         <mark key="." line="557" column="0" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataupdaters/getters/UnifiedMetadataGetter.java" timestamp="1527801045260">
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataupdaters/getters/UnifiedMetadataGetter.java" timestamp="1527801968976">
         <mark key="[" line="75" column="0" />
         <mark key="]" line="75" column="0" />
         <mark key="." line="75" column="0" />
@@ -74,6 +74,11 @@
         <mark key="[" line="147" column="0" />
         <mark key="]" line="147" column="0" />
         <mark key="." line="147" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/utils/Constants.java" timestamp="1527802333382">
+        <mark key="[" line="610" column="0" />
+        <mark key="]" line="610" column="0" />
+        <mark key="." line="610" column="0" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/utils/RequestDataService.java" timestamp="1527637622788">
         <mark key="[" line="199" column="0" />
@@ -207,6 +212,12 @@
         <mark key="^" line="176" column="5" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataupdaters/exceptions/EmailInBadAccountException.java" timestamp="1527798903448" />
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/filters/ExtractRequestDataFilter.java" timestamp="1527802705794">
+        <mark key="[" line="89" column="20" />
+        <mark key="]" line="89" column="25" />
+        <mark key="." line="89" column="25" />
+        <mark key="^" line="89" column="25" />
+      </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/nondatastore/AttachmentToken.java" timestamp="1527636403162">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
@@ -333,10 +344,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>jonathan@streak.com</text>
+        <text>break</text>
       </register>
       <register name="-" type="4">
-        <text>jonathan@streak.com</text>
+        <text>break</text>
       </register>
       <register name="/" type="4">
         <text>&quot;</text>
@@ -344,32 +355,32 @@
       <register name="0" type="2">
         <text encoding="base64">CQlkbi5zdWIuZ2V0KDApLm51bWJlcnMuYWRkKDUpOwo=</text>
       </register>
-      <register name="1" type="4">
-        <text>jonathan@streak.com</text>
+      <register name="1" type="2">
+        <text encoding="base64">CQlTdHJpbmcgYXV0aEVtYWlsID0gbnVsbDsK</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQlpZiAobnVsbCAhPSBhdXRoRW1haWwpIHsKCQkJCgkJfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCQlpc0FkbWluRnJvbVNldCA9IHRydWU7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CXB1YmxpYyBUYWJsZSgpIHsKCgl9Cg==</text>
+        <text encoding="base64">CQlCb29sZWFuIGlzQWRtaW5Gcm9tU2V0ID0gZmFsc2U7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CUxpc3Q8RmllbGQ+Cg==</text>
+        <text encoding="base64">CQlhZG1pbnMuYWRkKCJyb2JAc3RyZWFrLmNvbSIpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJCQlicmVhazsK</text>
+        <text encoding="base64">CQlhZG1pbnMuYWRkKCJlcmlrQHN0cmVhay5jb20iKTsK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">CQkJfQo=</text>
+      <register name="8" type="4">
+        <text>jonathan@streak.com</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">CQkJc3dpdGNoIChtb2RlKSB7CgkJCQljYXNlIFNLSVBfUVVFUlk6CgkJCQkJTG9nZ2VyLmxvZygKCQkJCQkJIlJlcXVlc3QgaXMgaW4gZ21haWwgdGhyZWFkIHZpZXcgYW5kIHVzZXIgaXMgbm90IGluIGNoZWNrVW5pZmllZFRocmVhZEluZGljYXRvciBleHBlcmltZW50LCBzbyBub3QgY2FsY3VsYXRpbmcgbWVzc2FnZSBtZXRhZGF0YSIpOwoJCQkJCXRocmVhZE1ldGFkYXRhID0gVGhyZWFkTWV0YWRhdGEuY3JlYXRlRW1wdHkodS5nZXRVc2VyS2V5KCksIHRocmVhZElkT3JHbWFpbFRocmVhZEtleSk7CgkJCQkJYnJlYWs7CgkJCQljYXNlIEhJREVfTUVTU0FHRVM6CgkJCQkJTG9nZ2VyLmxvZygKCQkJCQkJIlJlcXVlc3QgaXMgaW4gZ21haWwgdGhyZWFkIHZpZXcgYW5kIHVzZXIgaXMgbm90IGluIHNob3dVbmlmaWVkVGhyZWFkSW5kaWNhdG9yIGV4cGVyaW1lbnQsIHNvIG9taXR0aW5nIG1lc3NhZ2UgbWV0YWRhdGEiKTsKCQkJCQl0aHJlYWRNZXRhZGF0YSA9IFRocmVhZE1ldGFkYXRhLmNyZWF0ZSh1LmdldFVzZXJLZXkoKSwgdGhyZWFkSWRPckdtYWlsVGhyZWFkS2V5KTsKCQkJCQlMb2dnZXIubG9nKCJtc2dzTm90SW5SZXF1ZXN0aW5nVXNlcnNJbmJveDogIiArIGdldE1zZ3NOb3RJblJlcXVlc3RpbmdVc2Vyc0luYm94KHUsIHRocmVhZE1ldGFkYXRhKSk7CgkJCQkJdGhyZWFkTWV0YWRhdGEubWVzc2FnZXMgPSBDb2xsZWN0aW9ucy5lbXB0eUxpc3QoKTsKCQkJCQlicmVhazsKCQkJCWNhc2UgREVGQVVMVDoKCQkJCWRlZmF1bHQ6</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
