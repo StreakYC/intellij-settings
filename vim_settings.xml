@@ -339,11 +339,12 @@
         <mark key="]" line="50" column="43" />
         <mark key="." line="50" column="43" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/utils/RemoteAccess.java" timestamp="1528312735204">
-        <mark key="[" line="127" column="80" />
-        <mark key="]" line="120" column="53" />
-        <mark key="^" line="120" column="53" />
-        <mark key="." line="120" column="53" />
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/utils/RemoteAccess.java" timestamp="1528327404786">
+        <mark key="'" line="143" column="21" />
+        <mark key="[" line="124" column="38" />
+        <mark key="]" line="124" column="51" />
+        <mark key="^" line="124" column="51" />
+        <mark key="." line="124" column="51" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/ratchet/KeyFactory.java" timestamp="1528235449612">
         <mark key="[" line="45" column="12" />
@@ -403,7 +404,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="22" column="0" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/rewardly/mailfoo/unittests/RedisMemcacheServiceTest.java" />
       <jump line="109" column="49" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/rewardly/mailfoo/unittests/RedisMemcacheServiceTest.java" />
       <jump line="41" column="49" filename="$USER_HOME$/src/MailFoo/IntegrationTests/src/test/java/com/rewardly/integrationtests/api/modeltests/SendLaterV2APITest.java" />
       <jump line="42" column="28" filename="$USER_HOME$/src/MailFoo/IntegrationTests/src/test/java/com/rewardly/integrationtests/api/modeltests/SendLaterV2APITest.java" />
@@ -503,57 +503,56 @@
       <jump line="117" column="0" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/ratchet/Metadata.java" />
       <jump line="72" column="74" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/ratchet/MutationFactory.java" />
       <jump line="0" column="0" filename="/fragment.java" />
+      <jump line="139" column="21" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/utils/RemoteAccess.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>getName()</text>
+        <text>ExperimentConfig</text>
       </register>
       <register name="-" type="4">
-        <text>getName()</text>
+        <text>ExperimentConfig</text>
       </register>
       <register name="/" type="4">
-        <text>getTab</text>
+        <text>&quot;</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQkJT2JqZWN0aWZ5U2VydmljZS5yZWdpc3RlcihHbWFpbFRocmVhZElkZW50aWZpZXIuY2xhc3MpOwo=</text>
+        <text encoding="base64">CQkJT2JqZWN0aWZ5U2VydmljZS5yZWdpc3RlcihFeHBlcmltZW50Q29uZmlnLmNsYXNzKTsK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">CQl0cnkgewo=</text>
+      <register name="1" type="4">
+        <text>leeroller@customtattoodesign.ca</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJCQkgICAJZmllbGQuc2V0UHJlZml4KGZpZWxkTmFtZSArICJfIik7IC8vIGV3IGV3IGV3Cg==</text>
+        <text encoding="base64">CQl0cnkgewo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCQkgICAJZmllbGQuc2V0UHJlZml4KGZpZWxkTmFtZSArICJfIik7IC8vIGV3IGV3IGV3Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CXB1YmxpYyBRdWVyeUJ1aWxkZXIgcXVlcnlCdWlsZGVyKCkgewoJCXJldHVybiBuZXcgUXVlcnlCdWlsZGVyKHRoaXMpOwoJfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">CXB1YmxpYyBRdWVyeUJ1aWxkZXIgcXVlcnlCdWlsZGVyKCkgewoJCXJldHVybiBuZXcgUXVlcnlCdWlsZGVyKHRoaXMpOwoJfQo=</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text encoding="base64">bWV0YWRhdGFGaWVsZE1hcC52YWx1ZXMoKQoJCQkJCQkJICAgLnN0cmVhbSgpCgkJCQkJCQkgICAuZmlsdGVyKGZpZWxkIC0+IGZpZWxkLmlzS2V5KQoJCQkJCQkJICAgLmZsYXRNYXAoCgkJCQkJCQkJICAgZmllbGQgLT4gZmllbGQuZ2V0VHJhbnNsYXRvcigpLmFzS2V5RmllbGROYW1lcyhmaWVsZC5nZXROYW1lKCkpLnN0cmVhbSgpCgkJCQkJCQkgICApLmNvbGxlY3QoQ29sbGVjdG9ycy50b0xpc3QoKSk7</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text encoding="base64">CXB1YmxpYyBTdHJpbmcgc2VsZWN0RmllbGRzKCkgewoJCUxpc3Q8U3RyaW5nPiBqb2luRmllbGRzID0gbWV0YWRhdGEua2V5Q29sdW1ucygpOwoJCWpvaW5GaWVsZHMuYWRkKG1ldGFkYXRhLmdldFZlcnNpb25GaWVsZE5hbWUoKSk7CgkJcmV0dXJuIG1ldGFkYXRhLmdldE1ldGFkYXRhRmllbGRzKCkKCQkJCQkgICAuc3RyZWFtKCkKCQkJCQkgICAubWFwKGZpZWxkIC0+IGZpZWxkLmdldFRyYW5zbGF0b3IoKQoJCQkJCQkJCQkJICAuc2VsZWN0RmllbGRDbGF1c2UoCgkJCQkJCQkJCQkJICBmaWVsZC5nZXROYW1lKCksCgkJCQkJCQkJCQkJICBtZXRhZGF0YS5nZXRUYWJsZU5hbWUoKSwKCQkJCQkJCQkJCQkgIGpvaW5GaWVsZHMpKQoJCQkJCSAgIC5maWx0ZXIoZiAtPiAhZi5pc0VtcHR5KCkpCgkJCQkJICAgLmNvbGxlY3QoQ29sbGVjdG9ycy5qb2luaW5nKCIsXG4iKSk7Cgl9Cg==</text>
-      </register>
-      <register name="9" type="4">
-        <text>&quot; SELECT &quot; +
-			selectFields() +
-			&quot;\n FROM &quot; + metadata.getTableName() + &quot;\n&quot;;</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>getTab</last-search>
+      <last-search>&quot;</last-search>
       <last-offset />
-      <last-pattern>getTab</last-pattern>
+      <last-pattern>&quot;</last-pattern>
       <last-replace>key</last-replace>
       <last-substitute>tip</last-substitute>
       <last-dir>1</last-dir>
@@ -575,12 +574,12 @@
         <entry>getIs</entry>
         <entry>getTi</entry>
         <entry>private</entry>
-        <entry>&quot;</entry>
         <entry>version</entry>
         <entry>Version</entry>
         <entry>tip</entry>
         <entry>getKeyFi</entry>
         <entry>getTab</entry>
+        <entry>&quot;</entry>
       </history-search>
       <history-cmd>
         <entry>%s/public/@Override public</entry>
