@@ -14,12 +14,12 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/ratchet/MetadataField.java" timestamp="1528501455349">
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/ratchet/MetadataField.java" timestamp="1528750572595">
         <mark key="'" line="47" column="4" />
-        <mark key="[" line="91" column="57" />
-        <mark key="]" line="91" column="57" />
-        <mark key="." line="91" column="57" />
-        <mark key="^" line="91" column="75" />
+        <mark key="[" line="137" column="31" />
+        <mark key="]" line="137" column="46" />
+        <mark key="." line="137" column="46" />
+        <mark key="^" line="137" column="46" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/ratchet/schema/Field.java" timestamp="1528231559539">
         <mark key="[" line="2" column="13" />
@@ -91,7 +91,7 @@
         <mark key="." line="152" column="78" />
         <mark key="^" line="152" column="77" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/ratchet/InstanceFactory.java" timestamp="1528494321302">
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/ratchet/InstanceFactory.java" timestamp="1528750059012">
         <mark key="[" line="39" column="0" />
         <mark key="]" line="39" column="0" />
         <mark key="." line="39" column="0" />
@@ -235,16 +235,16 @@
         <mark key="." line="45" column="32" />
         <mark key="^" line="45" column="32" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/rewardly/mailfoo/unittests/RatchetUnitTests.java" timestamp="1528503994207">
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/rewardly/mailfoo/unittests/RatchetUnitTests.java" timestamp="1528749987505">
         <mark key="[" line="164" column="0" />
         <mark key="]" line="164" column="2" />
         <mark key="." line="164" column="0" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/ratchet/schema/ChildTable.java" timestamp="1528502442805">
-        <mark key="[" line="19" column="25" />
-        <mark key="]" line="19" column="25" />
-        <mark key="." line="19" column="25" />
-        <mark key="^" line="91" column="59" />
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/ratchet/schema/ChildTable.java" timestamp="1528750656247">
+        <mark key="[" line="89" column="50" />
+        <mark key="]" line="89" column="96" />
+        <mark key="." line="89" column="96" />
+        <mark key="^" line="89" column="96" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/ratchet/translate/EnumTranslator.java" timestamp="1528493429061">
         <mark key="[" line="41" column="54" />
@@ -258,7 +258,7 @@
         <mark key="." line="118" column="13" />
         <mark key="^" line="118" column="13" />
       </file>
-      <file name="/fragment.java" timestamp="1528501353410">
+      <file name="/fragment.java" timestamp="1528750085001">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -375,10 +375,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>PERSONAL</text>
+        <text>getName()</text>
       </register>
       <register name="-" type="4">
-        <text>PERSONAL</text>
+        <text>getName()</text>
       </register>
       <register name="/" type="4">
         <text>index</text>
@@ -414,7 +414,7 @@
         <text encoding="base64">CQlkbi5zdWIuYWRkKG5ldyBEb3VibGVOZXN0ZWQpOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
@@ -450,7 +450,6 @@
         <entry>index</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zL2JlZm9yZS9hZnRlci9n</entry>
         <entry encoding="base64">JzwsJz5zL2FmdGVyL2JlZm9yZQ==</entry>
         <entry encoding="base64">JzwsJz5zb3J0</entry>
         <entry>s/;/\r/g</entry>
@@ -466,10 +465,11 @@
         <entry encoding="base64">JzwsJz5zL1ZlcnNpb24vVGlwL2c=</entry>
         <entry encoding="base64">JzwsJz5zL3RpcC9rZXkvZw==</entry>
         <entry>&quot;w</entry>
-        <entry>wq</entry>
         <entry encoding="base64">JzwsJz5zL2luZGV4L2ZpZWxkTmFtZQ==</entry>
         <entry encoding="base64">JzwsJz5zL2luZGV4L2ZpZWxkTmFtZS9n</entry>
+        <entry>:w</entry>
         <entry>w</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
