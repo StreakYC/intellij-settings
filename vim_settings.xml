@@ -59,7 +59,7 @@
         <mark key="." line="35" column="41" />
         <mark key="^" line="35" column="58" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/nondatastore/MessageMetadata.java" timestamp="1527892990782">
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/nondatastore/MessageMetadata.java" timestamp="1528758279900">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -140,6 +140,12 @@
         <mark key="]" line="152" column="78" />
         <mark key="." line="152" column="78" />
         <mark key="^" line="152" column="77" />
+      </file>
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/nondatastore/Envelope.java" timestamp="1528758286453">
+        <mark key="[" line="34" column="27" />
+        <mark key="]" line="72" column="128" />
+        <mark key="^" line="72" column="128" />
+        <mark key="." line="72" column="128" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/ratchet/InstanceFactory.java" timestamp="1528750059012">
         <mark key="[" line="39" column="0" />
@@ -332,12 +338,15 @@
         <mark key="]" line="50" column="43" />
         <mark key="." line="50" column="43" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/utils/RemoteAccess.java" timestamp="1528329967119">
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/mae/FlowVisibilityService.java" timestamp="1528758509478">
+        <mark key="[" line="55" column="72" />
+      </file>
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/utils/RemoteAccess.java" timestamp="1528758644466">
         <mark key="'" line="143" column="21" />
-        <mark key="[" line="122" column="8" />
-        <mark key="]" line="124" column="51" />
+        <mark key="[" line="309" column="63" />
+        <mark key="]" line="309" column="63" />
         <mark key="^" line="124" column="51" />
-        <mark key="." line="124" column="51" />
+        <mark key="." line="309" column="63" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/ratchet/KeyFactory.java" timestamp="1528235449612">
         <mark key="[" line="45" column="12" />
@@ -499,11 +508,11 @@
       <jump line="120" column="26" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/ratchet/translate/DataClassTranslator.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBTdGFydCB0byB0aGUgUGVybWlzc2lvbnMgZm9yIEVtYWlsTWFuYWdlcgo=</text>
+      <register name="&quot;" type="4">
+        <text>.getUserKey()</text>
       </register>
       <register name="-" type="4">
-        <text>getName()</text>
+        <text>.getUserKey()</text>
       </register>
       <register name="/" type="4">
         <text>index</text>
