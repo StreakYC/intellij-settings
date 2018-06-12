@@ -124,10 +124,11 @@
         <mark key="]" line="235" column="0" />
         <mark key="." line="235" column="0" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/ratchet/MetadataCalculatedField.java" timestamp="1528830784665">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/ratchet/MetadataCalculatedField.java" timestamp="1528833645068">
+        <mark key="[" line="18" column="17" />
+        <mark key="]" line="18" column="22" />
+        <mark key="." line="18" column="22" />
+        <mark key="^" line="18" column="22" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/utils/RequestChain.java" timestamp="1527105412514">
         <mark key="[" line="60" column="36" />
@@ -225,7 +226,7 @@
         <mark key="]" line="91" column="30" />
         <mark key="." line="91" column="30" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/ratchet/MetadataField.java" timestamp="1528830772942">
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/ratchet/MetadataField.java" timestamp="1528833571110">
         <mark key="'" line="34" column="0" />
         <mark key="[" line="96" column="0" />
         <mark key="]" line="96" column="7" />
@@ -408,10 +409,10 @@
         <mark key="^" line="49" column="176" />
         <mark key="." line="49" column="176" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/ratchet/AbstractMetadataField.java" timestamp="1528830761575">
-        <mark key="[" line="104" column="0" />
-        <mark key="]" line="104" column="0" />
-        <mark key="." line="104" column="0" />
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/ratchet/AbstractMetadataField.java" timestamp="1528833602551">
+        <mark key="[" line="103" column="0" />
+        <mark key="]" line="103" column="0" />
+        <mark key="." line="103" column="0" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/ratchet/translate/DataClassTranslator.java" timestamp="1528499470179">
         <mark key="'" line="109" column="26" />
@@ -603,11 +604,11 @@
       <jump line="47" column="0" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/ratchet/MetadataField.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEubGFuZy5yZWZsZWN0LkZpZWxkOwo=</text>
+      <register name="&quot;" type="4">
+        <text>MethodHandles.lookup().unreflectGetter(field);</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">cHVibGljIA==</text>
+        <text>MethodHandles.lookup().unreflectGetter(field);</text>
       </register>
       <register name="/" type="4">
         <text>private</text>
@@ -616,31 +617,31 @@
         <text encoding="base64">CQlNYXA8U3RyaW5nLCBGaWVsZD4gbXV0YWJsZU1hcCA9IE1hcHMubmV3SGFzaE1hcCgpOwoJCWlmIChrbGFzcy5nZXRTdXBlcmNsYXNzKCkgIT0gbnVsbCkgewoJCQkvLyBXZSBmaWxsIHRoaXMgaW4gZmlyc3Qgc28gdGhhdCB3ZSBjYW4gb3ZlcnJpZGUgdGhpbmdzCgkJCW11dGFibGVNYXAucHV0QWxsKGNyZWF0ZUZpZWxkc0J5TmFtZShrbGFzcy5nZXRTdXBlcmNsYXNzKCkpKTsKCQl9CgkJZm9yIChGaWVsZCBmaWVsZCA6IGtsYXNzLmdldERlY2xhcmVkRmllbGRzKCkpIHsKCQkJaWYgKChmaWVsZC5nZXRNb2RpZmllcnMoKSAmIGphdmEubGFuZy5yZWZsZWN0Lk1vZGlmaWVyLkZJTkFMKSAhPSBqYXZhLmxhbmcucmVmbGVjdC5Nb2RpZmllci5GSU5BTAoJCQkJJiYgbnVsbCA9PSBmaWVsZC5nZXRBbm5vdGF0aW9uKElnbm9yZS5jbGFzcykpIHsKCQkJCW11dGFibGVNYXAucHV0KGZpZWxkLmdldE5hbWUoKSwgZmllbGQpOwoJCQl9CgkJfQoJCXJldHVybiBJbW11dGFibGVNYXAuY29weU9mKG11dGFibGVNYXApOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEubGFuZy5yZWZsZWN0LkZpZWxkOwo=</text>
+        <text encoding="base64">CQlzZXR0ZXIgPSBNZXRob2RIYW5kbGVzLmxvb2t1cCgpLnVucmVmbGVjdFNldHRlcihmaWVsZCk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQlmaWVsZC5zZXRBY2Nlc3NpYmxlKHRydWUpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGphdmEubGFuZy5yZWZsZWN0LkZpZWxkOwo=</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">CUBPdmVycmlkZSBwdWJsaWMgRmllbGQgZ2V0RmllbGQoKSB7CgkJcmV0dXJuIG51bGw7Cgl9</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">CWFic3RyYWN0IHB1YmxpYyBGaWVsZCBnZXRGaWVsZCgpOwo=</text>
+      <register name="6" type="4">
+        <text encoding="base64">CUBPdmVycmlkZSBwdWJsaWMgRmllbGQgZ2V0RmllbGQoKSB7CgkJcmV0dXJuIG51bGw7Cgl9</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQlyZXR1cm4gZmllbGQ7Cgl9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQlyZXR1cm4gZmllbGQuZ2V0VHlwZSgpID09IExpc3QuY2xhc3M7IC8vIFRPRE8gLSBldwo=</text>
+        <text encoding="base64">CWFic3RyYWN0IHB1YmxpYyBGaWVsZCBnZXRGaWVsZCgpOwo=</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">CQkvLyBUT0RPIC0gdGhpcyBiZWxvbmdzIGJ5IHRoZSBvdGhlciBsaXN0IHNwZWNpZmljIGNyYXAuCgkJTGlzdDxNdXRhdGlvbj4gcmV0ID0gTGlzdHMubmV3QXJyYXlMaXN0KCk7CgkJaWYgKCFoYXNDaGlsZFRhYmxlcygpKSB7CgkJCXJldHVybiByZXQ7CgkJfQoJCUxpc3Q8T2JqZWN0PiBsaXN0ID0gZ2V0KGluc3RhbmNlKTsKCQlpZiAobnVsbCA9PSBsaXN0KSB7CgkJCXJldHVybiByZXQ7CgkJfQoKCQlmb3IgKENoaWxkVGFibGUgdGFibGU6IGdldENoaWxkVGFibGVzKCkpIHsKCQkJaW50IGkgPSAwOwoJCQlmb3IgKE9iamVjdCBpdGVtIDogbGlzdCkgewoJCQkJV3JpdGVCdWlsZGVyIGJ1aWxkZXIgPSBNdXRhdGlvbi5uZXdJbnNlcnRCdWlsZGVyKHRhYmxlLmdldE5hbWUoKSk7CgkJCQkgbWV0YWRhdGEuZ2V0TWV0YWRhdGFGaWVsZHMoKS5zdHJlYW0oKS5maWx0ZXIoZiAtPiBmLmlzS2V5IHx8IGYuaXNWZXJzaW9uKS5mb3JFYWNoKGYgLT4gewoJCQkJCSB0cnkgewoJCQkJCQkgZi5hZGRUb011dGF0aW9uQnVpbGRlcihpbnN0YW5jZSwgYnVpbGRlcik7CgkJCQkJIH0KCQkJCQkgY2F0Y2ggKFRocm93YWJsZSB0aHJvd2FibGUpIHsKCQkJCQkJIHRocm93YWJsZS5wcmludFN0YWNrVHJhY2UoKTsKCQkJCQkgfQoJCQkJIH0pOwoKCQkJCWJ1aWxkZXIuc2V0KGZpZWxkLmdldE5hbWUoKSArICJfb2Zmc2V0IikudG8oaSsrKTsKCgkJCQkvLyBva2F5LCB0aGlzIGlzIHdoZXJlIHRoaW5ncyBuZWVkIHRvIGJlIG1vcmUgY29tcGxleAoKCQkJCVRyYW5zbGF0b3IgdHJhbnNsYXRvciA9IFJhdGNoZXRTZXJ2aWNlLmdldElubmVyVHJhbnNsYXRvcihnZXRGaWVsZCgpLmdldEdlbmVyaWNUeXBlKCkpOwoJCQkJLy9ub2luc3BlY3Rpb24gdW5jaGVja2VkCgkJCQl0cmFuc2xhdG9yLmFkZFZhbHVlVG9NdXRhdGlvbihidWlsZGVyLCBmaWVsZC5nZXROYW1lKCksIGl0ZW0pOwoJCQkJcmV0LmFkZChidWlsZGVyLmJ1aWxkKCkpOwoJCQl9CgkJfQoJCXJldHVybiByZXQ7Cgl9</text>
+      <register name="9" type="2">
+        <text encoding="base64">CQlyZXR1cm4gZmllbGQ7Cgl9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
