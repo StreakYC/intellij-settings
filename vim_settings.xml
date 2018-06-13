@@ -63,11 +63,11 @@
         <mark key="]" line="5" column="24" />
         <mark key="." line="5" column="24" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/DAO.java" timestamp="1528931308430">
-        <mark key="[" line="2425" column="53" />
-        <mark key="]" line="2425" column="53" />
-        <mark key="^" line="2414" column="42" />
-        <mark key="." line="2425" column="53" />
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/DAO.java" timestamp="1528933134852">
+        <mark key="[" line="2435" column="0" />
+        <mark key="]" line="2435" column="0" />
+        <mark key="^" line="2437" column="59" />
+        <mark key="." line="2435" column="0" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/nondatastore/ThreadMetadata.java" timestamp="1527721666595">
         <mark key="[" line="74" column="0" />
@@ -80,10 +80,11 @@
         <mark key="." line="34" column="23" />
         <mark key="^" line="34" column="23" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/mae/MetaVisibilityService.java" timestamp="1528762156076">
-        <mark key="[" line="40" column="0" />
-        <mark key="]" line="40" column="10" />
-        <mark key="." line="40" column="0" />
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/mae/MetaVisibilityService.java" timestamp="1528933291900">
+        <mark key="[" line="23" column="63" />
+        <mark key="]" line="23" column="63" />
+        <mark key="." line="23" column="63" />
+        <mark key="^" line="23" column="63" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/ratchet/Annotations.java" timestamp="1528829307595">
         <mark key="[" line="14" column="13" />
@@ -434,6 +435,12 @@
         <mark key="^" line="3" column="21" />
         <mark key="." line="3" column="21" />
       </file>
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/mae/RulesetVisibilityService.java" timestamp="1528932250863">
+        <mark key="[" line="29" column="24" />
+        <mark key="]" line="29" column="24" />
+        <mark key="." line="29" column="24" />
+        <mark key="^" line="29" column="23" />
+      </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/AccessTeamApproval.java" timestamp="1528762863212">
         <mark key="[" line="23" column="14" />
         <mark key="]" line="23" column="13" />
@@ -454,6 +461,11 @@
         <mark key="]" line="16" column="37" />
         <mark key="^" line="16" column="37" />
         <mark key="." line="16" column="37" />
+      </file>
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/domains/Messages.java" timestamp="1528933549911">
+        <mark key="[" line="78" column="76" />
+        <mark key="]" line="81" column="16" />
+        <mark key="." line="81" column="16" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/ratchet/MetadataMethodField.java" timestamp="1528829673162">
         <mark key="[" line="4" column="21" />
@@ -515,10 +527,10 @@
         <mark key="." line="62" column="18" />
         <mark key="^" line="62" column="18" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/mae/FlowVisibilityService.java" timestamp="1528926722845">
-        <mark key="[" line="44" column="0" />
-        <mark key="]" line="44" column="0" />
-        <mark key="." line="44" column="0" />
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/mae/FlowVisibilityService.java" timestamp="1528931858673">
+        <mark key="[" line="27" column="13" />
+        <mark key="]" line="27" column="13" />
+        <mark key="." line="27" column="13" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/mae/VisibilityService.java" timestamp="1528928196896">
         <mark key="[" line="21" column="0" />
@@ -682,10 +694,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>UnifiedAccessFlow</text>
+        <text encoding="base64">VGVhbSA=</text>
       </register>
       <register name="-" type="4">
-        <text>UnifiedAccessFlow</text>
+        <text encoding="base64">VGVhbSA=</text>
       </register>
       <register name="/" type="4">
         <text>;</text>
@@ -694,31 +706,33 @@
         <text encoding="base64">CQkJbmV3IExlYWYoVklTSUJJTElUWS5OT05FKSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCWlmIChPYmplY3RzLm5vbk51bGwodGVhbSkpIHsKCQkJCQl0ZWFtSWQgPSB0ZWFtLmdldFRlYW1LZXkoKS5nZXRJZCgpOwoJCQkJfQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQljb250ZXh0Lm1lc3NhZ2UuZ2lkCg==</text>
+        <text encoding="base64">CQkJTG9uZyB0ZWFtSWQgPSBudWxsOwo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CS8vIFRPRE8gc2lkZSBlZmZlY3RzCg==</text>
+        <text encoding="base64">CS8vIFRPRE8gLSB3ZSBjYW4gZmlsdGVyIG91dCBhIGxvdCBtb3JlIGlmIHdlIGFyZSBidXJuaW5nIENQVSB0aW1lCglwdWJsaWMgc3RhdGljIExpc3Q8TWVzc2FnZUdyYW50PiBnZXRVbmlmaWVkQWNjZXNzQXBwcm92YWxzKFN0cmluZyB0YXJnZXRHaWQsIGxvbmcgdGVhbUlkLCBDb2xsZWN0aW9uPFN0cmluZz4gb3duZXJHaWRzKSB7CgkJcmV0dXJuIERBTy50ZWFtQXBwcm92YWxzQnlUYXJnZXRUZWFtT3JPd25lcih0ZWFtSWQsICkKCX0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJbmV3IERlbnkoKSwK</text>
+        <text encoding="base64">CQlMaXN0PE1lc3NhZ2VHcmFudD4gcmV0ID0gbmV3IEFycmF5TGlzdDw+KCk7CgkJLy8gVE9ETyByZXQuYWRkQWxsKFRlYW1BcHByb3ZhbC5jcmVhdGVGcm9tVGFyZ2V0QW5kT3duZXJzKHRlYW1JZCwgb3duZXJHaWRzKSk7CgkJLy8gVE9ETyByZXQuYWRkQWxsKEFjY2Vzc1VzZXJBcHByb3ZhbC5jcmVhdGVGcm9tVGFyZ2V0QW5kT3duZXJzKHRhcmdldEdpZCwgb3duZXJHaWRzKSk7CgkJcmV0dXJuIHJldDsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJbmV3IE5hbWVkVHlwZShEZW55LmNsYXNzKSwK</text>
+        <text encoding="base64">CQlmb3IgKEVudHJ5PFN0cmluZywgUnVsZXNldFZpc2liaWxpdHlTZXJ2aWNlPiBlbnRyeVNldCA6IGZsb3dSZWNvcmRCeUdpZC5lbnRyeVNldCgpKSB7CgkJCXRyeSB7CgkJCQlmbG93QnlHaWQucHV0KGVudHJ5U2V0LmdldEtleSgpLCBuZXcgUnVsZXNldFZpc2liaWxpdHlTZXJ2aWNlKGVudHJ5U2V0LmdldFZhbHVlKCkuZGF0YSkpOwoJCQl9CgkJCWNhdGNoIChJT0V4Y2VwdGlvbiBlKSB7CgkJCQllLnByaW50U3RhY2tUcmFjZSgpOwoJCQl9CgkJfQo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="7" type="4">
+        <text>//for (MessageGrantRuleset flow: flowList) {
+		//	ret.put(flow.gid, flow);
+		//}</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CS8vIFRPRE8gZmlndXJlIG91dCBpZiB3ZSB3YW50IHNpZGUgZWZmZWN0cywgYW5kIHdoYXQgdGhhdCB3b3VsZCBtZWFuCgkvLyBUT0RPIC0gRGVmYXVsdCBmbG93ID0gY3VycmVudCBzdGF0ZSAtLSBhYm91dCBleHRlcm5hbCBwZWVwcwo=</text>
+        <text encoding="base64">CQkJbmV3IEhhc0V4dGVybmFsQ29udGFjdCgpCg==</text>
       </register>
-      <register name="9" type="4">
-        <text>.getVisibility()</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
