@@ -48,6 +48,9 @@
         <mark key="]" line="557" column="0" />
         <mark key="." line="557" column="0" />
       </file>
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/mae/conditions/HasExternalRecipients.java" timestamp="1528928591696">
+        <mark key="[" line="2" column="34" />
+      </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/DAO.java" timestamp="1528925407980">
         <mark key="[" line="2426" column="8" />
         <mark key="]" line="2414" column="42" />
@@ -112,6 +115,12 @@
         <mark key="." line="147" column="0" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/realtime/RealtimeRouter.java" timestamp="1528846547068" />
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataupdaters/creators/MessageGrantCreator.java" timestamp="1528927839115">
+        <mark key="[" line="57" column="16" />
+        <mark key="]" line="57" column="16" />
+        <mark key="^" line="59" column="33" />
+        <mark key="." line="57" column="16" />
+      </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/ratchet/translate/StringTranslator.java" timestamp="1528494587656">
         <mark key="[" line="38" column="14" />
         <mark key="]" line="38" column="14" />
@@ -407,6 +416,7 @@
         <mark key="^" line="70" column="15" />
       </file>
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_152.jdk/Contents/Home/src.zip!/java/lang/annotation/ElementType.java" timestamp="1528826904568" />
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/mae/conditions/IsMe.java" timestamp="1528928344407" />
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/ratchet/Registrar.java" timestamp="1528235526244">
         <mark key="[" line="15" column="32" />
         <mark key="]" line="16" column="37" />
@@ -467,6 +477,12 @@
         <mark key="[" line="44" column="0" />
         <mark key="]" line="44" column="0" />
         <mark key="." line="44" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/mae/VisibilityService.java" timestamp="1528928196896">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="^" line="22" column="24" />
+        <mark key="." line="21" column="0" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/ratchet/schema/ChildTable.java" timestamp="1528750656247">
         <mark key="[" line="89" column="50" />
@@ -619,10 +635,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CQkJbmV3IERlbnkoKSwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>A</text>
       </register>
       <register name="/" type="4">
         <text>;</text>
@@ -631,31 +647,31 @@
         <text encoding="base64">CQkJbmV3IExlYWYoVklTSUJJTElUWS5OT05FKSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJbmV3IERlbnkoKSwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJbmV3IE5hbWVkVHlwZShEZW55LmNsYXNzKSwK</text>
+        <text encoding="base64">CS8vIFRPRE8gc2lkZSBlZmZlY3RzCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJbmV3IERlbnkoKSwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CS8vIFRPRE8gZmlndXJlIG91dCBpZiB3ZSB3YW50IHNpZGUgZWZmZWN0cywgYW5kIHdoYXQgdGhhdCB3b3VsZCBtZWFuCgkvLyBUT0RPIC0gRGVmYXVsdCBmbG93ID0gY3VycmVudCBzdGF0ZSAtLSBhYm91dCBleHRlcm5hbCBwZWVwcwo=</text>
+        <text encoding="base64">CQkJbmV3IE5hbWVkVHlwZShEZW55LmNsYXNzKSwK</text>
       </register>
-      <register name="5" type="4">
-        <text>.getVisibility()</text>
-      </register>
-      <register name="6" type="4">
-        <text encoding="base64">CgkJcmV0dXJuIGhlYWQuZXZhbHVhdGUoY29udGV4dCku</text>
-      </register>
-      <register name="7" type="2">
+      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">CUBPdmVycmlkZSBwdWJsaWMgRWZmZWN0IGV2YWx1YXRlKENvbnRleHQgY29udGV4dCkgewoJCXRoaXMuY29udGV4dCA9IGNvbnRleHQ7CgkJcmV0dXJuIHRoaXM7Cgl9Cg==</text>
+      <register name="6" type="2">
+        <text encoding="base64">CS8vIFRPRE8gZmlndXJlIG91dCBpZiB3ZSB3YW50IHNpZGUgZWZmZWN0cywgYW5kIHdoYXQgdGhhdCB3b3VsZCBtZWFuCgkvLyBUT0RPIC0gRGVmYXVsdCBmbG93ID0gY3VycmVudCBzdGF0ZSAtLSBhYm91dCBleHRlcm5hbCBwZWVwcwo=</text>
+      </register>
+      <register name="7" type="4">
+        <text>.getVisibility()</text>
+      </register>
+      <register name="8" type="4">
+        <text encoding="base64">CgkJcmV0dXJuIGhlYWQuZXZhbHVhdGUoY29udGV4dCku</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CXByaXZhdGUgQ29udGV4dCBjb250ZXh0Owo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
