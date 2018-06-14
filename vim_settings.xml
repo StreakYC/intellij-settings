@@ -409,11 +409,11 @@
         <mark key="]" line="199" column="0" />
         <mark key="." line="199" column="0" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/ratchet/QueryBuilder.java" timestamp="1529002229966">
-        <mark key="[" line="16" column="4" />
-        <mark key="]" line="16" column="10" />
-        <mark key="." line="16" column="10" />
-        <mark key="^" line="16" column="10" />
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/ratchet/QueryBuilder.java" timestamp="1529003622967">
+        <mark key="[" line="64" column="35" />
+        <mark key="]" line="65" column="23" />
+        <mark key="." line="65" column="23" />
+        <mark key="^" line="65" column="23" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/ratchet/objectify/Service.java" timestamp="1527719413669">
         <mark key="[" line="44" column="0" />
@@ -721,11 +721,11 @@
       <jump line="2431" column="66" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/DAO.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>.</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQlpZiAoIWhhc1doZXJlKSB7CgkJCWJ1aWxkZXIuYXBwZW5kKCJcblx0V0hFUkVcbiIpOwoJCQloYXNXaGVyZSA9IHRydWU7CgkJfQoJCWVsc2UgewoJCQlidWlsZGVyLmFwcGVuZCgiIEFORCAiKTsKCQl9Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>i</text>
       </register>
       <register name="/" type="4">
         <text>;</text>
@@ -734,33 +734,37 @@
         <text encoding="base64">CQkJbmV3IExlYWYoVklTSUJJTElUWS5OT05FKSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQlpZiAoIWhhc1doZXJlKSB7CgkJCWJ1aWxkZXIuYXBwZW5kKCJcblx0V0hFUkVcbiIpOwoJCQloYXNXaGVyZSA9IHRydWU7CgkJfQoJCWVsc2UgewoJCQlidWlsZGVyLmFwcGVuZCgiIEFORCAiKTsKCQl9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQlNYXA8U3RyaW5nLCBPYmplY3Q+IHBhcmFtcyA9IG5ldyBIYXNoTWFwPD4oKTsKCQlwYXJhbXMucHV0KCJ0YXJnZXRUZWFtSWQiLCB0YXJnZXRUZWFtSWQpOwo=</text>
+        <text encoding="base64">CQkJaWYgKCFoYXNXaGVyZSkgewoJCQkJYnVpbGRlci5hcHBlbmQoIlxuXHRXSEVSRVxuIik7CgkJCQloYXNXaGVyZSA9IHRydWU7CgkJCX0KCQkJZWxzZSB7CgkJCQlidWlsZGVyLmFwcGVuZCgiIEFORCAiKTsKCQkJfQo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">CQlTdGF0ZW1lbnQgcXVlcnkgPSBuZXcgUXVlcnlCdWlsZGVyKG1ldGFkYXRhKQoJCQkuY3VycmVudCgpCgkJCS5hZGRGaWx0ZXIoIigob3duZXJfT3JnYW5pemF0aW9uX25hbWUgPSBAb3duZXJfT3JnYW5pemF0aW9uX25hbWUgQU5EIG93bmVyX2lkID0gQG93bmVyX2lkKSBPUiB0YXJnZXRUZWFtSWQgPSBAdGFyZ2V0VGVhbUlkcykiLCBwYXJhbXMpCgkJCS5idWlsZCgpOwo=</text>
+      <register name="3" type="4">
+        <text>f (!hasWhere) {
+			builder.append(&quot;\n\tWHERE\n&quot;);
+			hasWhere = true;
+		}
+		else {
+			builder.append(&quot; AND &quot;);
+		}</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">CQlwYXJhbXMucHV0KCJvd25lcl9Pcmdhbml6YXRpb25fbmFtZSIsIG93bmVyLmdldE9yZ0tleSgpLmdldE5hbWUoKSk7CgkJcGFyYW1zLnB1dCgib3duZXJfaWQiLCBvd25lci5nZXRVc2VyS2V5KCkuZ2V0SWQoKSk7</text>
+      <register name="4" type="2">
+        <text encoding="base64">CQlidWlsZGVyLgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJLmdldEJ1aWxkZXIoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text>wner(Long targetTeamId, User owner) throws Throwable {
-		if (Objects.isNull(targetTeamId) || Objects.isNull(owner)) {
-			return Collections.emptyList();</text>
+      <register name="6" type="2">
+        <text encoding="base64">CXB1YmxpYyBCdWlsZGVyIGdldEJ1aWxkZXIoKSB7CgkJcmV0dXJuIGJ1aWxkZXI7Cgl9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQlMaXN0PE1lc3NhZ2VHcmFudFJ1bGVzZXQ+IGZsb3dzOyAvLyA9IE1lc3NhZ2VHcmFudFJ1bGVzZXQuZ2V0Rm9yR2lkcyhDb2xsZWN0aW9ucy5zaW5nbGV0b24odXNlci5nZXRHb29nbGVQcm9maWxlSWQoKSkpOwoJCS8vaWYgKGZsb3dzLnNpemUoKSA9PSAxKSB7CgkJLy8JcmV0dXJuIGZsb3dzLmdldCgwKTsKCQkvL30KCQlyZXR1cm4gbmV3IE1lc3NhZ2VHcmFudFJ1bGVzZXQodXNlci5nZXRHb29nbGVQcm9maWxlSWQoKSk7Cg==</text>
+        <text encoding="base64">CXByaXZhdGUgQnVpbGRlciBidWlsZGVyOwo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQlNYXA8U3RyaW5nLCBPYmplY3Q+IHBhcmFtcyA9IG5ldyBIYXNoTWFwPD4oKTsKCQlwYXJhbXMucHV0KCJ0YXJnZXRUZWFtSWQiLCB0YXJnZXRUZWFtSWQpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
