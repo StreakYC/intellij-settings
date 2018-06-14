@@ -19,7 +19,7 @@
         <mark key="." line="16" column="22" />
         <mark key="^" line="17" column="19" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/rewardly/mailfoo/unittests/MaeRemoteTest.java" timestamp="1528840479281">
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/rewardly/mailfoo/unittests/MaeRemoteTest.java" timestamp="1529007436609">
         <mark key="[" line="106" column="53" />
         <mark key="]" line="106" column="53" />
         <mark key="." line="106" column="53" />
@@ -409,11 +409,11 @@
         <mark key="]" line="199" column="0" />
         <mark key="." line="199" column="0" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/ratchet/QueryBuilder.java" timestamp="1529004431096">
-        <mark key="[" line="109" column="69" />
-        <mark key="]" line="110" column="19" />
-        <mark key="." line="110" column="19" />
-        <mark key="^" line="110" column="19" />
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/ratchet/QueryBuilder.java" timestamp="1529007574052">
+        <mark key="[" line="111" column="54" />
+        <mark key="]" line="111" column="54" />
+        <mark key="." line="111" column="54" />
+        <mark key="^" line="111" column="54" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/ratchet/objectify/Service.java" timestamp="1527719413669">
         <mark key="[" line="44" column="0" />
@@ -721,34 +721,37 @@
       <jump line="2431" column="66" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/DAO.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>Object</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">YnVpbGRlciA=</text>
+        <text>Object</text>
       </register>
       <register name="/" type="4">
         <text>;</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQkJbmV3IExlYWYoVklTSUJJTElUWS5OT05FKSwK</text>
+        <text encoding="base64">CQlhZGRXaGVyZU9yQW5kKCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CS8vIFRPRE8gLSB0aGlzIGlzIGNyYXAgLSBVU0UgVEhFIFRSQU5TTEFUT1JTISEhCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkgPSBidWlsZGVyLmJ1aWxkKCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQlidWlsZGVyLmdldEJ1aWxkZXIoKTsK</text>
+        <text encoding="base64">CQkgPSBidWlsZGVyLmJ1aWxkKCk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQlpZiAoIWhhc1doZXJlKSB7CgkJCWJ1aWxkZXIuYXBwZW5kKCJcblx0V0hFUkVcbiIpOwoJCQloYXNXaGVyZSA9IHRydWU7CgkJfQoJCWVsc2UgewoJCQlidWlsZGVyLmFwcGVuZCgiIEFORCAiKTsKCQl9Cg==</text>
+        <text encoding="base64">CQlidWlsZGVyLmdldEJ1aWxkZXIoKTsK</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">CQlpZiAoIWhhc1doZXJlKSB7CgkJCWJ1aWxkZXIuYXBwZW5kKCJcblx0V0hFUkVcbiIpOwoJCQloYXNXaGVyZSA9IHRydWU7CgkJfQoJCWVsc2UgewoJCQlidWlsZGVyLmFwcGVuZCgiIEFORCAiKTsKCQl9Cg==</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">CQkJaWYgKCFoYXNXaGVyZSkgewoJCQkJYnVpbGRlci5hcHBlbmQoIlxuXHRXSEVSRVxuIik7CgkJCQloYXNXaGVyZSA9IHRydWU7CgkJCX0KCQkJZWxzZSB7CgkJCQlidWlsZGVyLmFwcGVuZCgiIEFORCAiKTsKCQkJfQo=</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>f (!hasWhere) {
 			builder.append(&quot;\n\tWHERE\n&quot;);
 			hasWhere = true;
@@ -757,14 +760,11 @@
 			builder.append(&quot; AND &quot;);
 		}</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">CQlidWlsZGVyLgo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">CXB1YmxpYyBCdWlsZGVyIGdldEJ1aWxkZXIoKSB7CgkJcmV0dXJuIGJ1aWxkZXI7Cgl9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
