@@ -317,10 +317,10 @@
         <mark key="." line="8" column="11" />
         <mark key="^" line="8" column="30" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/MessageGrantRuleset.java" timestamp="1528925024140">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="." line="20" column="0" />
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/MessageGrantRuleset.java" timestamp="1528936609279">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="26" column="0" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/ratchet/translate/LongTranslator.java" timestamp="1528494280846">
         <mark key="[" line="35" column="40" />
@@ -693,10 +693,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CQlDb2xsZWN0aW9uPE1lc3NhZ2VHcmFudD4gYWxsTWVzc2FnZUdyYW50TGluZXMgPSBEQU8udGVhbUFwcHJvdmFsc0J5VGFyZ2V0VGVhbU9yT3duZXIodGVhbUlkLCBvd25lcik7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ZmluYWwg</text>
+        <text encoding="base64">U3RyaW5nIA==</text>
       </register>
       <register name="/" type="4">
         <text>;</text>
@@ -705,33 +705,31 @@
         <text encoding="base64">CQkJbmV3IExlYWYoVklTSUJJTElUWS5OT05FKSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQlDb2xsZWN0aW9uPE1lc3NhZ2VHcmFudD4gYWxsTWVzc2FnZUdyYW50TGluZXMgPSBEQU8udGVhbUFwcHJvdmFsc0J5VGFyZ2V0VGVhbU9yT3duZXIodGVhbUlkLCBvd25lcik7Cg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">CQkJCWlmIChPYmplY3RzLm5vbk51bGwodGVhbSkpIHsKCQkJCQl0ZWFtSWQgPSB0ZWFtLmdldFRlYW1LZXkoKS5nZXRJZCgpOwoJCQkJfQo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">CQkJTG9uZyB0ZWFtSWQgPSBudWxsOwo=</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">CX0K</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">CQl0aGlzLmdpZCA9IGdpZDsK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">CXB1YmxpYyBNZXNzYWdlR3JhbnRSdWxlc2V0KFN0cmluZyBnaWQpIHsK</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">CS8vIFRPRE8gLSB3ZSBjYW4gZmlsdGVyIG91dCBhIGxvdCBtb3JlIGlmIHdlIGFyZSBidXJuaW5nIENQVSB0aW1lCglwdWJsaWMgc3RhdGljIExpc3Q8TWVzc2FnZUdyYW50PiBnZXRVbmlmaWVkQWNjZXNzQXBwcm92YWxzKFN0cmluZyB0YXJnZXRHaWQsIGxvbmcgdGVhbUlkLCBDb2xsZWN0aW9uPFN0cmluZz4gb3duZXJHaWRzKSB7CgkJcmV0dXJuIERBTy50ZWFtQXBwcm92YWxzQnlUYXJnZXRUZWFtT3JPd25lcih0ZWFtSWQsICkKCX0K</text>
+        <text encoding="base64">CXB1YmxpYyBCb29sZWFuIGFjdGl2ZTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQlMaXN0PE1lc3NhZ2VHcmFudD4gcmV0ID0gbmV3IEFycmF5TGlzdDw+KCk7CgkJLy8gVE9ETyByZXQuYWRkQWxsKFRlYW1BcHByb3ZhbC5jcmVhdGVGcm9tVGFyZ2V0QW5kT3duZXJzKHRlYW1JZCwgb3duZXJHaWRzKSk7CgkJLy8gVE9ETyByZXQuYWRkQWxsKEFjY2Vzc1VzZXJBcHByb3ZhbC5jcmVhdGVGcm9tVGFyZ2V0QW5kT3duZXJzKHRhcmdldEdpZCwgb3duZXJHaWRzKSk7CgkJcmV0dXJuIHJldDsK</text>
+        <text encoding="base64">CQlDb2xsZWN0aW9uPE1lc3NhZ2VHcmFudD4gYWxsTWVzc2FnZUdyYW50TGluZXMgPSBEQU8udGVhbUFwcHJvdmFsc0J5VGFyZ2V0VGVhbU9yT3duZXIodGVhbUlkLCBvd25lcik7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQlmb3IgKEVudHJ5PFN0cmluZywgUnVsZXNldFZpc2liaWxpdHlTZXJ2aWNlPiBlbnRyeVNldCA6IGZsb3dSZWNvcmRCeUdpZC5lbnRyeVNldCgpKSB7CgkJCXRyeSB7CgkJCQlmbG93QnlHaWQucHV0KGVudHJ5U2V0LmdldEtleSgpLCBuZXcgUnVsZXNldFZpc2liaWxpdHlTZXJ2aWNlKGVudHJ5U2V0LmdldFZhbHVlKCkuZGF0YSkpOwoJCQl9CgkJCWNhdGNoIChJT0V4Y2VwdGlvbiBlKSB7CgkJCQllLnByaW50U3RhY2tUcmFjZSgpOwoJCQl9CgkJfQo=</text>
+        <text encoding="base64">CQkJCWlmIChPYmplY3RzLm5vbk51bGwodGVhbSkpIHsKCQkJCQl0ZWFtSWQgPSB0ZWFtLmdldFRlYW1LZXkoKS5nZXRJZCgpOwoJCQkJfQo=</text>
       </register>
-      <register name="8" type="4">
-        <text>//for (MessageGrantRuleset flow: flowList) {
-		//	ret.put(flow.gid, flow);
-		//}</text>
+      <register name="8" type="2">
+        <text encoding="base64">CQkJTG9uZyB0ZWFtSWQgPSBudWxsOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJbmV3IEhhc0V4dGVybmFsQ29udGFjdCgpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
