@@ -63,12 +63,12 @@
         <mark key="]" line="5" column="24" />
         <mark key="." line="5" column="24" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/DAO.java" timestamp="1529002028982">
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/DAO.java" timestamp="1529004416729">
         <mark key="'" line="2431" column="66" />
-        <mark key="[" line="2438" column="68" />
-        <mark key="]" line="2439" column="28" />
-        <mark key="^" line="2439" column="28" />
-        <mark key="." line="2439" column="28" />
+        <mark key="[" line="2438" column="23" />
+        <mark key="]" line="2440" column="62" />
+        <mark key="^" line="2440" column="62" />
+        <mark key="." line="2440" column="62" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/nondatastore/ThreadMetadata.java" timestamp="1527721666595">
         <mark key="[" line="74" column="0" />
@@ -409,11 +409,11 @@
         <mark key="]" line="199" column="0" />
         <mark key="." line="199" column="0" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/ratchet/QueryBuilder.java" timestamp="1529003622967">
-        <mark key="[" line="64" column="35" />
-        <mark key="]" line="65" column="23" />
-        <mark key="." line="65" column="23" />
-        <mark key="^" line="65" column="23" />
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/ratchet/QueryBuilder.java" timestamp="1529004431096">
+        <mark key="[" line="109" column="69" />
+        <mark key="]" line="110" column="19" />
+        <mark key="." line="110" column="19" />
+        <mark key="^" line="110" column="19" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/ratchet/objectify/Service.java" timestamp="1527719413669">
         <mark key="[" line="44" column="0" />
@@ -588,11 +588,11 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/ratchet/Metadata.java" timestamp="1528835729147">
-        <mark key="[" line="63" column="16" />
-        <mark key="]" line="63" column="23" />
-        <mark key="." line="63" column="23" />
-        <mark key="^" line="63" column="23" />
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/ratchet/Metadata.java" timestamp="1529004197625">
+        <mark key="[" line="160" column="69" />
+        <mark key="]" line="161" column="46" />
+        <mark key="." line="161" column="46" />
+        <mark key="^" line="161" column="46" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataupdaters/deleters/UnifiedApprovalEntityDeleter.java" timestamp="1528926178225">
         <mark key="[" line="16" column="13" />
@@ -722,10 +722,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CQlpZiAoIWhhc1doZXJlKSB7CgkJCWJ1aWxkZXIuYXBwZW5kKCJcblx0V0hFUkVcbiIpOwoJCQloYXNXaGVyZSA9IHRydWU7CgkJfQoJCWVsc2UgewoJCQlidWlsZGVyLmFwcGVuZCgiIEFORCAiKTsKCQl9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>i</text>
+        <text encoding="base64">YnVpbGRlciA=</text>
       </register>
       <register name="/" type="4">
         <text>;</text>
@@ -734,12 +734,21 @@
         <text encoding="base64">CQkJbmV3IExlYWYoVklTSUJJTElUWS5OT05FKSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQlpZiAoIWhhc1doZXJlKSB7CgkJCWJ1aWxkZXIuYXBwZW5kKCJcblx0V0hFUkVcbiIpOwoJCQloYXNXaGVyZSA9IHRydWU7CgkJfQoJCWVsc2UgewoJCQlidWlsZGVyLmFwcGVuZCgiIEFORCAiKTsKCQl9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">CQkgPSBidWlsZGVyLmJ1aWxkKCk7Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">CQlidWlsZGVyLmdldEJ1aWxkZXIoKTsK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">CQlpZiAoIWhhc1doZXJlKSB7CgkJCWJ1aWxkZXIuYXBwZW5kKCJcblx0V0hFUkVcbiIpOwoJCQloYXNXaGVyZSA9IHRydWU7CgkJfQoJCWVsc2UgewoJCQlidWlsZGVyLmFwcGVuZCgiIEFORCAiKTsKCQl9Cg==</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">CQkJaWYgKCFoYXNXaGVyZSkgewoJCQkJYnVpbGRlci5hcHBlbmQoIlxuXHRXSEVSRVxuIik7CgkJCQloYXNXaGVyZSA9IHRydWU7CgkJCX0KCQkJZWxzZSB7CgkJCQlidWlsZGVyLmFwcGVuZCgiIEFORCAiKTsKCQkJfQo=</text>
       </register>
-      <register name="3" type="4">
+      <register name="6" type="4">
         <text>f (!hasWhere) {
 			builder.append(&quot;\n\tWHERE\n&quot;);
 			hasWhere = true;
@@ -748,23 +757,14 @@
 			builder.append(&quot; AND &quot;);
 		}</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">CQlidWlsZGVyLgo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">CXB1YmxpYyBCdWlsZGVyIGdldEJ1aWxkZXIoKSB7CgkJcmV0dXJuIGJ1aWxkZXI7Cgl9Cg==</text>
-      </register>
       <register name="7" type="2">
-        <text encoding="base64">CXByaXZhdGUgQnVpbGRlciBidWlsZGVyOwo=</text>
+        <text encoding="base64">CQlidWlsZGVyLgo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQlNYXA8U3RyaW5nLCBPYmplY3Q+IHBhcmFtcyA9IG5ldyBIYXNoTWFwPD4oKTsKCQlwYXJhbXMucHV0KCJ0YXJnZXRUZWFtSWQiLCB0YXJnZXRUZWFtSWQpOwo=</text>
+        <text encoding="base64">CXB1YmxpYyBCdWlsZGVyIGdldEJ1aWxkZXIoKSB7CgkJcmV0dXJuIGJ1aWxkZXI7Cgl9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
