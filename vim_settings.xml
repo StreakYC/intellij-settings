@@ -269,10 +269,10 @@
         <mark key="." line="45" column="32" />
         <mark key="^" line="45" column="32" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/domains/Envelopes.java" timestamp="1529361436336">
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="30" column="0" />
-        <mark key="." line="30" column="0" />
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/domains/Envelopes.java" timestamp="1529362952351">
+        <mark key="[" line="28" column="66" />
+        <mark key="]" line="28" column="66" />
+        <mark key="." line="28" column="66" />
         <mark key="^" line="27" column="4" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/ratchet/Translators.java" timestamp="1528825946148">
@@ -393,6 +393,11 @@
         <mark key="." line="42" column="24" />
         <mark key="^" line="42" column="24" />
       </file>
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/mae/ContextFactory.java" timestamp="1529362941506">
+        <mark key="[" line="12" column="65" />
+        <mark key="]" line="12" column="65" />
+        <mark key="." line="12" column="65" />
+      </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/TeamApproval.java" timestamp="1528916123638">
         <mark key="[" line="6" column="17" />
         <mark key="]" line="6" column="17" />
@@ -405,6 +410,12 @@
         <mark key="]" line="25" column="0" />
         <mark key="." line="25" column="0" />
         <mark key="^" line="154" column="36" />
+      </file>
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/mae/models/Context.java" timestamp="1529362893990">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
+        <mark key="^" line="16" column="75" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/realtime/handlers/ApprovalHandler.java" timestamp="1528914235398">
         <mark key="[" line="2" column="28" />
@@ -536,7 +547,7 @@
         <mark key="." line="105" column="0" />
         <mark key="^" line="104" column="70" />
       </file>
-      <file name="/Dummy.txt" timestamp="1529358870845">
+      <file name="/Dummy.txt" timestamp="1529362851566">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -599,7 +610,6 @@
         <mark key="^" line="62" column="23" />
         <mark key="." line="62" column="0" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/utils/RedisMemcacheService.java" timestamp="1529354687669" />
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/nondatastore/AttachmentToken.java" timestamp="1527636403162">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
@@ -616,14 +626,13 @@
         <mark key="]" line="16" column="13" />
         <mark key="." line="16" column="13" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/MailfooImmutableDataModel.java" timestamp="1529355397956" />
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/MessageGrant.java" timestamp="1529356883590">
         <mark key="[" line="57" column="0" />
         <mark key="]" line="57" column="48" />
         <mark key="." line="57" column="0" />
         <mark key="^" line="48" column="47" />
       </file>
-      <file name="/fragment.java" timestamp="1529358877655">
+      <file name="/fragment.java" timestamp="1529362851561">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -744,53 +753,53 @@
       <jump line="162" column="53" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/ratchet/ImmutableTransactionCallable.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>messages</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>messages</text>
       </register>
       <register name="/" type="4">
-        <text>version</text>
+        <text>)</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQkvLyBUT0RPIC0gdmFsaWRhdGUgd2l0aCBudWxsIGNvbnN0cmFpbnRzCg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>, Messages messages</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gb2theSAtIGRvZXMgdGhpcyBqdXN0IHRha2UgdmlzaWJpbGl0eSwgb3IgZG9lcyBpdCByZXR1cm4gbWF0Y2hpbmcgcm93cz8KLy8gbWF5YmUgdGhhdCBtYWtlcyBubyBzZW5zZQo=</text>
+        <text encoding="base64">CQl0aGlzLm1lc3NhZ2VzID0gbWVzc2FnZXM7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkvLyBuZWVkIHRvIGFkZCB0YXJnZXRUZWFtSWQ9Rk9PIG9yIG93bmVySWQgaW4gb3duZXJzCg==</text>
+        <text encoding="base64">CXByaXZhdGUgZmluYWwgTWVzc2FnZXMgbWVzc2FnZXM7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCSAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQl2aXNpYmlsaXR5U2VydmljZSA9IG5ldyBNZXRhVmlzaWJpbGl0eVNlcnZpY2Uod29ya2Zsb3cuZ2V0VGVhbUtleSgpLmdldElkKCksIHVzZXJzLmdldFJlY29yZHMoKSk7Cg==</text>
+        <text encoding="base64">CXB1YmxpYyBUaHJlYWQgdGhyZWFkOwoJcHVibGljIEJveCBib3g7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQl1c2VycyA9IG5ldyBVc2VycyhtZXNzYWdlcy5nZXRHbWFpbFRocmVhZCgpLmdldEFsbFVzZXJzS2V5c1dpdGhBY2Nlc3MoKSk7Cg==</text>
+        <text encoding="base64">CQl0aGlzLmJveCA9IG5ldyBCb3goZ21haWxUaHJlYWQpOwoJCXRoaXMudGhyZWFkID0gbmV3IFRocmVhZChtZXNzYWdlcyk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CS8vIFRPRE8gaW5jbHVkZSBhcHByb3ZhbHMvcmVxdWVzdHMgcmVsYXRlZCB0byB0aGlzCg==</text>
+        <text encoding="base64">CQlpZiAoT2JqZWN0cy5ub25OdWxsKHRocmVhZCkgJiYgIXRocmVhZC5tYXRjaGVzKG90aGVyLnRocmVhZCkpIHsKCQkJcmV0dXJuIGZhbHNlOwoJCX0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gVE9ETyAtIHdlIGRvbid0IGRldGVjdCB3cml0aW5nIHVuY2hhbmdlZCB2YWx1ZXMgYW5kIHR1cm4gdGhlbSBpbnRvIG5vLW9wcwo=</text>
+        <text encoding="base64">CQlpZiAoT2JqZWN0cy5ub25OdWxsKGJveCkgJiYgIWJveC5tYXRjaGVzKG90aGVyLmJveCkpIHsKCQkJcmV0dXJuIGZhbHNlOwoJCX0KCQlpZiAoT2JqZWN0cy5ub25OdWxsKHBpcGVsaW5lKSAmJiAhcGlwZWxpbmUubWF0Y2hlcyhvdGhlci5waXBlbGluZSkpIHsKCQkJcmV0dXJuIGZhbHNlOwoJCX0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQl0aGlzLnBpcGVsaW5lID0gbmV3IFBpcGVsaW5lKGdtYWlsVGhyZWFkKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>version</last-search>
+      <last-search>)</last-search>
       <last-offset />
-      <last-pattern>version</last-pattern>
+      <last-pattern>)</last-pattern>
       <last-replace>message</last-replace>
       <last-substitute>teamMessage</last-substitute>
       <last-dir>1</last-dir>
@@ -798,7 +807,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">Pj4+</entry>
         <entry>\t</entry>
         <entry>simple</entry>
         <entry>Simple</entry>
@@ -818,6 +826,7 @@
         <entry>TeamMessage</entry>
         <entry>teamMessage</entry>
         <entry>version</entry>
+        <entry>)</entry>
       </history-search>
       <history-cmd>
         <entry>%s/\t/    /g</entry>
