@@ -321,12 +321,12 @@
         <mark key="." line="45" column="32" />
         <mark key="^" line="45" column="32" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/domains/Envelopes.java" timestamp="1529948570203">
-        <mark key="'" line="32" column="0" />
-        <mark key="[" line="59" column="62" />
-        <mark key="]" line="61" column="76" />
-        <mark key="." line="61" column="76" />
-        <mark key="^" line="61" column="76" />
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/domains/Envelopes.java" timestamp="1530049364937">
+        <mark key="'" line="36" column="0" />
+        <mark key="[" line="68" column="38" />
+        <mark key="]" line="68" column="38" />
+        <mark key="." line="68" column="38" />
+        <mark key="^" line="65" column="76" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataupdaters/getters/MailboxRulesetGetter.java" timestamp="1529959963182">
         <mark key="[" line="20" column="13" />
@@ -845,11 +845,11 @@
       <jump line="115" column="52" filename="$USER_HOME$/src/MailFoo/curls" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>messages.getGmailThread()</text>
       </register>
       <register name="-" type="4">
-        <text>i</text>
+        <text>messages.getGmailThread()</text>
       </register>
       <register name="/" type="4">
         <text>\\n</text>
