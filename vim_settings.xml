@@ -82,7 +82,7 @@
         <mark key="." line="2421" column="29" />
         <mark key="^" line="2421" column="29" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataupdaters/getters/UnifiedMessageGetter.java" timestamp="1530824200077" />
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataupdaters/getters/UnifiedMessageGetter.java" timestamp="1530834116408" />
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/nondatastore/ThreadMetadata.java" timestamp="1529361175274">
         <mark key="[" line="29" column="0" />
         <mark key="]" line="29" column="0" />
@@ -218,7 +218,7 @@
         <mark key="." line="47" column="71" />
         <mark key="^" line="47" column="71" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/google/apis/google-api-services-gmail/v1-rev73-1.22.0/google-api-services-gmail-v1-rev73-1.22.0-sources.jar!/com/google/api/services/gmail/model/MessagePartBody.java" timestamp="1530832332712" />
+      <file name="$MAVEN_REPOSITORY$/com/google/apis/google-api-services-gmail/v1-rev73-1.22.0/google-api-services-gmail-v1-rev73-1.22.0-sources.jar!/com/google/api/services/gmail/model/MessagePartBody.java" timestamp="1530834222742" />
       <file name="$USER_HOME$/src/MailFoo/curls" timestamp="1530824356472">
         <mark key="'" line="103" column="52" />
         <mark key="[" line="104" column="185" />
@@ -640,11 +640,11 @@
         <mark key="." line="220" column="0" />
         <mark key="^" line="241" column="51" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/nondatastore/Message.java" timestamp="1530832469870">
-        <mark key="[" line="176" column="36" />
-        <mark key="]" line="176" column="36" />
-        <mark key="." line="176" column="36" />
-        <mark key="^" line="180" column="29" />
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/nondatastore/Message.java" timestamp="1530834238471">
+        <mark key="[" line="163" column="27" />
+        <mark key="]" line="163" column="63" />
+        <mark key="." line="163" column="63" />
+        <mark key="^" line="163" column="63" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/mae/FlowVisibilityService.java" timestamp="1528931858673">
         <mark key="[" line="27" column="13" />
@@ -840,10 +840,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>attachmentMetadata.contentsUrl.toString()</text>
+        <text>setData</text>
       </register>
       <register name="-" type="4">
-        <text>attachmentMetadata.contentsUrl.toString()</text>
+        <text>setData</text>
       </register>
       <register name="/" type="4">
         <text>&quot;</text>
