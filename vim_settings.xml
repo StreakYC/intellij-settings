@@ -75,7 +75,7 @@
         <mark key="]" line="5" column="24" />
         <mark key="." line="5" column="24" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/DAO.java" timestamp="1530039077453">
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/DAO.java" timestamp="1530821856704">
         <mark key="'" line="2443" column="0" />
         <mark key="[" line="2420" column="9" />
         <mark key="]" line="2421" column="29" />
@@ -229,9 +229,9 @@
         <mark key="]" line="144" column="50" />
         <mark key="." line="144" column="50" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/listeners/SpannerContextListener.java" timestamp="1530572080556">
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/listeners/SpannerContextListener.java" timestamp="1530820838743">
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataupdaters/creators/UnifiedApprovalCreator.java" timestamp="1528926118566">
         <mark key="[" line="22" column="13" />
@@ -652,11 +652,12 @@
         <mark key="^" line="20" column="34" />
         <mark key="." line="20" column="34" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/utils/RemoteAccess.java" timestamp="1530572948567">
-        <mark key="'" line="153" column="21" />
-        <mark key="[" line="140" column="0" />
-        <mark key="]" line="140" column="0" />
-        <mark key="." line="140" column="0" />
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/utils/RemoteAccess.java" timestamp="1530822051543">
+        <mark key="'" line="146" column="21" />
+        <mark key="[" line="122" column="37" />
+        <mark key="]" line="146" column="16" />
+        <mark key="." line="146" column="16" />
+        <mark key="^" line="146" column="16" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/rewardly/mailfoo/unittests/RatchetUnitTests.java" timestamp="1528749987505">
         <mark key="[" line="164" column="0" />
@@ -836,52 +837,52 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">CQ==</text>
+        <text>gxzfm1haWxmb29nYWVyOwsSDE9yZ2FuaXphdGlvbiIUdmFkYWtvY29uc3VsdGluZy5jb20MCxILR21haWxUaHJlYWQY6dT9rAEM Endpoint: https://mailfoogae.appspot.com/api/v2/unified/metadata</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">CQ==</text>
+        <text>gxzfm1haWxmb29nYWVyOwsSDE9yZ2FuaXphdGlvbiIUdmFkYWtvY29uc3VsdGluZy5jb20MCxILR21haWxUaHJlYWQY6dT9rAEM Endpoint: https://mailfoogae.appspot.com/api/v2/unified/metadata</text>
       </register>
       <register name="/" type="4">
-        <text>\\n</text>
+        <text>&quot;</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQlSYXRjaGV0U2VydmljZS5yZWdpc3RlcihNZXNzYWdlR3JhbnQuY2xhc3MpOwo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">CQlTZXJ2aWNlLnNldHVwKCk7Cg==</text>
+      <register name="1" type="4">
+        <text>agxzfm1haWxmb29nYWVyMAsSDE9yZ2FuaXphdGlvbiIKa25vdGVsLmNvbQwLEgtHbWFpbFRocmVhZBiygPhvDA</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJKExpc3Q8VXNlcj4pbmV3IEFycmF5TGlzdDxVc2VyPigpCg==</text>
+        <text encoding="base64">CQlTZXJ2aWNlLnNldHVwKCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJKExpc3Q8VXNlcj4pbmV3IEFycmF5TGlzdDxVc2VyPigpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJCQkgICAK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">CQlwcmVwYXJlRm9yU2VyaWFsaXphdGlvbigpOwo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">CQkJCQkgICAK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">CQlwcmVwYXJlRm9yU2VyaWFsaXphdGlvbigpOwo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">CXByaXZhdGUgdm9pZCBwcmVwYXJlRm9yU2VyaWFsaXphdGlvbigpIHsKCQlmb3IgKEVudmVsb3BlIGVudmVsb3BlIDogcmVjb3JkcykgewoJCQllbnZlbG9wZS5wcmVwYXJlRm9yU2VyaWFsaXphdGlvbigpOwoJCX0KCX0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQlyZXR1cm4gcmVjb3JkczsK</text>
+        <text encoding="base64">CXByaXZhdGUgdm9pZCBwcmVwYXJlRm9yU2VyaWFsaXphdGlvbigpIHsKCQlmb3IgKEVudmVsb3BlIGVudmVsb3BlIDogcmVjb3JkcykgewoJCQllbnZlbG9wZS5wcmVwYXJlRm9yU2VyaWFsaXphdGlvbigpOwoJCX0KCX0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQlyZWNvcmRzID0gbWVzc2FnZXMuYnlSZmNJZCgpCgkJCQkJCSAgLnN0cmVhbSgpCgkJCQkJCSAgLm1hcCh0aGlzOjpjcmVhdGVFbnZlbG9wZSkKCQkJCQkJICAuZmlsdGVyKE9wdGlvbmFsOjppc1ByZXNlbnQpCgkJCQkJCSAgLm1hcChPcHRpb25hbDo6Z2V0KQoJCQkJCQkgIC5jb2xsZWN0KENvbGxlY3RvcnMudG9MaXN0KCkpOwo=</text>
+        <text encoding="base64">CQlyZXR1cm4gcmVjb3JkczsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>\\n</last-search>
+      <last-search>&quot;</last-search>
       <last-offset />
-      <last-pattern>\\n</last-pattern>
+      <last-pattern>&quot;</last-pattern>
       <last-replace />
       <last-substitute>\\n</last-substitute>
       <last-dir>1</last-dir>
@@ -897,7 +898,6 @@
         <entry>tip</entry>
         <entry>getKeyFi</entry>
         <entry>getTab</entry>
-        <entry>&quot;</entry>
         <entry>index</entry>
         <entry>private</entry>
         <entry>;</entry>
@@ -909,6 +909,7 @@
         <entry>)</entry>
         <entry>'</entry>
         <entry>\\n</entry>
+        <entry>&quot;</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL3NpbXBsZS9jb21wbGV4L2c=</entry>
