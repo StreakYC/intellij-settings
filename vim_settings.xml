@@ -134,7 +134,7 @@
         <mark key="]" line="15" column="22" />
         <mark key="." line="15" column="22" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/nondatastore/Envelope.java" timestamp="1530050257285">
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/nondatastore/Envelope.java" timestamp="1530835408946">
         <mark key="[" line="97" column="0" />
         <mark key="]" line="97" column="0" />
         <mark key="." line="97" column="0" />
@@ -517,11 +517,11 @@
         <mark key="." line="49" column="58" />
         <mark key="^" line="49" column="58" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/nondatastore/AttachmentMetadata.java" timestamp="1530831485436">
-        <mark key="[" line="25" column="30" />
-        <mark key="]" line="27" column="32" />
-        <mark key="." line="27" column="32" />
-        <mark key="^" line="27" column="32" />
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/nondatastore/AttachmentMetadata.java" timestamp="1530836368743">
+        <mark key="[" line="16" column="27" />
+        <mark key="]" line="19" column="4" />
+        <mark key="." line="19" column="4" />
+        <mark key="^" line="19" column="4" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/ratchet/schema/SpannerTable.java" timestamp="1528481003120">
         <mark key="[" line="19" column="0" />
@@ -640,11 +640,12 @@
         <mark key="." line="220" column="0" />
         <mark key="^" line="241" column="51" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/nondatastore/Message.java" timestamp="1530834238471">
-        <mark key="[" line="163" column="27" />
-        <mark key="]" line="163" column="63" />
-        <mark key="." line="163" column="63" />
-        <mark key="^" line="163" column="63" />
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/nondatastore/Message.java" timestamp="1530837430413">
+        <mark key="'" line="164" column="62" />
+        <mark key="[" line="165" column="35" />
+        <mark key="]" line="166" column="45" />
+        <mark key="." line="166" column="45" />
+        <mark key="^" line="166" column="45" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/mae/FlowVisibilityService.java" timestamp="1528931858673">
         <mark key="[" line="27" column="13" />
@@ -737,7 +738,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="515" column="0" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/utils/RedisMemcacheService.java" />
       <jump line="121" column="27" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/utils/RedisMemcacheService.java" />
       <jump line="0" column="0" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/realtime/RealtimeTask.java" />
       <jump line="28" column="4" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/utils/ConfiguredMemecacheService.java" />
@@ -837,13 +837,14 @@
       <jump line="31" column="38" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/domains/Envelopes.java" />
       <jump line="32" column="0" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/domains/Envelopes.java" />
       <jump line="115" column="52" filename="$USER_HOME$/src/MailFoo/curls" />
+      <jump line="164" column="62" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/nondatastore/Message.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>setData</text>
+        <text>HtmlParts</text>
       </register>
       <register name="-" type="4">
-        <text>setData</text>
+        <text>HtmlParts</text>
       </register>
       <register name="/" type="4">
         <text>&quot;</text>
@@ -852,31 +853,31 @@
         <text encoding="base64">CQkJaW5saW5lSW1hZ2UuYXR0cigic3JjIiwgYXR0YWNobWVudE1ldGFkYXRhLmNvbnRlbnRzVXJsLnRvU3RyaW5nKCkpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJYXR0YWNobWVudE1ldGFkYXRhLmF0dGFjaG1lbnRJZCA9IHBhcnQuZ2V0Qm9keSgpLmdldEF0dGFjaG1lbnRJZCgpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJZm9yIChNZXNzYWdlUGFydEhlYWRlciBoZWFkZXI6IHBhcnQuZ2V0SGVhZGVycygpKSB7CgkJCQlpZiAoKQoJCQl9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CX0K</text>
+        <text encoding="base64">CQkJZm9yICgpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CXByaXZhdGUgYm9vbGVhbiBoYXNDaWREYXRhKFN0cmluZyBjaWQpIHsKCQlyZXR1cm4gZmFsc2U7Cg==</text>
+        <text encoding="base64">CQkJU3RyaW5nIG1pbWVUeXBlID0gcGFydC5nZXRNaW1lVHlwZSgpOwo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQlTeXN0ZW0ub3V0LnByaW50bG4oY2lkKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJU3RyaW5nIGF0dGFjaG1lbnRJZCA9IHBhcnQuZ2V0Qm9keSgpLmdldEF0dGFjaG1lbnRJZCgpOwo=</text>
+        <text encoding="base64">CX0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJU3lzdGVtLm91dC5wcmludGxuKGF0dGFjaG1lbnRJZCk7Cg==</text>
+        <text encoding="base64">CXByaXZhdGUgYm9vbGVhbiBoYXNDaWREYXRhKFN0cmluZyBjaWQpIHsKCQlyZXR1cm4gZmFsc2U7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
