@@ -75,12 +75,12 @@
         <mark key="]" line="5" column="24" />
         <mark key="." line="5" column="24" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/DAO.java" timestamp="1530914507747">
-        <mark key="'" line="2445" column="0" />
-        <mark key="[" line="2289" column="16" />
-        <mark key="]" line="2289" column="33" />
-        <mark key="." line="2289" column="33" />
-        <mark key="^" line="2289" column="33" />
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/DAO.java" timestamp="1531161879641">
+        <mark key="'" line="2452" column="0" />
+        <mark key="[" line="2301" column="79" />
+        <mark key="]" line="2301" column="79" />
+        <mark key="^" line="2304" column="59" />
+        <mark key="." line="2301" column="79" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/nondatastore/ThreadMetadata.java" timestamp="1529361175274">
         <mark key="[" line="29" column="0" />
@@ -117,6 +117,7 @@
         <mark key="]" line="19" column="13" />
         <mark key="." line="19" column="13" />
       </file>
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/spanner/partial/MessageThread.java" timestamp="1531161370548" />
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/MailboxAccessRequest.java" timestamp="1528926072697">
         <mark key="[" line="29" column="0" />
         <mark key="]" line="30" column="44" />
@@ -227,7 +228,7 @@
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataupdaters/getters/UnifiedAttachmentGetter.java" timestamp="1530839117012">
         <mark key="[" line="42" column="0" />
         <mark key="]" line="42" column="0" />
-        <mark key="^" line="82" column="89" />
+        <mark key="^" line="86" column="89" />
         <mark key="." line="42" column="0" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/RegisteredDevice.java" timestamp="1528312994230">
@@ -354,6 +355,12 @@
         <mark key="[" line="27" column="0" />
         <mark key="]" line="27" column="0" />
         <mark key="." line="27" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/spanner/Message.java" timestamp="1531162602157">
+        <mark key="[" line="129" column="56" />
+        <mark key="]" line="129" column="60" />
+        <mark key="^" line="129" column="60" />
+        <mark key="." line="129" column="60" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/MailMerge.java" timestamp="1527657634910">
         <mark key="[" line="91" column="30" />
@@ -658,12 +665,12 @@
         <mark key="^" line="20" column="34" />
         <mark key="." line="20" column="34" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/utils/RemoteAccess.java" timestamp="1531159913857">
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/utils/RemoteAccess.java" timestamp="1531162531555">
         <mark key="'" line="148" column="42" />
-        <mark key="[" line="148" column="17" />
-        <mark key="]" line="148" column="17" />
-        <mark key="." line="148" column="17" />
-        <mark key="^" line="148" column="17" />
+        <mark key="[" line="184" column="0" />
+        <mark key="]" line="184" column="0" />
+        <mark key="." line="184" column="0" />
+        <mark key="^" line="180" column="60" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/rewardly/mailfoo/unittests/RatchetUnitTests.java" timestamp="1528749987505">
         <mark key="[" line="164" column="0" />
@@ -841,43 +848,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>vadim@vadakoconsulting.com</text>
+        <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>vadim@vadakoconsulting.com</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
         <text>&quot;</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQkJQXR0YWNobWVudE1ldGFkYXRhIGF0dGFjaG1lbnRNZXRhZGF0YSA9IG5ldyBBdHRhY2htZW50TWV0YWRhdGEoKTsKCQkJYXR0YWNobWVudE1ldGFkYXRhLmF0dGFjaG1lbnRJZCA9IHBhcnQuZ2V0Qm9keSgpLmdldEF0dGFjaG1lbnRJZCgpOwoJCQlhdHRhY2htZW50TWV0YWRhdGEubWltZVR5cGUgPSBwYXJ0LmdldE1pbWVUeXBlKCk7CgkJCWF0dGFjaG1lbnRNZXRhZGF0YS5uYW1lID0gcGFydC5nZXRGaWxlbmFtZSgpOwoJCQlhdHRhY2htZW50TWV0YWRhdGEuc2l6ZSA9IExvbmcudmFsdWVPZihwYXJ0LmdldEJvZHkoKS5nZXRTaXplKCkpOwo=</text>
+        <text encoding="base64">CQlTdHJpbmcgbWFpbGJveFN1YnF1ZXJ5ID0gIlNFTEVDVCBBUyBTVFJVQ1QgKiBGUk9NIE1lc3NhZ2VNYWlsYm94ZXMgV0hFUkUgTWVzc2FnZXMuZ2lkID0gTWVzc2FnZU1haWxib3hlcy5naWQgQU5EIE1lc3NhZ2VzLm1lc3NhZ2VJZCA9IE1lc3NhZ2VNYWlsYm94ZXMubWVzc2FnZUlkIjsKCQlTdHJpbmcgZmlsZXNTdWJxdWVyeSA9ICJTRUxFQ1QgQVMgU1RSVUNUICogRlJPTSBNZXNzYWdlRmlsZXMgV0hFUkUgTWVzc2FnZXMuZ2lkID0gTWVzc2FnZUZpbGVzLmdpZCBBTkQgTWVzc2FnZXMubWVzc2FnZUlkID0gTWVzc2FnZUZpbGVzLm1lc3NhZ2VJZCI7CgoJCUJ1aWxkZXIgYnVpbGRlciA9IFN0YXRlbWVudC5uZXdCdWlsZGVyKAoJCQkiU0VMRUNUIE1lc3NhZ2VzLioiICsKCQkJCSIsIEFSUkFZKCIgKyBtYWlsYm94U3VicXVlcnkgKyAiKSBBUyBtYWlsYm94ZXMiICsKCQkJCSIsIEFSUkFZKCIgKyBmaWxlc1N1YnF1ZXJ5ICsgIikgQVMgZmlsZXMgICIgKwoJCQkJIiBGUk9NIE1lc3NhZ2VzQHtGT1JDRV9JTkRFWD1NZXNzYWdlc0J5VGhyZWFkSWR9IiArCgkJCQkiIEpPSU4gQWNjb3VudHMgVVNJTkcgKGdpZCkgIiArIC8vIG1heWJlIHdlIGNhbiBxdWVyeSB0aGUgQWNjb3VudHMnIGxhc3RDb21wbGV0ZUluZGV4UnVuIGVsc2V3aGVyZSB0byBraWxsIHRoaXMgam9pbgoJCQkJIiBXSEVSRSBzZWVuT25JbmRleFJ1biA+PSBsYXN0Q29tcGxldGVJbmRleFJ1biAiCgkJKTsKCQlMaXN0PFN0cmluZz4gd2hlcmVDbGF1c2VzID0gbmV3IEFycmF5TGlzdDw+KCk7CgoJCWludCBpID0gMDsKCQlmb3IgKE1lc3NhZ2VUaHJlYWQgdGhyZWFkIDogdGhyZWFkcykgewoJCQlidWlsZGVyLmJpbmQoU3RyaW5nLmZvcm1hdCgiZ2lkJWQiLCBpKSkudG8odGhyZWFkLmdpZCk7CgkJCWJ1aWxkZXIuYmluZChTdHJpbmcuZm9ybWF0KCJ0aHJlYWRJZCVkIiwgaSkpLnRvKHRocmVhZC50aHJlYWRJZCk7CgkJCXdoZXJlQ2xhdXNlcy5hZGQoU3RyaW5nLmZvcm1hdCgiKGdpZCA9IEBnaWQlZCBBTkQgdGhyZWFkSWQgPSBAdGhyZWFkSWQlZCkiLCBpLCBpKSk7CgkJCWkgKz0gMTsKCQl9CgkJYnVpbGRlci5hcHBlbmQoIiBBTkQgKCIgKyBTdHJpbmcuam9pbigiIE9SICIsIHdoZXJlQ2xhdXNlcykgKyAiKSIpOwoJCXJldHVybiBjcmVhdGVGcm9tU3RhdGVtZW50KGJ1aWxkZXIuYnVpbGQoKSk7Cg==</text>
       </register>
-      <register name="1" type="4">
-        <text>vadim@vadakoconsulting.com</text>
+      <register name="1" type="2">
+        <text encoding="base64">CQlNYXA8S2V5PFVzZXI+LCBVc2VyPiB1c2VycyA9IFJlcXVlc3RVc2VyQ2FjaGUuSU5TVEFOQ0UuZ2V0VXNlcnMoZ21haWxUaHJlYWQuZ2V0QWxsVXNlcnNLZXlzV2l0aEFjY2VzcygpKTsK</text>
       </register>
-      <register name="2" type="4">
-        <text>agxzfm1haWxmb29nYWVyOwsSDE9yZ2FuaXphdGlvbiIUdmFkYWtvY29uc3VsdGluZy5jb20MCxILR21haWxUaHJlYWQY6dT9rAEM</text>
-      </register>
-      <register name="3" type="4">
-        <text>vadim@zenithinteractive.com</text>
-      </register>
-      <register name="4" type="4">
-        <text>agxzfm1haWxmb29nYWVyMQsSDE9yZ2FuaXphdGlvbiIKZmx1eGluYy5jYQwLEgtHbWFpbFRocmVhZBiBm7WABww</text>
-      </register>
-      <register name="5" type="4">
-        <text>geoff@customtattoodesign.ca</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">LyoK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">CQkJCVNldDxLZXk8VXNlcj4+IHRlYW1NZW1iZXJLZXlzID0gbmV3IEhhc2hTZXQ8Pih0ZWFtLmdldFVzZXJLZXlzRm9yVXNpbmdNZW1iZXJzKCkpOwo=</text>
-      </register>
-      <register name="8" type="2">
+      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">CQlTZXQ8S2V5PFVzZXI+PiBpbmRpcmVjdFVzZXJLZXlzID0gZ21haWxUaHJlYWQuZ2V0SW5kaXJlY3RBY2Nlc3NVc2VyS2V5cygpOwo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">CQlTZXQ8S2V5PFVzZXI+PiBkaXJlY3RVc2VyS2V5cyA9IGdtYWlsVGhyZWFkLmdldERpcmVjdEFjY2Vzc1VzZXJLZXlzKCk7Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">CQlMaXN0PE1lc3NhZ2U+IHJldCA9IG5ldyBBcnJheUxpc3Q8PigpOwo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJCWZvciAoS2V5PFVzZXI+IGV4cGxpY2l0VXNlcktleSA6IHdvcmtmbG93LmdldFVzZXJzV2l0aEV4cGxpY2l0QWNjZXNzKCkpIHsKCgkJCQl9Cg==</text>
+        <text encoding="base64">CQlyZXR1cm4gbWVzc2FnZXM7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
