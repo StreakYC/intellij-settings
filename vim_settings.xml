@@ -368,11 +368,10 @@
         <mark key="." line="37" column="46" />
         <mark key="^" line="37" column="46" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataupdaters/getters/EnvelopesGetter.java" timestamp="1531959252861">
-        <mark key="[" line="59" column="27" />
-        <mark key="]" line="59" column="27" />
-        <mark key="." line="59" column="27" />
-        <mark key="^" line="49" column="4" />
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataupdaters/getters/EnvelopesGetter.java" timestamp="1531960225687">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="25" column="0" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/rewardly/mailfoo/dataaccess/ratchet/SchemaWriter.java" timestamp="1529516722569">
         <mark key="[" line="68" column="27" />
@@ -599,8 +598,8 @@
       <jump line="488" column="40" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataupdaters/DataWorkerFactory.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>RequestDataService.getCurrentUsersTeams();</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IGNvbS5yZXdhcmRseS5tYWlsZm9vLnV0aWxzLlJlcXVlc3REYXRhU2VydmljZTsK</text>
       </register>
       <register name="-" type="4">
         <text>RequestDataService.getCurrentUsersTeams();</text>
@@ -612,16 +611,16 @@
         <text encoding="base64">CQkJUmVxdWVzdERhdGFTZXJ2aWNlLnNldFVzZXJzVGVhbXMoREFPLmdldEFsbFRlYW1zVXNlcklzT24odXNlci5nZXRVc2VyS2V5KCkpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJTGlzdDxNZXNzYWdlPiBtZXNzYWdlczsK</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5yZXdhcmRseS5tYWlsZm9vLnV0aWxzLlJlcXVlc3REYXRhU2VydmljZTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQlyZXR1cm4gbnVsbDsK</text>
+        <text encoding="base64">CQkJTGlzdDxNZXNzYWdlPiBtZXNzYWdlczsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJRW52ZWxvcGVzIGVudmVsb3BlcyA9IG5ldyBFbnZlbG9wZXMobnVsbCwgdSwgbmV3IE1lc3NhZ2VzKG1lc3NhZ2VzKSwgdXNlcnMsIG1lc3NhZ2VHcmFudHMsIGZsb3dCeUdpZCk7CgkJCXJldHVybiBlbnZlbG9wZXMuZ2V0UmVjb3JkcygpOwo=</text>
+        <text encoding="base64">CQlyZXR1cm4gbnVsbDsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJRW52ZWxvcGVzIGVudmVsb3BlcyA9IG5ldyBFbnZlbG9wZXMobnVsbCwgdSwgbmV3IE1lc3NhZ2VzKG1lc3NhZ2VzKSwgdXNlcnMsIG1lc3NhZ2VHcmFudHMsIGZsb3dCeUdpZCk7CgkJCXJldHVybiBlbnZlbG9wZXMuZ2V0UmVjb3JkcygpOwo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
@@ -630,13 +629,13 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJTGlzdDxNZXNzYWdlR3JhbnQ+IG1lc3NhZ2VHcmFudHMgPSBEQU8uZ2V0TWVzc2FnZUdyYW50cyh1c2Vycy5nZXRSZWNvcmRzKCksIHRlYW0sIHUpOwoJCQlNYXA8U3RyaW5nLCBSdWxlc2V0VmlzaWJpbGl0eVNlcnZpY2U+IGZsb3dCeUdpZCA9IERBTy5nZXRNZXNzYWdlR3JhbnRSdWxlc2V0Rm9yVXNlcnModXNlcnMuZ2V0UmVjb3JkcygpKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJVXNlcnMgdXNlcnMgPSBuZXcgVXNlcnModGVhbVVzZXJLZXlzKTsK</text>
+        <text encoding="base64">CQkJTGlzdDxNZXNzYWdlR3JhbnQ+IG1lc3NhZ2VHcmFudHMgPSBEQU8uZ2V0TWVzc2FnZUdyYW50cyh1c2Vycy5nZXRSZWNvcmRzKCksIHRlYW0sIHUpOwoJCQlNYXA8U3RyaW5nLCBSdWxlc2V0VmlzaWJpbGl0eVNlcnZpY2U+IGZsb3dCeUdpZCA9IERBTy5nZXRNZXNzYWdlR3JhbnRSdWxlc2V0Rm9yVXNlcnModXNlcnMuZ2V0UmVjb3JkcygpKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJOjpnZXRVc2VyS2V5c0ZvclVzaW5nTWVtYmVycykpOwo=</text>
+        <text encoding="base64">CQkJVXNlcnMgdXNlcnMgPSBuZXcgVXNlcnModGVhbVVzZXJLZXlzKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
