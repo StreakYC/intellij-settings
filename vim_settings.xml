@@ -235,6 +235,13 @@
         <mark key="^" line="3" column="21" />
         <mark key="." line="3" column="21" />
       </file>
+      <file name="$USER_HOME$/src/MailFoo/containers/ddl.sql" timestamp="1532027675365">
+        <mark key="'" line="80" column="45" />
+        <mark key="[" line="80" column="43" />
+        <mark key="]" line="80" column="45" />
+        <mark key="^" line="80" column="45" />
+        <mark key="." line="80" column="45" />
+      </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/GmailThread.java" timestamp="1531173731913">
         <mark key="[" line="471" column="0" />
         <mark key="]" line="472" column="53" />
@@ -379,6 +386,7 @@
         <mark key="^" line="49" column="176" />
         <mark key="." line="49" column="176" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/google/cloud/google-cloud-spanner/0.33.0-beta/google-cloud-spanner-0.33.0-beta-sources.jar!/com/google/cloud/spanner/KeySet.java" timestamp="1532025009118" />
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/MessageGrantTarget.java" timestamp="1529346701393">
         <mark key="[" line="10" column="25" />
         <mark key="]" line="10" column="25" />
@@ -391,6 +399,7 @@
         <mark key="^" line="120" column="74" />
         <mark key="." line="120" column="74" />
       </file>
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataupdaters/getters/CaseGetter.java" timestamp="1532028164554" />
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/ratchet/translate/DataClassTranslator.java" timestamp="1529521791840">
         <mark key="'" line="110" column="26" />
         <mark key="[" line="81" column="96" />
@@ -404,7 +413,7 @@
         <mark key="^" line="121" column="72" />
         <mark key="." line="127" column="8" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataupdaters/getters/ContactEnvelopesGetter.java" timestamp="1531938524862">
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataupdaters/getters/ContactEnvelopesGetter.java" timestamp="1532028190091">
         <mark key="[" line="69" column="79" />
         <mark key="]" line="69" column="78" />
         <mark key="^" line="69" column="78" />
@@ -429,18 +438,18 @@
         <mark key="^" line="20" column="34" />
         <mark key="." line="20" column="34" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/ratchet/KeyFactory.java" timestamp="1528235449612">
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/ratchet/KeyFactory.java" timestamp="1532024968877">
         <mark key="[" line="45" column="12" />
         <mark key="]" line="45" column="32" />
         <mark key="." line="45" column="32" />
         <mark key="^" line="45" column="32" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/utils/RemoteAccess.java" timestamp="1531955462426">
-        <mark key="'" line="150" column="42" />
-        <mark key="[" line="208" column="27" />
-        <mark key="]" line="207" column="97" />
-        <mark key="." line="207" column="97" />
-        <mark key="^" line="207" column="97" />
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/utils/RemoteAccess.java" timestamp="1532028243368">
+        <mark key="'" line="216" column="39" />
+        <mark key="[" line="213" column="51" />
+        <mark key="]" line="216" column="39" />
+        <mark key="." line="216" column="39" />
+        <mark key="^" line="216" column="39" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/api/AuthFilter.java" timestamp="1531959245569">
         <mark key="[" line="140" column="0" />
@@ -498,9 +507,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="337" column="43" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/utils/RedisMemcacheService.java" />
-      <jump line="496" column="35" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/utils/RedisMemcacheService.java" />
-      <jump line="149" column="16" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/utils/RemoteAccess.java" />
       <jump line="43" column="66" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/utils/ConfiguredMemcacheService.java" />
       <jump line="156" column="8" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/utils/RemoteAccess.java" />
       <jump line="169" column="8" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/utils/RemoteAccess.java" />
@@ -598,66 +604,67 @@
       <jump line="58" column="0" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataupdaters/getters/OrganizationEnvelopesGetter.java" />
       <jump line="50" column="8" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataupdaters/getters/OrganizationEnvelopesGetter.java" />
       <jump line="488" column="40" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataupdaters/DataWorkerFactory.java" />
+      <jump line="68" column="45" filename="$USER_HOME$/src/MailFoo/containers/ddl.sql" />
+      <jump line="241" column="47" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/utils/RemoteAccess.java" />
+      <jump line="215" column="39" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/utils/RemoteAccess.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>MAILBOX_NAME_COL</text>
+        <text>&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>MAILBOX_NAME_COL</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
-        <text>Envelop</text>
+        <text>Email</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQkJCQkJCQkJLnNldChTcGFubmVyQ29uc3RhbnRzLk1BSUxCT1hfTkFNRV9DT0wpLnRvKG5hbWUpCg==</text>
+        <text encoding="base64">CQkJCQkJCQkJCQkgICAuc2V0KCJtYWlsYm94RW1haWwiKS50byhtYWlsYm94LmdldFN0cmluZygibWFpbGJveEVtYWlsIikpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5yZXdhcmRseS5tYWlsZm9vLnV0aWxzLlJlcXVlc3REYXRhU2VydmljZTsK</text>
+        <text encoding="base64">CQlTcGFubmVyLnNldE1vZGUoTW9kZS5QRVJTT05BTCk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJTGlzdDxNZXNzYWdlPiBtZXNzYWdlczsK</text>
+        <text encoding="base64">CQkJMTAwMDc0NjkxMTcwOTYyNTU2MTc5Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQlyZXR1cm4gbnVsbDsK</text>
+        <text encoding="base64">CQkJCQkvLy5zZXQoIm1haWxib3hOYW1lIikudG8oPyBtYWlsYm94LmdldFN0cmluZygibWFpbGJveE5hbWUiKSA6IG51bGwpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJRW52ZWxvcGVzIGVudmVsb3BlcyA9IG5ldyBFbnZlbG9wZXMobnVsbCwgdSwgbmV3IE1lc3NhZ2VzKG1lc3NhZ2VzKSwgdXNlcnMsIG1lc3NhZ2VHcmFudHMsIGZsb3dCeUdpZCk7CgkJCXJldHVybiBlbnZlbG9wZXMuZ2V0UmVjb3JkcygpOwo=</text>
+        <text encoding="base64">CQkJCS8vLnNldCgibWFpbGJveE5hbWUiKS50byg/IG1haWxib3guZ2V0U3RyaW5nKCJtYWlsYm94TmFtZSIpIDogbnVsbCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCQkJCQkJCQkgICAvLy5zZXQoIm1haWxib3hOYW1lIikudG8obWFpbGJveC5pc051bGwoIm1haWxib3hOYW1lIikgPyBtYWlsYm94LmdldFN0cmluZygibWFpbGJveE5hbWUiKSA6IG51bGwpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQlmaWVsZHMuYWRkKCJnaWQiKTsKCQlmaWVsZHMuYWRkKCJtZXNzYWdlSWQiKTsKCQlmaWVsZHMuYWRkKCJpbnRlcm5hbERhdGUiKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQlMaXN0PFN0cmluZz4gZmllbGRzID0gbmV3IEFycmF5TGlzdDw+KCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJTGlzdDxNZXNzYWdlR3JhbnQ+IG1lc3NhZ2VHcmFudHMgPSBEQU8uZ2V0TWVzc2FnZUdyYW50cyh1c2Vycy5nZXRSZWNvcmRzKCksIHRlYW0sIHUpOwoJCQlNYXA8U3RyaW5nLCBSdWxlc2V0VmlzaWJpbGl0eVNlcnZpY2U+IGZsb3dCeUdpZCA9IERBTy5nZXRNZXNzYWdlR3JhbnRSdWxlc2V0Rm9yVXNlcnModXNlcnMuZ2V0UmVjb3JkcygpKTsK</text>
+        <text encoding="base64">CQkJCQkJCQkJLnJlYWQoIk1lc3NhZ2VzIiwgS2V5U2V0LnByZWZpeFJhbmdlKGNvbS5nb29nbGUuY2xvdWQuc3Bhbm5lci5LZXkub2YoZ2lkKSksIGZpZWxkcyk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJVXNlcnMgdXNlcnMgPSBuZXcgVXNlcnModGVhbVVzZXJLZXlzKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>Envelop</last-search>
+      <last-search>Email</last-search>
       <last-offset />
-      <last-pattern>Envelop</last-pattern>
-      <last-replace>Organization</last-replace>
-      <last-substitute>Contact</last-substitute>
+      <last-pattern>Email</last-pattern>
+      <last-replace>Name</last-replace>
+      <last-substitute>Email</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>getTab</entry>
         <entry>index</entry>
         <entry>private</entry>
-        <entry>;</entry>
         <entry encoding="base64">XDxTdGF0ZW1lbnRcPg==</entry>
         <entry>User</entry>
         <entry>TeamMessage</entry>
@@ -674,10 +681,10 @@
         <entry>contact</entry>
         <entry>Contact</entry>
         <entry>Envelop</entry>
+        <entry>;</entry>
+        <entry>Email</entry>
       </history-search>
       <history-cmd>
-        <entry>&quot;w</entry>
-        <entry encoding="base64">JzwsJz5zL2luZGV4L2ZpZWxkTmFtZQ==</entry>
         <entry encoding="base64">JzwsJz5zL2luZGV4L2ZpZWxkTmFtZS9n</entry>
         <entry>:w</entry>
         <entry encoding="base64">JzwsJz5zL3ByaXZhdGUvcHJvdGVjdGVk</entry>
@@ -695,6 +702,8 @@
         <entry>%s/Contact/Organization</entry>
         <entry>%s/contact/organization/g</entry>
         <entry>%s/Contact/Organization/g</entry>
+        <entry>s/Email/Builder/g</entry>
+        <entry>s/Email/Name/g</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
