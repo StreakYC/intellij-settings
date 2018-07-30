@@ -282,12 +282,12 @@
         <mark key="." line="47" column="71" />
         <mark key="^" line="47" column="71" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/curls" timestamp="1532984102459">
-        <mark key="'" line="103" column="52" />
-        <mark key="[" line="124" column="52" />
-        <mark key="]" line="124" column="12" />
-        <mark key="^" line="124" column="12" />
-        <mark key="." line="124" column="12" />
+      <file name="$USER_HOME$/src/MailFoo/curls" timestamp="1532986991899">
+        <mark key="'" line="247" column="2" />
+        <mark key="[" line="251" column="5" />
+        <mark key="]" line="251" column="5" />
+        <mark key="^" line="251" column="5" />
+        <mark key="." line="251" column="5" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/ratchet/Registrar.java" timestamp="1530040853433">
         <mark key="[" line="15" column="32" />
@@ -496,7 +496,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="172" column="8" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/utils/RemoteAccess.java" />
       <jump line="175" column="8" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/utils/RemoteAccess.java" />
       <jump line="181" column="8" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/utils/RemoteAccess.java" />
       <jump line="218" column="0" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/utils/RedisMemcacheService.java" />
@@ -596,16 +595,17 @@
       <jump line="451" column="92" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/DAO.java" />
       <jump line="2658" column="59" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/DAO.java" />
       <jump line="1703" column="0" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/DAO.java" />
+      <jump line="246" column="2" filename="$USER_HOME$/src/MailFoo/curls" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQkJCXRocmVhZElkID0gbWVzc2FnZS50aHJlYWRJZDsK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA=</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA=</text>
       </register>
       <register name="/" type="4">
-        <text>Email</text>
+        <text>^</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQkJCQkJCQkJCQkgICAuc2V0KCJtYWlsYm94RW1haWwiKS50byhtYWlsYm94LmdldFN0cmluZygibWFpbGJveEVtYWlsIikpCg==</text>
@@ -642,17 +642,16 @@
       </register>
     </registers>
     <search>
-      <last-search>Email</last-search>
+      <last-search>^</last-search>
       <last-offset />
-      <last-pattern>Email</last-pattern>
-      <last-replace>Name</last-replace>
-      <last-substitute>Email</last-substitute>
+      <last-pattern>^</last-pattern>
+      <last-replace encoding="base64">ICAgICAgICAgICAgICAgIA==</last-replace>
+      <last-substitute>^</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>index</entry>
         <entry>private</entry>
         <entry encoding="base64">XDxTdGF0ZW1lbnRcPg==</entry>
         <entry>User</entry>
@@ -672,9 +671,9 @@
         <entry>Envelop</entry>
         <entry>;</entry>
         <entry>Email</entry>
+        <entry>^</entry>
       </history-search>
       <history-cmd>
-        <entry>:w</entry>
         <entry encoding="base64">JzwsJz5zL3ByaXZhdGUvcHJvdGVjdGVk</entry>
         <entry>s/User/Team/g</entry>
         <entry encoding="base64">JzwsJz5zL1RlYW1NZXNzYWdlL01lc3NhZ2U=</entry>
@@ -692,8 +691,9 @@
         <entry>%s/Contact/Organization/g</entry>
         <entry>s/Email/Builder/g</entry>
         <entry>s/Email/Name/g</entry>
-        <entry>w</entry>
         <entry>Vex</entry>
+        <entry encoding="base64">JzwsJz5zL14vICAgICAgICAgICAgICAgIA==</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
