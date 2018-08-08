@@ -149,7 +149,7 @@
         <mark key="." line="47" column="71" />
         <mark key="^" line="47" column="71" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/curls" timestamp="1533664618023">
+      <file name="$USER_HOME$/src/MailFoo/curls" timestamp="1533754842359">
         <mark key="'" line="214" column="0" />
         <mark key="[" line="123" column="0" />
         <mark key="]" line="123" column="0" />
@@ -237,10 +237,10 @@
         <mark key="." line="45" column="32" />
         <mark key="^" line="45" column="32" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/spanner/Message.java" timestamp="1533159911399">
-        <mark key="[" line="112" column="0" />
-        <mark key="]" line="113" column="18" />
-        <mark key="." line="113" column="18" />
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/spanner/Message.java" timestamp="1533754747830">
+        <mark key="[" line="113" column="0" />
+        <mark key="]" line="113" column="0" />
+        <mark key="." line="113" column="0" />
         <mark key="^" line="113" column="18" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/ratchet/MetadataField.java" timestamp="1530045700481">
@@ -594,8 +594,8 @@
       <jump line="216" column="0" filename="$USER_HOME$/src/MailFoo/curls" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>0</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CS8vIFRPRE8gLSBzaG91bGQgdGhlIGluZGV4IGFjdHVhbGx5IGJlIChtYWlsYm94RG9tYWluLCBnaWQsIGludGVybmFsRGF0ZSgK</text>
       </register>
       <register name="-" type="4">
         <text>0</text>
@@ -607,7 +607,7 @@
         <text encoding="base64">CQkJYW0ueW91QmV0dGVySGF2ZUFEYW1uR29vZFJlYXNvblRvQ2FsbFRoaXMoIkRvbWFpbiBzZWFyY2hpbmcgaXMgaW50ZXJuYWxseSB2YWxpZGF0ZWQiKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CS8vIFRPRE8gLSBzaG91bGQgdGhlIGluZGV4IGFjdHVhbGx5IGJlIChtYWlsYm94RG9tYWluLCBnaWQsIGludGVybmFsRGF0ZSgK</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
@@ -619,20 +619,19 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJO2QK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">CQkJS2V5PFVzZXI+IHVzZXJLZXkgPSAobnVsbCAhPSB1c2VyS2V5U3RyKSA/IEtleS5jcmVhdGUodXNlcktleVN0cikgOiB1LmdldFVzZXJLZXkoKTsK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">CQkJCXRocm93IG5ldyBCYWRQYXJhbWV0ZXJzRXhjZXB0aW9uKCJNaXNzaW5nIHUiKQo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text>big
-teamContact/VGVhbUNvbnRhY3Qsfn5zdHJlYWtsb25naWR-fjIz</text>
+      <register name="6" type="2">
+        <text encoding="base64">CQkJO2QK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">CQkJS2V5PFVzZXI+IHVzZXJLZXkgPSAobnVsbCAhPSB1c2VyS2V5U3RyKSA/IEtleS5jcmVhdGUodXNlcktleVN0cikgOiB1LmdldFVzZXJLZXkoKTsK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">CQkJCXRocm93IG5ldyBCYWRQYXJhbWV0ZXJzRXhjZXB0aW9uKCJNaXNzaW5nIHUiKQo=</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
