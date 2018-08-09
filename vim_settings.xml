@@ -35,12 +35,6 @@
         <mark key="." line="158" column="17" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/pom.xml" timestamp="1533240336661" />
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/DAO.java" timestamp="1533657168182">
-        <mark key="'" line="420" column="8" />
-        <mark key="[" line="2332" column="0" />
-        <mark key="]" line="2332" column="0" />
-        <mark key="." line="2332" column="0" />
-      </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/ratchet/schema/SpannerField.java" timestamp="1529353276716">
         <mark key="[" line="55" column="15" />
         <mark key="]" line="55" column="21" />
@@ -386,6 +380,7 @@
         <mark key="." line="68" column="29" />
         <mark key="^" line="68" column="29" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/google/cloud/google-cloud-spanner/0.33.0-beta/google-cloud-spanner-0.33.0-beta-sources.jar!/com/google/cloud/spanner/Key.java" timestamp="1533837694130" />
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/ratchet/Registrar.java" timestamp="1530040853433">
         <mark key="[" line="15" column="32" />
         <mark key="]" line="16" column="37" />
@@ -455,11 +450,10 @@
         <mark key="^" line="20" column="34" />
         <mark key="." line="20" column="34" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/utils/RemoteAccess.java" timestamp="1532040072462">
-        <mark key="'" line="218" column="39" />
-        <mark key="[" line="223" column="0" />
-        <mark key="]" line="223" column="0" />
-        <mark key="." line="223" column="0" />
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/utils/RemoteAccess.java" timestamp="1533837808558">
+        <mark key="[" line="159" column="40" />
+        <mark key="]" line="159" column="40" />
+        <mark key="." line="159" column="40" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/ratchet/schema/ChildTable.java" timestamp="1529528147093">
         <mark key="[" line="89" column="50" />
@@ -618,10 +612,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IC8vIFRPRE8gLSB1cmwgaXMgYmVpbmcgZXNjYXBlZCBhbmQgc2hvdWxkbjsndA==</text>
+        <text>.newBuilder().append().build()</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IC8vIFRPRE8gLSB1cmwgaXMgYmVpbmcgZXNjYXBlZCBhbmQgc2hvdWxkbjsndA==</text>
+        <text>.newBuilder().append().build()</text>
       </register>
       <register name="/" type="4">
         <text>start</text>
