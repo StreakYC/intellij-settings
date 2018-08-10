@@ -63,11 +63,11 @@
         <mark key="." line="49" column="0" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/nondatastore/ThreadMetadata.java" timestamp="1533571918890" />
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataupdaters/getters/AbstractEnvelopeGetter.java" timestamp="1533776195623">
-        <mark key="[" line="90" column="27" />
-        <mark key="]" line="90" column="27" />
-        <mark key="." line="90" column="27" />
-        <mark key="^" line="28" column="6" />
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataupdaters/getters/AbstractEnvelopeGetter.java" timestamp="1533924833507">
+        <mark key="[" line="26" column="74" />
+        <mark key="]" line="27" column="0" />
+        <mark key="^" line="27" column="0" />
+        <mark key="." line="27" column="0" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/filters/OpenCensusFilter.java" timestamp="1533579489508">
         <mark key="[" line="62" column="66" />
@@ -648,47 +648,47 @@
       <jump line="66" column="15" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/filters/ExtractRequestDataFilter.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">TUVUSE9EIA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CXByb3RlY3RlZCBsb25nIG5leHRFbmQoKSB7CgkJCgl9Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">TUVUSE9EIA==</text>
+        <text>nextParams</text>
       </register>
       <register name="/" type="4">
         <text>aiStr</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQkJCWJ1aWxkZXIuYmluZChTdHJpbmcuZm9ybWF0KCJlbWFpbF8lZCIsIGluZGV4KSkudG8oZW1haWwpOwo=</text>
+        <text encoding="base64">CXByb3RlY3RlZCBsb25nIG5leHRFbmQoKSB7CgkJCgl9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCSogMTAwMCAtICg3TCAqIDEwMDAgKiA2MCAqIDYwICogMjQpKSk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">CQlNYXA8U3RyaW5nLCBTdHJpbmc+IG5leHRQYXJhbXMgPSBuZXcgSGFzaE1hcDw+KCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkgKi8K</text>
+        <text encoding="base64">CQlyZXNwb25zZS5uZXh0ID0gbmV4dFBhcmFtczsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJCUxpc3Q8TWVzc2FnZVRocmVhZD4gcmV0ID0gTGlzdHMubmV3QXJyYXlMaXN0KCk7Cg==</text>
+        <text encoding="base64">CQlIdHRwU2VydmxldFJlcXVlc3QgY3VycmVudFJlcXVlc3QgPSBSZXF1ZXN0RGF0YVNlcnZpY2UuZ2V0Q3VycmVudFJlcXVlc3QoKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJCXdoaWxlIChyZXN1bHRTZXQubmV4dCgpKSB7CgkJCQkJcmV0LmFkZChuZXcgTWVzc2FnZVRocmVhZChyZXN1bHRTZXQuZ2V0Q3VycmVudFJvd0FzU3RydWN0KCkpKTsKCQkJCX0KCQkJCXJldHVybiByZXQ7Cg==</text>
+        <text encoding="base64">CQkJY3VycmVudFJlcXVlc3QuZ2V0UmVxdWVzdFVSTCgpLnRvU3RyaW5nKCkgKwoJCQkJIj8iICsKCQkJCW5leHRQYXJhbXMuZW50cnlTZXQoKQoJCQkJCQkgIC5zdHJlYW0oKQoJCQkJCQkgIC5tYXAoZXMgLT4gZXMuZ2V0S2V5KCkgKyAiPSIgKyBlcy5nZXRWYWx1ZSgpKQoJCQkJCQkgIC5jb2xsZWN0KENvbGxlY3RvcnMuam9pbmluZygiJiIpKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJdHJ5IChTY29wZSBwcm9maWxlclNjID0gcHJvZmlsZXIuc3RhcnRBY2N1bXVsYXRlU2NvcGUoInNwYW5uZXIgcmVhZCIpKSB7Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">CQlTdHJpbmcgcXVlcnlUZXh0ID0gCg==</text>
-      </register>
-      <register name="9" type="2">
         <text encoding="base64">CQo=</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">CQkgKi8K</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">CQkJCUxpc3Q8TWVzc2FnZVRocmVhZD4gcmV0ID0gTGlzdHMubmV3QXJyYXlMaXN0KCk7Cg==</text>
+      </register>
       <register name=":" type="4">
-        <text>s/;/\r/g</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -742,8 +742,8 @@
         <entry>wq</entry>
         <entry>s/email/gid/g</entry>
         <entry encoding="base64">JzwsJz5zL01BWC9NSU4=</entry>
-        <entry>w</entry>
         <entry>s/;/\r/g</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
