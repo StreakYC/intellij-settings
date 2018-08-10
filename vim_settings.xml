@@ -107,9 +107,9 @@
         <mark key="^" line="23" column="24" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/Spanner.java" timestamp="1533851696243">
-        <mark key="[" line="84" column="0" />
-        <mark key="]" line="84" column="0" />
-        <mark key="." line="84" column="0" />
+        <mark key="[" line="83" column="0" />
+        <mark key="]" line="83" column="0" />
+        <mark key="." line="83" column="0" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/utils/Constants.java" timestamp="1533759117320" />
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataupdaters/creators/MessageGrantCreator.java" timestamp="1529947997728">
@@ -161,12 +161,12 @@
         <mark key="." line="47" column="71" />
         <mark key="^" line="47" column="71" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/curls" timestamp="1533853619615">
-        <mark key="'" line="368" column="0" />
-        <mark key="[" line="315" column="1" />
-        <mark key="]" line="318" column="0" />
-        <mark key="^" line="318" column="0" />
-        <mark key="." line="318" column="0" />
+      <file name="$USER_HOME$/src/MailFoo/curls" timestamp="1533920773242">
+        <mark key="'" line="371" column="34" />
+        <mark key="[" line="368" column="1" />
+        <mark key="]" line="371" column="34" />
+        <mark key="^" line="371" column="34" />
+        <mark key="." line="371" column="34" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataupdaters/getters/UnifiedAttachmentGetter.java" timestamp="1530839117012">
         <mark key="[" line="42" column="0" />
@@ -254,6 +254,13 @@
         <mark key="]" line="45" column="32" />
         <mark key="." line="45" column="32" />
         <mark key="^" line="45" column="32" />
+      </file>
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/filters/ExtractRequestDataFilter.java" timestamp="1533921340720">
+        <mark key="'" line="70" column="15" />
+        <mark key="[" line="60" column="42" />
+        <mark key="]" line="60" column="42" />
+        <mark key="." line="60" column="42" />
+        <mark key="^" line="60" column="44" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/google/cloud/google-cloud-spanner/0.33.0-beta/google-cloud-spanner-0.33.0-beta-sources.jar!/com/google/cloud/spanner/Options.java" timestamp="1533850561052" />
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/spanner/Message.java" timestamp="1533758466725">
@@ -486,10 +493,11 @@
         <mark key="^" line="20" column="34" />
         <mark key="." line="20" column="34" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/utils/RemoteAccess.java" timestamp="1533852771240">
-        <mark key="[" line="219" column="48" />
-        <mark key="]" line="233" column="11" />
-        <mark key="." line="233" column="0" />
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/utils/RemoteAccess.java" timestamp="1533920438431">
+        <mark key="[" line="232" column="32" />
+        <mark key="]" line="233" column="9" />
+        <mark key="." line="233" column="9" />
+        <mark key="^" line="233" column="9" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/ratchet/schema/ChildTable.java" timestamp="1529528147093">
         <mark key="[" line="89" column="50" />
@@ -534,7 +542,7 @@
         <mark key="." line="62" column="31" />
         <mark key="^" line="61" column="47" />
       </file>
-      <file name="/fragment.java" timestamp="1533851725439">
+      <file name="/fragment.java" timestamp="1533921035214">
         <mark key="e" line="0" column="0" />
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
@@ -545,9 +553,6 @@
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataupdaters/EntityGetter.java" timestamp="1533774175739" />
     </filemarks>
     <jumps>
-      <jump line="126" column="16" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/utils/Utils.java" />
-      <jump line="129" column="15" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/utils/Utils.java" />
-      <jump line="652" column="48" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/utils/Utils.java" />
       <jump line="42" column="11" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataupdaters/getters/ThreadInfoGetter.java" />
       <jump line="104" column="24" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/ratchet/ImmutableTransactionCallable.java" />
       <jump line="71" column="8" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/ratchet/Readme.md" />
@@ -645,16 +650,19 @@
       <jump line="22" column="16" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/spanner/partial/MessageMailboxTimestamp.java" />
       <jump line="318" column="0" filename="$USER_HOME$/src/MailFoo/curls" />
       <jump line="368" column="0" filename="$USER_HOME$/src/MailFoo/curls" />
+      <jump line="371" column="34" filename="$USER_HOME$/src/MailFoo/curls" />
+      <jump line="69" column="31" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/filters/ExtractRequestDataFilter.java" />
+      <jump line="66" column="15" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/filters/ExtractRequestDataFilter.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">TUVUSE9EIA==</text>
       </register>
       <register name="-" type="4">
-        <text>single</text>
+        <text encoding="base64">TUVUSE9EIA==</text>
       </register>
       <register name="/" type="4">
-        <text>MAX</text>
+        <text>aiStr</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQkJCWJ1aWxkZXIuYmluZChTdHJpbmcuZm9ybWF0KCJlbWFpbF8lZCIsIGluZGV4KSkudG8oZW1haWwpOwo=</text>
@@ -687,26 +695,24 @@
         <text encoding="base64">CQo=</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5zL01BWC9NSU4=</text>
+        <text>s/;/\r/g</text>
       </register>
     </registers>
     <search>
-      <last-search>MAX</last-search>
+      <last-search>aiStr</last-search>
       <last-offset />
-      <last-pattern>MAX</last-pattern>
-      <last-replace>MIN</last-replace>
-      <last-substitute>MAX</last-substitute>
+      <last-pattern>aiStr</last-pattern>
+      <last-replace>\r</last-replace>
+      <last-substitute>;</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>getContactsFo</entry>
         <entry>getOrgani</entry>
         <entry>contact</entry>
         <entry>Contact</entry>
         <entry>Envelop</entry>
-        <entry>;</entry>
         <entry>Email</entry>
         <entry encoding="base64">IFVOSU9O</entry>
         <entry>DESC</entry>
@@ -721,9 +727,10 @@
         <entry>$</entry>
         <entry>email</entry>
         <entry>MAX</entry>
+        <entry>;</entry>
+        <entry>aiStr</entry>
       </history-search>
       <history-cmd>
-        <entry>s/Email/Name/g</entry>
         <entry>Vex</entry>
         <entry encoding="base64">JzwsJz5zL14vICAgICAgICAgICAgICAgIA==</entry>
         <entry encoding="base64">JzwsJz5zL14vU0VMRUNUIGdpZCwgbWVzc2FnZUlkIEZST00gTWVzc2FnZU1haWxib3hlcyBXSEVSRSBnaWQgPSA=</entry>
@@ -741,8 +748,9 @@
         <entry encoding="base64">JzwsJz5zLyQvIFVOSU9OIEFMTA==</entry>
         <entry>wq</entry>
         <entry>s/email/gid/g</entry>
-        <entry>w</entry>
         <entry encoding="base64">JzwsJz5zL01BWC9NSU4=</entry>
+        <entry>w</entry>
+        <entry>s/;/\r/g</entry>
       </history-cmd>
       <history-expr />
       <history-input />
