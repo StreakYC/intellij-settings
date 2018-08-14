@@ -40,7 +40,7 @@
         <mark key="]" line="129" column="0" />
         <mark key="." line="129" column="0" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/filters/TaskEnqueueFilter.java" timestamp="1534285510801">
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/filters/TaskEnqueueFilter.java" timestamp="1534286668327">
         <mark key="'" line="132" column="12" />
         <mark key="[" line="32" column="0" />
         <mark key="]" line="106" column="17" />
@@ -53,10 +53,21 @@
         <mark key="." line="144" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/streak/objectify/objectify/6.1-SNAPSHOT/objectify-6.1-20180809.082024-2-sources.jar!/com/googlecode/objectify/impl/AsyncTransaction.java" timestamp="1534285557106" />
-      <file name="$USER_HOME$/src/MailFoo/curls" timestamp="1534286661937">
-        <mark key="[" line="382" column="162" />
-        <mark key="]" line="382" column="162" />
-        <mark key="." line="382" column="162" />
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/utils/Utils.java" timestamp="1534288792544">
+        <mark key="[" line="1207" column="9" />
+        <mark key="]" line="1207" column="0" />
+        <mark key="." line="1207" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/utils/RequestChain.java" timestamp="1534288188593">
+        <mark key="[" line="60" column="36" />
+        <mark key="]" line="60" column="56" />
+        <mark key="." line="60" column="56" />
+        <mark key="^" line="60" column="56" />
+      </file>
+      <file name="$USER_HOME$/src/MailFoo/curls" timestamp="1534287653117">
+        <mark key="[" line="382" column="164" />
+        <mark key="]" line="382" column="165" />
+        <mark key="." line="382" column="165" />
         <mark key="^" line="382" column="162" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/containers/src/main/java/com/streak/emailmanager/MessageSaver.java" timestamp="1532022156769">
@@ -78,6 +89,9 @@
       <file name="$MAVEN_REPOSITORY$/com/streak/objectify/objectify/6.1-SNAPSHOT/objectify-6.1-20180809.082024-2-sources.jar!/com/googlecode/objectify/impl/AsyncTransactionImpl.java" timestamp="1534285592286" />
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/tasks/BigTask.java" timestamp="1534285237910" />
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/handlers/UpdateEntity.java" timestamp="1534279748727" />
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/filters/ExtractRequestDataFilter.java" timestamp="1534288577723">
+        <mark key="[" line="109" column="63" />
+      </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/tasks/BulkTaskEnqueuer.java" timestamp="1534286526040">
         <mark key="'" line="259" column="16" />
         <mark key="[" line="261" column="0" />
@@ -101,12 +115,19 @@
         <mark key="]" line="50" column="0" />
         <mark key="." line="50" column="0" />
       </file>
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/utils/RequestDataService.java" timestamp="1534288755176">
+        <mark key="'" line="52" column="0" />
+        <mark key="[" line="370" column="30" />
+        <mark key="]" line="370" column="28" />
+        <mark key="^" line="369" column="0" />
+        <mark key="." line="370" column="28" />
+      </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/rewardly/mailfoo/unittests/RedisMemcacheServiceTest.java" timestamp="1534203687172">
         <mark key="[" line="7" column="12" />
         <mark key="]" line="7" column="12" />
         <mark key="." line="7" column="12" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/tasks/TransformCasesForWorkflowTask.java" timestamp="1534284085856">
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/tasks/TransformCasesForWorkflowTask.java" timestamp="1534287750621">
         <mark key="[" line="60" column="8" />
         <mark key="]" line="60" column="8" />
         <mark key="." line="60" column="8" />
@@ -133,7 +154,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="71" column="8" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/ratchet/Readme.md" />
       <jump line="146" column="1" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/ratchet/Readme.md" />
       <jump line="10" column="14" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/ratchet/schema/Table.java" />
       <jump line="186" column="8" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/rewardly/mailfoo/unittests/RatchetUnitTests.java" />
@@ -233,46 +253,47 @@
       <jump line="66" column="15" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/filters/ExtractRequestDataFilter.java" />
       <jump line="132" column="12" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/filters/TaskEnqueueFilter.java" />
       <jump line="259" column="16" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/tasks/BulkTaskEnqueuer.java" />
+      <jump line="52" column="0" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/utils/RequestDataService.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>6.0.2-20180814.183513-1</text>
+        <text>d</text>
       </register>
       <register name="-" type="4">
-        <text>6.0.2-20180814.183513-1</text>
+        <text>d</text>
       </register>
       <register name="/" type="4">
         <text>^</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQkJCQkuc29ydGVkKENvbXBhcmF0b3IuY29tcGFyaW5nKE5ld3NmZWVkRW50cnk6OmdldFRpbWVzdGFtcCkucmV2ZXJzZWQoKSkK</text>
+        <text encoding="base64">CXByaXZhdGUgc3RhdGljIGZpbmFsIEluaGVyaXRhYmxlVGhyZWFkTG9jYWw8U3RyaW5nPiB0aHJlYWRBbmRyb2lkQXBwVmVyc2lvbiA9IG5ldyBJbmhlcml0YWJsZVRocmVhZExvY2FsPD4oKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5yZXdhcmRseS5tYWlsZm9vLmZpbHRlcnMuVGFza0VucXVldWVGaWx0ZXI7Cg==</text>
+        <text encoding="base64">CQkJCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJCSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJCQkK</text>
+        <text encoding="base64">CglwdWJsaWMgc3RhdGljIFN0cmluZyBnZXRUaHJlYWRDdXJyZW50UmVxdWVzdElkKCkgewoJCXJldHVybiB0aHJlYWRDdXJyZW50UmVxdWVzdElkLmdldCgpOwoJfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJCVRhc2tFbnF1ZXVlRmlsdGVyLmFkZFRhc2tzKAo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5yZXdhcmRseS5tYWlsZm9vLmZpbHRlcnMuVGFza0VucXVldWVGaWx0ZXI7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJCS8vIFRPRE8gLSBpcyB0aGlzIHVzZWQK</text>
+        <text encoding="base64">CQkJCSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJLy8gVE9ETyAtIEdBRSBjYW4ndCBzcGluIHVwIHRoaXMgbWFueQo=</text>
+        <text encoding="base64">CQkJCQkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkvLyAK</text>
+        <text encoding="base64">CQkJCVRhc2tFbnF1ZXVlRmlsdGVyLmFkZFRhc2tzKAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CXByaXZhdGUgc3RhdGljIHZvaWQgd3JpdGVCbGFua01jKCkgewoJCUhhc2hNYXA8U3RyaW5nLCBTRVJWSUNFX1RZUEU+IGJlZm9yZU92ZXJyaWRlcyA9IG5ldyBIYXNoTWFwPD4oKTsKCQlNZW1jYWNoZVNlcnZpY2VDb25maWd1cmF0aW9uIGJlZm9yZSA9IG5ldyBNZW1jYWNoZVNlcnZpY2VDb25maWd1cmF0aW9uKAoJCQlTRVJWSUNFX1RZUEUuTUVNQ0FDSEUsCgkJCWJlZm9yZU92ZXJyaWRlcwoJCSk7CgkJSGFzaE1hcDxTdHJpbmcsIFNFUlZJQ0VfVFlQRT4gYWZ0ZXJPdmVycmlkZXMgPSBuZXcgSGFzaE1hcDw+KCk7CgkJTWVtY2FjaGVTZXJ2aWNlQ29uZmlndXJhdGlvbiBhZnRlciA9IG5ldyBNZW1jYWNoZVNlcnZpY2VDb25maWd1cmF0aW9uKAoJCQlTRVJWSUNFX1RZUEUuTUVNQ0FDSEUsCgkJCWFmdGVyT3ZlcnJpZGVzCgkJKTsKCQlTY2hlZHVsZWRNZW1jYWNoZVNlcnZpY2VDb25maWd1cmF0aW9uIHNjaGVkdWxlZENvbmZpZ3VyYXRpb24gPSBuZXcgU2NoZWR1bGVkTWVtY2FjaGVTZXJ2aWNlQ29uZmlndXJhdGlvbigKCQkJTG9jYWxEYXRlVGltZS5ub3coKS5wbHVzTWludXRlcygxMCksCgkJCWJlZm9yZSwKCQkJYWZ0ZXIKCQkpOwoJCU1lbWNhY2hlU2VydmljZSBtYyA9IFNlcnZpY2VGYWN0b3J5RmFjdG9yeS5nZXRGYWN0b3J5KElNZW1jYWNoZVNlcnZpY2VGYWN0b3J5LmNsYXNzKS5nZXRNZW1jYWNoZVNlcnZpY2UoIiIpOwoJCW1jLnB1dChDb25maWd1cmVkTWVtY2FjaGVTZXJ2aWNlRmFjdG9yeS5DT05GSUdVUkFUSU9OX0NBQ0hFX0tFWSwgc2NoZWR1bGVkQ29uZmlndXJhdGlvbik7Cgl9CgoJcHJpdmF0ZSBzdGF0aWMgdm9pZCBwcmludE1jKCkgewoJCU1lbWNhY2hlU2VydmljZSBtYyA9IFNlcnZpY2VGYWN0b3J5RmFjdG9yeS5nZXRGYWN0b3J5KElNZW1jYWNoZVNlcnZpY2VGYWN0b3J5LmNsYXNzKS5nZXRNZW1jYWNoZVNlcnZpY2UoIiIpOwoJCU9iamVjdCBvYmogPSBtYy5nZXQoQ29uZmlndXJlZE1lbWNhY2hlU2VydmljZUZhY3RvcnkuQ09ORklHVVJBVElPTl9DQUNIRV9LRVkpOwoJCVN5c3RlbS5vdXQucHJpbnRsbihvYmopOwoJfQoK</text>
+        <text encoding="base64">CQkJCS8vIFRPRE8gLSBpcyB0aGlzIHVzZWQK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5yZXdhcmRseS5tYWlsZm9vLmZpbHRlcnMuVGFza0VucXVldWVGaWx0ZXI7Cg==</text>
+        <text encoding="base64">CQkJLy8gVE9ETyAtIEdBRSBjYW4ndCBzcGluIHVwIHRoaXMgbWFueQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
