@@ -462,11 +462,11 @@
         <mark key="^" line="20" column="34" />
         <mark key="." line="20" column="34" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/utils/RemoteAccess.java" timestamp="1534538769892">
-        <mark key="'" line="30" column="0" />
-        <mark key="[" line="109" column="0" />
-        <mark key="]" line="109" column="43" />
-        <mark key="." line="109" column="0" />
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/utils/RemoteAccess.java" timestamp="1534540398332">
+        <mark key="'" line="60" column="0" />
+        <mark key="[" line="65" column="0" />
+        <mark key="]" line="65" column="42" />
+        <mark key="." line="65" column="0" />
         <mark key="^" line="58" column="28" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/ratchet/schema/ChildTable.java" timestamp="1529528147093">
@@ -517,8 +517,6 @@
       <file name="$MAVEN_REPOSITORY$/com/streak/objectify/objectify/6.1-SNAPSHOT/objectify-6.1-20180809.082024-2-sources.jar!/com/googlecode/objectify/cmd/Loader.java" timestamp="1534451652194" />
     </filemarks>
     <jumps>
-      <jump line="118" column="23" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/ratchet/Metadata.java" />
-      <jump line="128" column="36" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/ratchet/Metadata.java" />
       <jump line="183" column="1" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/rewardly/mailfoo/unittests/RatchetUnitTests.java" />
       <jump line="16" column="0" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/ratchet/schema/EntityTable.java" />
       <jump line="40" column="0" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/ratchet/Metadata.java" />
@@ -617,19 +615,21 @@
       <jump line="65" column="60" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/utils/RemoteAccess.java" />
       <jump line="67" column="12" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/utils/RemoteAccess.java" />
       <jump line="30" column="0" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/utils/RemoteAccess.java" />
+      <jump line="70" column="16" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/utils/RemoteAccess.java" />
+      <jump line="60" column="0" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/utils/RemoteAccess.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CQkJU3lzdGVtLm91dC5wcmludGxuKG91dC5zaXplKCkpOwo=</text>
+        <text encoding="base64">CQkJCURBTy5zdG9yZUVudGl0eSh3b3JrZmxvdyk7Cg==</text>
       </register>
       <register name="-" type="4">
         <text>;</text>
       </register>
       <register name="/" type="4">
-        <text>*</text>
+        <text>^</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQkJd29ya2Zsb3cuYm94RmV0Y2hIaW50LmFkZChuZXcgRGF0ZSgxMTUsIDEsIDEpKTsK</text>
+        <text encoding="base64">CQkJCURBTy5zdG9yZUVudGl0eSh3b3JrZmxvdyk7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">CQkJU3lzdGVtLm91dC5wcmludGxuKG91dC5zaXplKCkpOwo=</text>
@@ -663,9 +663,9 @@
       </register>
     </registers>
     <search>
-      <last-search>*</last-search>
+      <last-search>^</last-search>
       <last-offset />
-      <last-pattern>*</last-pattern>
+      <last-pattern>^</last-pattern>
       <last-replace>\/\/</last-replace>
       <last-substitute>^</last-substitute>
       <last-dir>1</last-dir>
@@ -691,8 +691,8 @@
         <entry>04</entry>
         <entry>01</entry>
         <entry>2018</entry>
-        <entry>^</entry>
         <entry>*</entry>
+        <entry>^</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLywkLy8=</entry>
