@@ -45,11 +45,11 @@
         <mark key="." line="127" column="0" />
         <mark key="^" line="119" column="8" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/DAO.java" timestamp="1534895295247">
-        <mark key="[" line="2391" column="72" />
-        <mark key="]" line="2391" column="127" />
-        <mark key="." line="2391" column="127" />
-        <mark key="^" line="2391" column="127" />
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/DAO.java" timestamp="1534957463446">
+        <mark key="[" line="2377" column="45" />
+        <mark key="]" line="2377" column="45" />
+        <mark key="." line="2377" column="45" />
+        <mark key="^" line="2372" column="39" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/DevDatastoreRpcDelegate.java" timestamp="1534790598416">
         <mark key="[" line="47" column="20" />
@@ -159,7 +159,7 @@
         <mark key="." line="47" column="71" />
         <mark key="^" line="47" column="71" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/curls" timestamp="1534891592173">
+      <file name="$USER_HOME$/src/MailFoo/curls" timestamp="1534957135506">
         <mark key="[" line="401" column="0" />
         <mark key="]" line="390" column="1" />
         <mark key="." line="390" column="1" />
@@ -635,43 +635,50 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>workflow.boxFetchHint.get(idx));</text>
+        <text>workflow.getCreationTimestamp();</text>
       </register>
       <register name="-" type="4">
-        <text>workflow.boxFetchHint.get(idx));</text>
+        <text>workflow.getCreationTimestamp();</text>
       </register>
       <register name="/" type="4">
         <text>^</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQkJCUNhc2UgZWFybGllc3RCb3ggPSBvZnkoKS5sb2FkKCkKCQkJCQkJCQkJCS50eXBlKENhc2UuY2xhc3MpCgkJCQkJCQkJCQkuYW5jZXN0b3Iod0tleS5nZXRQYXJlbnQoKSkKCQkJCQkJCQkJCS5maWx0ZXIoIndvcmtmbG93S2V5ID0iLCB3S2V5KQoJCQkJCQkJCQkJLm9yZGVyKENBU0VfU09SVF9CWV9PUFRJT05TLmNyZWF0aW9uVGltZXN0YW1wLm5hbWUoKSkKCQkJCQkJCQkJCS5saW1pdCgxKQoJCQkJCQkJCQkJLmxpc3QoKQoJCQkJCQkJCQkJLmdldCgwKTsK</text>
+        <text encoding="base64">CXB1YmxpYyBzdGF0aWMgRGF0ZSBnZXRFYXJsaWVzdENhc2UoS2V5PFdvcmtmbG93PiB3S2V5KSB7CgkJCgl9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJYXNzZXJ0IHdvcmtmbG93ICE9IG51bGw7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJCX0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJCWlmICh3b3JrZmxvdy5ib3hGZXRjaEhpbnQgIT0gbnVsbCAmJiAhd29ya2Zsb3cuYm94RmV0Y2hIaW50LmlzRW1wdHkoKSkgewo=</text>
+        <text encoding="base64">CXB1YmxpYyBzdGF0aWMgRGF0ZSBnZXRFYXJsaWVzdENhc2VUaW1lc3RhbXAoV29ya2Zsb3cgd29ya2Zsb3cpIHsKCQlyZXR1cm4gCgl9Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">CQl9Cg==</text>
+      <register name="4" type="4">
+        <text>ofy().load()
+					.type(Case.class)
+					.ancestor(wKey.getParent())
+					.filter(&quot;workflowKey =&quot;, wKey)
+					.order(&quot;-&quot; + CASE_SORT_BY_OPTIONS.creationTimestamp.name())
+					.limit(1)
+					.list() // TODO null check
+					.get(0).getCreationTimestamp();</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJfQo=</text>
+        <text encoding="base64">CQlDYXNlIGVhcmxpZXN0Qm94ID0gb2Z5KCkubG9hZCgpCgkJCQkJCQkJLnR5cGUoQ2FzZS5jbGFzcykKCQkJCQkJCQkuYW5jZXN0b3Iod0tleS5nZXRQYXJlbnQoKSkKCQkJCQkJCQkuZmlsdGVyKCJ3b3JrZmxvd0tleSA9Iiwgd0tleSkKCQkJCQkJCQkub3JkZXIoQ0FTRV9TT1JUX0JZX09QVElPTlMuY3JlYXRpb25UaW1lc3RhbXAubmFtZSgpKQoJCQkJCQkJCS5saW1pdCgxKQoJCQkJCQkJCS5saXN0KCkKCQkJCQkJCQkuZ2V0KDApOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJCQkJU3RyaW5nIG9yZGVyID0gCg==</text>
+        <text encoding="base64">CQkJCUNhc2UgZWFybGllc3RCb3ggPSBvZnkoKS5sb2FkKCkKCQkJCQkJCQkJCS50eXBlKENhc2UuY2xhc3MpCgkJCQkJCQkJCQkuYW5jZXN0b3Iod0tleS5nZXRQYXJlbnQoKSkKCQkJCQkJCQkJCS5maWx0ZXIoIndvcmtmbG93S2V5ID0iLCB3S2V5KQoJCQkJCQkJCQkJLm9yZGVyKENBU0VfU09SVF9CWV9PUFRJT05TLmNyZWF0aW9uVGltZXN0YW1wLm5hbWUoKSkKCQkJCQkJCQkJCS5saW1pdCgxKQoJCQkJCQkJCQkJLmxpc3QoKQoJCQkJCQkJCQkJLmdldCgwKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQlyb3cuc2l6ZSgpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQlyb3cuc2l6ZSgpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJCQkvLy5vcmRlcigidGltZXN0YW1wIikgLy8gVE9ETyAtIFRoaXMgZG9lcyBub3Qgd29yayB3aXRoIGN1cnJlbnQgaW5kZXhlcywgSSB0aGluayBpdCBuZWVkcyB0byBiZSBkZXNjCg==</text>
+        <text encoding="base64">CXB1YmxpYyBzdGF0aWMgRGF0ZSBnZXRFYXJsaWVzdENhc2VUaW1lc3RhbXAoS2V5PFdvcmtmbG93PiB3S2V5KSB7CgkJQ2FzZSBlYXJsaWVzdEJveCA9IG9meSgpLmxvYWQoKQoJCQkJCQkJCS50eXBlKENhc2UuY2xhc3MpCgkJCQkJCQkJLmFuY2VzdG9yKHdLZXkuZ2V0UGFyZW50KCkpCgkJCQkJCQkJLmZpbHRlcigid29ya2Zsb3dLZXkgPSIsIHdLZXkpCgkJCQkJCQkJLm9yZGVyKENBU0VfU09SVF9CWV9PUFRJT05TLmNyZWF0aW9uVGltZXN0YW1wLm5hbWUoKSkKCQkJCQkJCQkubGltaXQoMSkKCQkJCQkJCQkubGlzdCgpCgkJCQkJCQkJLmdldCgwKTsKCX0KCglwdWJsaWMgc3RhdGljIERhdGUgZ2V0TGFzdGVzdENhc2VUaW1lc3RhbXAoS2V5PFdvcmtmbG93PiB3S2V5KSB7CgkJcmV0dXJuIG9meSgpLmxvYWQoKQoJCQkJCS50eXBlKENhc2UuY2xhc3MpCgkJCQkJLmFuY2VzdG9yKHdLZXkuZ2V0UGFyZW50KCkpCgkJCQkJLmZpbHRlcigid29ya2Zsb3dLZXkgPSIsIHdLZXkpCgkJCQkJLm9yZGVyKCItIiArIENBU0VfU09SVF9CWV9PUFRJT05TLmNyZWF0aW9uVGltZXN0YW1wLm5hbWUoKSkKCQkJCQkubGltaXQoMSkKCQkJCQkubGlzdCgpIC8vIFRPRE8gbnVsbCBjaGVjawoJCQkJCS5nZXQoMCkuZ2V0Q3JlYXRpb25UaW1lc3RhbXAoKTsKCX0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
