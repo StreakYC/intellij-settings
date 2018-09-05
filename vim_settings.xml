@@ -461,6 +461,13 @@
         <mark key="]" line="80" column="0" />
         <mark key="." line="80" column="0" />
       </file>
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataupdaters/updaters/BatchCaseUpdater.java" timestamp="1536108848792">
+        <mark key="'" line="144" column="48" />
+        <mark key="[" line="145" column="52" />
+        <mark key="]" line="148" column="0" />
+        <mark key="." line="148" column="0" />
+        <mark key="^" line="144" column="49" />
+      </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/ratchet/AbstractMetadataField.java" timestamp="1530043698502">
         <mark key="[" line="107" column="94" />
         <mark key="]" line="120" column="74" />
@@ -537,7 +544,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="41" column="24" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/ratchet/Metadata.java" />
       <jump line="45" column="26" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/ratchet/Metadata.java" />
       <jump line="117" column="0" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/ratchet/Metadata.java" />
       <jump line="72" column="74" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/ratchet/MutationFactory.java" />
@@ -637,64 +643,64 @@
       <jump line="413" column="0" filename="$USER_HOME$/src/MailFoo/curls" />
       <jump line="0" column="0" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/filters/OpenCensusFilter.java" />
       <jump line="81" column="146" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataupdaters/deleters/BatchCaseEntityDeleter.java" />
+      <jump line="144" column="48" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataupdaters/updaters/BatchCaseUpdater.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>e</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQkJCQkJZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>Math.pow(2, l</text>
       </register>
       <register name="/" type="4">
-        <text>^</text>
+        <text encoding="base64">XDxsb2NhbFRyeU51bWJlclw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQkJCQkJCWlmIChudWxsID09IHdUeG4pIHsKCQkJCQkJCQl0aHJvdyBuZXcgSWxsZWdhbFN0YXRlRXhjZXB0aW9uKCJDYW5ub3QgZmluZCB3b3JrZmxvdyIpOwoJCQkJCQkJfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJCQlhc3NlcnQgZmlyc3RDYXNlICE9IG51bGw7Cg==</text>
+        <text encoding="base64">CQkJCQkJZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">CQkJCTsK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">CQkJCQlhc3NlcnQgZmlyc3RDYXNlICE9IG51bGw7Cg==</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">CQkJCQkJQ2FzZSBjVHhuID0gREFPLmdldEVudGl0eShjYXNlS2V5cy5nZXQoY2FzZUtleXMuc2l6ZSgpIC0gMSkpOwoJCQkJCQlhc3NlcnQgY1R4biAhPSBudWxsOwo=</text>
       </register>
-      <register name="3" type="4">
+      <register name="5" type="4">
         <text>ew VoidWork() {
 				public void vrun() {</text>
       </register>
-      <register name="4" type="2">
+      <register name="6" type="2">
         <text encoding="base64">CQkJCQlUcmFjaW5nLmdldFRyYWNlcigpLgo=</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">CQkJCVRyYWNpbmcuZ2V0VHJhY2VyKCkuZ2V0Q3VycmVudFNwYW4oKS5hZGRBbm5vdGF0aW9uKCJCcmVha2luZyB1cCBxdWVyeSIpOwo=</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">CQkK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">CQkJc2VydmVyLmFkZEJlYW4obmV3IENvbm5lY3Rpb25TdGF0aXN0aWNzKCkpOwo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">CQkJc2VydmVyLnNldEdyYWNlZnVsU2h1dGRvd24oKQo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">CldpdGhvdXQgQ29tcHJlc3Npb24KICA1MCUgICAxMDI3CiAgNjYlICAgMTA3MgogIDc1JSAgIDExNTAKICA4MCUgICAxMTkxCiAgOTAlICAgMTI1MAogIDk1JSAgIDE1MzgKICA5OCUgICAxNTM4CiAgOTklICAgMTUzOAogMTAwJSAgIDE1MzggKGxvbmdlc3QgcmVxdWVzdCkKCiBXaXRoIENvbXByZXNzaW9uCiAgIDUwJSAgICA5NDQKICAgNjYlICAgMTAwOAogICA3NSUgICAxMDMxCiAgIDgwJSAgIDEwNDEKICAgOTAlICAgMTE3NAogICA5NSUgICAxMzk3CiAgIDk4JSAgIDEzOTcKICAgOTklICAgMTM5NwogIDEwMCUgICAxMzk3IChsb25nZXN0IHJlcXVlc3QpCg==</text>
+        <text encoding="base64">CQkJc2VydmVyLmFkZEJlYW4obmV3IENvbm5lY3Rpb25TdGF0aXN0aWNzKCkpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
       </register>
     </registers>
     <search>
-      <last-search>^</last-search>
+      <last-search encoding="base64">XDxsb2NhbFRyeU51bWJlclw+</last-search>
       <last-offset />
-      <last-pattern>^</last-pattern>
+      <last-pattern encoding="base64">XDxsb2NhbFRyeU51bWJlclw+</last-pattern>
       <last-replace>\/\/</last-replace>
       <last-substitute>^</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">IFVOSU9O</entry>
         <entry>DESC</entry>
         <entry>getMessagesForCon</entry>
         <entry>Unifi</entry>
@@ -714,6 +720,7 @@
         <entry>2018</entry>
         <entry>*</entry>
         <entry>^</entry>
+        <entry encoding="base64">XDxsb2NhbFRyeU51bWJlclw+</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLywkLy8=</entry>
