@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataupdaters/updaters/WorkflowEntityUpdater.java" timestamp="1536344213647" />
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataupdaters/updaters/WorkflowEntityUpdater.java" timestamp="1536345213844" />
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/filters/OpenCensusFilter.java" timestamp="1536278338469" />
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/spanner/partial/MessageThread.java" timestamp="1536098077743" />
       <file name="$MAVEN_REPOSITORY$/io/opencensus/opencensus-api/0.15.0/opencensus-api-0.15.0-sources.jar!/io/opencensus/trace/export/SampledSpanStore.java" timestamp="1536184851400" />
@@ -13,16 +13,12 @@
         <mark key="." line="75" column="8" />
         <mark key="^" line="75" column="8" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/monitoring/DAOOperationLoggingRpcDelegate.kt" timestamp="1536158823369">
-        <mark key="[" line="96" column="18" />
-        <mark key="]" line="96" column="18" />
-        <mark key="." line="96" column="18" />
-      </file>
       <file name="$MAVEN_REPOSITORY$/io/opencensus/opencensus-api/0.15.0/opencensus-api-0.15.0-sources.jar!/io/opencensus/trace/TraceId.java" timestamp="1536274261483" />
-      <file name="$USER_HOME$/src/MailFoo/curls" timestamp="1536337172381">
-        <mark key="[" line="422" column="9" />
-        <mark key="]" line="422" column="9" />
-        <mark key="." line="422" column="9" />
+      <file name="$USER_HOME$/src/MailFoo/curls" timestamp="1536345101164">
+        <mark key="[" line="424" column="5" />
+        <mark key="]" line="424" column="5" />
+        <mark key="." line="424" column="5" />
+        <mark key="^" line="424" column="4" />
       </file>
       <file name="$MAVEN_REPOSITORY$/io/opencensus/opencensus-api/0.15.0/opencensus-api-0.15.0-sources.jar!/io/opencensus/trace/Sampler.java" timestamp="1536183539801" />
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/TeamMember.java" timestamp="1536344224853" />
@@ -61,6 +57,9 @@
         <mark key="'" line="85" column="146" />
       </file>
       <file name="$MAVEN_REPOSITORY$/io/opencensus/opencensus-api/0.15.0/opencensus-api-0.15.0-sources.jar!/io/opencensus/trace/SpanId.java" timestamp="1536273540955" />
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/filters/CSRFFilter.java" timestamp="1536345124105">
+        <mark key="[" line="21" column="36" />
+      </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/utils/RequestDataService.java" timestamp="1536157783212">
         <mark key="[" line="64" column="8" />
         <mark key="]" line="64" column="105" />
@@ -87,7 +86,7 @@
         <mark key="]" line="38" column="0" />
         <mark key="." line="38" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1536195055768">
+      <file name="/fragment.java" timestamp="1536345218517">
         <mark key="e" line="0" column="0" />
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
@@ -200,10 +199,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>20180823t135901-dot-apiredirecter-dot-</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>20180823t135901-dot-apiredirecter-dot-</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>&quot;</text>
