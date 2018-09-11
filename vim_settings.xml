@@ -10,12 +10,7 @@
         <mark key="." line="82" column="18" />
         <mark key="^" line="102" column="20" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/ProfilingRpcDelegate.java" timestamp="1536696327648">
-        <mark key="[" line="31" column="41" />
-        <mark key="]" line="31" column="89" />
-        <mark key="." line="31" column="89" />
-        <mark key="^" line="31" column="89" />
-      </file>
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/ProfilingRpcDelegate.java" timestamp="1536696327648" />
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/pom.xml" timestamp="1536348055402">
         <mark key="[" line="126" column="21" />
         <mark key="]" line="126" column="21" />
@@ -61,11 +56,10 @@
         <mark key="." line="96" column="55" />
         <mark key="^" line="96" column="55" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/curls" timestamp="1536695363820">
-        <mark key="[" line="432" column="0" />
-        <mark key="]" line="433" column="305" />
-        <mark key="." line="433" column="305" />
-        <mark key="^" line="433" column="305" />
+      <file name="$USER_HOME$/src/MailFoo/curls" timestamp="1536702691991">
+        <mark key="[" line="435" column="14" />
+        <mark key="]" line="435" column="14" />
+        <mark key="." line="435" column="14" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/streak/objectify/objectify/6.0.2-SNAPSHOT/objectify-6.0.2-20180907.191011-1-sources.jar!/com/googlecode/objectify/impl/TransactorNo.java" timestamp="1536617469781" />
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/filters/StreakTasksFilter.kt" timestamp="1536694252794" />
@@ -76,6 +70,16 @@
         <mark key="]" line="87" column="12" />
         <mark key="^" line="87" column="13" />
         <mark key="." line="87" column="12" />
+      </file>
+      <file name="$USER_HOME$/src/MailFoo/IntegrationTests/src/test/java/com/rewardly/integrationtests/api/modeltests/TimeInStagesReportAPITest.java" timestamp="1534802980981">
+        <mark key="[" line="135" column="0" />
+        <mark key="]" line="135" column="0" />
+        <mark key="." line="135" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/MailFoo/DataflowLogsExport/src/main/java/com/streak/logging/dataflow/BackendLogsExport.java" timestamp="1534807753863">
+        <mark key="[" line="80" column="0" />
+        <mark key="]" line="80" column="0" />
+        <mark key="." line="80" column="0" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataupdaters/updaters/BatchCaseUpdater.java" timestamp="1536684039599" />
       <file name="$MAVEN_REPOSITORY$/com/streak/objectify/objectify/6.0.2-SNAPSHOT/objectify-6.0.2-20180907.191011-1-sources.jar!/com/googlecode/objectify/impl/Deferrer.java" timestamp="1536618040524" />
@@ -98,6 +102,11 @@
         <mark key="]" line="128" column="27" />
         <mark key="^" line="128" column="27" />
         <mark key="." line="128" column="27" />
+      </file>
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/filters/DevModuleDispatchFilter.java" timestamp="1534792279780">
+        <mark key="[" line="229" column="0" />
+        <mark key="]" line="229" column="0" />
+        <mark key="." line="229" column="0" />
       </file>
       <file name="/fragment.java" timestamp="1536695103153">
         <mark key="e" line="0" column="0" />
@@ -212,10 +221,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text>m</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>m</text>
       </register>
       <register name="/" type="4">
         <text>&quot;</text>
@@ -224,31 +233,31 @@
         <text encoding="base64">CQkJVHJhY2luZy5nZXRUcmFjZXIoKQoJCQkJICAgLmdldEN1cnJlbnRTcGFuKCkKCQkJCSAgIC5wdXRBdHRyaWJ1dGUoIkxvb2t1cCBDb3VudCIsCgkJCQkJICAgQXR0cmlidXRlVmFsdWUubG9uZ0F0dHJpYnV0ZVZhbHVlKGxvb2t1cFJlcXVlc3QuZ2V0S2V5c0NvdW50KCkpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJaWYgKGNvbW1pdFJlcXVlc3QuZ2V0TXV0YXRpb25zQ291bnQoKSA+IDUwMCkgewoJCQkJdGhyb3cgbmV3IFJ1bnRpbWVFeGNlcHRpb24oIlRvbyBtYW55IGNvbW1pdCBtdXRhdGlvbnMsIGJhaWxpbmcgZm9yIGJldHRlciBlcnJvciBtZXNzYWdlIik7CgkJCX0K</text>
+        <text encoding="base64">Y3VybCAgLUggIlgtQXBwRW5naW5lLVRhc2tOYW1lOiA4YWNhMTg4ZjFlZGE4N2U3Yjg1MjQ4NGY2Yjk5OTdmNGY0YzQ3ODU0IiAtSCAiWC1BcHBFbmdpbmUtUXVldWVOYW1lOiBtYWlsTWVyZ2VRdWV1ZTIiICAiaHR0cDovL2xvY2FsaG9zdDozMDc2Ny90YXNrcy9pbWFwL21haWxNZXJnZVRhc2s/bWFpbE1lcmdlUGFyYW09YWd4emZtMWhhV3htYjI5bllXVnlUQXNTREU5eVoyRnVhWHBoZEdsdmJpSVRkR2hsYzJodmQyTmhjMlYwYjNWeUxtTnZiUXdMRWdSVmMyVnlHSUNBZ0tDTm00VUtEQXNTQ1UxaGFXeE5aWEpuWlJpQWdJQzZxclNKQ1F3Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y3VybCAgLUggIlgtQXBwRW5naW5lLVF1ZXVlTmFtZTogTWFpbE1lcmdlIiAgImh0dHA6Ly9kZGxvY2FsaG9zdDozMDc2Ny90YXNrcy9pbWFwL21haWxNZXJnZVRhc2s/bWFpbE1lcmdlUGFyYW09YWd4emZtMWhhV3htYjI5bllXVnlUQXNTREU5eVoyRnVhWHBoZEdsdmJpSVRkR2hsYzJodmQyTmhjMlYwYjNWeUxtTnZiUXdMRWdSVmMyVnlHSUNBZ0tDTm00VUtEQXNTQ1UxaGFXeE5aWEpuWlJpQWdJQzZxclNKQ1F3Igo=</text>
+        <text encoding="base64">CQkJaWYgKGNvbW1pdFJlcXVlc3QuZ2V0TXV0YXRpb25zQ291bnQoKSA+IDUwMCkgewoJCQkJdGhyb3cgbmV3IFJ1bnRpbWVFeGNlcHRpb24oIlRvbyBtYW55IGNvbW1pdCBtdXRhdGlvbnMsIGJhaWxpbmcgZm9yIGJldHRlciBlcnJvciBtZXNzYWdlIik7CgkJCX0K</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">Y3VybCAgLUggIlgtQXBwRW5naW5lLVF1ZXVlTmFtZTogTWFpbE1lcmdlIiAgImh0dHA6Ly9kZGxvY2FsaG9zdDozMDc2Ny90YXNrcy9pbWFwL21haWxNZXJnZVRhc2s/bWFpbE1lcmdlUGFyYW09YWd4emZtMWhhV3htYjI5bllXVnlUQXNTREU5eVoyRnVhWHBoZEdsdmJpSVRkR2hsYzJodmQyTmhjMlYwYjNWeUxtTnZiUXdMRWdSVmMyVnlHSUNBZ0tDTm00VUtEQXNTQ1UxaGFXeE5aWEpuWlJpQWdJQzZxclNKQ1F3Igo=</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICAtZCAibWFpbE1lcmdlUGFyYW09IiBcCg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text encoding="base64">L2FwaS92MS9waXBlbGluZXMvYWd4emZtMWhhV3htYjI5bllXVnlNZ3NTREU5eVoyRnVhWHBoZEdsdmJpSUxZMjlzYkc5amF5NWpiMjBNQ3hJSVYyOXlhMlpzYjNjWWdJQ0FnSURra1FvTT9haT10cnVlJmVtYWlsPWNsZW1lbnQlNDBjb2xsb2NrLmNvbQ==</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>json=%7B%22aclEntries%22%3A%5B%7B%22permissionSetName%22%3A%22__adminPermissionSet__%22%2C%22displayName%22%3A%22Aline%20C%22%2C%22fullName%22%3A%22Aline%20Conxicoeur%22%2C%22email%22%3A%22aline%40collock.com%22%2C%22image%22%3A%22https%3A%2F%2Flh3.googleusercontent.com%2F-XdUIqdMkCWA%2FAAAAAAAAAAI%2FAAAAAAAAAAA%2F4252rscbv5M%2Fphoto.jpg%22%2C%22userKey%22%3A%22agxzfm1haWxmb29nYWVyLgsSDE9yZ2FuaXphdGlvbiILY29sbG9jay5jb20MCxIEVXNlchiAgICAgICACgw%22%2C%22priority%22%3A1%7D%2C%7B%22permissionSetName%22%3A%22__adminPermissionSet__%22%2C%22displayName%22%3A%22Cl%C3%A9ment%20S%22%2C%22fullName%22%3A%22Cl%C3%A9ment%20Serio%22%2C%22email%22%3A%22clement%40collock.com%22%2C%22image%22%3A%22https%3A%2F%2Flh3.googleusercontent.com%2F-qqJEWFGxPdQ%2FAAAAAAAAAAI%2FAAAAAAAAAAA%2FkFsvG-RfHak%2Fphoto.jpg%22%2C%22userKey%22%3A%22agxzfm1haWxmb29nYWVyLgsSDE9yZ2FuaXphdGlvbiILY29sbG9jay5jb20MCxIEVXNlchiAgICAgPKICgw%22%2C%22priority%22%3A1%7D%2C%7B%22role%22%3A%22Owner%22%2C%22inviteDate%22%3A1507042491950%2C%22inviteStatus%22%3A%22Accepted%22%2C%22orgKey%22%3A%22agxzfm1haWxmb29nYWVyHQsSDE9yZ2FuaXphdGlvbiILY29sbG9jay5jb20M%22%2C%22displayName%22%3A%22Maxime%20T%22%2C%22fullName%22%3A%22Maxime%20Thirouin%22%2C%22email%22%3A%22maxime%40collock.com%22%2C%22image%22%3A%22https%3A%2F%2Flh3.googleusercontent.com%2F-PzUQQxakHRw%2FAAAAAAAAAAI%2FAAAAAAAAABA%2FQvJhjcvQFdQ%2Fphoto.jpg%22%2C%22userKey%22%3A%22agxzfm1haWxmb29nYWVyLgsSDE9yZ2FuaXphdGlvbiILY29sbG9jay5jb20MCxIEVXNlchiAgIDgr-mDCgw%22%2C%22permissionSetName%22%3A%22__adminPermissionSet__%22%7D%5D%7D</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">CQlsb2NhbFVwZGF0ZWRDYXNlcy5zdHJlYW0oKS5maWx0ZXIoYyAtPiBudWxsID09IGMuZ2V0Q2FzZUtleSgpKTsK</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">CQlpZiAobG9jYWxVcGRhdGVkQ2FzZXMuc3RyZWFtKCkuYWxsTWF0Y2goYyAtPiApKQo=</text>
       </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text encoding="base64">CQlpZiAoYmF0KQo=</text>
-      </register>
-      <register name="9" type="4">
-        <text>tshriver%40transcendcre.com</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
