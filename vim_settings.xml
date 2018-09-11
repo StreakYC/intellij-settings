@@ -31,6 +31,9 @@
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/filters/OpenCensusFilter.java" timestamp="1536694041617" />
       <file name="$USER_HOME$/src/MailFoo/Server-ear/ServerCore-war-1/WEB-INF/web.xml" timestamp="1536694640724" />
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataupdaters/deleters/BatchCaseEntityDeleter.java" timestamp="1536105485733">
+        <mark key="'" line="85" column="146" />
+      </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/tasks/WorkflowStageHintTask.java" timestamp="1536605766840">
         <mark key="[" line="62" column="9" />
         <mark key="]" line="62" column="9" />
@@ -76,6 +79,12 @@
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataupdaters/updaters/BatchCaseUpdater.java" timestamp="1536684039599" />
       <file name="$MAVEN_REPOSITORY$/com/streak/objectify/objectify/6.0.2-SNAPSHOT/objectify-6.0.2-20180907.191011-1-sources.jar!/com/googlecode/objectify/impl/Deferrer.java" timestamp="1536618040524" />
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/incomingmail/IncomingMailServlet.java" timestamp="1536338222722">
+        <mark key="'" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/imap/FindGmailThreadForUserFromGmailAPITask.java" timestamp="1536697161094">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/api/APIServlet.java" timestamp="1536615630353">
         <mark key="[" line="57" column="9" />
         <mark key="]" line="57" column="9" />
@@ -100,7 +109,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="139" column="21" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/utils/RemoteAccess.java" />
       <jump line="63" column="34" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/ratchet/translate/DateTranslator.java" />
       <jump line="143" column="56" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/ratchet/translate/ListTranslator.java" />
       <jump line="120" column="26" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/ratchet/translate/DataClassTranslator.java" />
@@ -200,6 +208,7 @@
       <jump line="55" column="0" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/utils/RemoteAccess.java" />
       <jump line="0" column="0" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/incomingmail/IncomingMailServlet.java" />
       <jump line="1330" column="4" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/DAO.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/imap/FindGmailThreadForUserFromGmailAPITask.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
