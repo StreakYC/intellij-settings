@@ -54,6 +54,7 @@
         <mark key="." line="64" column="105" />
         <mark key="^" line="64" column="105" />
       </file>
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataupdaters/getters/EnvelopesGetter.java" timestamp="1536792376361" />
       <file name="$USER_HOME$/src/objectify/src/main/java/com/googlecode/objectify/impl/TransactorNo.java" timestamp="1536267136562">
         <mark key="[" line="96" column="50" />
         <mark key="]" line="96" column="55" />
@@ -76,11 +77,11 @@
         <mark key="^" line="87" column="13" />
         <mark key="." line="87" column="12" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataupdaters/getters/OrganizationEnvelopesGetter.java" timestamp="1536790738692">
-        <mark key="[" line="76" column="0" />
-        <mark key="]" line="77" column="50" />
-        <mark key="^" line="77" column="50" />
-        <mark key="." line="77" column="50" />
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataupdaters/getters/OrganizationEnvelopesGetter.java" timestamp="1536792528529">
+        <mark key="[" line="66" column="27" />
+        <mark key="]" line="79" column="0" />
+        <mark key="^" line="71" column="120" />
+        <mark key="." line="79" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/streak/objectify/objectify/6.0.2-SNAPSHOT/objectify-6.0.2-20180907.191011-1-sources.jar!/com/googlecode/objectify/impl/Deferrer.java" timestamp="1536618040524" />
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/incomingmail/IncomingMailServlet.java" timestamp="1536338222722">
@@ -217,10 +218,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CQkvLyBUT08gcmV0cmllcyBoZXJlPwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>%5B%0A%20%20%20%20%20%20%7B%0A%20%20%20%20%20%20%20%20%22key%22%3A%20%22agxzfm1haWxmb29nYWVyLwsSDE9yZ2FuaXphdGlvbiIMbWFyZW5hdXRhLml0DAsSBENhc2UYgICA6NHBmAoM%22%2C%0A%20%20%20%20%20%20%20%20%22boxKey%22%3A%20%22agxzfm1haWxmb29nYWVyLwsSDE9yZ2FuaXphdGlvbiIMbWFyZW5hdXRhLml0DAsSBENhc2UYgICA6NHBmAoM%22%2C%0A%20%20%20%20%20%20%20%20%22pipelineKey%22%3A%20%22agxzfm1haWxmb29nYWVyMwsSDE9yZ2FuaXphdGlvbiIMbWFyZW5hdXRhLml0DAsSCFdvcmtmbG93GICAgICwgpMKDA%22%0A%20%20%20%20%20%20%7D%0A%20%20%20%20%5D</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>&quot;</text>
@@ -229,31 +230,31 @@
         <text encoding="base64">CQkJVHJhY2luZy5nZXRUcmFjZXIoKQoJCQkJICAgLmdldEN1cnJlbnRTcGFuKCkKCQkJCSAgIC5wdXRBdHRyaWJ1dGUoIkxvb2t1cCBDb3VudCIsCgkJCQkJICAgQXR0cmlidXRlVmFsdWUubG9uZ0F0dHJpYnV0ZVZhbHVlKGxvb2t1cFJlcXVlc3QuZ2V0S2V5c0NvdW50KCkpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkvLyBUT08gcmV0cmllcyBoZXJlPwo=</text>
-      </register>
-      <register name="2" type="4">
-        <text>%5B%0A%20%20%20%20%20%20%7B%0A%20%20%20%20%20%20%20%20%22key%22%3A%20%22agxzfm1haWxmb29nYWVyLwsSDE9yZ2FuaXphdGlvbiIMbWFyZW5hdXRhLml0DAsSBENhc2UYgICA6NHBmAoM%22%2C%0A%20%20%20%20%20%20%20%20%22boxKey%22%3A%20%22agxzfm1haWxmb29nYWVyLwsSDE9yZ2FuaXphdGlvbiIMbWFyZW5hdXRhLml0DAsSBENhc2UYgICA6NHBmAoM%22%2C%0A%20%20%20%20%20%20%20%20%22pipelineKey%22%3A%20%22agxzfm1haWxmb29nYWVyMwsSDE9yZ2FuaXphdGlvbiIMbWFyZW5hdXRhLml0DAsSCFdvcmtmbG93GICAgICwgpMKDA%22%0A%20%20%20%20%20%20%7D%0A%20%20%20%20%5D</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">CQkJfSk7Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">CQkJdHhuQmF0Y2hVcGRhdGVSZXN1bHQgPSAgKCkgLT4gewo=</text>
-      </register>
-      <register name="5" type="4">
-        <text encoding="base64">YXBpL3YyL3BpcGVsaW5lcy9hZ3h6Zm0xaGFXeG1iMjluWVdWeU53c1NERTl5WjJGdWFYcGhkR2x2YmlJUWRISmhibk5qWlc1a1kzSmxMbU52YlF3TEVnaFhiM0pyWm14dmR4aUFnSUNBd0xXYkNndy9ib3hlcy9iYXRjaD9haT10cnVlJmVtYWlsPWNhcm9saW5hLmNhdmF6b3NAcGFrMmdvLmNvbQ==</text>
-      </register>
-      <register name="6" type="4">
-        <text>%5B%0A%20%20%20%20%20%20%7B%0A%20%20%20%20%20%20%20%20%22key%22%3A%20%22agxzfm1haWxmb29nYWVyKgsSDE9yZ2FuaXphdGlvbiIKcGFrMmdvLmNvbQwLEgRDYXNlGKqc1N4HDA%22%2C%0A%20%20%20%20%20%20%20%20%22boxKey%22%3A%20%22agxzfm1haWxmb29nYWVyKgsSDE9yZ2FuaXphdGlvbiIKcGFrMmdvLmNvbQwLEgRDYXNlGKqc1N4HDA%22%2C%0A%20%20%20%20%20%20%20%20%22pipelineKey%22%3A%20%22agxzfm1haWxmb29nYWVyMQsSDE9yZ2FuaXphdGlvbiIKcGFrMmdvLmNvbQwLEghXb3JrZmxvdxiAgIC07MrtCQw%22%0A%20%20%20%20%20%20%7D%0A%20%20%20%20%5D</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">CQkvLyBUT0RPIGFkZCBoYXNEb21haW5zIC8gZ2V0RG9tYWlucyB0byB0aGlzCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">CQkJCUxpc3RzLmFzTGlzdChkb21haW4pLAo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">CXByaXZhdGUgQ29sbGVjdGlvbjxUZWFtQ29udGFjdE9yT3JnTGluazxUZWFtQ29udGFjdD4+IGdldEFsbENvbnRhY3RMaW5rcygKCQlATm90TnVsbCBUZWFtT3JnYW5pemF0aW9uIHRlYW1Pcmdhbml6YXRpb24pIHsKCQlTZXQ8VGVhbUNvbnRhY3RPck9yZ0xpbms8VGVhbUNvbnRhY3Q+PiByZXQgPSBuZXcgSGFzaFNldDw+KCk7CgkJTGlzdDxUZWFtQ29udGFjdE9yT3JnTGluazxUZWFtQ29udGFjdD4+IGltbWVkaWF0ZUxpbmtzID0gdGVhbU9yZ2FuaXphdGlvbi5nZXRDb250YWN0TGlua3MoKTsKCQlpZiAobnVsbCAhPSBpbW1lZGlhdGVMaW5rcykgewoJCQlyZXQuYWRkQWxsKGltbWVkaWF0ZUxpbmtzKTsKCQl9CgkJaWYgKG51bGwgIT0gdGVhbU9yZ2FuaXphdGlvbi5nZXRPcmdMaW5rcygpKSB7CgkJCWZvciAoVGVhbU9yZ2FuaXphdGlvbiBuZXN0ZWQgOiBEQU8uZ2V0SW1tdXRhYmxlRW50aXRpZXMoCgkJCQl0ZWFtT3JnYW5pemF0aW9uLmdldE9yZ0xpbmtzKCkuc3RyZWFtKCkubWFwKFRlYW1Db250YWN0T3JPcmdMaW5rOjpnZXRLZXkpLmNvbGxlY3QoQ29sbGVjdG9ycy50b1NldCgpKSkKCQkJCQkJCQkJCQkgIC52YWx1ZXMoKSkgewoJCQkJcmV0LmFkZEFsbChnZXRBbGxDb250YWN0TGlua3MobmVzdGVkKSk7CgkJCX0KCQl9CgoJCXJldHVybiByZXQ7Cgl9Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">CQkvLyBUT08gcmV0cmllcyBoZXJlPwo=</text>
+      </register>
+      <register name="7" type="4">
+        <text>%5B%0A%20%20%20%20%20%20%7B%0A%20%20%20%20%20%20%20%20%22key%22%3A%20%22agxzfm1haWxmb29nYWVyLwsSDE9yZ2FuaXphdGlvbiIMbWFyZW5hdXRhLml0DAsSBENhc2UYgICA6NHBmAoM%22%2C%0A%20%20%20%20%20%20%20%20%22boxKey%22%3A%20%22agxzfm1haWxmb29nYWVyLwsSDE9yZ2FuaXphdGlvbiIMbWFyZW5hdXRhLml0DAsSBENhc2UYgICA6NHBmAoM%22%2C%0A%20%20%20%20%20%20%20%20%22pipelineKey%22%3A%20%22agxzfm1haWxmb29nYWVyMwsSDE9yZ2FuaXphdGlvbiIMbWFyZW5hdXRhLml0DAsSCFdvcmtmbG93GICAgICwgpMKDA%22%0A%20%20%20%20%20%20%7D%0A%20%20%20%20%5D</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">dXJsIC11IGRiMTgwN2FjYTM0YTQyNmE5OTY3YzE4NzM3MzI5OGM1OiAnaHR0cDovL2xvY2FsaG9zdDozMDc2Ny9hcGkvdjEvc2VhcmNoP25hbWU9VHJhdmlzJTIwUm90eiZwaXBlbGluZUtleT1hZ3h6Zm0xaGFXeG1iMjluWVdWeU53c1NERTl5WjJGdWFYcGhkR2x2YmlJUWRHMXliM1I2UUdkdFlXbHNMbU52YlF3TEVnaFhiM0pyWm14dmR4aUFnSUNBb01TT0NndycK</text>
+        <text encoding="base64">CQkJfSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQlmaW5hbCBMaXN0PENhc2U+IGNhc2VzID0gYmF0Y2g7Cg==</text>
+        <text encoding="base64">CQkJdHhuQmF0Y2hVcGRhdGVSZXN1bHQgPSAgKCkgLT4gewo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
