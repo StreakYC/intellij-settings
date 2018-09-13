@@ -28,8 +28,8 @@
         <mark key="." line="157" column="12" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/DAO.java" timestamp="1536873709614">
-        <mark key="'" line="906" column="4" />
-        <mark key="^" line="87" column="33" />
+        <mark key="'" line="905" column="4" />
+        <mark key="^" line="26" column="33" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/containers/src/main/java/com/streak/oneoff/ServerCommonHttpServer.java" timestamp="1536615544235">
         <mark key="[" line="87" column="12" />
@@ -42,6 +42,12 @@
         <mark key="]" line="79" column="0" />
         <mark key="^" line="71" column="120" />
         <mark key="." line="79" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/ratchet/schema/ChildTable.java" timestamp="1536876113735">
+        <mark key="[" line="11" column="48" />
+        <mark key="]" line="11" column="48" />
+        <mark key="." line="11" column="48" />
+        <mark key="^" line="54" column="14" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataupdaters/deleters/BatchCaseEntityDeleter.java" timestamp="1536105485733">
         <mark key="'" line="85" column="146" />
@@ -57,6 +63,9 @@
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/monitoring/DAOOperationLoggingRpcDelegate.kt" timestamp="1536873891266">
         <mark key="[" line="89" column="12" />
+      </file>
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/streak/ratchet/ImmutableTransactionCallableTest.kt" timestamp="1536876332343">
+        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/imap/FindGmailThreadForUserFromGmailAPITask.java" timestamp="1536697161094">
         <mark key="'" line="0" column="0" />
@@ -76,10 +85,10 @@
       <file name="$USER_HOME$/src/MailFoo/containers/ddl.sql" timestamp="1536872639651">
         <mark key="'" line="58" column="20" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/utils/RemoteAccess.java" timestamp="1536874373778">
-        <mark key="[" line="55" column="39" />
-        <mark key="]" line="55" column="39" />
-        <mark key="." line="55" column="39" />
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/utils/RemoteAccess.java" timestamp="1536876181944">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/ratchet/Readme.md" timestamp="1536870786489">
         <mark key="'" line="16" column="0" />
@@ -121,7 +130,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2428" column="0" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/DAO.java" />
       <jump line="16" column="26" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/mae/MetaVisibilityService.java" />
       <jump line="95" column="31" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/rewardly/mailfoo/unittests/MaeRemoteTest.java" />
       <jump line="150" column="42" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/ratchet/ImmutableTransactionCallable.java" />
@@ -221,13 +229,14 @@
       <jump line="899" column="17" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/DAO.java" />
       <jump line="901" column="54" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/DAO.java" />
       <jump line="906" column="4" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/DAO.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/streak/ratchet/ImmutableTransactionCallableTest.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>u.getUserKey())</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IGNvbS5yZXdhcmRseS5tYWlsZm9vLmRhdGFhY2Nlc3MucmF0Y2hldC5vYmplY3RpZnkudHJhbnNsYXRlLktleVRyYW5zbGF0b3JGYWN0b3J5Owo=</text>
       </register>
       <register name="-" type="4">
-        <text>u.getUserKey())</text>
+        <text encoding="base64">IC8vIFRPRE8gLSBzaG91bGQgdGhpcyBiZSBjYWxjdWxhdGVkPw==</text>
       </register>
       <register name="/" type="4">
         <text>Tracked</text>
@@ -235,7 +244,16 @@
       <register name="0" type="2">
         <text encoding="base64">CQkJVHJhY2luZy5nZXRUcmFjZXIoKQoJCQkJICAgLmdldEN1cnJlbnRTcGFuKCkKCQkJCSAgIC5wdXRBdHRyaWJ1dGUoIkxvb2t1cCBDb3VudCIsCgkJCQkJICAgQXR0cmlidXRlVmFsdWUubG9uZ0F0dHJpYnV0ZVZhbHVlKGxvb2t1cFJlcXVlc3QuZ2V0S2V5c0NvdW50KCkpKTsK</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">aW1wb3J0IGNvbS5yZXdhcmRseS5tYWlsZm9vLmRhdGFhY2Nlc3MucmF0Y2hldC5vYmplY3RpZnkudHJhbnNsYXRlLktleVRyYW5zbGF0b3JGYWN0b3J5Owo=</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">aW1wb3J0IGNvbS5yZXdhcmRseS5tYWlsZm9vLmRhdGFhY2Nlc3MucmF0Y2hldC5SYXRjaGV0U2VydmljZTsK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">CQl0aGlzLnNwYW5uZXJGaWVsZHMgPSBnZXRQYXJlbnQoKS5wcmltYXJ5RmllbGRzKCkKCQkJCQkJCQkJCS5zdHJlYW0oKQoJCQkJCQkJCQkJLm1hcChmaWVsZCAtPiBuZXcgU3Bhbm5lckZpZWxkKHRoaXMsIGZpZWxkKSkKCQkJCQkJCQkJCS5jb2xsZWN0KENvbGxlY3RvcnMudG9MaXN0KCkpOwoJCXRoaXMuc3Bhbm5lckZpZWxkcy5hZGRBbGwoYWRkaXRpb25hbEZpZWxkcyk7Cg==</text>
+      </register>
+      <register name="4" type="4">
         <text>CREATE INDEX MessageMailboxesByGidDomain
 ON MessageMailboxes (
     gid, mailboxDomain
@@ -252,29 +270,20 @@ ON MessageMailboxes (
 	internalDate
 );</text>
       </register>
-      <register name="2" type="2">
+      <register name="5" type="2">
         <text encoding="base64">CQkJYm9vbGVhbiBzaG91bGRSZXRyeSA9IGZhbHNlOwo=</text>
       </register>
-      <register name="3" type="2">
+      <register name="6" type="2">
         <text encoding="base64">CQl3cml0ZXIud3JpdGUoR3NvbldyYXBwZXIudG9BcGlDbGllbnRKc29uKEFycmF5cy5hc0xpc3QodXBkYXRlZE9iamVjdCkpKTsKCQl3cml0ZXIuY2xvc2UoKTsKCQlpbnQgcmVzcENvZGU7CgkJYm9vbGVhbiBzaG91bGRSZXRyeSA9IGZhbHNlOwoJCXRyeSB7CgkJCXJlc3BDb2RlID0gY29ubmVjdGlvbi5nZXRSZXNwb25zZUNvZGUoKTsKCgkJCWlmIChyZXNwQ29kZSA9PSBIdHRwVVJMQ29ubmVjdGlvbi5IVFRQX0dPTkUpIHsKCQkJCUxvZ2dlci5sb2coIldlYmhvb2sgdGFyZ2V0IFVSTCByZXR1cm5lZCBHT05FIHN0YXR1cywgcmVtb3Zpbmcgd2ViaG9vayIpOwoJCQkJREFPLmRlbGV0ZUVudGl0eSh3ZWJIb29rKTsKCQkJfQoJCQllbHNlIGlmIChyZXNwQ29kZSAhPSBIdHRwVVJMQ29ubmVjdGlvbi5IVFRQX09LKSB7CgkJCQlMb2dnZXIubG9nKCJiYWQgcmVzcG9uc2UgY29kZTogIiArIHJlc3BDb2RlKTsKCQkJCXNob3VsZFJldHJ5ID0gdHJ1ZTsKCQkJfQoJCX0KCQljYXRjaCAoSU9FeGNlcHRpb24gZSkgewoJCQlMb2dnZXIubG9nS25vd25FeGNlcHRpb24oZSk7CgkJCXNob3VsZFJldHJ5ID0gdHJ1ZTsKCQl9Cg==</text>
       </register>
-      <register name="4" type="2">
+      <register name="7" type="2">
         <text encoding="base64">CQkJT3V0cHV0U3RyZWFtV3JpdGVyIHdyaXRlcjsK</text>
       </register>
-      <register name="5" type="2">
+      <register name="8" type="2">
         <text encoding="base64">CQkJbmV3IE9iamVjdElucHV0U3RyZWFtKCk7Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">CQkJS2V5PFdlYkhvb2s+IAo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">CQkvLyBUT0RPIGFkZCBoYXNEb21haW5zIC8gZ2V0RG9tYWlucyB0byB0aGlzCg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJCUxpc3RzLmFzTGlzdChkb21haW4pLAo=</text>
+        <text encoding="base64">CQkJS2V5PFdlYkhvb2s+IAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
