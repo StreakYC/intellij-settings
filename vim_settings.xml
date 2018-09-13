@@ -96,6 +96,9 @@
         <mark key="." line="50" column="37" />
         <mark key="^" line="50" column="37" />
       </file>
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/ratchet/Readme.md" timestamp="1536870786489">
+        <mark key="'" line="16" column="0" />
+      </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/api/APIServlet.java" timestamp="1536704369612">
         <mark key="[" line="50" column="1" />
         <mark key="]" line="56" column="1" />
@@ -125,7 +128,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="143" column="56" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/ratchet/translate/ListTranslator.java" />
       <jump line="120" column="26" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/ratchet/translate/DataClassTranslator.java" />
       <jump line="45" column="6" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/ratchet/MetadataField.java" />
       <jump line="47" column="0" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/ratchet/MetadataField.java" />
@@ -225,6 +227,7 @@
       <jump line="1330" column="4" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/DAO.java" />
       <jump line="0" column="0" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/imap/FindGmailThreadForUserFromGmailAPITask.java" />
       <jump line="63" column="59" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/realtime/RealtimeTask.java" />
+      <jump line="16" column="0" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/ratchet/Readme.md" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -234,7 +237,7 @@
         <text>params</text>
       </register>
       <register name="/" type="4">
-        <text>&quot;</text>
+        <text>rewardly.mailfoo.dataaccess</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQkJVHJhY2luZy5nZXRUcmFjZXIoKQoJCQkJICAgLmdldEN1cnJlbnRTcGFuKCkKCQkJCSAgIC5wdXRBdHRyaWJ1dGUoIkxvb2t1cCBDb3VudCIsCgkJCQkJICAgQXR0cmlidXRlVmFsdWUubG9uZ0F0dHJpYnV0ZVZhbHVlKGxvb2t1cFJlcXVlc3QuZ2V0S2V5c0NvdW50KCkpKTsK</text>
@@ -267,21 +270,20 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>%s/rewardly.mailfoo.dataaccess/streak/g</text>
       </register>
     </registers>
     <search>
-      <last-search>&quot;</last-search>
+      <last-search>rewardly.mailfoo.dataaccess</last-search>
       <last-offset />
-      <last-pattern>&quot;</last-pattern>
-      <last-replace>\/\/</last-replace>
-      <last-substitute>^</last-substitute>
+      <last-pattern>rewardly.mailfoo.dataaccess</last-pattern>
+      <last-replace>streak</last-replace>
+      <last-substitute>rewardly.mailfoo.dataaccess</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>getMessagesForCon</entry>
         <entry>Unifi</entry>
         <entry>,$</entry>
         <entry>start</entry>
@@ -301,10 +303,9 @@
         <entry encoding="base64">XDxsb2NhbFRyeU51bWJlclw+</entry>
         <entry encoding="base64">PA==</entry>
         <entry>&quot;</entry>
+        <entry>rewardly.mailfoo.dataaccess</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zLywkLy8=</entry>
-        <entry encoding="base64">JzwsJz5zLyQvICBBTkQgbWFpbGJveEVtYWlsID0gIm1kb25vZ2h1ZUBseWZ0LmNvbSIgT1JERVIgQlkgTWVzc2FnZU1haWxib3hlcy5pbnRlcm5hbERhdGUgREVTQyBMSU1JVCAxMCkgVU5JT04gQUxMIA==</entry>
         <entry>s/start/end/g</entry>
         <entry encoding="base64">JzwsJz5zLywvLw==</entry>
         <entry encoding="base64">JzwsJz5zL15cc1wrLy8=</entry>
@@ -323,6 +324,8 @@
         <entry encoding="base64">JzwsJz5zL14vXC9cLw==</entry>
         <entry>wq</entry>
         <entry>w</entry>
+        <entry>s/rewardly.mailfoo.dataaccess/streak/g</entry>
+        <entry>%s/rewardly.mailfoo.dataaccess/streak/g</entry>
       </history-cmd>
       <history-expr />
       <history-input />
