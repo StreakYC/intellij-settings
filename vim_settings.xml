@@ -15,8 +15,10 @@
         <mark key="." line="82" column="18" />
         <mark key="^" line="102" column="20" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/ratchet/Ratchet.java" timestamp="1536956435816">
-        <mark key="[" line="55" column="53" />
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/ratchet/Ratchet.java" timestamp="1536958200301">
+        <mark key="[" line="61" column="0" />
+        <mark key="]" line="61" column="0" />
+        <mark key="." line="61" column="0" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/pom.xml" timestamp="1536348055402">
         <mark key="[" line="126" column="21" />
@@ -93,7 +95,7 @@
         <mark key="." line="430" column="11" />
         <mark key="^" line="434" column="27" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/ratchet/RatchetReadOnlyTxn.java" timestamp="1536956443421">
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/ratchet/RatchetReadOnlyTxn.java" timestamp="1536957639281">
         <mark key="[" line="10" column="76" />
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
@@ -117,8 +119,11 @@
         <mark key="^" line="71" column="120" />
         <mark key="." line="79" column="0" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/ratchet/RatchetReadWriteTxn.java" timestamp="1536956567366">
-        <mark key="[" line="10" column="62" />
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/ratchet/RatchetReadWriteTxn.java" timestamp="1536959411922">
+        <mark key="[" line="19" column="37" />
+        <mark key="]" line="20" column="53" />
+        <mark key="." line="20" column="0" />
+        <mark key="^" line="18" column="48" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/streak/objectify/objectify/6.0.2-SNAPSHOT/objectify-6.0.2-20180907.191011-1-sources.jar!/com/googlecode/objectify/util/Closeable.java" timestamp="1536954057732" />
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/ratchet/schema/ChildTable.java" timestamp="1536876113735">
@@ -130,7 +135,7 @@
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/incomingmail/IncomingMailServlet.java" timestamp="1536338222722">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/ratchet/RatchetReaderWriter.java" timestamp="1536955920598">
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/ratchet/RatchetReaderWriter.java" timestamp="1536959238478">
         <mark key="[" line="9" column="4" />
         <mark key="]" line="9" column="10" />
         <mark key="^" line="9" column="10" />
@@ -278,11 +283,11 @@
       <jump line="39" column="25" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/streak/ratchet/RatchetTest.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">cmVhZFdyaXRlVHJhbnNhY3Rpb24g</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQlyZWFkZXJXcml0ZXIgPSBuZXcgUmF0Y2hldFJlYWRlcldyaXRlcigpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">cmVhZFdyaXRlVHJhbnNhY3Rpb24g</text>
+        <text encoding="base64">ZmluYWwg</text>
       </register>
       <register name="/" type="4">
         <text>Configuration.ratchet</text>
@@ -291,34 +296,34 @@
         <text encoding="base64">CQkJVHJhY2luZy5nZXRUcmFjZXIoKQoJCQkJICAgLmdldEN1cnJlbnRTcGFuKCkKCQkJCSAgIC5wdXRBdHRyaWJ1dGUoIkxvb2t1cCBDb3VudCIsCgkJCQkJICAgQXR0cmlidXRlVmFsdWUubG9uZ0F0dHJpYnV0ZVZhbHVlKGxvb2t1cFJlcXVlc3QuZ2V0S2V5c0NvdW50KCkpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5nb29nbGUuY2xvdWQuc3Bhbm5lci5SZWFkT25seVRyYW5zYWN0aW9uCg==</text>
+        <text encoding="base64">CQlyZWFkZXJXcml0ZXIgPSBuZXcgUmF0Y2hldFJlYWRlcldyaXRlcigpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmF4LmFubm90YXRpb24uTm9ubnVsbDsK</text>
+        <text encoding="base64">CQl0eG5SdW5uZXIuCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CXByaXZhdGUgZmluYWwgUmF0Y2hldCByYXRjaGV0ID0gbmV3IFJhdGNoZXQoKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CUBPdmVycmlkZSBwdWJsaWMgdm9pZCBjbG9zZSgpIHsKCgl9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CUBOb25udWxsCglwdWJsaWMgUmF0Y2hldCByYXRjaGV0KCkgewoJCXJldHVybiByYXRjaGV0OwoJfQo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5nb29nbGVjb2RlLm9iamVjdGlmeS51dGlsLkNsb3NlYWJsZTsK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">cHVibGljIGNsYXNzIENsb3NhYmxlIHsKfQo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">CVJhdGNoZXRSZWFkV3JpdGVUeG4oQE5vbm51bGwgVHJhbnNhY3Rpb25Db250ZXh0IHRyYW5zYWN0aW9uKSB7CgkJdGhpcy50cmFuc2FjdGlvbiA9IHRyYW5zYWN0aW9uOwoJfQoKCUBPdmVycmlkZQoJcHJvdGVjdGVkIFJlYWRDb250ZXh0IGdldFRyYW5zYWN0aW9uT3JTaW5nbGVVc2VSZWFkQ29udGV4dCgpIHsKCQlyZXR1cm4gdHJhbnNhY3Rpb247Cgl9CgoJQE51bGxhYmxlCglAT3ZlcnJpZGUKCXByb3RlY3RlZCBUcmFuc2FjdGlvbkNvbnRleHQgZ2V0VHJhbnNhY3Rpb25Db250ZXh0KCkgewoJCXJldHVybiB0cmFuc2FjdGlvbjsKCX0KCglwdWJsaWMgVHJhbnNhY3Rpb25Db250ZXh0IGdldFJhd1RyYW5zYWN0aW9uT2JqZWN0KCkgewoJCXJldHVybiB0cmFuc2FjdGlvbjsKCX0K</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">CXByaXZhdGUgZmluYWwgVHJhbnNhY3Rpb25Db250ZXh0IHRyYW5zYWN0aW9uOwo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">Cglwcml2YXRlIGZpbmFsIFJhdGNoZXQgcmF0Y2hldCA9IG5ldyBSYXRjaGV0KCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>%s/Configuration.ratchet/RatchetReaderWriter/g</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -372,8 +377,8 @@
         <entry>s/rewardly.mailfoo.dataaccess/streak/g</entry>
         <entry>%s/rewardly.mailfoo.dataaccess/streak/g</entry>
         <entry encoding="base64">JzwsJz5zL0VtYWlsL0RvbWFpbg==</entry>
-        <entry>w</entry>
         <entry>%s/Configuration.ratchet/RatchetReaderWriter/g</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
