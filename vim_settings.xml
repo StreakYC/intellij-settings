@@ -166,12 +166,6 @@
         <mark key="^" line="52" column="12" />
         <mark key="." line="10" column="19" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/curls" timestamp="1537207877826">
-        <mark key="[" line="434" column="0" />
-        <mark key="]" line="430" column="11" />
-        <mark key="." line="430" column="11" />
-        <mark key="^" line="434" column="27" />
-      </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/ratchet/RatchetReadOnlyTxn.java" timestamp="1536970195812">
         <mark key="[" line="10" column="29" />
         <mark key="]" line="10" column="29" />
@@ -213,7 +207,10 @@
         <mark key="^" line="52" column="30" />
         <mark key="." line="52" column="30" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/listeners/OfyContextListener.kt" timestamp="1537223493533" />
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/listeners/OfyContextListener.kt" timestamp="1537225181344">
+        <mark key="'" line="116" column="12" />
+        <mark key="[" line="69" column="16" />
+      </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataupdaters/getters/OrganizationEnvelopesGetter.java" timestamp="1536792528529">
         <mark key="[" line="66" column="27" />
         <mark key="]" line="79" column="0" />
@@ -256,6 +253,9 @@
         <mark key="." line="102" column="53" />
         <mark key="^" line="102" column="53" />
       </file>
+      <file name="/Dummy.txt" timestamp="1537225112542">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/ratchet/objectify/TransactionRecorder.java" timestamp="1536961364709">
         <mark key="[" line="60" column="34" />
         <mark key="]" line="60" column="42" />
@@ -277,7 +277,8 @@
         <mark key="^" line="16" column="46" />
         <mark key="." line="16" column="46" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/rewardly/mailfoo/unittests/RatchetUnitTests.java" timestamp="1537222384312">
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/rewardly/mailfoo/unittests/RatchetUnitTests.java" timestamp="1537225295878">
+        <mark key="e" line="112" column="0" />
         <mark key="'" line="108" column="22" />
         <mark key="[" line="8" column="39" />
         <mark key="]" line="8" column="39" />
@@ -324,7 +325,7 @@
         <mark key="]" line="9" column="12" />
         <mark key="." line="9" column="12" />
       </file>
-      <file name="/fragment.java" timestamp="1537209607539">
+      <file name="/fragment.java" timestamp="1537225112551">
         <mark key="e" line="0" column="0" />
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
@@ -334,7 +335,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="148" column="42" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/utils/RemoteAccess.java" />
       <jump line="51" column="8" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataupdaters/getters/OrganizationEnvelopesGetter.java" />
       <jump line="71" column="12" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataupdaters/getters/OrganizationEnvelopesGetter.java" />
       <jump line="1807" column="0" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/DAO.java" />
@@ -434,6 +434,7 @@
       <jump line="2568" column="29" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/DAO.java" />
       <jump line="148" column="40" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/DAO.java" />
       <jump line="16" column="11" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/ratchet/Readme.md" />
+      <jump line="115" column="12" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/listeners/OfyContextListener.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -443,7 +444,7 @@
         <text>ErrorAggregator.recordCustomError(throwable);</text>
       </register>
       <register name="/" type="4">
-        <text>rewardly.mailfoo.dataaccess</text>
+        <text>Constants</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQkJdGhyb3cgbmV3IFJ1bnRpbWVFeGNlcHRpb24odGhyb3dhYmxlKTsK</text>
@@ -480,9 +481,9 @@
       </register>
     </registers>
     <search>
-      <last-search>rewardly.mailfoo.dataaccess</last-search>
+      <last-search>Constants</last-search>
       <last-offset />
-      <last-pattern>rewardly.mailfoo.dataaccess</last-pattern>
+      <last-pattern>Constants</last-pattern>
       <last-replace>streak</last-replace>
       <last-substitute>rewardly.mailfoo.dataaccess</last-substitute>
       <last-dir>1</last-dir>
@@ -490,7 +491,6 @@
     </search>
     <history>
       <history-search>
-        <entry>^\s\+</entry>
         <entry>$</entry>
         <entry>email</entry>
         <entry>MAX</entry>
@@ -510,6 +510,7 @@
         <entry>Configuration.ratchet</entry>
         <entry>Configuration</entry>
         <entry>rewardly.mailfoo.dataaccess</entry>
+        <entry>Constants</entry>
       </history-search>
       <history-cmd>
         <entry>s/email/gid/g</entry>
