@@ -142,11 +142,11 @@
         <mark key="]" line="38" column="0" />
         <mark key="." line="38" column="0" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/ratchet/translate/ListTranslator.java" timestamp="1537398931676">
-        <mark key="[" line="31" column="52" />
-        <mark key="]" line="31" column="71" />
-        <mark key="." line="31" column="71" />
-        <mark key="^" line="31" column="71" />
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/ratchet/translate/ListTranslator.java" timestamp="1537399624135">
+        <mark key="[" line="76" column="28" />
+        <mark key="]" line="76" column="28" />
+        <mark key="." line="76" column="28" />
+        <mark key="^" line="35" column="14" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/ratchet/translate/StringTranslator.java" timestamp="1537301450292">
         <mark key="'" line="46" column="4" />
@@ -299,11 +299,11 @@
       <jump line="14" column="8" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/ratchet/InnerMetadataField.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQl0YWJsZS4K</text>
+      <register name="&quot;" type="4">
+        <text>metadataField.getName() + &quot;_offset&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>children</text>
+        <text>metadataField.getName() + &quot;_offset&quot;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">IA==</text>
@@ -312,13 +312,13 @@
         <text encoding="base64">CQlBc3NlcnQuYXNzZXJ0RXF1YWxzKFNUQVRVUy5HT09ELCBmcm9tU3Bhbm5lci5zdWIuZ2V0KDApLnN0YXR1cyk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQl0YWJsZS4K</text>
+        <text encoding="base64">CQlpZiAodGhpcy5tZXRhZGF0YUZpZWxkLmdldFRhYmxlKCkuZ2V0U3Bhbm5lckZpZWxkcygpKSB7CgkJCQoJCX0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQl0YWJsZSA9IG5ldyBDaGlsZFRhYmxlKHRoaXMsIG1ldGFkYXRhRmllbGQuZ2V0TmFtZSgpLCBtZXRhZGF0YUZpZWxkLmdldFRhYmxlKCksIGFkZGl0aW9uYWxGaWVsZHMpOwo=</text>
+        <text encoding="base64">CQl0YWJsZS4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQlhZGRpdGlvbmFsRmllbGRzLmFkZEFsbChpbm5lck1ldGFkYXRhRmllbGQuZ2V0U3Bhbm5lckZpZWxkcygpKTsK</text>
+        <text encoding="base64">CQl0YWJsZSA9IG5ldyBDaGlsZFRhYmxlKHRoaXMsIG1ldGFkYXRhRmllbGQuZ2V0TmFtZSgpLCBtZXRhZGF0YUZpZWxkLmdldFRhYmxlKCksIGFkZGl0aW9uYWxGaWVsZHMpOwo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">CQlhZGRpdGlvbmFsRmllbGRzLmFkZEFsbChpbm5lck1ldGFkYXRhRmllbGQuZ2V0U3Bhbm5lckZpZWxkcygpKTsK</text>
@@ -327,16 +327,16 @@
         <text encoding="base64">CQlhZGRpdGlvbmFsRmllbGRzLmFkZEFsbChpbm5lck1ldGFkYXRhRmllbGQuZ2V0U3Bhbm5lckZpZWxkcygpKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CXByaXZhdGUgTGlzdDxTcGFubmVyVGFibGU+IGNoaWxkcmVuOwo=</text>
+        <text encoding="base64">CQlhZGRpdGlvbmFsRmllbGRzLmFkZEFsbChpbm5lck1ldGFkYXRhRmllbGQuZ2V0U3Bhbm5lckZpZWxkcygpKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQl0aGlzLmNoaWxkcmVuID0gQ29sbGVjdGlvbnMuZW1wdHlMaXN0KCk7Cg==</text>
+        <text encoding="base64">CXByaXZhdGUgTGlzdDxTcGFubmVyVGFibGU+IGNoaWxkcmVuOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkvLyB0YWJsZU5hbWUgPSBtZXRhZGF0YUZpZWxkLmdldFRhYmxlKCkuZ2V0TmFtZSgpICsgIl8iICsgbWV0YWRhdGFGaWVsZC5nZXROYW1lKCk7Cg==</text>
+        <text encoding="base64">CQl0aGlzLmNoaWxkcmVuID0gQ29sbGVjdGlvbnMuZW1wdHlMaXN0KCk7Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text>this.isTip</text>
+      <register name="9" type="2">
+        <text encoding="base64">CQkvLyB0YWJsZU5hbWUgPSBtZXRhZGF0YUZpZWxkLmdldFRhYmxlKCkuZ2V0TmFtZSgpICsgIl8iICsgbWV0YWRhdGFGaWVsZC5nZXROYW1lKCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
