@@ -201,6 +201,12 @@
         <mark key="]" line="49" column="0" />
         <mark key="." line="49" column="0" />
       </file>
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/ratchet/AbstractMetadataField.java" timestamp="1537373479289">
+        <mark key="[" line="121" column="23" />
+        <mark key="]" line="121" column="38" />
+        <mark key="." line="121" column="38" />
+        <mark key="^" line="121" column="38" />
+      </file>
       <file name="$USER_HOME$/src/objectify/src/main/java/com/googlecode/objectify/impl/TransactorNo.java" timestamp="1536267136562">
         <mark key="[" line="96" column="50" />
         <mark key="]" line="96" column="55" />
@@ -519,11 +525,11 @@
       <jump line="130" column="84" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/ratchet/objectify/translate/KeyTranslator.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQlmb3IgKEFic3RyYWN0TWV0YWRhdGFGaWVsZCBmaWVsZCA6IG1ldGFkYXRhLmdldE1ldGFkYXRhRmllbGRzKCkpIHsKCQkJcmV0LmFkZEFsbChmaWVsZC5jaGlsZEluc2VydHMoaW5zdGFuY2UpKTsKCQl9Cg==</text>
+      <register name="&quot;" type="4">
+        <text>childTables</text>
       </register>
       <register name="-" type="4">
-        <text>throwable.printStackTrace();</text>
+        <text>childTables</text>
       </register>
       <register name="/" type="4">
         <text>fieldName</text>
