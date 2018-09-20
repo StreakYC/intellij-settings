@@ -299,10 +299,11 @@
         <mark key="]" line="38" column="0" />
         <mark key="." line="38" column="0" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/ratchet/translate/ListTranslator.java" timestamp="1537474660763">
-        <mark key="[" line="106" column="0" />
-        <mark key="]" line="90" column="0" />
-        <mark key="." line="90" column="0" />
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/ratchet/translate/ListTranslator.java" timestamp="1537479186832">
+        <mark key="[" line="106" column="50" />
+        <mark key="]" line="114" column="7" />
+        <mark key="." line="114" column="7" />
+        <mark key="^" line="114" column="7" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/ratchet/translate/StringTranslator.java" timestamp="1537301450292">
         <mark key="'" line="46" column="4" />
@@ -413,7 +414,7 @@
         <mark key="]" line="9" column="12" />
         <mark key="." line="9" column="12" />
       </file>
-      <file name="/fragment.java" timestamp="1537473885336">
+      <file name="/fragment.java" timestamp="1537479044227">
         <mark key="e" line="0" column="0" />
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
@@ -526,11 +527,11 @@
       <jump line="71" column="0" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/streak/ratchet/SchemaWriter.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQkJCQkJCSAuZmlsdGVyKGYgLT4gZi5pc0tleSB8fCBmLmlzVmVyc2lvbikK</text>
+      <register name="&quot;" type="4">
+        <text>Collections.singletonList(item)</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ZmluYWwg</text>
+        <text>Collections.singletonList(item)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">IA==</text>
