@@ -100,12 +100,12 @@
         <mark key="]" line="37" column="41" />
         <mark key="." line="37" column="41" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/ratchet/translate/DataClassTranslator.java" timestamp="1537834714891">
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/ratchet/translate/DataClassTranslator.java" timestamp="1537838322727">
         <mark key="'" line="28" column="0" />
-        <mark key="[" line="46" column="40" />
-        <mark key="]" line="46" column="81" />
-        <mark key="^" line="46" column="81" />
-        <mark key="." line="46" column="81" />
+        <mark key="[" line="45" column="77" />
+        <mark key="]" line="45" column="77" />
+        <mark key="^" line="45" column="76" />
+        <mark key="." line="45" column="77" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/tasks/WorkflowStageHintTask.java" timestamp="1536605766840">
         <mark key="[" line="62" column="9" />
@@ -198,11 +198,11 @@
         <mark key="]" line="198" column="0" />
         <mark key="." line="198" column="0" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/ratchet/Metadata.java" timestamp="1537834790358">
-        <mark key="[" line="53" column="93" />
-        <mark key="]" line="53" column="93" />
-        <mark key="." line="53" column="93" />
-        <mark key="^" line="53" column="96" />
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/ratchet/Metadata.java" timestamp="1537838812218">
+        <mark key="[" line="53" column="21" />
+        <mark key="]" line="53" column="45" />
+        <mark key="." line="53" column="45" />
+        <mark key="^" line="53" column="45" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/containers/src/main/java/com/streak/oneoff/ServerCommonHttpServer.java" timestamp="1536615544235">
         <mark key="[" line="87" column="12" />
@@ -254,7 +254,7 @@
         <mark key="^" line="21" column="80" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/rewardly/mailfoo/unittests/entities/Complex.java" timestamp="1537819006908" />
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/ratchet/translate/ListTranslator.java" timestamp="1537823221294">
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/ratchet/translate/ListTranslator.java" timestamp="1537838550888">
         <mark key="'" line="89" column="0" />
         <mark key="[" line="134" column="52" />
         <mark key="]" line="135" column="46" />
@@ -359,7 +359,7 @@
         <mark key="^" line="10" column="11" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1537580810097">
+      <file name="/fragment.java" timestamp="1537838629680">
         <mark key="e" line="0" column="0" />
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
@@ -472,52 +472,52 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">SW5uZXJNZXRhZGF0YUZpZWxkIA==</text>
+        <text>new ChildTable(this, metadataField.getName(), metadataField.getTable(), Collections.emptyList(), metadataField);</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">SW5uZXJNZXRhZGF0YUZpZWxkIA==</text>
+        <text>new ChildTable(this, metadataField.getName(), metadataField.getTable(), Collections.emptyList(), metadataField);</text>
       </register>
       <register name="/" type="4">
-        <text>getMe</text>
+        <text>;</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CXB1YmxpYyBNZXRhZGF0YShDbGFzczw/PiBlbnRpdHlDbGFzcykgdGhyb3dzIElsbGVnYWxBY2Nlc3NFeGNlcHRpb24gewoJCXRhYmxlTmFtZSA9IGNvbXB1dGVUYWJsZU5hbWUoZW50aXR5Q2xhc3MpOwoJCXRoaXMuZW50aXR5Q2xhc3MgPSBlbnRpdHlDbGFzczsKCQl0aGlzLnRhYmxlID0gbmV3IEVudGl0eVRhYmxlKHRoaXMpOwoJCU1hcDxTdHJpbmcsIEZpZWxkPiBmaWVsZHNCeU5hbWUgPSBVdGlscy5jcmVhdGVGaWVsZHNCeU5hbWUoZW50aXR5Q2xhc3MpOwoKCQltZXRhZGF0YUZpZWxkTWFwID0gbmV3IEhhc2hNYXA8PigpOwoJCWZvciAoRW50cnk8U3RyaW5nLCBGaWVsZD4gZW50cnkgOiBmaWVsZHNCeU5hbWUuZW50cnlTZXQoKSkgewoJCQltZXRhZGF0YUZpZWxkTWFwLnB1dChlbnRyeS5nZXRLZXkoKSwgbmV3IE1ldGFkYXRhRmllbGQoZW50cnkuZ2V0VmFsdWUoKSwgdGhpcykpOwoJCX0KCQlmb3IgKEVudHJ5PFN0cmluZywgTWV0aG9kPiBlbnRyeSA6IFV0aWxzLmdldENhbGN1bGF0ZWRGaWVsZHMoZW50aXR5Q2xhc3MpLmVudHJ5U2V0KCkpIHsKCQkJbWV0YWRhdGFGaWVsZE1hcC5wdXQoZW50cnkuZ2V0S2V5KCksIG5ldyBNZXRhZGF0YUNhbGN1bGF0ZWRGaWVsZChlbnRyeS5nZXRWYWx1ZSgpLCB0aGlzKSk7CgkJfQoKCX0K</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">CQkJTGlzdDxTcGFubmVyRmllbGQ+IGFkZGl0aW9uYWxGaWVsZHMgPSBuZXcgQXJyYXlMaXN0PD4oKTsK</text>
+      <register name="1" type="4">
+        <text encoding="base64">ICsgIl8iICsgbWV0YWRhdGFGaWVsZC5nZXROYW1lKCk=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQl5ZXNwYXJrLmZyCg==</text>
+        <text encoding="base64">CQkJTGlzdDxTcGFubmVyRmllbGQ+IGFkZGl0aW9uYWxGaWVsZHMgPSBuZXcgQXJyYXlMaXN0PD4oKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQlMaXN0PFNwYW5uZXJGaWVsZD4gYWRkaXRpb25hbEZpZWxkcyA9IG5ldyBBcnJheUxpc3Q8PigpOwoJCW1ldGFkYXRhID0gbmV3IE1ldGFkYXRhKHRoaXMubWV0YWRhdGFGaWVsZCwgYWRkaXRpb25hbEZpZWxkcyk7Cg==</text>
+        <text encoding="base64">CQl5ZXNwYXJrLmZyCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQltZXRhZGF0YSA9IG5ldyBNZXRhZGF0YSh0aGlzLm1ldGFkYXRhRmllbGQsIGFkZGl0aW9uYWxGaWVsZHMpOwo=</text>
+        <text encoding="base64">CQlMaXN0PFNwYW5uZXJGaWVsZD4gYWRkaXRpb25hbEZpZWxkcyA9IG5ldyBBcnJheUxpc3Q8PigpOwoJCW1ldGFkYXRhID0gbmV3IE1ldGFkYXRhKHRoaXMubWV0YWRhdGFGaWVsZCwgYWRkaXRpb25hbEZpZWxkcyk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQl9CgkJY2F0Y2ggKElsbGVnYWxBY2Nlc3NFeGNlcHRpb24gZSkgewoJCQl0aHJvdyBuZXcgUnVudGltZUV4Y2VwdGlvbihlKTsKCQl9Cg==</text>
+        <text encoding="base64">CQltZXRhZGF0YSA9IG5ldyBNZXRhZGF0YSh0aGlzLm1ldGFkYXRhRmllbGQsIGFkZGl0aW9uYWxGaWVsZHMpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQl0cnkgewo=</text>
+        <text encoding="base64">CQl9CgkJY2F0Y2ggKElsbGVnYWxBY2Nlc3NFeGNlcHRpb24gZSkgewoJCQl0aHJvdyBuZXcgUnVudGltZUV4Y2VwdGlvbihlKTsKCQl9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQl0cnkgewo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">CXB1YmxpYyBNZXRhZGF0YShDbGFzczw/PiBlbnRpdHlDbGFzcywgU3RyaW5nIHRhYmxlTmFtZSkgdGhyb3dzIElsbGVnYWxBY2Nlc3NFeGNlcHRpb24gewoJCXRoaXMuZW50aXR5Q2xhc3MgPSBlbnRpdHlDbGFzczsKCQl0aGlzLnRhYmxlTmFtZSA9IHRhYmxlTmFtZTsKCQl0aGlzLnRhYmxlID0gbmV3IEVudGl0eVRhYmxlKHRoaXMpOwoJCU1hcDxTdHJpbmcsIEZpZWxkPiBmaWVsZHNCeU5hbWUgPSBVdGlscy5jcmVhdGVGaWVsZHNCeU5hbWUoZW50aXR5Q2xhc3MpOwoKCQltZXRhZGF0YUZpZWxkTWFwID0gbmV3IEhhc2hNYXA8PigpOwoJCWZvciAoRW50cnk8U3RyaW5nLCBGaWVsZD4gZW50cnkgOiBmaWVsZHNCeU5hbWUuZW50cnlTZXQoKSkgewoJCQltZXRhZGF0YUZpZWxkTWFwLnB1dChlbnRyeS5nZXRLZXkoKSwgbmV3IE1ldGFkYXRhRmllbGQoZW50cnkuZ2V0VmFsdWUoKSwgdGhpcykpOwoJCX0KCQlmb3IgKEVudHJ5PFN0cmluZywgTWV0aG9kPiBlbnRyeSA6IFV0aWxzLmdldENhbGN1bGF0ZWRGaWVsZHMoZW50aXR5Q2xhc3MpLmVudHJ5U2V0KCkpIHsKCQkJbWV0YWRhdGFGaWVsZE1hcC5wdXQoZW50cnkuZ2V0S2V5KCksIG5ldyBNZXRhZGF0YUNhbGN1bGF0ZWRGaWVsZChlbnRyeS5nZXRWYWx1ZSgpLCB0aGlzKSk7CgkJfQoKCX0=</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>getMe</last-search>
+      <last-search>;</last-search>
       <last-offset />
-      <last-pattern>getMe</last-pattern>
+      <last-pattern>;</last-pattern>
       <last-replace>metadataField.getName()</last-replace>
       <last-substitute>fieldName</last-substitute>
       <last-dir>1</last-dir>
@@ -525,7 +525,6 @@
     </search>
     <history>
       <history-search>
-        <entry>;</entry>
         <entry>aiStr</entry>
         <entry>allocateIds</entry>
         <entry>04</entry>
@@ -545,6 +544,7 @@
         <entry encoding="base64">IA==</entry>
         <entry>fieldName</entry>
         <entry>getMe</entry>
+        <entry>;</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2FsbG9jYXRlSWRzL2JlZ2luVHJhbnNhY3Rpb24vZw==</entry>
