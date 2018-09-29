@@ -9,7 +9,6 @@
         <mark key="^" line="36" column="100" />
         <mark key="." line="36" column="100" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/spanner/Message.java" timestamp="1538175112405" />
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/ratchet/MetadataField.java" timestamp="1538081717498">
         <mark key="[" line="37" column="0" />
         <mark key="]" line="37" column="0" />
@@ -21,7 +20,7 @@
         <mark key="'" line="945" column="8" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/streak/ratchet/unitTests/entities/Simple.java" timestamp="1538082218419" />
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/rewardly/mailfoo/unittests/DatastoreTest.java" timestamp="1538095487650">
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/rewardly/mailfoo/unittests/DatastoreTest.java" timestamp="1538180088055">
         <mark key="[" line="63" column="13" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/listeners/OfyContextListener.kt" timestamp="1538080764303">
@@ -84,6 +83,12 @@
         <mark key="." line="15" column="6" />
         <mark key="^" line="20" column="7" />
       </file>
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/ratchet/Readme.md" timestamp="1538179517280">
+        <mark key="[" line="152" column="0" />
+        <mark key="]" line="150" column="29" />
+        <mark key="." line="150" column="29" />
+        <mark key="^" line="150" column="29" />
+      </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/streak/ratchet/unitTests/entities/OfyGrandparent.java" timestamp="1538085624384">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
@@ -97,10 +102,10 @@
         <mark key="." line="0" column="5" />
         <mark key="^" line="0" column="18" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/streak/ratchet/ObjectifyTests.java" timestamp="1538173606818">
-        <mark key="[" line="90" column="0" />
-        <mark key="]" line="90" column="0" />
-        <mark key="." line="90" column="0" />
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/streak/ratchet/ObjectifyTests.java" timestamp="1538180099906">
+        <mark key="[" line="32" column="44" />
+        <mark key="]" line="32" column="6" />
+        <mark key="." line="32" column="44" />
       </file>
     </filemarks>
     <jumps>
@@ -206,11 +211,27 @@
       <jump line="154" column="31" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/ratchet/translate/ListTranslator.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQkvL2tleU9iai5zdWIuYWRkKHN1Yik7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>/*
+	@Test public void writeNLTables() throws IOException, IllegalAccessException {
+		Configuration.INSTANCE.register(NestedList.class);
+
+		GoogleCredentials credentials = GoogleCredentials.fromStream(
+			new ByteArrayInputStream(Constants.TEST_ENVIRONMENT_SECRETS_JSON_CONTENTS.getBytes()),
+			ApacheHttpTransport::new);
+		SpannerOptions options = SpannerOptions.newBuilder()
+											   .setProjectId(&quot;mailfoogae&quot;)
+											   .setCredentials(credentials)
+											   .setSessionPoolOption(SessionPoolOptions.newBuilder()
+																					   .build())
+											   .build();
+		com.google.cloud.spanner.Spanner spanner = options.getService();
+		//SchemaWriter.writeClass(spanner, OfyKeys.class);
+	}
+	*/</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IC8vIFRPRE8gLSB5IDEgYnJlYWs/</text>
+        <text>a</text>
       </register>
       <register name="/" type="4">
         <text>Complex</text>
@@ -218,32 +239,50 @@
       <register name="0" type="2">
         <text encoding="base64">CQkJCQkJcmV0dXJuIGdldElubmVyVHJhbnNsYXRvcigpLnRyYW5zbGF0ZVNwYW5uZXJWYWx1ZVRvRmllbGRUeXBlKAoJCQkJCQkJZ2V0UmF3KGl0ZW0sIGl0ZW0uZ2V0Q29sdW1uSW5kZXgobWV0YWRhdGFGaWVsZC5nZXROYW1lKCkpKSwKCQkJCQkJCWl0ZW0uZ2V0VHlwZSgpLmdldFN0cnVjdEZpZWxkcygpLmdldChpdGVtLmdldENvbHVtbkluZGV4KG1ldGFkYXRhRmllbGQuZ2V0TmFtZSgpKSkuZ2V0VHlwZSgpCgkJCQkJCSk7Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">CQkvL2tleU9iai5zdWIuYWRkKHN1Yik7Cg==</text>
+      <register name="1" type="4">
+        <text>/*
+	@Test public void writeNLTables() throws IOException, IllegalAccessException {
+		Configuration.INSTANCE.register(NestedList.class);
+
+		GoogleCredentials credentials = GoogleCredentials.fromStream(
+			new ByteArrayInputStream(Constants.TEST_ENVIRONMENT_SECRETS_JSON_CONTENTS.getBytes()),
+			ApacheHttpTransport::new);
+		SpannerOptions options = SpannerOptions.newBuilder()
+											   .setProjectId(&quot;mailfoogae&quot;)
+											   .setCredentials(credentials)
+											   .setSessionPoolOption(SessionPoolOptions.newBuilder()
+																					   .build())
+											   .build();
+		com.google.cloud.spanner.Spanner spanner = options.getService();
+		//SchemaWriter.writeClass(spanner, OfyKeys.class);
+	}
+	*/</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">CUBUZXN0IHB1YmxpYyB2b2lkIHdyaXRlTkxUYWJsZXMoKSB0aHJvd3MgSU9FeGNlcHRpb24sIElsbGVnYWxBY2Nlc3NFeGNlcHRpb24gewoJCUNvbmZpZ3VyYXRpb24uSU5TVEFOQ0UucmVnaXN0ZXIoTmVzdGVkTGlzdC5jbGFzcyk7CgoJCUdvb2dsZUNyZWRlbnRpYWxzIGNyZWRlbnRpYWxzID0gR29vZ2xlQ3JlZGVudGlhbHMuZnJvbVN0cmVhbSgKCQkJbmV3IEJ5dGVBcnJheUlucHV0U3RyZWFtKENvbnN0YW50cy5URVNUX0VOVklST05NRU5UX1NFQ1JFVFNfSlNPTl9DT05URU5UUy5nZXRCeXRlcygpKSwKCQkJQXBhY2hlSHR0cFRyYW5zcG9ydDo6bmV3KTsKCQlTcGFubmVyT3B0aW9ucyBvcHRpb25zID0gU3Bhbm5lck9wdGlvbnMubmV3QnVpbGRlcigpCgkJCQkJCQkJCQkJICAgLnNldFByb2plY3RJZCgibWFpbGZvb2dhZSIpCgkJCQkJCQkJCQkJICAgLnNldENyZWRlbnRpYWxzKGNyZWRlbnRpYWxzKQoJCQkJCQkJCQkJCSAgIC5zZXRTZXNzaW9uUG9vbE9wdGlvbihTZXNzaW9uUG9vbE9wdGlvbnMubmV3QnVpbGRlcigpCgkJCQkJCQkJCQkJCQkJCQkJCQkJCSAgIC5idWlsZCgpKQoJCQkJCQkJCQkJCSAgIC5idWlsZCgpOwoJCVNwYW5uZXIgc3Bhbm5lciA9IG9wdGlvbnMuZ2V0U2VydmljZSgpOwoJCS8vU2NoZW1hV3JpdGVyLndyaXRlQ2xhc3Moc3Bhbm5lciwgTmVzdGVkTGlzdC5jbGFzcyk7CgkJLy9TY2hlbWFXcml0ZXIud3JpdGVDbGFzcyhzcGFubmVyLCBDb21wbGV4LmNsYXNzKTsKCQkvL1NjaGVtYVdyaXRlci53cml0ZUNsYXNzKHNwYW5uZXIsIERvdWJsZU5lc3RlZC5jbGFzcyk7Cgl9CgoKCUBUZXN0IHB1YmxpYyB2b2lkIG1vYXJTY2hlbWEoKSB0aHJvd3MgSWxsZWdhbEFjY2Vzc0V4Y2VwdGlvbiB7CgkJTWV0YWRhdGEgbWV0YWRhdGEgPSBuZXcgTWV0YWRhdGEoTmVzdGVkTGlzdC5jbGFzcyk7CgkJU3lzdGVtLm91dC5wcmludGxuKFN0cmluZy5qb2luKCJcblxuIiwgbWV0YWRhdGEuZ2V0VGFibGUoKS5kZGwoKSkpOwoJfQo=</text>
+      <register name="2" type="4">
+        <text encoding="base64">Ci0tLS0tLS0tLQoKUmF0Y2hldCAvIFJhdGNoZXRSZWFkZXIgLyBSYXRjaGV0UmVhZGVyV3JpdGVyIGFyZSB0eXBlcyBvZiBhIHNlc3Npb25zIEkgdGhpbmsuICBUaGV5IGVuY2FwdWxhdGUKc29tZXRoaW5nLCBtYXliZSBhIHRyYW5zYWN0aW9uLCBtYXliZSBub3QuICBSYXRjaGV0UmVhZFdyaXRlVHhuIG1ha2VzIGl0IGV2ZW4gbW9yZSBjb25mdXNpbmcuCgpZb3UgY3JlYXRlIGFuIG9iamVjdCB0aGF0IHJlcHJlc2VudHMgeW91ciB0eXBlIG9mIGludGVyYWN0aW9uIHdpdGggdGhlIGRhdGFiYXNlLiAgWW91IGxvYWQgd29yayBpbnRvIHRoYXQgb2JqZWN0Lgp5b3UgZXhlY3V0ZSB0aGUgd29yay4KClRoaXMgYXZvaWRzIGEgbG90IG9mIHRoZSBjb21wbGljYXRpb25zLCBib3RoIG9mIG9iamVjdGlmeSwgYW5kIG9mIHRoZSBjdXJyZW50IGNvZGUuCgpCYXNpY2FsbHksIHlvdSBhcmUgYnVpbGRpbmcgdXAgYSB1bml0IG9mIHdvcmssIGFuZCBjb21taXR0aW5nIGl0LCBjb3JyZWN0PwpJdCdzIG1vcmUgY29tcGxpY2F0ZWQgaW4gdGhhdCB5b3UgY2FuIGhhdmUgdGhpbmdzIGludGVyd292ZW4gZHVyaW5nIHRoZSB0eCwgYnV0IHRoYXQgaXMgdGhlIGNvbnRleHQgZm9yIGl0IGFsbC4KClRoYXQncyBraW5kIG9mIHRoZSBvcHBvc2l0ZSBvZiBvYmplY3RpZnksIHdoZXJlIHRoaW5ncyBhcmUgaGlkZGVuIGJlaGluZCBkZWZlci4=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">CQkJCXRyeSB7CgkJCQkJLy8gU0VWRVJFOiAqfip+Kn4gQ2hhbm5lbCBNYW5hZ2VkQ2hhbm5lbEltcGx7bG9nSWQ9MjUsIHRhcmdldD1zcGFubmVyLmdvb2dsZWFwaXMuY29tOjQ0M30gd2FzIG5vdCBzaHV0ZG93biBwcm9wZXJseSEhISB+Kn4qfioKCQkJCQkvLyAgICBNYWtlIHN1cmUgdG8gY2FsbCBzaHV0ZG93bigpL3NodXRkb3duTm93KCkgYW5kIHdhaXQgdW50aWwgYXdhaXRUZXJtaW5hdGlvbigpIHJldHVybnMgdHJ1ZQoJCQkJCVRocmVhZC5zbGVlcCgxMDAwKTsKCQkJCX0KCQkJCWNhdGNoIChJbnRlcnJ1cHRlZEV4Y2VwdGlvbiBlKSB7CgkJCQkJZS5wcmludFN0YWNrVHJhY2UoKTsKCQkJCX0K</text>
+      <register name="3" type="4">
+        <text>## Known Problems
+
+Doubly nested tables do not work.</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkvLyBTRVZFUkU6ICp+Kn4qfiBDaGFubmVsIE1hbmFnZWRDaGFubmVsSW1wbHtsb2dJZD0yNSwgdGFyZ2V0PXNwYW5uZXIuZ29vZ2xlYXBpcy5jb206NDQzfSB3YXMgbm90IHNodXRkb3duIHByb3Blcmx5ISEhIH4qfip+KgoJCS8vICAgIE1ha2Ugc3VyZSB0byBjYWxsIHNodXRkb3duKCkvc2h1dGRvd25Ob3coKSBhbmQgd2FpdCB1bnRpbCBhd2FpdFRlcm1pbmF0aW9uKCkgcmV0dXJucyB0cnVlCg==</text>
+        <text encoding="base64">CQkvL2tleU9iai5zdWIuYWRkKHN1Yik7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJCQllLnByaW50U3RhY2tUcmFjZSgpOwo=</text>
+        <text encoding="base64">CUBUZXN0IHB1YmxpYyB2b2lkIHdyaXRlTkxUYWJsZXMoKSB0aHJvd3MgSU9FeGNlcHRpb24sIElsbGVnYWxBY2Nlc3NFeGNlcHRpb24gewoJCUNvbmZpZ3VyYXRpb24uSU5TVEFOQ0UucmVnaXN0ZXIoTmVzdGVkTGlzdC5jbGFzcyk7CgoJCUdvb2dsZUNyZWRlbnRpYWxzIGNyZWRlbnRpYWxzID0gR29vZ2xlQ3JlZGVudGlhbHMuZnJvbVN0cmVhbSgKCQkJbmV3IEJ5dGVBcnJheUlucHV0U3RyZWFtKENvbnN0YW50cy5URVNUX0VOVklST05NRU5UX1NFQ1JFVFNfSlNPTl9DT05URU5UUy5nZXRCeXRlcygpKSwKCQkJQXBhY2hlSHR0cFRyYW5zcG9ydDo6bmV3KTsKCQlTcGFubmVyT3B0aW9ucyBvcHRpb25zID0gU3Bhbm5lck9wdGlvbnMubmV3QnVpbGRlcigpCgkJCQkJCQkJCQkJICAgLnNldFByb2plY3RJZCgibWFpbGZvb2dhZSIpCgkJCQkJCQkJCQkJICAgLnNldENyZWRlbnRpYWxzKGNyZWRlbnRpYWxzKQoJCQkJCQkJCQkJCSAgIC5zZXRTZXNzaW9uUG9vbE9wdGlvbihTZXNzaW9uUG9vbE9wdGlvbnMubmV3QnVpbGRlcigpCgkJCQkJCQkJCQkJCQkJCQkJCQkJCSAgIC5idWlsZCgpKQoJCQkJCQkJCQkJCSAgIC5idWlsZCgpOwoJCVNwYW5uZXIgc3Bhbm5lciA9IG9wdGlvbnMuZ2V0U2VydmljZSgpOwoJCS8vU2NoZW1hV3JpdGVyLndyaXRlQ2xhc3Moc3Bhbm5lciwgTmVzdGVkTGlzdC5jbGFzcyk7CgkJLy9TY2hlbWFXcml0ZXIud3JpdGVDbGFzcyhzcGFubmVyLCBDb21wbGV4LmNsYXNzKTsKCQkvL1NjaGVtYVdyaXRlci53cml0ZUNsYXNzKHNwYW5uZXIsIERvdWJsZU5lc3RlZC5jbGFzcyk7Cgl9CgoKCUBUZXN0IHB1YmxpYyB2b2lkIG1vYXJTY2hlbWEoKSB0aHJvd3MgSWxsZWdhbEFjY2Vzc0V4Y2VwdGlvbiB7CgkJTWV0YWRhdGEgbWV0YWRhdGEgPSBuZXcgTWV0YWRhdGEoTmVzdGVkTGlzdC5jbGFzcyk7CgkJU3lzdGVtLm91dC5wcmludGxuKFN0cmluZy5qb2luKCJcblxuIiwgbWV0YWRhdGEuZ2V0VGFibGUoKS5kZGwoKSkpOwoJfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJCXNwYW5uZXIuCg==</text>
+        <text encoding="base64">CQkJCXRyeSB7CgkJCQkJLy8gU0VWRVJFOiAqfip+Kn4gQ2hhbm5lbCBNYW5hZ2VkQ2hhbm5lbEltcGx7bG9nSWQ9MjUsIHRhcmdldD1zcGFubmVyLmdvb2dsZWFwaXMuY29tOjQ0M30gd2FzIG5vdCBzaHV0ZG93biBwcm9wZXJseSEhISB+Kn4qfioKCQkJCQkvLyAgICBNYWtlIHN1cmUgdG8gY2FsbCBzaHV0ZG93bigpL3NodXRkb3duTm93KCkgYW5kIHdhaXQgdW50aWwgYXdhaXRUZXJtaW5hdGlvbigpIHJldHVybnMgdHJ1ZQoJCQkJCVRocmVhZC5zbGVlcCgxMDAwKTsKCQkJCX0KCQkJCWNhdGNoIChJbnRlcnJ1cHRlZEV4Y2VwdGlvbiBlKSB7CgkJCQkJZS5wcmludFN0YWNrVHJhY2UoKTsKCQkJCX0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJCXNwYW5uZXJEYXRhYmFzZU5hbWUoKS4K</text>
+        <text encoding="base64">CQkvLyBTRVZFUkU6ICp+Kn4qfiBDaGFubmVsIE1hbmFnZWRDaGFubmVsSW1wbHtsb2dJZD0yNSwgdGFyZ2V0PXNwYW5uZXIuZ29vZ2xlYXBpcy5jb206NDQzfSB3YXMgbm90IHNodXRkb3duIHByb3Blcmx5ISEhIH4qfip+KgoJCS8vICAgIE1ha2Ugc3VyZSB0byBjYWxsIHNodXRkb3duKCkvc2h1dGRvd25Ob3coKSBhbmQgd2FpdCB1bnRpbCBhd2FpdFRlcm1pbmF0aW9uKCkgcmV0dXJucyB0cnVlCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJCQkJCWl0ZW0uZ2V0VHlwZSgpLmdldFN0cnVjdEZpZWxkcygpLmdldChpdGVtLmdldENvbHVtbkluZGV4KG1ldGFkYXRhRmllbGQuZ2V0TmFtZSgpKSkuZ2V0VHlwZSgpCg==</text>
+        <text encoding="base64">CQkJCQllLnByaW50U3RhY2tUcmFjZSgpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJCQkJCWdldFJhdyhpdGVtLCBpdGVtLmdldENvbHVtbkluZGV4KG1ldGFkYXRhRmllbGQuZ2V0TmFtZSgpKSksCg==</text>
+        <text encoding="base64">CQkJCXNwYW5uZXIuCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
