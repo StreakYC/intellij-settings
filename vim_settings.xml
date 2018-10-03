@@ -3,12 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/spanner/GlobalThread.java" timestamp="1538599043792">
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/spanner/GlobalThread.java" timestamp="1538601635089">
         <mark key="'" line="37" column="39" />
-        <mark key="[" line="33" column="52" />
-        <mark key="]" line="37" column="59" />
-        <mark key="." line="37" column="0" />
-        <mark key="^" line="37" column="38" />
+        <mark key="[" line="49" column="46" />
+        <mark key="]" line="29" column="9" />
+        <mark key="." line="24" column="0" />
       </file>
       <file name="$USER_HOME$/src/ratchet-objectify/Readme.md" timestamp="1538588766407">
         <mark key="[" line="0" column="0" />
@@ -572,7 +571,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CQkJCQkJCQkJICAgLmJpbmQoImdpZCIpLnRvKGdpZCkK</text>
+        <text encoding="base64">CQlpZiAoU3Bhbm5lci5oYXNGaWVsZChzdHJ1Y3QsICJnaWQiKSAmJiAhc3RydWN0LmlzTnVsbCgiZ2lkIikpIHsKCQkJZ2lkID0gc3RydWN0LmdldFN0cmluZygiZ2lkIik7CgkJfQoJCWlmIChTcGFubmVyLmhhc0ZpZWxkKHN0cnVjdCwgInRocmVhZElkIikgJiYgIXN0cnVjdC5pc051bGwoInRocmVhZElkIikpIHsKCQkJdGhyZWFkSWQgPSBzdHJ1Y3QuZ2V0U3RyaW5nKCJ0aHJlYWRJZCIpOwoJCX0K</text>
       </register>
       <register name="-" type="4">
         <text>MessageThread</text>
@@ -584,34 +583,34 @@
         <text encoding="base64">CQkJCQkJCQkJICAgLmJpbmQoImdpZCIpLnRvKGdpZCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5yZXdhcmRseS5tYWlsZm9vLmRhdGFtb2RlbC5zcGFubmVyLnBhcnRpYWwuTWVzc2FnZVRocmVhZDsKaW1wb3J0IGlvLm9wZW5jZW5zdXMudHJhY2UuQXR0cmlidXRlVmFsdWU7Cg==</text>
+        <text encoding="base64">CQlpZiAoU3Bhbm5lci5oYXNGaWVsZChzdHJ1Y3QsICJnaWQiKSAmJiAhc3RydWN0LmlzTnVsbCgiZ2lkIikpIHsKCQkJZ2lkID0gc3RydWN0LmdldFN0cmluZygiZ2lkIik7CgkJfQoJCWlmIChTcGFubmVyLmhhc0ZpZWxkKHN0cnVjdCwgInRocmVhZElkIikgJiYgIXN0cnVjdC5pc051bGwoInRocmVhZElkIikpIHsKCQkJdGhyZWFkSWQgPSBzdHJ1Y3QuZ2V0U3RyaW5nKCJ0aHJlYWRJZCIpOwoJCX0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJdHJhY2VyLmdldEN1cnJlbnRTcGFuKCkKCQkJCSAgLnB1dEF0dHJpYnV0ZSgicXVlcnkiLCBBdHRyaWJ1dGVWYWx1ZS5zdHJpbmdBdHRyaWJ1dGVWYWx1ZShzdGF0ZW1lbnQudG9TdHJpbmcoKSkpOwo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5yZXdhcmRseS5tYWlsZm9vLmRhdGFtb2RlbC5zcGFubmVyLnBhcnRpYWwuTWVzc2FnZVRocmVhZDsKaW1wb3J0IGlvLm9wZW5jZW5zdXMudHJhY2UuQXR0cmlidXRlVmFsdWU7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">CQkJdHJhY2VyLmdldEN1cnJlbnRTcGFuKCkKCQkJCSAgLnB1dEF0dHJpYnV0ZSgicXVlcnkiLCBBdHRyaWJ1dGVWYWx1ZS5zdHJpbmdBdHRyaWJ1dGVWYWx1ZShzdGF0ZW1lbnQudG9TdHJpbmcoKSkpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CXB1YmxpYyBTdHJpbmcgbWVzc2FnZUlkOwo=</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">CXB1YmxpYyBTdHJpbmcgbWVzc2FnZUlkOwo=</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">CXB1YmxpYyBTdHJpbmcgcmZjTWVzc2FnZUlkOwo=</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text encoding="base64">dGhyb3dzIE5vU3VjaEZpZWxkRXhjZXB0aW9uLCBJbGxlZ2FsQWNjZXNzRXhjZXB0aW9uIA==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text encoding="base64">CQlGaWVsZCBpbmRpcmVjdEZpZWxkID0gR21haWxUaHJlYWQuY2xhc3MuZ2V0RGVjbGFyZWRGaWVsZCgiaW5kaXJlY3RBY2Nlc3NVc2VyS2V5cyIpOwoJCWluZGlyZWN0RmllbGQuc2V0QWNjZXNzaWJsZSh0cnVlKTsKCQlpbmRpcmVjdEZpZWxkLnNldChnbWFpbFRocmVhZCwgU2V0cy5hc1NldCgiMCIsICIxIikpOwoKCQlGaWVsZCBkaXJlY3RGaWVsZCA9IEdtYWlsVGhyZWFkLmNsYXNzLmdldERlY2xhcmVkRmllbGQoImRpcmVjdEFjY2Vzc1VzZXJLZXlzIik7CgkJZGlyZWN0RmllbGQuc2V0QWNjZXNzaWJsZSh0cnVlKTsKCQlkaXJlY3RGaWVsZC5zZXQoZ21haWxUaHJlYWQsIG5ldyBIYXNoU2V0KCkpOwo=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">CQkJCQkJCQkJCQkJCQkJICAgLnNldCgicmZjTWVzc2FnZUlkIikudG8oInIwIikJCQkJCQkJCQkJCQkJCQkgICAuYnVpbGQoKSkpOwo=</text>
-      </register>
       <register name=":" type="4">
-        <text>s/gid/threadId/g</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -662,11 +661,11 @@
         <entry encoding="base64">JzwsJz5zL2Fzc2VydC9Bc3NlcnQuYXNzZXJ0</entry>
         <entry>q</entry>
         <entry encoding="base64">JzwsJz5zL2hlbHBlci9zcGFubmVySGVscGVy</entry>
-        <entry>w</entry>
         <entry encoding="base64">JzwsJz5zL2dpZC9nbG9iYWxHaWQ=</entry>
         <entry encoding="base64">JzwsJz5zL2dpZC9nbG9iYWxHaWQvZw==</entry>
         <entry encoding="base64">JzwsJz5zL3RocmVhZC9nbG9iYWxUaHJlYWQvZw==</entry>
         <entry>s/gid/threadId/g</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
