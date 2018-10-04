@@ -3,10 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/spanner/GlobalThread.java" timestamp="1538682768196">
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/spanner/GlobalThread.java" timestamp="1538683558566">
         <mark key="'" line="40" column="39" />
-        <mark key="[" line="66" column="98" />
-        <mark key="^" line="65" column="68" />
+        <mark key="[" line="72" column="20" />
+        <mark key="]" line="72" column="85" />
+        <mark key="." line="72" column="85" />
+        <mark key="^" line="71" column="22" />
       </file>
       <file name="$USER_HOME$/src/ratchet-objectify/Readme.md" timestamp="1538588766407">
         <mark key="[" line="0" column="0" />
@@ -567,11 +569,11 @@
       <jump line="35" column="39" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/spanner/GlobalThread.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQkJQE92ZXJyaWRlCgkJCXB1YmxpYyBWb2lkIHJ1bihUcmFuc2FjdGlvbkNvbnRleHQgdHJhbnNhY3Rpb24pIHRocm93cyBFeGNlcHRpb24gewoKCQkJfQo=</text>
+      <register name="&quot;" type="4">
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">U3RyaW5nIA==</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>gid</text>
@@ -580,12 +582,15 @@
         <text encoding="base64">CQkJCQkJCQkJICAgLmJpbmQoImdpZCIpLnRvKGdpZCkK</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">CQkJCUxpc3Q8R2xvYmFsVGhyZWFkPiByZXQgPSBMaXN0cy5uZXdBcnJheUxpc3QoKTsK</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">CQkJQE92ZXJyaWRlCgkJCXB1YmxpYyBWb2lkIHJ1bihUcmFuc2FjdGlvbkNvbnRleHQgdHJhbnNhY3Rpb24pIHRocm93cyBFeGNlcHRpb24gewoKCQkJfQo=</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text encoding="base64">KCkgLT4gewoJCQlyZXR1cm4gbnVsbDs=</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text>SELECT GlobalThread.* \n&quot; +
 			&quot;FROM GlobalThread \n&quot; +
 			&quot;INNER JOIN Messages by_rfc\n&quot; +
@@ -593,23 +598,20 @@
 			&quot;INNER JOIN Messages by_thread\n&quot; +
 			&quot;ON by_thread.rfcMessageId = by_rfc.rfcMessageId\n</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">CQlpZiAoU3Bhbm5lci5oYXNGaWVsZChzdHJ1Y3QsICJnaWQiKSAmJiAhc3RydWN0LmlzTnVsbCgiZ2lkIikpIHsKCQkJZ2lkID0gc3RydWN0LmdldFN0cmluZygiZ2lkIik7CgkJfQoJCWlmIChTcGFubmVyLmhhc0ZpZWxkKHN0cnVjdCwgInRocmVhZElkIikgJiYgIXN0cnVjdC5pc051bGwoInRocmVhZElkIikpIHsKCQkJdGhyZWFkSWQgPSBzdHJ1Y3QuZ2V0U3RyaW5nKCJ0aHJlYWRJZCIpOwoJCX0K</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">aW1wb3J0IGNvbS5yZXdhcmRseS5tYWlsZm9vLmRhdGFtb2RlbC5zcGFubmVyLnBhcnRpYWwuTWVzc2FnZVRocmVhZDsKaW1wb3J0IGlvLm9wZW5jZW5zdXMudHJhY2UuQXR0cmlidXRlVmFsdWU7Cg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">CQkJdHJhY2VyLmdldEN1cnJlbnRTcGFuKCkKCQkJCSAgLnB1dEF0dHJpYnV0ZSgicXVlcnkiLCBBdHRyaWJ1dGVWYWx1ZS5zdHJpbmdBdHRyaWJ1dGVWYWx1ZShzdGF0ZW1lbnQudG9TdHJpbmcoKSkpOwo=</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">CQkK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">CXB1YmxpYyBTdHJpbmcgbWVzc2FnZUlkOwo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">CXB1YmxpYyBTdHJpbmcgcmZjTWVzc2FnZUlkOwo=</text>
+        <text encoding="base64">CXB1YmxpYyBTdHJpbmcgbWVzc2FnZUlkOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
