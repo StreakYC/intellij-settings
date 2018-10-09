@@ -88,13 +88,6 @@
         <mark key="^" line="3" column="58" />
         <mark key="." line="3" column="58" />
       </file>
-      <file name="$USER_HOME$/src/Ratchet/src/test/java/com/streak/ratchet/IntegrationTests.java" timestamp="1538587523272">
-        <mark key="'" line="203" column="13" />
-        <mark key="[" line="113" column="35" />
-        <mark key="]" line="140" column="0" />
-        <mark key="^" line="138" column="58" />
-        <mark key="." line="140" column="0" />
-      </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/filters/OpenCensusFilter.java" timestamp="1539034729703" />
       <file name="$USER_HOME$/src/Ratchet/src/main/java/com/streak/ratchet/schema/EntityTable.java" timestamp="1538580897634">
         <mark key="[" line="45" column="15" />
@@ -235,12 +228,12 @@
         <mark key="." line="105" column="0" />
         <mark key="^" line="44" column="10" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/spanner/GlobalThread.java" timestamp="1539119220754">
-        <mark key="'" line="57" column="39" />
-        <mark key="[" line="85" column="0" />
-        <mark key="]" line="85" column="0" />
-        <mark key="^" line="89" column="91" />
-        <mark key="." line="85" column="0" />
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/spanner/GlobalThread.java" timestamp="1539121720754">
+        <mark key="'" line="58" column="39" />
+        <mark key="[" line="103" column="93" />
+        <mark key="]" line="103" column="93" />
+        <mark key="." line="103" column="93" />
+        <mark key="^" line="103" column="92" />
       </file>
       <file name="$USER_HOME$/src/Ratchet/src/main/java/com/streak/ratchet/InnerMetadataField.java" timestamp="1538582603393">
         <mark key="[" line="40" column="16" />
@@ -576,47 +569,44 @@
       <jump line="0" column="0" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/streak/ratchet/RatchetUnitTests.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQkJCVN0cmluZyBnbG9iYWxHaWQgPSBudWxsOwoJCQkJU3RyaW5nIGdsb2JhbFRocmVhZElkID0gbnVsbDsK</text>
+      <register name="&quot;" type="4">
+        <text>,</text>
       </register>
       <register name="-" type="4">
-        <text>Struct globalThreadStruct =</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>gid</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQkJCWdpZCA9IG5ld0dpZDsKCQkJCXRocmVhZElkID0gbmV3VGhyZWFkSWQ7Cg==</text>
+        <text encoding="base64">CQkJCQkJCQkJCQkJICAgLnNldCgiZ2xvYmFsR2lkIikudG8oZ2xvYmFsVGhyZWFkSWQuZ2lkKQoJCQkJCQkJCQkJCQkgICAuc2V0KCJnbG9iYWxUaHJlYWRJZCIpLnRvKGdsb2JhbFRocmVhZElkLnRocmVhZElkKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJCVN0cmluZyBnbG9iYWxHaWQgPSBudWxsOwoJCQkJU3RyaW5nIGdsb2JhbFRocmVhZElkID0gbnVsbDsK</text>
+        <text encoding="base64">CQkJCQkvLyBnbG9iCg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">CQlwdWJsaWMgdm9pZCBidWZmZXJJZk5lZWRlZChTdHJ1Y3Qgc3RydWN0LCBUcmFuc2FjdGlvbkNvbnRleHQgdHJhbnNhY3Rpb25Db250ZXh0KSB7CgkJCQoJCX0=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">CQkJCVN0cmluZyBuZXdHaWQgPSBnbG9iYWxUaHJlYWRTdHJ1Y3QuZ2V0U3RyaW5nKDApOwoJCQkJCVN0cmluZyBuZXdUaHJlYWRJZCA9IGdsb2JhbFRocmVhZFN0cnVjdC5nZXRTdHJpbmcoMCk7</text>
+        <text encoding="base64">CQlwdWJsaWMgdm9pZCBhZGRNdXRhdGlvbklmTmVlZGVkKFN0cnVjdCBzdHJ1Y3QsIExpc3Q8TXV0YXRpb24+IG11dGF0aW9ucykgewoJCQkKCQl9</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCVN0cmluZyBnbG9iYWxHaWQgPSBudWxsOwoJCQkJU3RyaW5nIGdsb2JhbFRocmVhZElkID0gbnVsbDsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJCQlpZiAobmV3SXNCZXR0ZXIoZ2xvYmFsR2lkLCBnbG9iYWxUaHJlYWRJZCwgbmV3R2lkLCBuZXdUaHJlYWRJZCkpIHsKCQkJCQkJZ2xvYmFsR2lkID0gbmV3R2lkOwoJCQkJCQlnbG9iYWxUaHJlYWRJZCA9IG5ld1RocmVhZElkOwoJCQkJCX0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text>) {
-				gid = newGid;
-				threadId = newThreadId;
-			} else if (</text>
+      <register name="8" type="2">
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJaWYgKHRocmVhZENtcCA8IDApIHsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
