@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/spanner/GlobalThread.java" timestamp="1539214053341">
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/spanner/GlobalThread.java" timestamp="1539215708748">
         <mark key="[" line="165" column="30" />
         <mark key="]" line="165" column="36" />
         <mark key="." line="165" column="36" />
@@ -32,10 +32,11 @@
         <mark key="]" line="13" column="20" />
         <mark key="." line="13" column="20" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/spanner/queries/ThreadInfo.java" timestamp="1539213298665">
-        <mark key="[" line="0" column="55" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/spanner/queries/ThreadInfo.java" timestamp="1539215761287">
+        <mark key="[" line="23" column="77" />
+        <mark key="]" line="23" column="77" />
+        <mark key="." line="23" column="77" />
+        <mark key="^" line="24" column="4" />
       </file>
       <file name="$USER_HOME$/src/Ratchet/src/main/java/com/streak/ratchet/InnerMetadataField.java" timestamp="1538582603393">
         <mark key="[" line="40" column="16" />
@@ -196,6 +197,11 @@
         <mark key="]" line="265" column="12" />
         <mark key="." line="265" column="12" />
       </file>
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataupdaters/getters/ThreadInfoSpannerGetter.java" timestamp="1539215750692">
+        <mark key="[" line="52" column="92" />
+        <mark key="]" line="52" column="92" />
+        <mark key="." line="52" column="92" />
+      </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataupdaters/getters/ThreadInfoDataStoreGetter.java" timestamp="1539211609088">
         <mark key="[" line="206" column="0" />
         <mark key="]" line="206" column="0" />
@@ -341,11 +347,11 @@
       <jump line="2679" column="12" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/DAO.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQkJCQkJCQkJICAgLmJpbmQoImdpZCIpLnRvKGdpZCkKCQkJCQkJCQkJICAgLmJpbmQoInRocmVhZElkIikudG8odGhyZWFkSWQpCg==</text>
+      <register name="&quot;" type="4">
+        <text>y</text>
       </register>
       <register name="-" type="4">
-        <text>needle.gid=@gid and needle.threadId=@t</text>
+        <text>y</text>
       </register>
       <register name="/" type="4">
         <text>)</text>
