@@ -33,12 +33,6 @@
         <mark key="]" line="13" column="20" />
         <mark key="." line="13" column="20" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/spanner/queries/ThreadInfo.java" timestamp="1539368068589">
-        <mark key="[" line="156" column="40" />
-        <mark key="]" line="156" column="40" />
-        <mark key="." line="156" column="40" />
-        <mark key="^" line="156" column="41" />
-      </file>
       <file name="$USER_HOME$/src/Ratchet/src/main/java/com/streak/ratchet/InnerMetadataField.java" timestamp="1538582603393">
         <mark key="[" line="40" column="16" />
         <mark key="]" line="40" column="16" />
@@ -55,11 +49,10 @@
         <mark key="." line="14" column="0" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/DAO.java" timestamp="1539367516277">
-        <mark key="'" line="2740" column="0" />
+        <mark key="'" line="2739" column="0" />
         <mark key="[" line="87" column="0" />
         <mark key="]" line="87" column="0" />
         <mark key="." line="87" column="0" />
-        <mark key="^" line="2573" column="12" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/test/resources/fixtures/GlobalThreadMessages.json" timestamp="1539127095230">
         <mark key="[" line="11" column="18" />
@@ -96,6 +89,12 @@
         <mark key="[" line="20" column="0" />
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/MailFoo/ServerCore-war/src/main/webapp/WEB-INF/datastore-indexes.xml" timestamp="1539368901337">
+        <mark key="[" line="150" column="24" />
+        <mark key="]" line="150" column="36" />
+        <mark key="." line="150" column="36" />
+        <mark key="^" line="150" column="36" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/Spanner.java" timestamp="1539025571381">
         <mark key="[" line="169" column="0" />
@@ -381,16 +380,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>/</text>
+        <text>creatorKey</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>creatorKey</text>
       </register>
       <register name="/" type="4">
         <text>You stu</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Y3VybCAtYiAiam9uYXRoYW4lNDBzdHJlYWslMkVjb211aWQ9RXUzSUtLSVh5MXFTck5EN0ZRYW1sUnlMaHh5U1o3N2pSOGs1OXcxUldXbG5xVms4WWh1N0xUSkx5bHhDT3Y0MC9nQk9VWnpJa2dreDh2NzVtSUxnMG1WNE5QQWI1ZURINlVCMUFPZVVMczlMZGl5Yy9CVzV6bHhyaE81cXNhOG07IiBcCg==</text>
+        <text encoding="base64">CQk8cHJvcGVydHkgbmFtZT0iY3JlYXRvcktleSIgZGlyZWN0aW9uPSJhc2MiLz4K</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -421,7 +420,7 @@
         <text encoding="base64">CS8vIGJveCwgZ21haWxUaHJlYWQsIHRyYWNrZWRUaHJlYWQsIGJ1bXBsYXRlcnMsIGJveEtleQo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
@@ -457,7 +456,6 @@
         <entry>You stu</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/getMetadata().//</entry>
         <entry>s/longs/subData/g</entry>
         <entry>we</entry>
         <entry encoding="base64">JzwsJz5zL0NvbXBsZXgvS2V5cw==</entry>
@@ -477,6 +475,7 @@
         <entry>s/gid/rfcMessageId/g</entry>
         <entry encoding="base64">JzwsJz5zL2dpZC9lbWFpbC9n</entry>
         <entry>w</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
