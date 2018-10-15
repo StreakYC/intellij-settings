@@ -146,10 +146,11 @@
         <mark key="]" line="39" column="56" />
         <mark key="." line="39" column="56" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/messageaccessengine/graph/Graph.java" timestamp="1539628154466">
-        <mark key="[" line="13" column="36" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/messageaccessengine/graph/Graph.java" timestamp="1539629865432">
+        <mark key="[" line="17" column="19" />
+        <mark key="]" line="13" column="26" />
+        <mark key="." line="13" column="26" />
+        <mark key="^" line="13" column="26" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/curls" timestamp="1539363751808">
         <mark key="[" line="42" column="8" />
@@ -402,11 +403,11 @@
       <jump line="43" column="6" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/spanner/queries/ThreadInfo.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQkJCg==</text>
+      <register name="&quot;" type="4">
+        <text>Set</text>
       </register>
       <register name="-" type="4">
-        <text>getGlobalThreadsFor</text>
+        <text>Set</text>
       </register>
       <register name="/" type="4">
         <text>private</text>
@@ -415,31 +416,31 @@
         <text encoding="base64">CXB1YmxpYyBzdGF0aWMgTGlzdDxHbG9iYWxUaHJlYWQ+IGdldEdsb2JhbFRocmVhZHNGb3IoUmVhZENvbnRleHQgcmVhZENvbnRleHQsIExpc3Q8TWVzc2FnZVRocmVhZD4gdGhyZWFkSWRzKSB7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJCg==</text>
+        <text encoding="base64">CQlTeXN0ZW0ub3V0LnByaW50bG4obm9kZS5nZXRDbGFzcygpKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQlub2Rlcy5hZGQobm9kZSk7Cg==</text>
+        <text encoding="base64">CQkJCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CXByaXZhdGUgTGlzdDxOb2RlPiBub2RlcyA9IG5ldyBBcnJheUxpc3Q8PigpOwo=</text>
+        <text encoding="base64">CQlub2Rlcy5hZGQobm9kZSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CXByaXZhdGUgTGlzdDxOb2RlPiBub2RlcyA9IG5ldyBBcnJheUxpc3Q8PigpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJLy8gVGhpcyBpcyBhIGhvcnJpYmxlIGhhY2sgdW50aWwgd2UgYXJlIGJhY2tsb2FkZWQuICBJdCB3b24ndCBzcGlyYWwgb3V0IHByb3Blcmx5LCBidXQgbWVoCgkJCWlmIChnbG9iYWxUaHJlYWRzLmlzRW1wdHkoKSkgewoJCQkJZm9yIChNZXNzYWdlVGhyZWFkIHRocmVhZCA6IHNlZWRzKSB7CgkJCQkJR2xvYmFsVGhyZWFkLnVwZGF0ZUdsb2JhbFRocmVhZHNGb3IoU3Bhbm5lci5nZXRDbGllbnQoKSwgdGhyZWFkLmdpZCwgdGhyZWFkLnRocmVhZElkKTsKCQkJCX0KCQkJfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5BcnJheUxpc3Q7Cg==</text>
+        <text encoding="base64">CQkJLy8gVGhpcyBpcyBhIGhvcnJpYmxlIGhhY2sgdW50aWwgd2UgYXJlIGJhY2tsb2FkZWQuICBJdCB3b24ndCBzcGlyYWwgb3V0IHByb3Blcmx5LCBidXQgbWVoCgkJCWlmIChnbG9iYWxUaHJlYWRzLmlzRW1wdHkoKSkgewoJCQkJZm9yIChNZXNzYWdlVGhyZWFkIHRocmVhZCA6IHNlZWRzKSB7CgkJCQkJR2xvYmFsVGhyZWFkLnVwZGF0ZUdsb2JhbFRocmVhZHNGb3IoU3Bhbm5lci5nZXRDbGllbnQoKSwgdGhyZWFkLmdpZCwgdGhyZWFkLnRocmVhZElkKTsKCQkJCX0KCQkJfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5yZXdhcmRseS5tYWlsZm9vLmRhdGFtb2RlbC5zcGFubmVyLnF1ZXJpZXMuVGhyZWFkSW5mbzsK</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5BcnJheUxpc3Q7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJCQkJQ2FzZSBjY2FzZTsK</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5yZXdhcmRseS5tYWlsZm9vLmRhdGFtb2RlbC5zcGFubmVyLnF1ZXJpZXMuVGhyZWFkSW5mbzsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJCQkJS2V5PENhc2U+IGNhc2VLZXk7Cg==</text>
+        <text encoding="base64">CQkJCQkJQ2FzZSBjY2FzZTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
