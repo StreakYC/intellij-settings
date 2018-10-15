@@ -12,6 +12,12 @@
       <file name="$USER_HOME$/src/ratchet-objectify/Readme.md" timestamp="1538588766407">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/spanner/Message.java" timestamp="1539630726227">
+        <mark key="[" line="208" column="15" />
+        <mark key="]" line="208" column="22" />
+        <mark key="^" line="208" column="22" />
+        <mark key="." line="208" column="22" />
+      </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/domains/ThreadInfos.java" timestamp="1539627785132">
         <mark key="[" line="226" column="0" />
         <mark key="]" line="226" column="0" />
@@ -101,6 +107,12 @@
         <mark key="[" line="75" column="0" />
         <mark key="]" line="75" column="0" />
         <mark key="." line="75" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/spanner/partial/MessageThread.java" timestamp="1539630687920">
+        <mark key="[" line="254" column="15" />
+        <mark key="]" line="254" column="15" />
+        <mark key="^" line="250" column="17" />
+        <mark key="." line="254" column="15" />
       </file>
       <file name="$USER_HOME$/src/ratchet-objectify/src/main/java/com/streak/ratchet/objectify/translate/KeyTranslator.java" timestamp="1538586917948">
         <mark key="[" line="20" column="0" />
@@ -240,6 +252,9 @@
         <mark key="[" line="265" column="12" />
         <mark key="]" line="265" column="12" />
         <mark key="." line="265" column="12" />
+      </file>
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/nondatastore/GmailThread.java" timestamp="1539630640480">
+        <mark key="[" line="2" column="30" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataupdaters/getters/ThreadInfoSpannerGetter.java" timestamp="1539620908812">
         <mark key="[" line="21" column="0" />
@@ -404,10 +419,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Set</text>
+        <text>null</text>
       </register>
       <register name="-" type="4">
-        <text>Set</text>
+        <text>null</text>
       </register>
       <register name="/" type="4">
         <text>private</text>
