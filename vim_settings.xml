@@ -17,12 +17,12 @@
         <mark key="^" line="108" column="60" />
         <mark key="." line="108" column="60" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/domains/ThreadInfos.java" timestamp="1539731681381">
-        <mark key="'" line="32" column="0" />
-        <mark key="[" line="66" column="113" />
-        <mark key="]" line="66" column="113" />
-        <mark key="." line="66" column="113" />
-        <mark key="^" line="2" column="59" />
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/domains/ThreadInfos.java" timestamp="1539797449743">
+        <mark key="'" line="125" column="24" />
+        <mark key="[" line="191" column="38" />
+        <mark key="]" line="191" column="38" />
+        <mark key="." line="191" column="38" />
+        <mark key="^" line="190" column="8" />
       </file>
       <file name="$USER_HOME$/src/Ratchet/src/test/java/com/streak/ratchet/RatchetUnitTests.java" timestamp="1538508177051">
         <mark key="[" line="27" column="4" />
@@ -123,7 +123,6 @@
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/messageaccessengine/graph/MessageVisibilityGraph.java" timestamp="1539722908396" />
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/Spanner.java" timestamp="1539025571381">
         <mark key="[" line="169" column="0" />
         <mark key="]" line="169" column="0" />
@@ -320,7 +319,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="47" column="60" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataupdaters/getters/EnvelopesGetter.java" />
       <jump line="111" column="37" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataupdaters/getters/OrganizationEnvelopesGetter.java" />
       <jump line="314" column="0" filename="$USER_HOME$/src/MailFoo/curls" />
       <jump line="266" column="0" filename="$USER_HOME$/src/MailFoo/curls" />
@@ -420,63 +418,63 @@
       <jump line="2741" column="0" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/DAO.java" />
       <jump line="43" column="6" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/spanner/queries/ThreadInfo.java" />
       <jump line="32" column="0" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/domains/ThreadInfos.java" />
+      <jump line="123" column="24" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/domains/ThreadInfos.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>toString()</text>
+        <text>getGlobalThreads().</text>
       </register>
       <register name="-" type="4">
-        <text>toString()</text>
+        <text>getGlobalThreads().</text>
       </register>
       <register name="/" type="4">
-        <text>user</text>
+        <text>users</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQkJCVNjb3BlIHNjID0gVHJhY2luZy5nZXRUcmFjZXIoKS5zcGFuQnVpbGRlcigiVGhyZWFkSW5mb3MuZ2V0TWVzc2FnZVZpc2liaWxpdHlHcmFwaCIpLnN0YXJ0U2NvcGVkU3BhbigpKSB7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5nb29nbGUucHJvdG9idWYuRGVzY3JpcHRvclByb3Rvcy5HZW5lcmF0ZWRDb2RlSW5mby5Bbm5vdGF0aW9uOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJZ2V0TWVzc2FnZVZpc2liaWxpdHlHcmFwaAo=</text>
+        <text encoding="base64">CQltZXNzYWdlVmlzaWJpbGl0eUdyYXBoID0gbmV3IE1lc3NhZ2VWaXNpYmlsaXR5R3JhcGgoZ2V0TWVzc2FnZVRyYXZlcnNhYmxlR2lkcygpKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCW1lc3NhZ2VWaXNpYmlsaXR5R3JhcGggPSBuZXcgTWVzc2FnZVZpc2liaWxpdHlHcmFwaChnZXRNZXNzYWdlVHJhdmVyc2FibGVHaWRzKCkpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQltZXNzYWdlVmlzaWJpbGl0eUdyYXBoLnByb2Nlc3MoKTsK</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5nb29nbGUucHJvdG9idWYuRGVzY3JpcHRvclByb3Rvcy5HZW5lcmF0ZWRDb2RlSW5mby5Bbm5vdGF0aW9uOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJfQo=</text>
+        <text encoding="base64">CQkJZ2V0TWVzc2FnZVZpc2liaWxpdHlHcmFwaAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQlwCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">CQltZXNzYWdlVmlzaWJpbGl0eUdyYXBoLnByb2Nlc3MoKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CXByaXZhdGUgYm9vbGVhbiBoYXNQcm9jZXNzZWQgPSBmYWxzZTsK</text>
+        <text encoding="base64">CQkJfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQlwCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>user</last-search>
+      <last-search>users</last-search>
       <last-offset />
-      <last-pattern>user</last-pattern>
-      <last-replace>requester</last-replace>
-      <last-substitute>user</last-substitute>
+      <last-pattern>users</last-pattern>
+      <last-replace>localUsers</last-replace>
+      <last-substitute>users</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>getMe</entry>
         <entry>;</entry>
         <entry>getMetadata()</entry>
         <entry>getMetadata().</entry>
@@ -496,9 +494,9 @@
         <entry>You stu</entry>
         <entry>private</entry>
         <entry>user</entry>
+        <entry>users</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zL0NvbXBsZXgvS2V5cw==</entry>
         <entry>q!</entry>
         <entry encoding="base64">JzwsJz4lcy9PZnlDb21wbGV4OjpjbGFzcy5qYXZhL0NvbXBsZXguY2xhc3MvZw==</entry>
         <entry encoding="base64">JzwsJz5zLyQvOw==</entry>
@@ -517,6 +515,7 @@
         <entry>wq</entry>
         <entry encoding="base64">JzwsJz5zL3ByaXZhdGUvcHVibGljL2c=</entry>
         <entry>%s/user/requester/g</entry>
+        <entry encoding="base64">JzwsJz5zL3VzZXJzL2xvY2FsVXNlcnM=</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
