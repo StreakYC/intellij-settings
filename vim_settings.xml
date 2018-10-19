@@ -45,6 +45,12 @@
         <mark key="]" line="13" column="20" />
         <mark key="." line="13" column="20" />
       </file>
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/spanner/queries/ThreadInfo.java" timestamp="1539619424365">
+        <mark key="'" line="17" column="6" />
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
+      </file>
       <file name="$USER_HOME$/src/Ratchet/src/main/java/com/streak/ratchet/InnerMetadataField.java" timestamp="1538582603393">
         <mark key="[" line="40" column="16" />
         <mark key="]" line="40" column="16" />
@@ -90,12 +96,11 @@
         <mark key="]" line="105" column="16" />
         <mark key="." line="105" column="16" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/RatchetRpcDelegate.java" timestamp="1539966469633">
-        <mark key="'" line="56" column="19" />
-        <mark key="[" line="42" column="12" />
-        <mark key="]" line="46" column="36" />
-        <mark key="^" line="46" column="36" />
-        <mark key="." line="46" column="36" />
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/RatchetRpcDelegate.java" timestamp="1539968260920">
+        <mark key="'" line="69" column="19" />
+        <mark key="[" line="46" column="67" />
+        <mark key="]" line="61" column="0" />
+        <mark key="." line="61" column="0" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/rewardly/mailfoo/unittests/entities/DoubleNested.java" timestamp="1537572182065">
         <mark key="[" line="37" column="41" />
@@ -448,8 +453,8 @@
       <jump line="44" column="19" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/RatchetRpcDelegate.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>if (mutation.)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQlMaXN0PE11dGF0aW9uPiBtdXRhdGlvbnMgPSByZXF1ZXN0LmdldE11dGF0aW9uc0xpc3QoKTsKCQlmb3IgKE11dGF0aW9uIG11dGF0aW9uOiBtdXRhdGlvbnMpIHsKCQkJU3lzdGVtLm91dC5wcmludGxuKG11dGF0aW9uKTsKCQl9CgkJZm9yIChNdXRhdGlvblJlc3VsdCByZXN1bHQ6IHJlc3BvbnNlLmdldE11dGF0aW9uUmVzdWx0c0xpc3QoKSkgewoJCQlTeXN0ZW0ub3V0LnByaW50bG4ocmVzdWx0KTsKCQl9Cg==</text>
       </register>
       <register name="-" type="4">
         <text>if (mutation.)</text>
@@ -460,33 +465,33 @@
       <register name="0" type="2">
         <text encoding="base64">CQkJdHJ5IChTY29wZSBzYyA9IFRyYWNpbmcuZ2V0VHJhY2VyKCkuc3BhbkJ1aWxkZXIoIk1lc3NhZ2VWaXNpYmlsaXR5R3JhcGgucHJvY2Vzcy5tZXNzYWdlR3JlbWxpbiIpLnN0YXJ0U2NvcGVkU3BhbigpKSB7Cg==</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">CQlMaXN0PE11dGF0aW9uPiBtdXRhdGlvbnMgPSByZXF1ZXN0LmdldE11dGF0aW9uc0xpc3QoKTsKCQlmb3IgKE11dGF0aW9uIG11dGF0aW9uOiBtdXRhdGlvbnMpIHsKCQkJU3lzdGVtLm91dC5wcmludGxuKG11dGF0aW9uKTsKCQl9CgkJZm9yIChNdXRhdGlvblJlc3VsdCByZXN1bHQ6IHJlc3BvbnNlLmdldE11dGF0aW9uUmVzdWx0c0xpc3QoKSkgewoJCQlTeXN0ZW0ub3V0LnByaW50bG4ocmVzdWx0KTsKCQl9Cg==</text>
+      </register>
+      <register name="2" type="4">
+        <text encoding="base64">CQlMaXN0PAoJCWZvciAKCQkJCgkJfQoJCWZvciAKCQkJCgkJfQ==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">CQlDb21taXRSZXNwb25zZSByZXNwb25zZSA9IHdyYXBwZWRScGMuY29tbWl0KHJlcXVlc3QpOwo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">CQkJaWYgKG11dGF0aW9uLikK</text>
+      </register>
+      <register name="5" type="4">
         <text>new TrackedThreadGetter().getAndPrepareTrackedThread(requester.getUserKey(),
 				threadId);</text>
       </register>
-      <register name="2" type="2">
+      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ZAo=</text>
       </register>
-      <register name="4" type="2">
+      <register name="8" type="2">
         <text encoding="base64">CQkJdHJhY2tlZFRocmVhZHMK</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">CQkJCQkJfQo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">CQkJCQkJCQlyZXR1cm4gdGhyZWFkcy5zdHJlYW0oKTsK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">CQkJCQkJCX0K</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">CQkJCQkJCX0KCQkJCQkJCWNhdGNoIChJT0V4Y2VwdGlvbiBlKSB7CgkJCQkJCQkJdGhyb3cgbmV3IFJ1bnRpbWVFeGNlcHRpb24oZSk7Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJCQkJCQl0aHJlYWRzLnNpemUoKTsK</text>
+        <text encoding="base64">CQkJCQkJfQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
