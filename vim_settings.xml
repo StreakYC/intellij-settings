@@ -58,9 +58,11 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/DAO.java" timestamp="1539886221770">
-        <mark key="'" line="2739" column="0" />
-        <mark key="[" line="202" column="56" />
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/DAO.java" timestamp="1540234693690">
+        <mark key="'" line="2743" column="0" />
+        <mark key="[" line="2741" column="8" />
+        <mark key="]" line="2741" column="8" />
+        <mark key="." line="2741" column="8" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/google/cloud/google-cloud-datastore/1.37.1/google-cloud-datastore-1.37.1-sources.jar!/com/google/cloud/datastore/FullEntity.java" timestamp="1539972316612" />
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/nondatastore/ThreadMetadata.java" timestamp="1539281526206">
@@ -124,10 +126,10 @@
         <mark key="[" line="182" column="55" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/GmailThread.java" timestamp="1540231496403">
-        <mark key="[" line="160" column="191" />
-        <mark key="]" line="160" column="50" />
-        <mark key="." line="160" column="50" />
-        <mark key="^" line="160" column="50" />
+        <mark key="[" line="171" column="191" />
+        <mark key="]" line="171" column="50" />
+        <mark key="." line="171" column="50" />
+        <mark key="^" line="171" column="50" />
       </file>
       <file name="$USER_HOME$/src/Ratchet/src/test/java/com/streak/ratchet/UnitTests.java" timestamp="1538581656773">
         <mark key="[" line="46" column="0" />
@@ -389,10 +391,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA=</text>
+        <text>com.streak.ratchet.Query query = new com.streak.ratchet.Query(GmailThread.class).current();</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA=</text>
+        <text>com.streak.ratchet.Query query = new com.streak.ratchet.Query(GmailThread.class).current();</text>
       </register>
       <register name="/" type="4">
         <text>users</text>
