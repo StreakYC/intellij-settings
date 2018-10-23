@@ -18,9 +18,9 @@
         <mark key="^" line="120" column="56" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/domains/ThreadInfos.java" timestamp="1540240533902">
-        <mark key="[" line="233" column="0" />
-        <mark key="]" line="233" column="0" />
-        <mark key="." line="233" column="0" />
+        <mark key="[" line="247" column="0" />
+        <mark key="]" line="247" column="0" />
+        <mark key="." line="247" column="0" />
       </file>
       <file name="$USER_HOME$/src/Ratchet/src/test/java/com/streak/ratchet/RatchetUnitTests.java" timestamp="1538508177051">
         <mark key="[" line="27" column="4" />
@@ -70,11 +70,7 @@
         <mark key="." line="14" column="0" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/DAO.java" timestamp="1540252919424">
-        <mark key="'" line="2778" column="0" />
-        <mark key="[" line="2753" column="71" />
-        <mark key="]" line="2753" column="72" />
-        <mark key="^" line="2753" column="72" />
-        <mark key="." line="2753" column="72" />
+        <mark key="'" line="2739" column="0" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/test/resources/fixtures/GlobalThreadMessages.json" timestamp="1539127095230">
         <mark key="[" line="11" column="18" />
@@ -162,10 +158,10 @@
         <mark key="[" line="182" column="55" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/GmailThread.java" timestamp="1540253000561">
-        <mark key="[" line="344" column="0" />
-        <mark key="]" line="344" column="0" />
-        <mark key="." line="344" column="0" />
-        <mark key="^" line="337" column="12" />
+        <mark key="[" line="322" column="0" />
+        <mark key="]" line="322" column="0" />
+        <mark key="." line="322" column="0" />
+        <mark key="^" line="315" column="12" />
       </file>
       <file name="$USER_HOME$/src/Ratchet/src/test/java/com/streak/ratchet/UnitTests.java" timestamp="1538581656773">
         <mark key="[" line="46" column="0" />
@@ -252,7 +248,7 @@
         <mark key="." line="105" column="44" />
         <mark key="^" line="106" column="27" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/rewardly/mailfoo/unittests/DatastoreTest.java" timestamp="1540247509049" />
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/rewardly/mailfoo/unittests/DatastoreTest.java" timestamp="1540318810856" />
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/domains/Users.java" timestamp="1539377831892">
         <mark key="[" line="28" column="0" />
         <mark key="]" line="28" column="0" />
@@ -307,7 +303,7 @@
         <mark key="]" line="41" column="69" />
         <mark key="." line="41" column="69" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/streak/ratchet/RatchetIntegrationTests.java" timestamp="1540248989514">
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/streak/ratchet/RatchetIntegrationTests.java" timestamp="1540319143802">
         <mark key="[" line="78" column="30" />
         <mark key="]" line="74" column="14" />
         <mark key="." line="74" column="14" />
@@ -352,6 +348,12 @@
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/OpenCensusApiDelegate.java" timestamp="1539903579551" />
       <file name="$USER_HOME$/src/ratchet-objectify/src/test/java/com/streak/ratchet/objectify/entities/OfyGrandparent.java" timestamp="1538586453095">
         <mark key="[" line="0" column="27" />
+      </file>
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/rewardly/mailfoo/unittests/MessageAccessEngineGlobalThreadIdTests.java" timestamp="1540319148853">
+        <mark key="[" line="66" column="25" />
+        <mark key="]" line="67" column="69" />
+        <mark key="^" line="67" column="69" />
+        <mark key="." line="67" column="69" />
       </file>
       <file name="$USER_HOME$/src/Ratchet/src/test/java/com/streak/ratchet/SchemaWriter.java" timestamp="1538508617911">
         <mark key="[" line="8" column="0" />
@@ -471,11 +473,11 @@
       <jump line="44" column="19" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/RatchetRpcDelegate.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQlpZiAobnVsbCAhPSBnbWFpbFRocmVhZEtleSkgewoJCQlyZXR1cm4gZ21haWxUaHJlYWRLZXk7CgkJfQo=</text>
+      <register name="&quot;" type="4">
+        <text>Suite</text>
       </register>
       <register name="-" type="4">
-        <text>@OnLoad</text>
+        <text>Suite</text>
       </register>
       <register name="/" type="4">
         <text>users</text>
