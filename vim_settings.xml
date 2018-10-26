@@ -344,11 +344,11 @@
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/RatchetApiDelegate.java" timestamp="1539903574126">
         <mark key="[" line="2" column="31" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/utils/RemoteAccess.java" timestamp="1540512332205">
-        <mark key="[" line="33" column="16" />
-        <mark key="]" line="33" column="21" />
-        <mark key="." line="33" column="21" />
-        <mark key="^" line="33" column="21" />
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/utils/RemoteAccess.java" timestamp="1540514788345">
+        <mark key="[" line="39" column="33" />
+        <mark key="]" line="39" column="33" />
+        <mark key="." line="39" column="33" />
+        <mark key="^" line="28" column="68" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/api/AuthFilter.java" timestamp="1540414886365" />
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/streak/ratchet/unitTests/entities/OfyGrandparent.java" timestamp="1538085624384">
@@ -486,10 +486,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>new RatchetReaderWriter()</text>
+        <text>2</text>
       </register>
       <register name="-" type="4">
-        <text>new RatchetReaderWriter()</text>
+        <text>2</text>
       </register>
       <register name="/" type="4">
         <text>&quot;</text>
@@ -498,31 +498,31 @@
         <text encoding="base64">CQlUaHJlYWQuc2xlZXAoMjAwMCk7IC8vIEkgZG9uJ3Qga25vdyB3aHkgb3Aud2FpdEZvciBjaG9rZXMK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJCQo=</text>
+        <text encoding="base64">CQkJCQkJCQkJCQkJCQkJCSAucmV2Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJLy9jb20ucmV3YXJkbHkubWFpbGZvby5kYXRhbW9kZWwuc3Bhbm5lci5HbG9iYWxUaHJlYWQudXBkYXRlR2xvYmFsVGhyZWFkc0ZvcihTcGFubmVyLmdldENsaWVudCgpLCAiMTAwMDc0NjkxMTcwOTYyNTU2MTc5IiwgIjE2NjVlOTdhMDczOTZlYmEiKTsK</text>
+        <text encoding="base64">CQkJCQkJCQkJCQkJCQkJCSAub3JkZXIoIi1jcmVhdGlvblRpbWVzdGFtcCIpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJLy9pbnN0YWxsZXIuaW5zdGFsbE9uQWxsVGhyZWFkcyhvcHRpb25zKTsK</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5zdHJlYWsucmF0Y2hldC5SYXRjaGV0UmVhZGVyV3JpdGVyOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQlSZW1vdGVBcGlPcHRpb25zIG9wdGlvbnMgPSBuZXcgUmVtb3RlQXBpT3B0aW9ucygpCgkJCS5zZXJ2ZXIoIm1haWxmb29nYWUuYXBwc3BvdC5jb20iLCA0NDMpCgkJCS51c2VBcHBsaWNhdGlvbkRlZmF1bHRDcmVkZW50aWFsKCk7CgoJCVJlbW90ZUFwaUluc3RhbGxlciBpbnN0YWxsZXIgPSBuZXcgUmVtb3RlQXBpSW5zdGFsbGVyKCk7Cg==</text>
+        <text encoding="base64">CQkJCXdyaXRlci5zYXZlKGdtYWlsVGhyZWFkKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJREFPLmdldEdtYWlsVGhyZWFkcwo=</text>
+        <text encoding="base64">CQkJYXRjaGV0UmVhZGVyV3JpdGVyIHdyaXRlciA9IG5ldyBSYXRjaGV0UmVhZGVyV3JpdGVyKCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaWYgKENvbnN0YW50cy5pc1Byb2QoKSkgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgc2VydmljZVJwYyA9IHNlcnZpY2VScGMpCg==</text>
+        <text encoding="base64">CQkJCQo=</text>
       </register>
-      <register name="7" type="4">
-        <text>%7B%0A%20%20%20%20%22threadGmailId%22%3A%20%22166acc23ece34060%22%0A%7D</text>
+      <register name="7" type="2">
+        <text encoding="base64">CQkJLy9jb20ucmV3YXJkbHkubWFpbGZvby5kYXRhbW9kZWwuc3Bhbm5lci5HbG9iYWxUaHJlYWQudXBkYXRlR2xvYmFsVGhyZWFkc0ZvcihTcGFubmVyLmdldENsaWVudCgpLCAiMTAwMDc0NjkxMTcwOTYyNTU2MTc5IiwgIjE2NjVlOTdhMDczOTZlYmEiKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJLy9pbnN0YWxsZXIuaW5zdGFsbE9uQWxsVGhyZWFkcyhvcHRpb25zKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Y3VybCAtayAtdSBhNDFhNWUyZWNhOWQ0NmJkYjlmMmU4ZmQ2ZGE1Njk2OTogImh0dHBzOi8vZGV2Lm1haWxmb29nYWUuYXBwc3BvdC5jb206ODg4OC9hcGkvdjEvdGhyZWFkaW5mbz9mb3JjZVNwYW5uZXI9dHJ1ZSZoZXhHbWFpbFRocmVhZElkPTE2NjhmMTIzNmJjMzg1ZWIiCg==</text>
+        <text encoding="base64">CQlSZW1vdGVBcGlPcHRpb25zIG9wdGlvbnMgPSBuZXcgUmVtb3RlQXBpT3B0aW9ucygpCgkJCS5zZXJ2ZXIoIm1haWxmb29nYWUuYXBwc3BvdC5jb20iLCA0NDMpCgkJCS51c2VBcHBsaWNhdGlvbkRlZmF1bHRDcmVkZW50aWFsKCk7CgoJCVJlbW90ZUFwaUluc3RhbGxlciBpbnN0YWxsZXIgPSBuZXcgUmVtb3RlQXBpSW5zdGFsbGVyKCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
