@@ -3,8 +3,8 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/spanner/GlobalThread.java" timestamp="1539732981087">
-        <mark key="[" line="201" column="0" />
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/spanner/GlobalThread.java" timestamp="1541112629561">
+        <mark key="[" line="62" column="69" />
         <mark key="]" line="172" column="9" />
         <mark key="." line="172" column="0" />
       </file>
@@ -13,6 +13,13 @@
         <mark key="]" line="120" column="56" />
         <mark key="." line="120" column="56" />
         <mark key="^" line="120" column="56" />
+      </file>
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/domains/ThreadInfos.java" timestamp="1541112582585">
+        <mark key="'" line="163" column="65" />
+        <mark key="[" line="49" column="28" />
+        <mark key="]" line="49" column="4" />
+        <mark key="." line="49" column="4" />
+        <mark key="^" line="52" column="6" />
       </file>
       <file name="$USER_HOME$/src/Ratchet/src/test/java/com/streak/ratchet/RatchetUnitTests.java" timestamp="1538508177051">
         <mark key="[" line="27" column="4" />
@@ -149,8 +156,8 @@
         <mark key="]" line="5" column="11" />
         <mark key="." line="5" column="11" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/messageaccessengine/graph/MessageVisibilityGraph.java" timestamp="1539811426461">
-        <mark key="[" line="33" column="47" />
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/messageaccessengine/graph/MessageVisibilityGraph.java" timestamp="1541112737471">
+        <mark key="[" line="48" column="39" />
         <mark key="]" line="109" column="93" />
         <mark key="." line="109" column="93" />
         <mark key="^" line="109" column="93" />
@@ -398,10 +405,10 @@
         <mark key="." line="74" column="14" />
         <mark key="^" line="74" column="14" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataupdaters/getters/ThreadInfoSpannerGetter.java" timestamp="1541017746774">
-        <mark key="[" line="51" column="109" />
-        <mark key="]" line="51" column="109" />
-        <mark key="." line="51" column="109" />
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataupdaters/getters/ThreadInfoSpannerGetter.java" timestamp="1541112236428">
+        <mark key="[" line="51" column="75" />
+        <mark key="]" line="57" column="109" />
+        <mark key="." line="57" column="109" />
       </file>
       <file name="$USER_HOME$/src/queryablestate/src/main/java/com/streak/flink/EchoJob.java" timestamp="1540924695548">
         <mark key="[" line="8" column="22" />
@@ -463,6 +470,12 @@
         <mark key="^" line="14" column="45" />
         <mark key="." line="17" column="0" />
       </file>
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/domains/Envelopes.java" timestamp="1541112776237">
+        <mark key="[" line="73" column="38" />
+        <mark key="]" line="56" column="72" />
+        <mark key="^" line="39" column="71" />
+        <mark key="." line="56" column="0" />
+      </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/nondatastore/savedview/FrozenColumnSettings.java" timestamp="1540930467478">
         <mark key="[" line="5" column="4" />
         <mark key="]" line="5" column="4" />
@@ -484,20 +497,13 @@
         <mark key="]" line="3" column="16" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1540998587273">
+      <file name="/fragment.java" timestamp="1541112798023">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="31" />
         <mark key="." line="0" column="31" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="384" column="44" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/DAO.java" />
-      <jump line="69" column="12" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/utils/RemoteAccess.java" />
-      <jump line="68" column="21" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/utils/RemoteAccess.java" />
-      <jump line="59" column="63" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/utils/RemoteAccess.java" />
-      <jump line="65" column="60" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/utils/RemoteAccess.java" />
-      <jump line="67" column="12" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/utils/RemoteAccess.java" />
-      <jump line="30" column="0" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/utils/RemoteAccess.java" />
       <jump line="70" column="16" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/utils/RemoteAccess.java" />
       <jump line="60" column="0" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/utils/RemoteAccess.java" />
       <jump line="413" column="0" filename="$USER_HOME$/src/MailFoo/curls" />
@@ -591,55 +597,62 @@
       <jump line="13" column="26" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/test/resources/largeUISettings.json" />
       <jump line="586" column="11" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/test/resources/largeUISettings.json" />
       <jump line="48" column="16" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/nondatastore/uiSettings/FilterSettingsDeserializer.java" />
+      <jump line="41" column="23" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/domains/ThreadInfos.java" />
+      <jump line="52" column="54" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/domains/ThreadInfos.java" />
+      <jump line="53" column="25" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/domains/ThreadInfos.java" />
+      <jump line="55" column="62" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/domains/ThreadInfos.java" />
+      <jump line="74" column="98" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/domains/ThreadInfos.java" />
+      <jump line="95" column="70" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/domains/ThreadInfos.java" />
+      <jump line="169" column="65" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/domains/ThreadInfos.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Context</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQl0aHJlYWRJbmZvcyA9IG5ldyBUaHJlYWRJbmZvcyhtZXNzYWdlcy5nZXRSZWNvcmRzKCksIHJlcXVlc3Rlcik7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>Context</text>
+        <text>*</text>
       </register>
       <register name="/" type="4">
-        <text>i</text>
+        <text>request</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQkJbmV3IE5hbWVkVHlwZShDb250ZXh0LmNsYXNzKSwK</text>
+        <text encoding="base64">CQl0aHJlYWRJbmZvcyA9IG5ldyBUaHJlYWRJbmZvcyhtZXNzYWdlcy5nZXRSZWNvcmRzKCksIHJlcXVlc3Rlcik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQlyZXR1cm4gZmFsc2U7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CXB1YmxpYyBUaHJlYWRJbmZvcyhMaXN0PFN0cmluZz4gZ21haWxIZXhJZHMsIFVzZXIgcmVxdWVzdGVyKSB7CgkJdGhpcy5yZXF1ZXN0ZXIgPSByZXF1ZXN0ZXI7CgkJc2VlZHMgPSBnbWFpbEhleElkcy5zdHJlYW0oKQoJCQkJCQkgICAubWFwKHRocmVhZElkIC0+IG5ldyBNZXNzYWdlVGhyZWFkKHJlcXVlc3Rlci5nZXRHb29nbGVQcm9maWxlSWQoKSwKCQkJCQkJCSAgIHRocmVhZElkKSkKCQkJCQkJICAgLmNvbGxlY3QoQ29sbGVjdG9ycy50b0xpc3QoKSk7Cgl9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5MaXN0Owo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">CQkJCQlGaWx0ZXJDb25kaXRpb24gY29uZGl0aW9uID0gbmV3IEZpbHRlckNvbmRpdGlvbigpOwo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">CQkJZmlsdGVyU2V0dGluZ3MuZmlsdGVycyA9IG5ldyBBcnJheUxpc3Q8PigpOwo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">CQkvKgoKCQlpZiAoIUpzb25Ub2tlbi5GSUVMRF9OQU1FLmVxdWFscyhwYXJzZXIubmV4dFRva2VuKCkpKSB7CgkJCXRocm93IG5ldyBJT0V4Y2VwdGlvbigpOwoJCX0KCQlpZiAoIUpzb25Ub2tlbi5TVEFSVF9BUlJBWS5lcXVhbHMocGFyc2VyLm5leHRUb2tlbigpKSkgewoJCQl0aHJvdyBuZXcgSU9FeGNlcHRpb24oKTsKCQl9CgkJaWYgKCFKc29uVG9rZW4uVkFMVUVfU1RSSU5HLmVxdWFscyhwYXJzZXIubmV4dFRva2VuKCkpKSB7CgkJCXRocm93IG5ldyBJT0V4Y2VwdGlvbigpOwoJCX0KCQlmaWx0ZXJTZXR0aW5ncy5vcGVyYXRvciA9IHBhcnNlci5nZXRWYWx1ZUFzU3RyaW5nKCk7CgoJCXBhcnNlci5uZXh0VG9rZW4oKTsKCQl3aGlsZSAocGFyc2VyLmN1cnJlbnRUb2tlbigpLmVxdWFscyhKc29uVG9rZW4uU1RBUlRfQVJSQVkpKSB7CgkJCXBhcnNlci5za2lwQ2hpbGRyZW4oKTsKCQl9CgkJaWYgKCFKc29uVG9rZW4uRU5EX0FSUkFZLmVxdWFscyhwYXJzZXIuY3VycmVudFRva2VuKCkpKSB7CgkJCXRocm93IG5ldyBJT0V4Y2VwdGlvbigpOwoJCX0KCQkqLwo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">CQltYXBwZXIucmUK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="4">
+        <text encoding="base64">CXByaXZhdGUgVGhyZWFkSW5mb3MgZ2V0VGhyZWFkSW5mb3MoKSB7CgkJCgl9</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">CQlyZXR1cm4gZmFsc2U7Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5MaXN0Owo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">CUBKc29uRGVzZXJpYWxpemUodXNpbmcgPSBGaWx0ZXJTZXR0aW5nc0Rlc2VyaWFsaXplci5jbGFzcykK</text>
+        <text encoding="base64">CQkJCQlGaWx0ZXJDb25kaXRpb24gY29uZGl0aW9uID0gbmV3IEZpbHRlckNvbmRpdGlvbigpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>i</last-search>
+      <last-search>request</last-search>
       <last-offset />
-      <last-pattern>i</last-pattern>
+      <last-pattern>request</last-pattern>
       <last-replace>j</last-replace>
       <last-substitute>i</last-substitute>
       <last-dir>1</last-dir>
@@ -647,7 +660,6 @@
     </search>
     <history>
       <history-search>
-        <entry>longs</entry>
         <entry>Complex</entry>
         <entry encoding="base64">PA==</entry>
         <entry>OfyComplex::class.java</entry>
@@ -667,6 +679,7 @@
         <entry>.java</entry>
         <entry>^</entry>
         <entry>i</entry>
+        <entry>request</entry>
       </history-search>
       <history-cmd>
         <entry>%s/assert/Assert.assert/</entry>
