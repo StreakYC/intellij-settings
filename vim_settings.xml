@@ -42,7 +42,7 @@
         <mark key="^" line="35" column="18" />
         <mark key="." line="11" column="19" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/DAO.java" timestamp="1541447313008">
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/DAO.java" timestamp="1541448847445">
         <mark key="[" line="2693" column="114" />
         <mark key="]" line="2693" column="112" />
         <mark key="." line="2693" column="112" />
@@ -141,6 +141,12 @@
         <mark key="]" line="39" column="56" />
         <mark key="." line="39" column="56" />
       </file>
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataupdaters/creators/TeamMessageGrantRulesetCreator.java" timestamp="1541449043960">
+        <mark key="[" line="54" column="29" />
+        <mark key="]" line="55" column="26" />
+        <mark key="." line="55" column="26" />
+        <mark key="^" line="55" column="26" />
+      </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/messageaccessengine/graph/Graph.java" timestamp="1539722846211">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="24" column="0" />
@@ -222,6 +228,12 @@
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
         <mark key="^" line="25" column="55" />
+      </file>
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataupdaters/getters/TeamMessageGrantRulesetGetter.java" timestamp="1541448924019">
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="38" column="94" />
+        <mark key="." line="38" column="94" />
+        <mark key="^" line="38" column="94" />
       </file>
       <file name="$USER_HOME$/src/Ratchet/Readme.md" timestamp="1538583405940">
         <mark key="[" line="141" column="0" />
@@ -386,6 +398,7 @@
         <mark key="." line="407" column="63" />
         <mark key="^" line="444" column="28" />
       </file>
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataupdaters/creators/MessageGrantRulesetCreator.java" timestamp="1541448958335" />
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataupdaters/getters/EnvelopesGetter.java" timestamp="1541447375894">
         <mark key="[" line="75" column="113" />
       </file>
@@ -400,6 +413,7 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataupdaters/getters/MessageGrantRulesetGetter.java" timestamp="1541448912613" />
       <file name="$USER_HOME$/src/queryablestate/src/main/java/com/streak/flink/KeyStateJob.java" timestamp="1540924985865">
         <mark key="[" line="2" column="26" />
         <mark key="]" line="65" column="40" />
@@ -477,7 +491,7 @@
         <mark key="^" line="27" column="32" />
         <mark key="." line="27" column="32" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataupdaters/getters/ContactEnvelopesGetter.java" timestamp="1541447361133">
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataupdaters/getters/ContactEnvelopesGetter.java" timestamp="1541448856859">
         <mark key="[" line="62" column="62" />
         <mark key="]" line="62" column="62" />
         <mark key="^" line="62" column="62" />
@@ -629,8 +643,8 @@
       <jump line="169" column="65" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/domains/ThreadInfos.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>TrackedThread</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CUBPdmVycmlkZQoJcHVibGljIHZvaWQgc2V0dXBBbmRDaGVja1Blcm1pc3Npb25zKE1hcDxTdHJpbmcsIFN0cmluZz4gcGFyYW1zLAoJCQkJCQkJCQkJIFVzZXIgdXNlckRvaW5nQ3JlYXRpb24sCgkJCQkJCQkJCQkgQWNjZXNzTWFuYWdlbWVudFJlY29yZGVyIGFtKSB7CgoJfQoKCUBPdmVycmlkZSBwdWJsaWMgT2JqZWN0IGNyZWF0ZUVudGl0eSgpIHRocm93cwoJCUJhZFBhcmFtZXRlcnNFeGNlcHRpb24sCgkJSW5zdWZmaWNpZW50UGFyYW1ldGVyc0V4Y2VwdGlvbiwKCQlJbnN1ZmZpY2llbnRQZXJtaXNzaW9uc0V4Y2VwdGlvbiwKCQlJbnZhbGlkQ3JlYXRlRXhjZXB0aW9uLAoJCVVzZXJzRG9udEhhdmVBY2Nlc3NFeGNlcHRpb24gewoJCXJldHVybiBudWxsOwoJfQo=</text>
       </register>
       <register name="-" type="4">
         <text>TrackedThread</text>
@@ -642,31 +656,33 @@
         <text encoding="base64">CQlDb2xsZWN0aW9uPFVzZXI+IHBvc3NpYmxlT3duZXJzID0gY29udGV4dC50aHJlYWRJbmZvcy5nZXRVc2VycygpCgkJCQkJCQkJCQkJCQkJCSAuYnlHaWQoY29udGV4dC5tZXNzYWdlLmdpZCkKCQkJCQkJCQkJCQkJCQkJIC5nZXRSZWNvcmRzKCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CUBPdmVycmlkZQoJcHVibGljIHZvaWQgc2V0dXBBbmRDaGVja1Blcm1pc3Npb25zKE1hcDxTdHJpbmcsIFN0cmluZz4gcGFyYW1zLAoJCQkJCQkJCQkJIFVzZXIgdXNlckRvaW5nQ3JlYXRpb24sCgkJCQkJCQkJCQkgQWNjZXNzTWFuYWdlbWVudFJlY29yZGVyIGFtKSB7CgoJfQoKCUBPdmVycmlkZSBwdWJsaWMgT2JqZWN0IGNyZWF0ZUVudGl0eSgpIHRocm93cwoJCUJhZFBhcmFtZXRlcnNFeGNlcHRpb24sCgkJSW5zdWZmaWNpZW50UGFyYW1ldGVyc0V4Y2VwdGlvbiwKCQlJbnN1ZmZpY2llbnRQZXJtaXNzaW9uc0V4Y2VwdGlvbiwKCQlJbnZhbGlkQ3JlYXRlRXhjZXB0aW9uLAoJCVVzZXJzRG9udEhhdmVBY2Nlc3NFeGNlcHRpb24gewoJCXJldHVybiBudWxsOwoJfQo=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">CQl0ZWFtRmxvd3MgPSBudWxsOwo=</text>
+      <register name="2" type="4">
+        <text>DAO.get
+		
+		return null;</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="4" type="2">
+        <text encoding="base64">CQl0ZWFtRmxvd3MgPSBudWxsOwo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="4">
         <text>owners.stream()
 																											  .map(User::getUserKey)
 																											  .collect(
 																												  Collectors.toSet()))</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">CQo=</text>
-      </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQlTeXN0ZW0ub3V0LnByaW50bG4odWlTZXR0aW5ncyk7Cg==</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
