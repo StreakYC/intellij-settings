@@ -193,11 +193,12 @@
         <mark key="." line="3" column="62" />
         <mark key="^" line="3" column="62" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/nondatastore/uiSettings/ColumnKey.java" timestamp="1541539364688">
-        <mark key="[" line="15" column="23" />
-        <mark key="]" line="15" column="23" />
-        <mark key="." line="15" column="23" />
-        <mark key="^" line="7" column="6" />
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/nondatastore/uiSettings/ColumnKey.java" timestamp="1541542939161">
+        <mark key="'" line="31" column="16" />
+        <mark key="[" line="33" column="34" />
+        <mark key="]" line="33" column="34" />
+        <mark key="." line="33" column="34" />
+        <mark key="^" line="32" column="36" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/domains/Users.java" timestamp="1539377831892">
         <mark key="[" line="28" column="0" />
@@ -265,8 +266,8 @@
         <mark key="." line="39" column="43" />
         <mark key="^" line="39" column="43" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/test/resources/largeUISettings.json" timestamp="1541541827886">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/test/resources/largeUISettings.json" timestamp="1541544589259">
+        <mark key="'" line="337" column="26" />
         <mark key="[" line="6777" column="11" />
         <mark key="]" line="6777" column="11" />
         <mark key="." line="6777" column="11" />
@@ -292,12 +293,12 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/nondatastore/uiSettings/FilterCondition.java" timestamp="1541538904009">
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/nondatastore/uiSettings/FilterCondition.java" timestamp="1541543747399">
         <mark key="'" line="115" column="16" />
-        <mark key="[" line="17" column="23" />
-        <mark key="]" line="17" column="0" />
-        <mark key="^" line="87" column="32" />
-        <mark key="." line="17" column="0" />
+        <mark key="[" line="26" column="31" />
+        <mark key="]" line="26" column="35" />
+        <mark key="^" line="26" column="35" />
+        <mark key="." line="26" column="35" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/messageaccessengine/conditions/IsSecurityEmail.java" timestamp="1541101593892">
         <mark key="[" line="14" column="8" />
@@ -611,9 +612,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="115" column="12" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/listeners/OfyContextListener.kt" />
-      <jump line="43" column="30" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/ratchet/translate/BooleanTranslator.java" />
-      <jump line="72" column="41" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/ratchet/translate/ListTranslator.java" />
       <jump line="70" column="59" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/ratchet/translate/DataClassTranslator.java" />
       <jump line="48" column="23" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/ratchet/translate/DateTranslator.java" />
       <jump line="45" column="20" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/ratchet/translate/EnumTranslator.java" />
@@ -711,79 +709,49 @@
       <jump line="277" column="11" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/test/resources/largeUISettings.json" />
       <jump line="1449" column="40" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/test/resources/largeUISettings.json" />
       <jump line="0" column="0" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/test/resources/largeUISettings.json" />
+      <jump line="7518" column="57" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/test/resources/largeUISettings.json" />
+      <jump line="31" column="16" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/nondatastore/uiSettings/ColumnKey.java" />
+      <jump line="337" column="26" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/test/resources/largeUISettings.json" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>f</text>
+        <text>TRUE</text>
       </register>
       <register name="-" type="4">
-        <text>f</text>
+        <text>TRUE</text>
       </register>
       <register name="/" type="4">
         <text>viewKey</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQkJY2FzZSBpc0FueToKCQkJCWJyZWFrOwo=</text>
+        <text encoding="base64">CQkJCXJldHVybiBCb29sZWFuLlRSVUUuZXF1YWxzKGNvbHVtbktleS5nZXQoYm94KSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCWJyZWFrOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCWJyZWFrOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCWJyZWFrOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkvCg==</text>
+        <text encoding="base64">CQkJCWJyZWFrOwo=</text>
       </register>
-      <register name="5" type="4">
-        <text>/*
-
-		fields have types - we don't know them until we see the pipeline, and I don't think we want to pass that into the deserializer context.
-		Ugh.
-
-		Column Types
-
-		export const TEXT_INPUT = 'TEXT_INPUT';
-export const BASIC_TEXT = 'BASIC_TEXT';
-export const NOTES = 'NOTES';
-export const NAME = 'NAME';
-export const PERSON = 'PERSON';
-export const SINGLE_PERSON = 'SINGLE_PERSON';
-export const DATE = 'DATE';
-export const CHECKBOX = 'CHECKBOX';
-export const DROPDOWN = 'DROPDOWN';
-export const TAG = 'TAG';
-export const FORMULA = 'FORMULA';
-export const LINKED_BOXES = 'LINKED_BOXES';
-
-export const EMAIL_ADDRESSES = 'EMAIL_ADDRESSES';
-export const SUMMARY_COUNT = 'SUMMARY_COUNT';
-export const FRESHNESS = 'FRESHNESS';
-export const STAGE = 'STAGE';
-export const TOUCHPOINT_TYPE = 'TOUCHPOINT_TYPE';
-export const DURATION = 'DURATION';
-
-export const NUMBER = 'NUMBER';
-export const PERCENT = 'PERCENT';
-
-export const TEAM_CONTACTS_AND_ORGANIZATIONS = 'TEAM_CONTACTS_AND_ORGANIZATIONS';
-export const TEAM_CONTACT = 'TEAM_CONTACT';
-export const TEAM_ORG = 'TEAM_ORG';
-		 *</text>
+      <register name="5" type="2">
+        <text encoding="base64">CQkJCWJyZWFrOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJCXJldHVybiBmaWx0ZXJUeXBlLk5VTUJFUjsK</text>
+        <text encoding="base64">CQkJCWJyZWFrOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJCXJldHVybiBmaWx0ZXJUeXBlLk5VTUJFUjsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJCXJldHVybiBmaWx0ZXJUeXBlLk5VTUJFUjsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJCXJldHVybiBmaWx0ZXJUeXBlLkNPTlRBSU5TOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
