@@ -266,11 +266,11 @@
         <mark key="." line="39" column="43" />
         <mark key="^" line="39" column="43" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/test/resources/largeUISettings.json" timestamp="1541544589259">
-        <mark key="'" line="337" column="26" />
-        <mark key="[" line="6777" column="11" />
-        <mark key="]" line="6777" column="11" />
-        <mark key="." line="6777" column="11" />
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/test/resources/largeUISettings.json" timestamp="1541548859591">
+        <mark key="'" line="3" column="13" />
+        <mark key="[" line="3" column="13" />
+        <mark key="]" line="3" column="13" />
+        <mark key="." line="3" column="13" />
       </file>
       <file name="$USER_HOME$/src/Ratchet/Readme.md" timestamp="1538583405940">
         <mark key="[" line="141" column="0" />
@@ -293,12 +293,12 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/nondatastore/uiSettings/FilterCondition.java" timestamp="1541545370368">
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/nondatastore/uiSettings/FilterCondition.java" timestamp="1541549838412">
         <mark key="'" line="115" column="16" />
-        <mark key="[" line="16" column="27" />
-        <mark key="]" line="31" column="0" />
-        <mark key="^" line="31" column="21" />
-        <mark key="." line="31" column="0" />
+        <mark key="[" line="58" column="88" />
+        <mark key="]" line="59" column="44" />
+        <mark key="^" line="59" column="44" />
+        <mark key="." line="59" column="44" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/messageaccessengine/conditions/IsSecurityEmail.java" timestamp="1541101593892">
         <mark key="[" line="14" column="8" />
@@ -463,10 +463,10 @@
         <mark key="." line="4" column="13" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/nondatastore/uiSettings/FilterGroup.java" timestamp="1541534608801">
-        <mark key="[" line="14" column="68" />
-        <mark key="]" line="14" column="68" />
-        <mark key="." line="14" column="68" />
-        <mark key="^" line="16" column="28" />
+        <mark key="[" line="13" column="68" />
+        <mark key="]" line="13" column="68" />
+        <mark key="." line="13" column="68" />
+        <mark key="^" line="15" column="28" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/messageaccessengine/conditions/HasSharedBoxedContact.java" timestamp="1541117561768">
         <mark key="[" line="14" column="0" />
@@ -605,15 +605,13 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1541535701430">
+      <file name="/fragment.java" timestamp="1541550436872">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="31" />
         <mark key="." line="0" column="31" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="70" column="59" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/ratchet/translate/DataClassTranslator.java" />
-      <jump line="48" column="23" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/ratchet/translate/DateTranslator.java" />
       <jump line="45" column="20" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/ratchet/translate/EnumTranslator.java" />
       <jump line="45" column="0" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/ratchet/translate/LongTranslator.java" />
       <jump line="46" column="4" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/ratchet/translate/StringTranslator.java" />
@@ -712,55 +710,57 @@
       <jump line="7518" column="57" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/test/resources/largeUISettings.json" />
       <jump line="31" column="16" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/nondatastore/uiSettings/ColumnKey.java" />
       <jump line="337" column="26" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/test/resources/largeUISettings.json" />
+      <jump line="7492" column="45" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/test/resources/largeUISettings.json" />
+      <jump line="3" column="13" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/test/resources/largeUISettings.json" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQkJCXJldHVybgo=</text>
+      <register name="&quot;" type="4">
+        <text>specificValue</text>
       </register>
       <register name="-" type="4">
-        <text>o</text>
+        <text>specificValue</text>
       </register>
       <register name="/" type="4">
-        <text>viewKey</text>
+        <text>last</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQkJCXJldHVybiBCb29sZWFuLlRSVUUuZXF1YWxzKGNvbHVtbktleS5nZXQoYm94KSk7Cg==</text>
+        <text encoding="base64">CQkJTWF0Y2hlciBtYXRjaGVzID0gYW5vdGhlckRhdGVNYXRjaGVyLm1hdGNoZXIoc3BlY2lmaWNWYWx1ZSk7CgkJCUxvbmcgYW1vdW50ID0gTG9uZy52YWx1ZU9mKG1hdGNoZXMuZ3JvdXAoMSkpICogIDI0ICogNjAgKiA2MCAqIDEwMDA7CgkJCWlmIChtYXRjaGVzLmdyb3VwKDApLmVxdWFscygibGFzdCIpKSB7CgkJCQlhbW91bnQgKj0gLTE7CgkJCX0KCQkJcmV0dXJuIG5ldyBEYXRlKFN5c3RlbS5jdXJyZW50VGltZU1pbGxpcygpICsgYW1vdW50KTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJCXJldHVybgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQlPYmplY3QgdmFsdWUgPSBvOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQlPYmplY3QgdmFsdXkK</text>
+        <text encoding="base64">CQkJCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQlPYmplY3QK</text>
+        <text encoding="base64">CQkJc3BlY2lmaWNWYWx1ZQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJCWJyZWFrOwo=</text>
+        <text encoding="base64">CQlpZiAoc3BlY2lmaWNWYWx1ZS5tYXRjaGVzKGFub3RoZXJEYXRlUmVnZXhwKSkgewo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJCWJyZWFrOwo=</text>
+        <text encoding="base64">CQlpZiAoc3BlY2lmaWNWYWx1ZS5tYXRjaGVzKGRhdGVSYW5nZVJlZ2V4cCkpIHsKCgkJfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJCWJyZWFrOwo=</text>
+        <text encoding="base64">CQlyZXR1cm4gbnVsbDsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJCWJyZWFrOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJCWJyZWFrOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>viewKey</last-search>
+      <last-search>last</last-search>
       <last-offset />
-      <last-pattern>viewKey</last-pattern>
+      <last-pattern>last</last-pattern>
       <last-replace>NUMBER</last-replace>
       <last-substitute>SET</last-substitute>
       <last-dir>1</last-dir>
@@ -768,7 +768,6 @@
     </search>
     <history>
       <history-search>
-        <entry>gid</entry>
         <entry>You stu</entry>
         <entry>private</entry>
         <entry>user</entry>
@@ -788,6 +787,7 @@
         <entry>SET</entry>
         <entry>filterSettings</entry>
         <entry>viewKey</entry>
+        <entry>last</entry>
       </history-search>
       <history-cmd>
         <entry>s/gid/messageId/g</entry>
