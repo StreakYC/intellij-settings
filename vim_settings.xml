@@ -130,11 +130,12 @@
         <mark key="]" line="115" column="0" />
         <mark key="." line="115" column="0" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/api/APIV2EndpointManager.java" timestamp="1541452955713">
-        <mark key="[" line="25" column="90" />
-        <mark key="]" line="25" column="93" />
-        <mark key="." line="25" column="93" />
-        <mark key="^" line="25" column="93" />
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/api/APIV2EndpointManager.java" timestamp="1541727597259">
+        <mark key="'" line="97" column="197" />
+        <mark key="[" line="97" column="163" />
+        <mark key="]" line="97" column="163" />
+        <mark key="." line="97" column="163" />
+        <mark key="^" line="95" column="4" />
       </file>
       <file name="$USER_HOME$/src/queryablestate/pom.xml" timestamp="1540924753569">
         <mark key="[" line="47" column="0" />
@@ -646,7 +647,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="130" column="84" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/ratchet/objectify/translate/KeyTranslator.java" />
       <jump line="14" column="8" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/ratchet/InnerMetadataField.java" />
       <jump line="71" column="0" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/streak/ratchet/SchemaWriter.java" />
       <jump line="97" column="35" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/ratchet/translate/ListTranslator.java" />
@@ -746,19 +746,20 @@
       <jump line="48" column="54" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/rewardly/mailfoo/unittests/UISettingsTest.java" />
       <jump line="80" column="0" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/rewardly/mailfoo/unittests/UISettingsTest.java" />
       <jump line="234" column="32" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/test/resources/largeUISettings.json" />
+      <jump line="97" column="197" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/api/APIV2EndpointManager.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQkJCX0gZWxzZSBpZiAoImNyZWF0b3JTaGFyaW5nRW50cmllcyIuZXF1YWxzKGNvbHVtblRvTWF0Y2gpKSB7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>.handler(new CreateEntity())</text>
       </register>
       <register name="-" type="4">
-        <text>o</text>
+        <text>.handler(new CreateEntity())</text>
       </register>
       <register name="/" type="4">
         <text>summary</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQkJCX0gZWxzZSBpZiAoImFzc2lnbmVkVG9TaGFyaW5nRW50cmllcyIuZXF1YWxzKGNvbHVtblRvTWF0Y2gpKSB7Cg==</text>
+        <text encoding="base64">CQllbmRwb2ludHMuYWRkKG5ldyBBUElFbmRwb2ludCgiL3BpcGVsaW5lcy97S0VZfS9ib3hlcyIsIFBPU1QpLmFkZEVudGl0eVR5cGVQYXJhbShDYXNlLmNsYXNzLmdldFNpbXBsZU5hbWUoKSkuY29tcFBhcmFtKENvbnN0YW50cy5XT1JLRkxPV19LRVlfUEFSQU0sIDEpLmhhbmRsZXIobmV3IENyZWF0ZUVudGl0eSgpKSk7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">CQkJCX0gZWxzZSBpZiAoImNyZWF0b3JTaGFyaW5nRW50cmllcyIuZXF1YWxzKGNvbHVtblRvTWF0Y2gpKSB7Cg==</text>
