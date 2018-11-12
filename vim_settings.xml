@@ -206,6 +206,11 @@
         <mark key="." line="6" column="4" />
         <mark key="^" line="6" column="4" />
       </file>
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataupdaters/EntityDeleter.java" timestamp="1542052409233">
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="0" />
+        <mark key="." line="33" column="0" />
+      </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/listeners/SpannerContextListener.java" timestamp="1541453588576">
         <mark key="[" line="3" column="40" />
         <mark key="]" line="3" column="62" />
@@ -517,6 +522,11 @@
         <mark key="]" line="162" column="44" />
         <mark key="." line="162" column="44" />
       </file>
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataupdaters/deleters/MailfooEntityDeleterBase.java" timestamp="1542052355154">
+        <mark key="[" line="49" column="37" />
+        <mark key="]" line="49" column="0" />
+        <mark key="." line="49" column="0" />
+      </file>
       <file name="$USER_HOME$/src/Ratchet/src/main/java/com/streak/ratchet/schema/ChildTable.java" timestamp="1538581177616">
         <mark key="[" line="84" column="36" />
         <mark key="]" line="84" column="36" />
@@ -543,6 +553,12 @@
         <mark key="[" line="103" column="24" />
         <mark key="]" line="103" column="24" />
         <mark key="." line="103" column="24" />
+      </file>
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/handlers/DeleteEntity.java" timestamp="1542052499374">
+        <mark key="[" line="118" column="9" />
+        <mark key="]" line="74" column="0" />
+        <mark key="." line="74" column="0" />
+        <mark key="^" line="74" column="19" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/nondatastore/uiSettings/UISettings.java" timestamp="1541796159358">
         <mark key="[" line="44" column="54" />
@@ -740,11 +756,11 @@
       <jump line="97" column="197" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/api/APIV2EndpointManager.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>/</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQlkZC52ZXJpZnkoKTsK</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text encoding="base64">CQ==</text>
       </register>
       <register name="/" type="4">
         <text>summary</text>
@@ -753,31 +769,31 @@
         <text encoding="base64">CQlib3guc2V0Rm9sbG93ZXJLZXlzKG5ldyBBcnJheUxpc3Q8PigpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQlib3guc2V0Rm9sbG93ZXJLZXlzKG5ldyBBcnJheUxpc3Q8PigpKTsKCQlib3guc2V0QXNzaWduZWRUb0tleXMobmV3IEFycmF5TGlzdDw+KCkpOwo=</text>
+        <text encoding="base64">CQlkZC52ZXJpZnkoKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQlib3guc2V0QXNzaWduZWRUb1NoYXJpbmdFbnRyaWVzKExpc3RzLmFzTGlzdChuZXcgU2hhcmluZ0VudHJ5KG1lLmdldFVzZXJLZXkoKSwgIm1lQHNhbXBsZS5jb20iKSkpOwo=</text>
+        <text encoding="base64">CQlyZXR1cm4gCg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">CQlib3guc2V0QXNzaWduZWRUb0tleXMobmV3IEFycmF5TGlzdDw+KCkpOwo=</text>
+      <register name="3" type="4">
+        <text encoding="base64">CQlpZiAoY2xhc3NPZkVudGl0eSA9PSBudWxsKSB7CgkJCXJlc3Auc2V0U3RhdHVzKEh0dHBTZXJ2bGV0UmVzcG9uc2UuU0NfQkFEX1JFUVVFU1QpOwoJCQlHc29uQ3VzdG9tLndyaXRlVG9SZXNwb25zZShVdGlscy5mYWlsdXJlSlNPTigiaW52YWxpZCBlbnRpdHkgdHlwZSIpLCByZXNwKTsKCQkJcmV0dXJuOwoJCX0=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQlib3guYXJlQXNzaWduZWRUb1NoYXJpbmdFbnRyaWVzQ2FsY3VsYXRlZCA9IGZhbHNlOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQlib3guYwo=</text>
+        <text encoding="base64">CQl0aHJvdyBuZXcgTm90Rm91bmRFeGNlcHRpb24oIiIpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CXB4Cg==</text>
+        <text encoding="base64">CgkJQ2xhc3M8PyBleHRlbmRzIE1haWxmb29EYXRhTW9kZWw+IGMgPSBVdGlscy5nZXRDbGFzc09mRW50aXR5VHlwZU9yTnVsbChlbnRpdHlUeXBlKTsKCQlpZiAoYyA9PSBudWxsKSB7CgkJCXJlc3Auc2V0U3RhdHVzKEh0dHBTZXJ2bGV0UmVzcG9uc2UuU0NfQkFEX1JFUVVFU1QpOwoJCQlHc29uQ3VzdG9tLndyaXRlVG9SZXNwb25zZShVdGlscy5mYWlsdXJlSlNPTigiaW52YWxpZCBlbnRpdHkgdHlwZSIpLCByZXNwKTsKCQkJcmV0dXJuOwoJCX0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CgkJU3RyaW5nIGVudGl0eVR5cGUgPSBwYXJhbXMuZ2V0KENvbnN0YW50cy5FTlRJVFlfVFlQRV9QQVJBTSk7CgkJaWYgKCFVdGlscy5hcmVBbGxWYWxpZChlbnRpdHlUeXBlKSkgewoJCQlyZXNwLnNldFN0YXR1cyhIdHRwU2VydmxldFJlc3BvbnNlLlNDX0JBRF9SRVFVRVNUKTsKCQkJR3NvbkN1c3RvbS53cml0ZVRvUmVzcG9uc2UoVXRpbHMuZmFpbHVyZUpTT04oIk1pc3NpbmcgcGFyYW1hdGVycyIpLCByZXNwKTsKCQkJcmV0dXJuOwoJCX0KCgkJQ2xhc3M8PyBleHRlbmRzIE1haWxmb29EYXRhTW9kZWw+IGMgPSBVdGlscy5nZXRDbGFzc09mRW50aXR5VHlwZU9yTnVsbChlbnRpdHlUeXBlKTsKCQlpZiAoYyA9PSBudWxsKSB7CgkJCXJlc3Auc2V0U3RhdHVzKEh0dHBTZXJ2bGV0UmVzcG9uc2UuU0NfQkFEX1JFUVVFU1QpOwoJCQlHc29uQ3VzdG9tLndyaXRlVG9SZXNwb25zZShVdGlscy5mYWlsdXJlSlNPTigiaW52YWxpZCBlbnRpdHkgdHlwZSIpLCByZXNwKTsKCQkJcmV0dXJuOwoJCX0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">CQlib3guc2V0Rm9sbG93ZXJLZXlzKG5ldyBBcnJheUxpc3Q8PigpKTsKCQlib3guc2V0QXNzaWduZWRUb0tleXMobmV3IEFycmF5TGlzdDw+KCkpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQlib3guc2V0QXNzaWduZWRUb1NoYXJpbmdFbnRyaWVzKExpc3RzLmFzTGlzdChuZXcgU2hhcmluZ0VudHJ5KG1lLmdldFVzZXJLZXkoKSwgIm1lQHNhbXBsZS5jb20iKSkpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
