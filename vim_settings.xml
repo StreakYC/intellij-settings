@@ -522,10 +522,11 @@
         <mark key="]" line="162" column="44" />
         <mark key="." line="162" column="44" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataupdaters/deleters/MailfooEntityDeleterBase.java" timestamp="1542052355154">
-        <mark key="[" line="49" column="37" />
-        <mark key="]" line="49" column="0" />
-        <mark key="." line="49" column="0" />
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataupdaters/deleters/MailfooEntityDeleterBase.java" timestamp="1542053049401">
+        <mark key="[" line="56" column="91" />
+        <mark key="]" line="56" column="91" />
+        <mark key="." line="56" column="91" />
+        <mark key="^" line="56" column="91" />
       </file>
       <file name="$USER_HOME$/src/Ratchet/src/main/java/com/streak/ratchet/schema/ChildTable.java" timestamp="1538581177616">
         <mark key="[" line="84" column="36" />
@@ -554,11 +555,12 @@
         <mark key="]" line="103" column="24" />
         <mark key="." line="103" column="24" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/handlers/DeleteEntity.java" timestamp="1542052499374">
-        <mark key="[" line="118" column="9" />
-        <mark key="]" line="74" column="0" />
-        <mark key="." line="74" column="0" />
-        <mark key="^" line="74" column="19" />
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/handlers/DeleteEntity.java" timestamp="1542053157065">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="60" column="0" />
+        <mark key="]" line="60" column="0" />
+        <mark key="." line="60" column="0" />
+        <mark key="^" line="76" column="27" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/nondatastore/uiSettings/UISettings.java" timestamp="1541796159358">
         <mark key="[" line="44" column="54" />
@@ -654,8 +656,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="14" column="8" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/ratchet/InnerMetadataField.java" />
-      <jump line="71" column="0" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/streak/ratchet/SchemaWriter.java" />
       <jump line="97" column="35" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/ratchet/translate/ListTranslator.java" />
       <jump line="82" column="0" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/ratchet/translate/ListTranslator.java" />
       <jump line="50" column="13" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/ratchet/Query.java" />
@@ -754,55 +754,57 @@
       <jump line="80" column="0" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/rewardly/mailfoo/unittests/UISettingsTest.java" />
       <jump line="234" column="32" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/test/resources/largeUISettings.json" />
       <jump line="97" column="197" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/api/APIV2EndpointManager.java" />
+      <jump line="73" column="0" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/handlers/DeleteEntity.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/handlers/DeleteEntity.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CQlkZC52ZXJpZnkoKTsK</text>
+        <text encoding="base64">CQlTdHJpbmcgZW50aXR5VHlwZSA9IHBhcmFtcy5nZXQoQ29uc3RhbnRzLkVOVElUWV9UWVBFX1BBUkFNKTsKCQlpZiAoIVV0aWxzLmFyZUFsbFZhbGlkKGVudGl0eVR5cGUpKSB7CgkJCXJlc3Auc2V0U3RhdHVzKEh0dHBTZXJ2bGV0UmVzcG9uc2UuU0NfQkFEX1JFUVVFU1QpOwoJCQlHc29uQ3VzdG9tLndyaXRlVG9SZXNwb25zZShVdGlscy5mYWlsdXJlSlNPTigiTWlzc2luZyBwYXJhbWF0ZXJzIiksIHJlc3ApOwoJCQlyZXR1cm47CgkJfQo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">CQ==</text>
+        <text>entityType</text>
       </register>
       <register name="/" type="4">
-        <text>summary</text>
+        <text>entityT</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQlib3guc2V0Rm9sbG93ZXJLZXlzKG5ldyBBcnJheUxpc3Q8PigpKTsK</text>
+        <text encoding="base64">CQkJdGhyb3cgbmV3IE5vdEZvdW5kRXhjZXB0aW9uKCJpbnZhbGlkIGVudGl0eSB0eXBlIik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQlkZC52ZXJpZnkoKTsK</text>
+        <text encoding="base64">CQlTdHJpbmcgZW50aXR5VHlwZSA9IHBhcmFtcy5nZXQoQ29uc3RhbnRzLkVOVElUWV9UWVBFX1BBUkFNKTsKCQlpZiAoIVV0aWxzLmFyZUFsbFZhbGlkKGVudGl0eVR5cGUpKSB7CgkJCXJlc3Auc2V0U3RhdHVzKEh0dHBTZXJ2bGV0UmVzcG9uc2UuU0NfQkFEX1JFUVVFU1QpOwoJCQlHc29uQ3VzdG9tLndyaXRlVG9SZXNwb25zZShVdGlscy5mYWlsdXJlSlNPTigiTWlzc2luZyBwYXJhbWF0ZXJzIiksIHJlc3ApOwoJCQlyZXR1cm47CgkJfQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQlyZXR1cm4gCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">CQlpZiAoY2xhc3NPZkVudGl0eSA9PSBudWxsKSB7CgkJCXJlc3Auc2V0U3RhdHVzKEh0dHBTZXJ2bGV0UmVzcG9uc2UuU0NfQkFEX1JFUVVFU1QpOwoJCQlHc29uQ3VzdG9tLndyaXRlVG9SZXNwb25zZShVdGlscy5mYWlsdXJlSlNPTigiaW52YWxpZCBlbnRpdHkgdHlwZSIpLCByZXNwKTsKCQkJcmV0dXJuOwoJCX0=</text>
+      <register name="3" type="2">
+        <text encoding="base64">Ly8vLy8vLy8vLy8vLy8vLy8vCgoJCQoKCgoJCQoJCS8vLy8vLy8vLy8vLy8vLwo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQl0aHJvdyBuZXcgTm90Rm91bmRFeGNlcHRpb24oIiIpOwo=</text>
+        <text encoding="base64">CQlTdHJpbmcga2V5UGFyYW0gPSBkZGRkLmdldFBhcmFtZXRlck5hbWVGb3JLZXlPZkVudGl0eShwYXJhbXMpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CgkJQ2xhc3M8PyBleHRlbmRzIE1haWxmb29EYXRhTW9kZWw+IGMgPSBVdGlscy5nZXRDbGFzc09mRW50aXR5VHlwZU9yTnVsbChlbnRpdHlUeXBlKTsKCQlpZiAoYyA9PSBudWxsKSB7CgkJCXJlc3Auc2V0U3RhdHVzKEh0dHBTZXJ2bGV0UmVzcG9uc2UuU0NfQkFEX1JFUVVFU1QpOwoJCQlHc29uQ3VzdG9tLndyaXRlVG9SZXNwb25zZShVdGlscy5mYWlsdXJlSlNPTigiaW52YWxpZCBlbnRpdHkgdHlwZSIpLCByZXNwKTsKCQkJcmV0dXJuOwoJCX0K</text>
+        <text encoding="base64">CQlNYWlsZm9vRGF0YU1vZGVsPD8+IGVudGl0eUluRFNUb0RlbGV0ZSA9IG51bGw7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CgkJU3RyaW5nIGVudGl0eVR5cGUgPSBwYXJhbXMuZ2V0KENvbnN0YW50cy5FTlRJVFlfVFlQRV9QQVJBTSk7CgkJaWYgKCFVdGlscy5hcmVBbGxWYWxpZChlbnRpdHlUeXBlKSkgewoJCQlyZXNwLnNldFN0YXR1cyhIdHRwU2VydmxldFJlc3BvbnNlLlNDX0JBRF9SRVFVRVNUKTsKCQkJR3NvbkN1c3RvbS53cml0ZVRvUmVzcG9uc2UoVXRpbHMuZmFpbHVyZUpTT04oIk1pc3NpbmcgcGFyYW1hdGVycyIpLCByZXNwKTsKCQkJcmV0dXJuOwoJCX0KCgkJQ2xhc3M8PyBleHRlbmRzIE1haWxmb29EYXRhTW9kZWw+IGMgPSBVdGlscy5nZXRDbGFzc09mRW50aXR5VHlwZU9yTnVsbChlbnRpdHlUeXBlKTsKCQlpZiAoYyA9PSBudWxsKSB7CgkJCXJlc3Auc2V0U3RhdHVzKEh0dHBTZXJ2bGV0UmVzcG9uc2UuU0NfQkFEX1JFUVVFU1QpOwoJCQlHc29uQ3VzdG9tLndyaXRlVG9SZXNwb25zZShVdGlscy5mYWlsdXJlSlNPTigiaW52YWxpZCBlbnRpdHkgdHlwZSIpLCByZXNwKTsKCQkJcmV0dXJuOwoJCX0K</text>
+        <text encoding="base64">CQl9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQlib3guc2V0Rm9sbG93ZXJLZXlzKG5ldyBBcnJheUxpc3Q8PigpKTsKCQlib3guc2V0QXNzaWduZWRUb0tleXMobmV3IEFycmF5TGlzdDw+KCkpOwo=</text>
+        <text encoding="base64">CQlpZiAoZW50aXR5SW5EU1RvRGVsZXRlID09IG51bGwpIHsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQlib3guc2V0QXNzaWduZWRUb1NoYXJpbmdFbnRyaWVzKExpc3RzLmFzTGlzdChuZXcgU2hhcmluZ0VudHJ5KG1lLmdldFVzZXJLZXkoKSwgIm1lQHNhbXBsZS5jb20iKSkpOwo=</text>
+        <text encoding="base64">CQkJcmVzcC5zZXRTdGF0dXMoSHR0cFNlcnZsZXRSZXNwb25zZS5TQ19OT1RfRk9VTkQpOwoJCQlHc29uQ3VzdG9tLndyaXRlVG9SZXNwb25zZShVdGlscy5mYWlsdXJlSlNPTigiZXhpc3RpbmcgZW50aXR5IGRvZXMgbm90IGV4aXN0IiksIHJlc3ApOwoJCQlyZXR1cm47Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>summary</last-search>
+      <last-search>entityT</last-search>
       <last-offset />
-      <last-pattern>summary</last-pattern>
+      <last-pattern>entityT</last-pattern>
       <last-replace>null</last-replace>
       <last-substitute>uiSettings</last-substitute>
       <last-dir>1</last-dir>
@@ -810,7 +812,6 @@
     </search>
     <history>
       <history-search>
-        <entry>&quot;</entry>
         <entry>.java</entry>
         <entry>^</entry>
         <entry>i</entry>
@@ -830,6 +831,7 @@
         <entry>uiSettings</entry>
         <entry>getSumm</entry>
         <entry>summary</entry>
+        <entry>entityT</entry>
       </history-search>
       <history-cmd>
         <entry>s/gid/rfcMessageId/g</entry>
