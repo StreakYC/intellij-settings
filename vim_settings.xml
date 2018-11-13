@@ -36,6 +36,7 @@
         <mark key="." line="8" column="15" />
         <mark key="^" line="8" column="15" />
       </file>
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/Workflow.java" timestamp="1542074096759" />
       <file name="$USER_HOME$/src/Ratchet/src/main/java/com/streak/ratchet/translate/DataClassTranslatorFactory.java" timestamp="1538582434572">
         <mark key="[" line="13" column="20" />
         <mark key="]" line="13" column="20" />
@@ -569,11 +570,11 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/rewardly/mailfoo/unittests/WorkflowTest.java" timestamp="1542073367136">
-        <mark key="[" line="28" column="82" />
-        <mark key="]" line="28" column="82" />
-        <mark key="." line="28" column="82" />
-        <mark key="^" line="28" column="85" />
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/rewardly/mailfoo/unittests/WorkflowTest.java" timestamp="1542074231647">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
+        <mark key="^" line="21" column="97" />
       </file>
       <file name="$USER_HOME$/src/queryablestate/src/main/java/com/streak/flink/KeyStateJob.java" timestamp="1540924985865">
         <mark key="[" line="2" column="26" />
@@ -890,8 +891,8 @@
       <jump line="13" column="28" filename="$USER_HOME$/src/MailFoo/IntegrationTests/src/test/java/com/rewardly/integrationtests/api/modeltests/SnippetPermissionViewAssignedAPITest.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>null</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQl3b3JrZmxvdy5zZXRVCg==</text>
       </register>
       <register name="-" type="4">
         <text>null</text>
@@ -903,31 +904,31 @@
         <text encoding="base64">CQl0aGlzLnNldHVwRGVsZXRlKCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQlkZWxldGVyLm9iamVjdFRvRGVsZXRlID0gd29ya2Zsb3c7CgkJZGVsZXRlci51c2VyRG9pbmdEZWxldGlvbiA9IHVzZXI7Cg==</text>
+        <text encoding="base64">CQl3b3JrZmxvdy5zZXRVCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQlXb3JrZmxvd0VudGl0eURlbGV0ZXIgZGVsZXRlciA9IG5ldyBXb3JrZmxvd0VudGl0eURlbGV0ZXIoKTsK</text>
+        <text encoding="base64">CQl3b3JrZmxvdy5zZXRGcmllbmRseU5hbWUoIkhlbGxvIik7CgkJd29ya2Zsb3cuc2V0T3JnS2V5KG9yZy5nZXRPcmdLZXkoKSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQl3b3JrZmxvdy5wb3B1bGF0ZUN1c3RvbVBlcm1pc3Npb25TZXRzKCk7ZGQK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CXB1YmxpYyBXb3JrZmxvd0VudGl0eURlbGV0ZXIoKSB7Cgl9Cg==</text>
+        <text encoding="base64">CQl3b3JrZmxvdy4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQlzdXBlcigpOwo=</text>
+        <text encoding="base64">CQlkZWxldGVyLm9iamVjdFRvRGVsZXRlID0gd29ya2Zsb3c7CgkJZGVsZXRlci51c2VyRG9pbmdEZWxldGlvbiA9IHVzZXI7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJZ21haWxUaHJlYWREZWxldGVyLnNldHVwRGVsZXRlKCk7Cg==</text>
+        <text encoding="base64">CQlXb3JrZmxvd0VudGl0eURlbGV0ZXIgZGVsZXRlciA9IG5ldyBXb3JrZmxvd0VudGl0eURlbGV0ZXIoKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJZ21haWxUaHJlYWREZWxldGVyLmluaXRpYWxpemVGcm9tRW50aXR5KCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJCVRhc2tFbnRpdHlEZWxldGVyIGRlbGV0ZXIgPSBuZXcgVGFza0VudGl0eURlbGV0ZXIoKTsK</text>
+        <text encoding="base64">CXB1YmxpYyBXb3JrZmxvd0VudGl0eURlbGV0ZXIoKSB7Cgl9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQl0aGlzLmFtID0gYW07Cg==</text>
+        <text encoding="base64">CQlzdXBlcigpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
