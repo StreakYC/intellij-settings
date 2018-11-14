@@ -357,7 +357,7 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/imap/MailMergeTask.java" timestamp="1542220741365">
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/imap/MailMergeTask.java" timestamp="1542227094721">
         <mark key="[" line="117" column="8" />
         <mark key="]" line="117" column="8" />
         <mark key="." line="117" column="8" />
@@ -560,7 +560,7 @@
         <mark key="." line="407" column="63" />
         <mark key="^" line="444" column="28" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/imap/SendLaterTask.java" timestamp="1542225838480">
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/imap/SendLaterTask.java" timestamp="1542227090394">
         <mark key="[" line="88" column="44" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataupdaters/getters/EnvelopesGetter.java" timestamp="1541447375894">
@@ -631,10 +631,11 @@
         <mark key="]" line="36" column="0" />
         <mark key="." line="36" column="0" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataupdaters/creators/TrackedLinkCreator.java" timestamp="1542221392432">
-        <mark key="[" line="114" column="55" />
-        <mark key="]" line="165" column="0" />
-        <mark key="." line="165" column="0" />
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataupdaters/creators/TrackedLinkCreator.java" timestamp="1542226536417">
+        <mark key="[" line="118" column="91" />
+        <mark key="]" line="118" column="91" />
+        <mark key="." line="118" column="91" />
+        <mark key="^" line="118" column="90" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataupdaters/deleters/MailfooEntityDeleterBase.java" timestamp="1542148142442" />
       <file name="$USER_HOME$/src/Ratchet/src/main/java/com/streak/ratchet/schema/ChildTable.java" timestamp="1538581177616">
@@ -899,10 +900,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>// getResult *should* have the correct ThreadId and MessageId</text>
+        <text encoding="base64">IC8vIFRPRE8gLSBkb2VzIHRoaXMgd29yayBmb3IgbWFpbCBtZXJnZSB0aGluZ3M/</text>
       </register>
       <register name="-" type="4">
-        <text>// getResult *should* have the correct ThreadId and MessageId</text>
+        <text encoding="base64">IC8vIFRPRE8gLSBkb2VzIHRoaXMgd29yayBmb3IgbWFpbCBtZXJnZSB0aGluZ3M/</text>
       </register>
       <register name="/" type="4">
         <text>Tracked</text>
@@ -911,35 +912,31 @@
         <text encoding="base64">CQlMaXN0PE1lc3NhZ2VHcmFudD4gYXJ0aHVyR3JhbnRzID0gKExpc3Q8TWVzc2FnZUdyYW50PikgKG5ldyBNZXNzYWdlR3JhbnRHZXR0ZXIoKS5nZXRFbnRpdHkoYXJ0aHVyLAoJCQljcmVhdGVQYXJhbXMsCgkJCW5ldyBVc2VyQWN0aW9uQWNjZXNzTWFuYWdlbWVudFJlY29yZGVySW1wbCgpKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJU3RyaW5nIGlkT2ZGaXJzdE1lc3NhZ2UgPSBoZXhHbWFpbFRocmVhZElkOyAvLyBUT0RPIHd0Zi4uLgo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5Db2xsZWN0aW9uczsK</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text encoding="base64">CQl1c2VyLmdldFVzZXJLZXkoKSwKCQkJImRyYWZ0SWQiLAoJCQkidGhyZWFkSWQiLAoJCQkibWVzc2FnZUlkIiwKCQkJIldpdHR5IFN1YmplY3QgSGVyZSIsCgkJCW51bGwsCgkJCXRydWUsCgkJCUNvbGxlY3Rpb25zLmVtcHR5TGlzdCgpLAoJCQlDb2xsZWN0aW9ucy5lbXB0eUxpc3QoKSwgLy8gTWFpbE1lcmdlU2luZ2xlTWVzc2FnZURhdGEKCQkJbnVsbCwKCQkJQ29sbGVjdGlvbnMuZW1wdHlMaXN0KCks</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">CQlEQU8uc3RvcmVFbnRpdHkob3JnKTsK</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">CQlsb25nIHRhc2tTdGFydFRpbWUgPSBTeXN0ZW0uY3VycmVudFRpbWVNaWxsaXMoKTsK</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">CQkvLyBUT0RPIC0tIGRvIHdlIHN0b3JlIGl0Pz8K</text>
       </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text encoding="base64">CQluZXcgTWVzc2FnZUdyYW50R2V0dGVyKCkuZ2V0RW50aXR5KG1hcnZpbiwgY3JlYXRlUGFyYW1zLCBuZXcgVXNlckFjdGlvbkFjY2Vzc01hbmFnZW1lbnRSZWNvcmRlckltcGwoKSk7Cg==</text>
-      </register>
-      <register name="9" type="4">
-        <text>TemporaryBackendFailureException,
-		EmailInBadAccountException,
-		FileMissingFromAccountException,
-		GmailThreadInBadStateException,
-		IOException</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
