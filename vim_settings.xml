@@ -58,6 +58,9 @@
         <mark key="]" line="474" column="0" />
         <mark key="." line="474" column="0" />
       </file>
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/rewardly/mailfoo/unittests/MailMergeRemoteTests.java" timestamp="1542155231755">
+        <mark key="[" line="1" column="0" />
+      </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/test/resources/fixtures/GlobalThreadMessages.json" timestamp="1539127095230">
         <mark key="[" line="11" column="18" />
         <mark key="]" line="11" column="19" />
@@ -297,6 +300,7 @@
         <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/gmail/sendmail/DraftSender.java" timestamp="1542146467512" />
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/rewardly/mailfoo/unittests/MessageAccessEngineRemoteTest.java" timestamp="1542155216559" />
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/messageaccessengine/conditions/IsRequesterMemberOfTeam.java" timestamp="1541632454331">
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="0" />
@@ -307,9 +311,6 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/src/MailFoo/IntegrationTests/src/test/java/com/rewardly/integrationtests/api/modeltests/SnippetPermissionViewAssignedAPITest.java" timestamp="1542063723053">
-        <mark key="'" line="13" column="28" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataupdaters/getters/ThreadInfoSpannerGetter.java" timestamp="1541112236428">
         <mark key="[" line="51" column="75" />
@@ -348,6 +349,11 @@
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/imap/MailMergeTask.java" timestamp="1542155013848">
+        <mark key="[" line="67" column="0" />
+        <mark key="]" line="67" column="0" />
+        <mark key="." line="67" column="0" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/messageaccessengine/conditions/IsSecurityEmail.java" timestamp="1541101593892">
         <mark key="[" line="14" column="8" />
@@ -621,6 +627,11 @@
         <mark key="]" line="36" column="0" />
         <mark key="." line="36" column="0" />
       </file>
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataupdaters/creators/TrackedLinkCreator.java" timestamp="1542154859757">
+        <mark key="[" line="114" column="55" />
+        <mark key="]" line="165" column="0" />
+        <mark key="." line="165" column="0" />
+      </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataupdaters/deleters/MailfooEntityDeleterBase.java" timestamp="1542148142442" />
       <file name="$USER_HOME$/src/Ratchet/src/main/java/com/streak/ratchet/schema/ChildTable.java" timestamp="1538581177616">
         <mark key="[" line="84" column="36" />
@@ -653,9 +664,6 @@
         <mark key="[" line="103" column="24" />
         <mark key="]" line="103" column="24" />
         <mark key="." line="103" column="24" />
-      </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/handlers/DeleteEntity.java" timestamp="1542073359359">
-        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/nondatastore/uiSettings/UISettings.java" timestamp="1541796159358">
         <mark key="[" line="44" column="54" />
@@ -784,12 +792,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="82" column="0" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/ratchet/translate/ListTranslator.java" />
-      <jump line="50" column="13" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/ratchet/Query.java" />
-      <jump line="119" column="38" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/ratchet/translate/DataClassTranslator.java" />
-      <jump line="26" column="0" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/ratchet/translate/DataClassTranslator.java" />
-      <jump line="33" column="38" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/ratchet/translate/DataClassTranslator.java" />
-      <jump line="121" column="4" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/ratchet/translate/DataClassTranslator.java" />
       <jump line="32" column="68" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/rewardly/mailfoo/unittests/RatchetUnitTests.java" />
       <jump line="182" column="8" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/rewardly/mailfoo/unittests/RatchetUnitTests.java" />
       <jump line="945" column="8" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/Workflow.java" />
@@ -884,59 +886,65 @@
       <jump line="73" column="0" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/handlers/DeleteEntity.java" />
       <jump line="0" column="0" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/handlers/DeleteEntity.java" />
       <jump line="13" column="28" filename="$USER_HOME$/src/MailFoo/IntegrationTests/src/test/java/com/rewardly/integrationtests/api/modeltests/SnippetPermissionViewAssignedAPITest.java" />
+      <jump line="206" column="13" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/imap/MailMergeTask.java" />
+      <jump line="281" column="0" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/imap/MailMergeTask.java" />
+      <jump line="289" column="0" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/imap/MailMergeTask.java" />
+      <jump line="11" column="38" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/imap/MailMergeTask.java" />
+      <jump line="14" column="50" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/imap/MailMergeTask.java" />
+      <jump line="275" column="28" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/imap/MailMergeTask.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>createParams</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQlsb25nIHRhc2tTdGFydFRpbWUgPSBTeXN0ZW0uY3VycmVudFRpbWVNaWxsaXMoKTsK</text>
       </register>
       <register name="-" type="4">
-        <text>createParams</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>entityT</text>
+        <text>Tracked</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQlMaXN0PE1lc3NhZ2VHcmFudD4gYXJ0aHVyR3JhbnRzID0gKExpc3Q8TWVzc2FnZUdyYW50PikgKG5ldyBNZXNzYWdlR3JhbnRHZXR0ZXIoKS5nZXRFbnRpdHkoYXJ0aHVyLAoJCQljcmVhdGVQYXJhbXMsCgkJCW5ldyBVc2VyQWN0aW9uQWNjZXNzTWFuYWdlbWVudFJlY29yZGVySW1wbCgpKSk7Cg==</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">CQlsb25nIHRhc2tTdGFydFRpbWUgPSBTeXN0ZW0uY3VycmVudFRpbWVNaWxsaXMoKTsK</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">CQkvLyBUT0RPIC0tIGRvIHdlIHN0b3JlIGl0Pz8K</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">CQluZXcgTWVzc2FnZUdyYW50R2V0dGVyKCkuZ2V0RW50aXR5KG1hcnZpbiwgY3JlYXRlUGFyYW1zLCBuZXcgVXNlckFjdGlvbkFjY2Vzc01hbmFnZW1lbnRSZWNvcmRlckltcGwoKSk7Cg==</text>
       </register>
-      <register name="2" type="4">
+      <register name="4" type="4">
         <text>TemporaryBackendFailureException,
 		EmailInBadAccountException,
 		FileMissingFromAccountException,
 		GmailThreadInBadStateException,
 		IOException</text>
       </register>
-      <register name="3" type="2">
+      <register name="5" type="2">
         <text encoding="base64">CQkJY3JlYXRvci5zZXR1cEFuZENoZWNrUGVybWlzc2lvbnMocGFyYW1zLCBhcnRodXIsIG5ldyBVc2VyQWN0aW9uQWNjZXNzTWFuYWdlbWVudFJlY29yZGVySW1wbCgpKQo=</text>
       </register>
-      <register name="4" type="2">
+      <register name="6" type="2">
         <text encoding="base64">CQlyZWFsVGVhbS5hZGRNZW1iZXIobmV3IFRlYW1NZW1iZXIodXNlci5nZXRVc2VyS2V5KCkpKTsK</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">CQkK</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">CQlhbS5hdHRlbXB0QWN0aW9uKAoJCQl1c2VyLmdldFVzZXJLZXkoKSwKCQkJQWN0aW9uLkRFTEVURSwKCQkJZW50aXR5LAoJCQluZXcgTWVzc2FnZUdyYW50UGVybWlzc2lvbkNoZWNrZXIoKSk7Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5zdHJlYWsucmF0Y2hldC5Db25maWd1cmF0aW9uOwo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gVE9ETyAtIHRvIGRvIHRoaXMgcmlnaHQsIHdlIHNob3VsZCByZWZhY3RvciB0aGUgRGVsZXRlRW50aXR5LmphdmEgLSBpdCBpcyBzdXBlciBoYXJkIGNvZGVkIGFuZCBhbiBlbmNhcHN1bGF0aW9uIGZhaWwhCg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5zdHJlYWsucmF0Y2hldC5Db25maWd1cmF0aW9uOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>entityT</last-search>
+      <last-search>Tracked</last-search>
       <last-offset />
-      <last-pattern>entityT</last-pattern>
+      <last-pattern>Tracked</last-pattern>
       <last-replace>null</last-replace>
       <last-substitute>uiSettings</last-substitute>
       <last-dir>1</last-dir>
@@ -944,7 +952,6 @@
     </search>
     <history>
       <history-search>
-        <entry>.java</entry>
         <entry>^</entry>
         <entry>i</entry>
         <entry>request</entry>
@@ -964,6 +971,7 @@
         <entry>getSumm</entry>
         <entry>summary</entry>
         <entry>entityT</entry>
+        <entry>Tracked</entry>
       </history-search>
       <history-cmd>
         <entry>s/gid/rfcMessageId/g</entry>
