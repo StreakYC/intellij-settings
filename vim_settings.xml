@@ -58,8 +58,11 @@
         <mark key="]" line="474" column="0" />
         <mark key="." line="474" column="0" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/rewardly/mailfoo/unittests/MailMergeRemoteTests.java" timestamp="1542155231755">
-        <mark key="[" line="1" column="0" />
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/rewardly/mailfoo/unittests/MailMergeRemoteTests.java" timestamp="1542156370176">
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="40" column="0" />
+        <mark key="^" line="80" column="0" />
+        <mark key="." line="40" column="0" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/test/resources/fixtures/GlobalThreadMessages.json" timestamp="1539127095230">
         <mark key="[" line="11" column="18" />
@@ -300,7 +303,7 @@
         <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/gmail/sendmail/DraftSender.java" timestamp="1542146467512" />
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/rewardly/mailfoo/unittests/MessageAccessEngineRemoteTest.java" timestamp="1542155216559" />
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/rewardly/mailfoo/unittests/MessageAccessEngineRemoteTest.java" timestamp="1542155907630" />
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/messageaccessengine/conditions/IsRequesterMemberOfTeam.java" timestamp="1541632454331">
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="0" />
@@ -350,10 +353,10 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/imap/MailMergeTask.java" timestamp="1542155013848">
-        <mark key="[" line="67" column="0" />
-        <mark key="]" line="67" column="0" />
-        <mark key="." line="67" column="0" />
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/imap/MailMergeTask.java" timestamp="1542155817762">
+        <mark key="[" line="68" column="57" />
+        <mark key="]" line="68" column="44" />
+        <mark key="." line="68" column="44" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/messageaccessengine/conditions/IsSecurityEmail.java" timestamp="1541101593892">
         <mark key="[" line="14" column="8" />
@@ -405,6 +408,7 @@
         <mark key="." line="120" column="56" />
         <mark key="^" line="120" column="56" />
       </file>
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/MailMerge.java" timestamp="1542156421537" />
       <file name="$USER_HOME$/src/MailFoo/containers/src/main/java/com/rewardly/mailfoo/filters/BackendLoggingHandler.java" timestamp="1540414675428">
         <mark key="[" line="94" column="8" />
         <mark key="]" line="94" column="8" />
@@ -895,10 +899,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CQlsb25nIHRhc2tTdGFydFRpbWUgPSBTeXN0ZW0uY3VycmVudFRpbWVNaWxsaXMoKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>y</text>
       </register>
       <register name="/" type="4">
         <text>Tracked</text>
@@ -907,35 +911,35 @@
         <text encoding="base64">CQlMaXN0PE1lc3NhZ2VHcmFudD4gYXJ0aHVyR3JhbnRzID0gKExpc3Q8TWVzc2FnZUdyYW50PikgKG5ldyBNZXNzYWdlR3JhbnRHZXR0ZXIoKS5nZXRFbnRpdHkoYXJ0aHVyLAoJCQljcmVhdGVQYXJhbXMsCgkJCW5ldyBVc2VyQWN0aW9uQWNjZXNzTWFuYWdlbWVudFJlY29yZGVySW1wbCgpKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQlsb25nIHRhc2tTdGFydFRpbWUgPSBTeXN0ZW0uY3VycmVudFRpbWVNaWxsaXMoKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkvLyBUT0RPIC0tIGRvIHdlIHN0b3JlIGl0Pz8K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQluZXcgTWVzc2FnZUdyYW50R2V0dGVyKCkuZ2V0RW50aXR5KG1hcnZpbiwgY3JlYXRlUGFyYW1zLCBuZXcgVXNlckFjdGlvbkFjY2Vzc01hbmFnZW1lbnRSZWNvcmRlckltcGwoKSk7Cg==</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5Db2xsZWN0aW9uczsK</text>
       </register>
       <register name="4" type="4">
+        <text encoding="base64">CQl1c2VyLmdldFVzZXJLZXkoKSwKCQkJImRyYWZ0SWQiLAoJCQkidGhyZWFkSWQiLAoJCQkibWVzc2FnZUlkIiwKCQkJIldpdHR5IFN1YmplY3QgSGVyZSIsCgkJCW51bGwsCgkJCXRydWUsCgkJCUNvbGxlY3Rpb25zLmVtcHR5TGlzdCgpLAoJCQlDb2xsZWN0aW9ucy5lbXB0eUxpc3QoKSwgLy8gTWFpbE1lcmdlU2luZ2xlTWVzc2FnZURhdGEKCQkJbnVsbCwKCQkJQ29sbGVjdGlvbnMuZW1wdHlMaXN0KCks</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">CQlEQU8uc3RvcmVFbnRpdHkob3JnKTsK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">CQlsb25nIHRhc2tTdGFydFRpbWUgPSBTeXN0ZW0uY3VycmVudFRpbWVNaWxsaXMoKTsK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">CQkvLyBUT0RPIC0tIGRvIHdlIHN0b3JlIGl0Pz8K</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">CQluZXcgTWVzc2FnZUdyYW50R2V0dGVyKCkuZ2V0RW50aXR5KG1hcnZpbiwgY3JlYXRlUGFyYW1zLCBuZXcgVXNlckFjdGlvbkFjY2Vzc01hbmFnZW1lbnRSZWNvcmRlckltcGwoKSk7Cg==</text>
+      </register>
+      <register name="9" type="4">
         <text>TemporaryBackendFailureException,
 		EmailInBadAccountException,
 		FileMissingFromAccountException,
 		GmailThreadInBadStateException,
 		IOException</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">CQkJY3JlYXRvci5zZXR1cEFuZENoZWNrUGVybWlzc2lvbnMocGFyYW1zLCBhcnRodXIsIG5ldyBVc2VyQWN0aW9uQWNjZXNzTWFuYWdlbWVudFJlY29yZGVySW1wbCgpKQo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">CQlyZWFsVGVhbS5hZGRNZW1iZXIobmV3IFRlYW1NZW1iZXIodXNlci5nZXRVc2VyS2V5KCkpKTsK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">CQkK</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">CQlhbS5hdHRlbXB0QWN0aW9uKAoJCQl1c2VyLmdldFVzZXJLZXkoKSwKCQkJQWN0aW9uLkRFTEVURSwKCQkJZW50aXR5LAoJCQluZXcgTWVzc2FnZUdyYW50UGVybWlzc2lvbkNoZWNrZXIoKSk7Cg==</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5zdHJlYWsucmF0Y2hldC5Db25maWd1cmF0aW9uOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
