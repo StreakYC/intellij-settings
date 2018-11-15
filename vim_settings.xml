@@ -68,13 +68,14 @@
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/nondatastore/uiSettings/AnyFilterCondition.java" timestamp="1542232063828">
         <mark key="[" line="2" column="32" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/nondatastore/uiSettings/FilterCondition.java" timestamp="1542232359272">
-        <mark key="[" line="18" column="25" />
-        <mark key="]" line="18" column="25" />
-        <mark key="." line="18" column="25" />
-        <mark key="^" line="18" column="30" />
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/nondatastore/uiSettings/FilterCondition.java" timestamp="1542239818582">
+        <mark key="'" line="67" column="12" />
+        <mark key="[" line="64" column="24" />
+        <mark key="]" line="64" column="33" />
+        <mark key="." line="64" column="33" />
+        <mark key="^" line="64" column="33" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/nondatastore/uiSettings/deserializers/FilterSettingsDeserializer.java" timestamp="1542232423532">
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/nondatastore/uiSettings/deserializers/FilterSettingsDeserializer.java" timestamp="1542239526371">
         <mark key="[" line="18" column="0" />
         <mark key="]" line="18" column="0" />
         <mark key="^" line="17" column="63" />
@@ -115,10 +116,16 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataupdaters/getters/TrackedThreadGetter.java" timestamp="1542228190422" />
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/nondatastore/uiSettings/deserializers/FilterConditionDeserializer.java" timestamp="1542232313798" />
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/nondatastore/uiSettings/deserializers/FilterConditionDeserializer.java" timestamp="1542239830342">
+        <mark key="[" line="24" column="14" />
+        <mark key="]" line="24" column="38" />
+        <mark key="^" line="24" column="38" />
+        <mark key="." line="24" column="38" />
+      </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/messageaccessengine/models/Message.java" timestamp="1541113588976">
         <mark key="[" line="8" column="47" />
       </file>
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/rewardly/mailfoo/unittests/UISettingsTest.java" timestamp="1542239485716" />
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/nondatastore/uiSettings/FilterConditionDeserializer.java" timestamp="1542231565073">
         <mark key="[" line="10" column="21" />
         <mark key="]" line="10" column="36" />
@@ -132,7 +139,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="32" column="68" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/rewardly/mailfoo/unittests/RatchetUnitTests.java" />
       <jump line="182" column="8" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/rewardly/mailfoo/unittests/RatchetUnitTests.java" />
       <jump line="945" column="8" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/Workflow.java" />
       <jump line="35" column="44" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/streak/ratchet/unitTests/entities/OfyKeys.java" />
@@ -232,16 +238,17 @@
       <jump line="11" column="38" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/imap/MailMergeTask.java" />
       <jump line="14" column="50" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/imap/MailMergeTask.java" />
       <jump line="275" column="28" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/imap/MailMergeTask.java" />
+      <jump line="67" column="12" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/nondatastore/uiSettings/FilterCondition.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>FilterSettingsDeserializer</text>
+        <text>construct</text>
       </register>
       <register name="-" type="4">
-        <text>FilterSettingsDeserializer</text>
+        <text>construct</text>
       </register>
       <register name="/" type="4">
-        <text>Tracked</text>
+        <text>()</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQkJCXJldHVybiBuZXcgRW1wdHlGaWx0ZXJDb25kaXRpb24oKTsK</text>
@@ -278,17 +285,16 @@
       </register>
     </registers>
     <search>
-      <last-search>Tracked</last-search>
+      <last-search>()</last-search>
       <last-offset />
-      <last-pattern>Tracked</last-pattern>
-      <last-replace>null</last-replace>
-      <last-substitute>uiSettings</last-substitute>
+      <last-pattern>()</last-pattern>
+      <last-replace>.class</last-replace>
+      <last-substitute>()</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>^</entry>
         <entry>i</entry>
         <entry>request</entry>
         <entry>MEssageGrantRule</entry>
@@ -308,9 +314,9 @@
         <entry>summary</entry>
         <entry>entityT</entry>
         <entry>Tracked</entry>
+        <entry>()</entry>
       </history-search>
       <history-cmd>
-        <entry>s/gid/rfcMessageId/g</entry>
         <entry encoding="base64">JzwsJz5zL2dpZC9lbWFpbC9n</entry>
         <entry encoding="base64">JzwsJz5zL3ByaXZhdGUvcHVibGljL2c=</entry>
         <entry>%s/user/requester/g</entry>
@@ -329,6 +335,7 @@
         <entry encoding="base64">JzwsJz5zL2NvbHVtbi9jb2x1bW5Ub01hdGNo</entry>
         <entry encoding="base64">JzwsJz5zL3VpU2V0dGluZ3MvbnVsbA==</entry>
         <entry>wq</entry>
+        <entry encoding="base64">JzwsJz5zLygpLy5jbGFzcw==</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
