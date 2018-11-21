@@ -3,8 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/spanner/Message.java" timestamp="1542743848430">
-        <mark key="[" line="160" column="20" />
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/spanner/Message.java" timestamp="1542834195182">
+        <mark key="[" line="96" column="48" />
+        <mark key="]" line="96" column="48" />
+        <mark key="^" line="92" column="29" />
+        <mark key="." line="96" column="48" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/listeners/SpannerContextListener.java" timestamp="1542150431106">
         <mark key="[" line="3" column="40" />
@@ -26,6 +29,7 @@
         <mark key="." line="53" column="16" />
         <mark key="^" line="53" column="16" />
       </file>
+      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_152.jdk/Contents/Home/src.zip!/java/time/ZoneId.java" timestamp="1542832073375" />
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/rewardly/mailfoo/unittests/MailMergeRemoteTests.java" timestamp="1542156370176">
         <mark key="[" line="40" column="0" />
         <mark key="]" line="40" column="0" />
@@ -116,9 +120,6 @@
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/messageaccessengine/models/Message.java" timestamp="1541113588976">
         <mark key="[" line="8" column="47" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataupdaters/getters/EnvelopesGetter.java" timestamp="1542307625115">
-        <mark key="[" line="75" column="113" />
-      </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/rewardly/mailfoo/unittests/UISettingsTest.java" timestamp="1542315180918">
         <mark key="[" line="115" column="46" />
         <mark key="]" line="115" column="46" />
@@ -140,8 +141,8 @@
         <mark key="^" line="10" column="36" />
         <mark key="." line="10" column="36" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/curls" timestamp="1542328081961">
-        <mark key="[" line="59" column="0" />
+      <file name="$USER_HOME$/src/MailFoo/curls" timestamp="1542833548937">
+        <mark key="[" line="65" column="0" />
         <mark key="]" line="64" column="0" />
         <mark key="." line="64" column="0" />
         <mark key="^" line="64" column="0" />
@@ -263,11 +264,11 @@
       <jump line="79" column="41" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/test/resources/largeUISettings.json" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ZGQK</text>
+      <register name="&quot;" type="4">
+        <text>T</text>
       </register>
       <register name="-" type="4">
-        <text>FilterCondition</text>
+        <text>T</text>
       </register>
       <register name="/" type="4">
         <text>value</text>
@@ -276,54 +277,22 @@
         <text encoding="base64">CQlpZihyb290LmhhcygidmFsdWUiKSAmJiAhcm9vdC5nZXQoInZhbHVlIikuaXNOdWxsKCkpIHsK</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">CQkJLy9pbnRlcm5hbERhdGUgPSBuZXcgRGF0ZShzdHJ1Y3QuZ2V0VGltZXN0YW1wKCJpbnRlcm5hbERhdGUiKS5nZXRTZWNvbmRzKCkgKgoJCQkvLwkxMDAwKTsgLy8gVE9ETyBpcyByb3VuZGluZyBkb3duIHRvIHRoZSBzZWNvbmQgZmluZT8K</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">ZGQK</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text encoding="base64">ewoJCU9iamVjdCB2YWx1ZUZyb21Cb3ggPSBjb2x1bW5LZXkuZ2V0KGJveCwgdWlTZXR0aW5ncyk7CgkJc3dpdGNoIChjb21wYXJpc29uT3BlcmF0aW9uKSB7CgkJCWNhc2UgZ3Q6CgkJCQlyZXR1cm4gTG9uZy52YWx1ZU9mKHNwZWNpZmljVmFsdWUpID4gKExvbmcpIHZhbHVlRnJvbUJveDsKCQkJY2FzZSBsdDoKCQkJCXJldHVybiBMb25nLnZhbHVlT2Yoc3BlY2lmaWNWYWx1ZSkgPCAoTG9uZykgdmFsdWVGcm9tQm94OwoJCQljYXNlIGVxOgoJCQkJcmV0dXJuIE9iamVjdHMuZXF1YWxzKExvbmcudmFsdWVPZihzcGVjaWZpY1ZhbHVlKSwgdmFsdWVGcm9tQm94KTsKCQkJY2FzZSBuZToKCQkJCXJldHVybiAhT2JqZWN0cy5lcXVhbHMoTG9uZy52YWx1ZU9mKHNwZWNpZmljVmFsdWUpLCB2YWx1ZUZyb21Cb3gpOwoJCQljYXNlIEVNUFRZOgoJCQkJYnJlYWs7CgkJfQoJCXJldHVybiBmYWxzZTsKCX0=</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text encoding="base64">CQkJY2FzZSBjb250YWluczoKCQkJCWJyZWFrOwoJCQljYXNlIG5vdENvbnRhaW5zOgoJCQkJYnJlYWs7</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">CQkJazsK</text>
-      </register>
-      <register name="6" type="4">
-        <text>case isAny: // TODO this is probably really wrong
-				Iterable asList = (Iterable) value;
-				for (Object item : asList) {
-					if (valueFromBox instanceof List) {
-						for (Object innerValue : (List) valueFromBox) {
-							if (&quot;me&quot;.equals(item)) {
-								if (innerValue instanceof Key) {
-									if (Objects.equals(innerValue, me.getUserKey())) {
-										return true;
-									}
-								}
-								if (innerValue instanceof SharingEntry) {
-									if (Objects.equals(((SharingEntry) innerValue).userKey, me.getUserKey())) {
-										return true;
-									}
-								}
-							}
-							else {
-								if (Objects.equals(innerValue, item)) {
-									return true;
-								}
-							}
-						}
-					}
-					else {
-						if (Objects.equals(valueFromBox, item)) {
-							return true;
-						}
-					}
-				}
-				return false;
-			case isNotAny:
-				brea</text>
       </register>
       <register name="7" type="4">
         <text>case isAny: // TODO this is probably really wrong
@@ -358,13 +327,45 @@
 				}
 				return false;
 			case isNotAny:
+				brea</text>
+      </register>
+      <register name="8" type="4">
+        <text>case isAny: // TODO this is probably really wrong
+				Iterable asList = (Iterable) value;
+				for (Object item : asList) {
+					if (valueFromBox instanceof List) {
+						for (Object innerValue : (List) valueFromBox) {
+							if (&quot;me&quot;.equals(item)) {
+								if (innerValue instanceof Key) {
+									if (Objects.equals(innerValue, me.getUserKey())) {
+										return true;
+									}
+								}
+								if (innerValue instanceof SharingEntry) {
+									if (Objects.equals(((SharingEntry) innerValue).userKey, me.getUserKey())) {
+										return true;
+									}
+								}
+							}
+							else {
+								if (Objects.equals(innerValue, item)) {
+									return true;
+								}
+							}
+						}
+					}
+					else {
+						if (Objects.equals(valueFromBox, item)) {
+							return true;
+						}
+					}
+				}
+				return false;
+			case isNotAny:
 				break</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">CQlpZiAobnVsbCA9PSBjb21wYXJpc29uT3BlcmF0aW9uKSB7CgkJCXRocm93IG5ldyBSdW50aW1lRXhjZXB0aW9uKCJ3dGYiKTsKCQl9Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJY2FzZSBiZWZvcmU6CgkJCWNhc2UgYWZ0ZXI6CgkJCWNhc2Ugb246CgkJCQl0aHJvdyBuZXcgUnVudGltZUV4Y2VwdGlvbigid3RmIik7Cg==</text>
+        <text encoding="base64">CQlpZiAobnVsbCA9PSBjb21wYXJpc29uT3BlcmF0aW9uKSB7CgkJCXRocm93IG5ldyBSdW50aW1lRXhjZXB0aW9uKCJ3dGYiKTsKCQl9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
