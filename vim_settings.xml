@@ -25,8 +25,10 @@
         <mark key="^" line="80" column="0" />
         <mark key="." line="40" column="0" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/messageaccessengine/models/Context.java" timestamp="1544221323067">
-        <mark key="[" line="41" column="5" />
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/messageaccessengine/models/Context.java" timestamp="1544228302062">
+        <mark key="[" line="31" column="52" />
+        <mark key="]" line="47" column="0" />
+        <mark key="." line="47" column="0" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/nondatastore/uiSettings/FilterSettings.java" timestamp="1542232342804">
         <mark key="[" line="17" column="20" />
@@ -66,6 +68,7 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/messageaccessengine/conditions/Match.java" timestamp="1544227535085" />
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/rewardly/mailfoo/unittests/WorkflowTest.java" timestamp="1542148538144">
         <mark key="[" line="24" column="0" />
         <mark key="]" line="24" column="0" />
@@ -145,11 +148,10 @@
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/utils/RemoteAccess.java" timestamp="1544210203911">
         <mark key="[" line="67" column="2" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/messageaccessengine/conditions/MatchAnyOnThread.java" timestamp="1544219911421">
-        <mark key="[" line="11" column="8" />
-        <mark key="]" line="11" column="8" />
-        <mark key="^" line="11" column="4" />
-        <mark key="." line="11" column="8" />
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/messageaccessengine/conditions/MatchAnyOnThread.java" timestamp="1544228446096">
+        <mark key="[" line="20" column="8" />
+        <mark key="]" line="20" column="8" />
+        <mark key="." line="20" column="8" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/nondatastore/uiSettings/FilterCondition.java" timestamp="1542315146209">
         <mark key="[" line="69" column="13" />
@@ -307,34 +309,34 @@
         <text>any</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQlBc3NlcnQuYXNzZXJ0RXF1YWxzKGFueU5vZGUuZXZhbHVhdGUoY29udGV4dCksIFZJU0lCSUxJVFkuRlVMTCk7Cg==</text>
+        <text encoding="base64">CXB1YmxpYyBNYXRjaEFueU9uVGhyZWFkKCkgewoKCX0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQlWSVNJQklMSVRZIG91dHB1dCA9IG5vZGUuZXZhbHVhdGUoY29udGV4dCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQlSdWxlc2V0VmlzaWJpbGl0eVNlcnZpY2UgcnVsZXNldFZpc2liaWxpdHlTZXJ2aWNlID0gbmV3IFJ1bGVzZXRWaXNpYmlsaXR5U2VydmljZShhbnlOb2RlKTsKCQlTdHJpbmcganNvblJlc3VsdCA9IHJ1bGVzZXRWaXNpYmlsaXR5U2VydmljZS5zZXJpYWxpemUoKTsKCQlTeXN0ZW0ub3V0LnByaW50bG4oanNvblJlc3VsdCk7Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">CQlTdHJpbmcganNvblJlc3VsdCA9IHJ1bGVzZXRWaXNpYmlsaXR5U2VydmljZS5zZXJpYWxpemUoKTsKCQlTeXN0ZW0ub3V0LnByaW50bG4oanNvblJlc3VsdCk7Cg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">CX0K</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">CSBnZXRUaHJlYWQoKSB7CgkJcmV0dXJuIAo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">CQlDb25kaXRpb24gYW4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQlyZXR1cm4gZmFsc2U7Cg==</text>
+        <text encoding="base64">CQljb250ZXh0LnRocmVhZEluZm9zLgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQlmb3IgKENvbmRpdGlvbiBjbykJCg==</text>
+        <text encoding="base64">CQlWSVNJQklMSVRZIG91dHB1dCA9IG5vZGUuZXZhbHVhdGUoY29udGV4dCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5yZXdhcmRseS5tYWlsZm9vLm1lc3NhZ2VhY2Nlc3NlbmdpbmUubm9kZXMuTm9kZTsK</text>
+        <text encoding="base64">CQlSdWxlc2V0VmlzaWJpbGl0eVNlcnZpY2UgcnVsZXNldFZpc2liaWxpdHlTZXJ2aWNlID0gbmV3IFJ1bGVzZXRWaXNpYmlsaXR5U2VydmljZShhbnlOb2RlKTsKCQlTdHJpbmcganNvblJlc3VsdCA9IHJ1bGVzZXRWaXNpYmlsaXR5U2VydmljZS5zZXJpYWxpemUoKTsKCQlTeXN0ZW0ub3V0LnByaW50bG4oanNvblJlc3VsdCk7Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text>agxzfm1haWxmb29nYWVyNAsSDE9yZ2FuaXphdGlvbiIKc3RyZWFrLmNvbQwLEgtHbWFpbFRocmVhZBiAgMCG3eKOCQw</text>
+      <register name="9" type="2">
+        <text encoding="base64">CQlTdHJpbmcganNvblJlc3VsdCA9IHJ1bGVzZXRWaXNpYmlsaXR5U2VydmljZS5zZXJpYWxpemUoKTsKCQlTeXN0ZW0ub3V0LnByaW50bG4oanNvblJlc3VsdCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
