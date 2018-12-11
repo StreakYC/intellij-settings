@@ -36,10 +36,11 @@
         <mark key="." line="40" column="0" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/handlers/GetEntities.java" timestamp="1544471635918" />
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/messageaccessengine/models/Context.java" timestamp="1541619519873">
-        <mark key="[" line="2" column="4" />
-        <mark key="]" line="47" column="0" />
-        <mark key="." line="47" column="0" />
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/messageaccessengine/models/Context.java" timestamp="1544563542547">
+        <mark key="[" line="38" column="44" />
+        <mark key="]" line="41" column="18" />
+        <mark key="." line="41" column="18" />
+        <mark key="^" line="41" column="18" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/nondatastore/uiSettings/FilterSettings.java" timestamp="1542232342804">
         <mark key="[" line="17" column="20" />
@@ -91,6 +92,9 @@
         <mark key="]" line="29" column="0" />
         <mark key="." line="29" column="0" />
         <mark key="^" line="38" column="78" />
+      </file>
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/messageaccessengine/conditions/AnyFromThread.java" timestamp="1544563675705">
+        <mark key="[" line="16" column="48" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/messageaccessengine/conditions/Match.java" timestamp="1544227535085" />
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/messageaccessengine/NavigationServlet.java" timestamp="1544477505912">
@@ -187,7 +191,7 @@
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/utils/RemoteAccess.java" timestamp="1543440163467">
         <mark key="[" line="67" column="2" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/messageaccessengine/conditions/MatchAnyOnThread.java" timestamp="1544397278845">
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/messageaccessengine/conditions/MatchAnyOnThread.java" timestamp="1544563009256">
         <mark key="'" line="32" column="20" />
         <mark key="[" line="20" column="42" />
         <mark key="]" line="22" column="24" />
@@ -238,6 +242,11 @@
         <mark key="[" line="23" column="0" />
         <mark key="]" line="23" column="0" />
         <mark key="." line="23" column="0" />
+      </file>
+      <file name="/fragment.java" timestamp="1544564186955">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="7" />
+        <mark key="." line="0" column="7" />
       </file>
     </filemarks>
     <jumps>
@@ -344,10 +353,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CQkvLyBUT0RPIC0gYWRkIGluIGEgcmVxdWVzdFVVSUQgKG1heWJlKSB0byBsaW5rIHJ1bGUgY2hhbmdlcyB0byByZXF1ZXN0cwo=</text>
+        <text encoding="base64">CQkJQ29udGV4dCBtZXNzYWdlQ29udGV4dCA9IDsK</text>
       </register>
       <register name="-" type="4">
-        <text>// TODO rename</text>
+        <text>messageContext</text>
       </register>
       <register name="/" type="4">
         <text>value</text>
@@ -356,32 +365,32 @@
         <text encoding="base64">Y3VybCAtayAtYiAiam9uYXRoYW4lNDBzdHJlYWslMkVjb211aWQ9RXUzSUtLSVh5MXFTck5EN0ZRYW1sUnlMaHh5U1o3N2pSOGs1OXcxUldXbG5xVms4WWh1N0xUSkx5bHhDT3Y0MC9nQk9VWnpJa2dreDh2NzVtSUxnMG1WNE5QQWI1ZURINlVCMUFPZVVMczlMZGl5Yy9CVzV6bHhyaE81cXNhOG07IiBcCiAiaHR0cDovL2xvY2FsaG9zdDozMDc2Ny9hcGkvdjIvZW52ZWxvcGVzP2VtYWlsPW9tYXJAc3RyZWFrLmNvbSZhaT10cnVlJmdtYWlsVGhyZWFkS2V5PWFneHpmbTFoYVd4bWIyOW5ZV1Z5T3dzU0RFOXlaMkZ1YVhwaGRHbHZiaUlSYjJsemJXRnBiRUJuYldGcGJDNWpiMjBNQ3hJTFIyMWhhV3hVYUhKbFlXUVlnSUNBa00zNHVnb00iCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkvLyBUT0RPIC0gYWRkIGluIGEgcmVxdWVzdFVVSUQgKG1heWJlKSB0byBsaW5rIHJ1bGUgY2hhbmdlcyB0byByZXF1ZXN0cwo=</text>
+        <text encoding="base64">CQkJQ29udGV4dCBtZXNzYWdlQ29udGV4dCA9IDsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCWNvbnRleHQudGhyZWFkCg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">CiJpc1JlcXVlc3RpbmdVc2VyT3duZXIiOiBmYWxzZSwKICAiZG9lc1JlcXVlc3RpbmdVc2VySGF2ZVRocmVhZCI6IGZhbHNlLAogICJyZXF1ZXN0aW5nVXNlclRocmVhZEdtYWlsSWQiOiBudWxsLA==</text>
+      <register name="3" type="2">
+        <text encoding="base64">CQkJCW51bGxkZCwK</text>
       </register>
       <register name="4" type="4">
-        <text>.atZoneSameInstant(ZoneId.of(&quot;UTC&quot;))
-							  .toInstant()</text>
+        <text encoding="base64">bWVzc2FnZS5jb250YWN0cy5zdHJlYW0oKS5hbnlNYXRjaCgKCQkJY29udGFjdCAtPiB7CgkJCQlpZiAoZW1haWwgIT0gbnVsbCAmJiBlbWFpbC5lcXVhbHMoY29udGFjdC5lbWFpbCkpIHsKCQkJCQlyZXR1cm4gdHJ1ZTsKCQkJCX0KCQkJCWlmIChpc0V4dGVybmFsICE9IG51bGwgJiYgaXNFeHRlcm5hbC5lcXVhbHMoY29udGFjdC5pc0V4dGVybmFsKSkgewoJCQkJCXJldHVybiB0cnVlOwoJCQkJfQoJCQkJaWYgKGRvbWFpbiAhPSBudWxsICYmIChjb250YWN0LmVtYWlsLmVuZHNXaXRoKCJAIiArIGRvbWFpbikpKSB7CgkJCQkJcmV0dXJuIHRydWU7CgkJCQl9CgkJCQlyZXR1cm4gZmFsc2U7CgkJCX0=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJCQkJCQkJCQkudG9PZmZzZXREYXRlVGltZSgpCg==</text>
+        <text encoding="base64">CQlyZXR1cm4gZmFsc2U7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJLy9pbnRlcm5hbERhdGUgPSBuZXcgRGF0ZShzdHJ1Y3QuZ2V0VGltZXN0YW1wKCJpbnRlcm5hbERhdGUiKS5nZXRTZWNvbmRzKCkgKgoJCQkvLwkxMDAwKTsgLy8gVE9ETyBpcyByb3VuZGluZyBkb3duIHRvIHRoZSBzZWNvbmQgZmluZT8K</text>
+        <text encoding="base64">CQkvLyBUT0RPIC0gYWRkIGluIGEgcmVxdWVzdFVVSUQgKG1heWJlKSB0byBsaW5rIHJ1bGUgY2hhbmdlcyB0byByZXF1ZXN0cwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZGQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">ewoJCU9iamVjdCB2YWx1ZUZyb21Cb3ggPSBjb2x1bW5LZXkuZ2V0KGJveCwgdWlTZXR0aW5ncyk7CgkJc3dpdGNoIChjb21wYXJpc29uT3BlcmF0aW9uKSB7CgkJCWNhc2UgZ3Q6CgkJCQlyZXR1cm4gTG9uZy52YWx1ZU9mKHNwZWNpZmljVmFsdWUpID4gKExvbmcpIHZhbHVlRnJvbUJveDsKCQkJY2FzZSBsdDoKCQkJCXJldHVybiBMb25nLnZhbHVlT2Yoc3BlY2lmaWNWYWx1ZSkgPCAoTG9uZykgdmFsdWVGcm9tQm94OwoJCQljYXNlIGVxOgoJCQkJcmV0dXJuIE9iamVjdHMuZXF1YWxzKExvbmcudmFsdWVPZihzcGVjaWZpY1ZhbHVlKSwgdmFsdWVGcm9tQm94KTsKCQkJY2FzZSBuZToKCQkJCXJldHVybiAhT2JqZWN0cy5lcXVhbHMoTG9uZy52YWx1ZU9mKHNwZWNpZmljVmFsdWUpLCB2YWx1ZUZyb21Cb3gpOwoJCQljYXNlIEVNUFRZOgoJCQkJYnJlYWs7CgkJfQoJCXJldHVybiBmYWxzZTsKCX0=</text>
+        <text encoding="base64">CiJpc1JlcXVlc3RpbmdVc2VyT3duZXIiOiBmYWxzZSwKICAiZG9lc1JlcXVlc3RpbmdVc2VySGF2ZVRocmVhZCI6IGZhbHNlLAogICJyZXF1ZXN0aW5nVXNlclRocmVhZEdtYWlsSWQiOiBudWxsLA==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="4">
+        <text>.atZoneSameInstant(ZoneId.of(&quot;UTC&quot;))
+							  .toInstant()</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
