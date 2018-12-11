@@ -29,12 +29,12 @@
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/pom.xml" timestamp="1544485258821">
         <mark key="[" line="440" column="21" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/messageaccessengine/models/User.java" timestamp="1544567268837">
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/messageaccessengine/models/User.java" timestamp="1544568071680">
         <mark key="'" line="31" column="82" />
-        <mark key="[" line="31" column="82" />
-        <mark key="]" line="31" column="82" />
-        <mark key="^" line="31" column="82" />
-        <mark key="." line="31" column="82" />
+        <mark key="[" line="32" column="62" />
+        <mark key="]" line="32" column="62" />
+        <mark key="^" line="32" column="28" />
+        <mark key="." line="32" column="62" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/rewardly/mailfoo/unittests/MailMergeRemoteTests.java" timestamp="1542156370176">
         <mark key="[" line="40" column="0" />
@@ -191,13 +191,6 @@
         <mark key="]" line="262" column="56" />
         <mark key="^" line="262" column="56" />
         <mark key="." line="262" column="56" />
-      </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/nondatastore/uiSettings/deserializers/FilterConditionDeserializer.java" timestamp="1542827336272">
-        <mark key="'" line="35" column="8" />
-        <mark key="[" line="33" column="0" />
-        <mark key="]" line="33" column="0" />
-        <mark key="." line="33" column="0" />
-        <mark key="^" line="33" column="0" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/nondatastore/uiSettings/AnyFilterCondition.java" timestamp="1542315299836">
         <mark key="[" line="2" column="57" />
@@ -367,10 +360,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">bmV3IEFycmF5TGlzdDw+KCk7</text>
+        <text>.</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">bmV3IEFycmF5TGlzdDw+KCk7</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>loginToken</text>
@@ -406,7 +399,7 @@
         <text encoding="base64">CQlyZXR1cm4gZmFsc2U7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>s/loginToken/other.email/g</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -460,8 +453,8 @@
         <entry encoding="base64">JzwsJz5zL2FueS9hbGw=</entry>
         <entry>s/email/isExternal/g</entry>
         <entry>s/email/domain/g</entry>
-        <entry>w</entry>
         <entry>s/loginToken/other.email/g</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
