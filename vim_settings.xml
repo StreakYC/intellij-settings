@@ -62,11 +62,11 @@
         <mark key="^" line="181" column="9" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/jayway/jsonpath/json-path/2.3.0/json-path-2.3.0-sources.jar!/com/jayway/jsonpath/JsonPath.java" timestamp="1544508340467" />
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/messageaccessengine/RulesetVisibilityService.java" timestamp="1544644014878">
-        <mark key="[" line="82" column="69" />
-        <mark key="]" line="82" column="69" />
-        <mark key="." line="82" column="69" />
-        <mark key="^" line="126" column="23" />
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/messageaccessengine/RulesetVisibilityService.java" timestamp="1544646628071">
+        <mark key="[" line="129" column="20" />
+        <mark key="]" line="129" column="42" />
+        <mark key="." line="129" column="42" />
+        <mark key="^" line="129" column="42" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/nondatastore/uiSettings/BooleanFilterCondition.java" timestamp="1542314848424">
         <mark key="[" line="11" column="0" />
@@ -263,7 +263,7 @@
         <mark key="]" line="23" column="0" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1544643249582">
+      <file name="/fragment.java" timestamp="1544646321619">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="7" />
         <mark key="." line="0" column="7" />
@@ -373,10 +373,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>JsonNodeJsonProvider</text>
+        <text>mapper.readValue(documentContext.jsonString(), Node.class);</text>
       </register>
       <register name="-" type="4">
-        <text>JsonNodeJsonProvider</text>
+        <text>mapper.readValue(documentContext.jsonString(), Node.class);</text>
       </register>
       <register name="/" type="4">
         <text>loginToken</text>
@@ -385,31 +385,31 @@
         <text encoding="base64">CQlTeXN0ZW0ub3V0LnByaW50bG4ocnVsZXNldFZpc2liaWxpdHlTZXJ2aWNlLnNlcmlhbGl6ZSgpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQlSdWxlc2V0VmlzaWJpbGl0eVNlcnZpY2UgcnVsZXNldFZpc2liaWxpdHlTZXJ2aWNlID0gbmV3IFJ1bGVzZXRWaXNpYmlsaXR5U2VydmljZShub2RlKTsK</text>
+        <text encoding="base64">CQlTdHJpbmcgZXhpc3RpbmdKc29uID0gc2VyaWFsaXplKCk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQlSdWxlc2V0VmlzaWJpbGl0eVNlcnZpY2UuCg==</text>
+        <text encoding="base64">CQlSdWxlc2V0VmlzaWJpbGl0eVNlcnZpY2UgcnVsZXNldFZpc2liaWxpdHlTZXJ2aWNlID0gbmV3IFJ1bGVzZXRWaXNpYmlsaXR5U2VydmljZShub2RlKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQlSdWxlc2V0VmlzaWJpbGl0eVNlcnZpY2UuCg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJCVN0cmluZyBleGlzdGluZ0pzb24gPSA7Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">CQkJZWxzZSB7CgkJCQlydWxlc2V0VmlzaWJpbGl0eVNlcnZpY2UgPSBuZXcgUnVsZXNldFZpc2liaWxpdHlTZXJ2aWNlKGZsb3dKc29uKTsKCQkJfQo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">CQkJdGVhbS5pc1VzZXJNZW1iZXIoKQo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">CQkJCVN0cmluZyBleGlzdGluZ0pzb24gPSA7Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">CQkJZWxzZSB7CgkJCQlydWxlc2V0VmlzaWJpbGl0eVNlcnZpY2UgPSBuZXcgUnVsZXNldFZpc2liaWxpdHlTZXJ2aWNlKGZsb3dKc29uKTsKCQkJfQo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">CQkJdGVhbS5pc1VzZXJNZW1iZXIoKQo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJZm9yIChUZWFtQ29udGFjdCBjb250YWN0IDogcG9zc2libGVDCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
