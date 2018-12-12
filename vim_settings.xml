@@ -62,11 +62,11 @@
         <mark key="^" line="181" column="9" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/jayway/jsonpath/json-path/2.3.0/json-path-2.3.0-sources.jar!/com/jayway/jsonpath/JsonPath.java" timestamp="1544650970935" />
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/messageaccessengine/RulesetVisibilityService.java" timestamp="1544650140108">
-        <mark key="[" line="175" column="8" />
-        <mark key="]" line="175" column="22" />
-        <mark key="^" line="175" column="22" />
-        <mark key="." line="175" column="22" />
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/messageaccessengine/RulesetVisibilityService.java" timestamp="1544652428227">
+        <mark key="[" line="83" column="96" />
+        <mark key="]" line="83" column="96" />
+        <mark key="^" line="83" column="78" />
+        <mark key="." line="83" column="96" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/nondatastore/uiSettings/BooleanFilterCondition.java" timestamp="1542314848424">
         <mark key="[" line="11" column="0" />
@@ -165,6 +165,7 @@
         <mark key="^" line="5" column="29" />
         <mark key="." line="5" column="29" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/jayway/jsonpath/json-path/2.3.0/json-path-2.3.0-sources.jar!/com/jayway/jsonpath/spi/json/JacksonJsonNodeJsonProvider.java" timestamp="1544652630311" />
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/Team.java" timestamp="1541629264838">
         <mark key="[" line="251" column="42" />
       </file>
@@ -175,7 +176,9 @@
         <mark key="." line="8" column="18" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/messageaccessengine/nodes/Max.java" timestamp="1544206881110" />
-      <file name="$MAVEN_REPOSITORY$/com/jayway/jsonpath/json-path/2.3.0/json-path-2.3.0-sources.jar!/com/jayway/jsonpath/internal/path/PropertyPathToken.java" timestamp="1544651519105" />
+      <file name="$MAVEN_REPOSITORY$/com/jayway/jsonpath/json-path/2.3.0/json-path-2.3.0-sources.jar!/com/jayway/jsonpath/internal/path/PropertyPathToken.java" timestamp="1544652494860" />
+      <file name="$MAVEN_REPOSITORY$/com/jayway/jsonpath/json-path/2.3.0/json-path-2.3.0-sources.jar!/com/jayway/jsonpath/spi/mapper/JacksonMappingProvider.java" timestamp="1544652278263" />
+      <file name="$MAVEN_REPOSITORY$/com/jayway/jsonpath/json-path/2.3.0/json-path-2.3.0-sources.jar!/com/jayway/jsonpath/spi/json/JsonProvider.java" timestamp="1544652371630" />
       <file name="/Dummy.txt" timestamp="1542071229390">
         <mark key="[" line="0" column="0" />
       </file>
@@ -240,7 +243,7 @@
         <mark key="^" line="10" column="36" />
         <mark key="." line="10" column="36" />
       </file>
-      <file name="/fragment.java" timestamp="1544650860650">
+      <file name="/fragment.java" timestamp="1544652298117">
         <mark key="'" line="0" column="52" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="41" />
@@ -351,10 +354,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.</text>
+        <text>, mapper.readerFor(Node.class)</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>, mapper.readerFor(Node.class)</text>
       </register>
       <register name="/" type="4">
         <text>loginToken</text>
