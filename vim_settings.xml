@@ -62,11 +62,11 @@
         <mark key="^" line="181" column="9" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/jayway/jsonpath/json-path/2.3.0/json-path-2.3.0-sources.jar!/com/jayway/jsonpath/JsonPath.java" timestamp="1544508340467" />
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/messageaccessengine/RulesetVisibilityService.java" timestamp="1544647510109">
-        <mark key="[" line="129" column="20" />
-        <mark key="]" line="129" column="42" />
-        <mark key="." line="129" column="42" />
-        <mark key="^" line="129" column="42" />
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/messageaccessengine/RulesetVisibilityService.java" timestamp="1544648839940">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="^" line="176" column="42" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/nondatastore/uiSettings/BooleanFilterCondition.java" timestamp="1542314848424">
         <mark key="[" line="11" column="0" />
@@ -263,7 +263,7 @@
         <mark key="]" line="23" column="0" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1544647544327">
+      <file name="/fragment.java" timestamp="1544648563927">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="7" />
         <mark key="." line="0" column="7" />
@@ -372,8 +372,8 @@
       <jump line="31" column="82" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/messageaccessengine/models/User.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>mapper.readValue(documentContext.jsonString(), Node.class);</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IGNvbS5qYXl3YXkuanNvbnBhdGguc3BpLmpzb24uSmFja3Nvbkpzb25Ob2RlSnNvblByb3ZpZGVyOwo=</text>
       </register>
       <register name="-" type="4">
         <text>mapper.readValue(documentContext.jsonString(), Node.class);</text>
@@ -385,31 +385,31 @@
         <text encoding="base64">CQlTeXN0ZW0ub3V0LnByaW50bG4ocnVsZXNldFZpc2liaWxpdHlTZXJ2aWNlLnNlcmlhbGl6ZSgpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQlTdHJpbmcgZXhpc3RpbmdKc29uID0gc2VyaWFsaXplKCk7Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5qYXl3YXkuanNvbnBhdGguc3BpLmpzb24uSmFja3Nvbkpzb25Ob2RlSnNvblByb3ZpZGVyOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQlSdWxlc2V0VmlzaWJpbGl0eVNlcnZpY2UgcnVsZXNldFZpc2liaWxpdHlTZXJ2aWNlID0gbmV3IFJ1bGVzZXRWaXNpYmlsaXR5U2VydmljZShub2RlKTsK</text>
+        <text encoding="base64">Pj4+Pj4+PiA4YmIwN2RiZmQ0ZDMyZWZkYzI4Y2M5NjAyZWE1YjE3NmU5M2ZjNjIyCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQlSdWxlc2V0VmlzaWJpbGl0eVNlcnZpY2UuCg==</text>
+        <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQlERUZBVUxUID0gbmV3IFJ1bGVzZXRWaXNpYmlsaXR5U2VydmljZShuZXcgSWYoCgkJCW5ldyBJc01lKCksCgkJCW5ldyBMZWFmKFZJU0lCSUxJVFkuRlVMTCksCgkJCW5ldyBJZigKCQkJCW5ldyBIYXNFeHRlcm5hbENvbnRhY3QoKSwKCQkJCW5ldyBMZWFmKFZJU0lCSUxJVFkuRlVMTCksCgkJCQluZXcgTGVhZihWSVNJQklMSVRZLk1FVEFEQVRBKQoJCQkpCgkJKSk7Cj09PT09PT0KPj4+Pj4+PiA4YmIwN2RiZmQ0ZDMyZWZkYzI4Y2M5NjAyZWE1YjE3NmU5M2ZjNjIyCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJCVN0cmluZyBleGlzdGluZ0pzb24gPSA7Cg==</text>
+        <text encoding="base64">CQlERUZBVUxUID0gbmV3IFJ1bGVzZXRWaXNpYmlsaXR5U2VydmljZShuZXcgSWYoCgkJCW5ldyBJc01lKCksCgkJCW5ldyBMZWFmKFZJU0lCSUxJVFkuRlVMTCksCgkJCW5ldyBJZigKCQkJCW5ldyBIYXNFeHRlcm5hbENvbnRhY3QoKSwKCQkJCW5ldyBMZWFmKFZJU0lCSUxJVFkuRlVMTCksCgkJCQluZXcgTGVhZihWSVNJQklMSVRZLk1FVEFEQVRBKQoJCQkpCgkJKSk7Cj09PT09PT0KPj4+Pj4+PiA4YmIwN2RiZmQ0ZDMyZWZkYzI4Y2M5NjAyZWE1YjE3NmU5M2ZjNjIyCgl9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJZWxzZSB7CgkJCQlydWxlc2V0VmlzaWJpbGl0eVNlcnZpY2UgPSBuZXcgUnVsZXNldFZpc2liaWxpdHlTZXJ2aWNlKGZsb3dKc29uKTsKCQkJfQo=</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJdGVhbS5pc1VzZXJNZW1iZXIoKQo=</text>
+        <text encoding="base64">CQlTdHJpbmcgZXhpc3RpbmdKc29uID0gc2VyaWFsaXplKCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQlSdWxlc2V0VmlzaWJpbGl0eVNlcnZpY2UgcnVsZXNldFZpc2liaWxpdHlTZXJ2aWNlID0gbmV3IFJ1bGVzZXRWaXNpYmlsaXR5U2VydmljZShub2RlKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
