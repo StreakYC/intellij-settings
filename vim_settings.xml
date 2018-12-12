@@ -4,7 +4,8 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/domains/ThreadInfos.java" timestamp="1544213368764" />
-      <file name="$MAVEN_REPOSITORY$/com/jayway/jsonpath/json-path/2.3.0/json-path-2.3.0-sources.jar!/com/jayway/jsonpath/spi/json/AbstractJsonProvider.java" timestamp="1544654302367" />
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/ratchet/MetadataField.java" timestamp="1544655735372" />
+      <file name="$MAVEN_REPOSITORY$/com/jayway/jsonpath/json-path/2.3.0/json-path-2.3.0-sources.jar!/com/jayway/jsonpath/spi/json/AbstractJsonProvider.java" timestamp="1544656011518" />
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataupdaters/updaters/MailfooEntityUpdaterBase.java" timestamp="1544488328821" />
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/nondatastore/uiSettings/EmptyFilterCondition.java" timestamp="1542314983395">
         <mark key="[" line="2" column="59" />
@@ -56,16 +57,16 @@
         <mark key="." line="17" column="20" />
         <mark key="^" line="17" column="20" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/messageaccessengine/MessageAccessEngineJsonProvider.java" timestamp="1544654845401">
-        <mark key="[" line="18" column="12" />
-        <mark key="]" line="18" column="18" />
-        <mark key="^" line="18" column="18" />
-        <mark key="." line="18" column="18" />
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/messageaccessengine/MessageAccessEngineJsonProvider.java" timestamp="1544656241755">
+        <mark key="[" line="32" column="18" />
+        <mark key="]" line="30" column="76" />
+        <mark key="^" line="30" column="76" />
+        <mark key="." line="30" column="76" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/rewardly/mailfoo/unittests/MessageAccessEngineTest.java" timestamp="1544650894446">
-        <mark key="[" line="178" column="43" />
-        <mark key="]" line="178" column="43" />
-        <mark key="." line="178" column="43" />
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/rewardly/mailfoo/unittests/MessageAccessEngineTest.java" timestamp="1544656388513">
+        <mark key="[" line="178" column="63" />
+        <mark key="]" line="178" column="63" />
+        <mark key="." line="178" column="63" />
         <mark key="^" line="181" column="9" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/jayway/jsonpath/json-path/2.3.0/json-path-2.3.0-sources.jar!/com/jayway/jsonpath/JsonPath.java" timestamp="1544650970935" />
@@ -360,17 +361,17 @@
       <jump line="0" column="52" filename="/fragment.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQkJdGhyb3cgbmV3IFJ1bnRpbWVFeGNlcHRpb24oZSk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>Map</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
         <text>loginToken</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQkJdGhyb3cgbmV3IFJ1bnRpbWVFeGNlcHRpb24oZSk7Cg==</text>
+        <text encoding="base64">CQl0cnkgewoJCQlGaWVsZCBmaWVsZCA9IG9iai5nZXRDbGFzcygpLmdldERlY2xhcmVkRmllbGQoa2V5KTsKCQkJZmllbGQuc2V0QWNjZXNzaWJsZSh0cnVlKTsKCQkJcmV0dXJuIGZpZWxkLmdldChvYmopOwoJCX0KCQljYXRjaCAoSWxsZWdhbEFjY2Vzc0V4Y2VwdGlvbiB8IE5vU3VjaEZpZWxkRXhjZXB0aW9uIGUpIHsKCQkJdGhyb3cgbmV3IFJ1bnRpbWVFeGNlcHRpb24oZSk7CgkJfQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">CQkJZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
