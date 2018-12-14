@@ -86,7 +86,7 @@
         <mark key="^" line="13" column="8" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/utils/jwt/JWTEncoder.java" timestamp="1544745180582" />
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/utils/jwt/JWTEncoder.java" timestamp="1544754583218" />
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/messageaccessengine/graph/MessageVisibilityGraph.java" timestamp="1542147225014">
         <mark key="[" line="48" column="39" />
         <mark key="]" line="109" column="93" />
@@ -133,11 +133,11 @@
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/messageaccessengine/conditions/AnyFromThread.java" timestamp="1544563675705">
         <mark key="[" line="16" column="48" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/utils/jwt/JWTGetToken.java" timestamp="1544745551982">
-        <mark key="[" line="64" column="25" />
-        <mark key="]" line="76" column="29" />
-        <mark key="." line="76" column="29" />
-        <mark key="^" line="76" column="33" />
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/utils/jwt/JWTGetToken.java" timestamp="1544754625074">
+        <mark key="[" line="69" column="24" />
+        <mark key="]" line="69" column="27" />
+        <mark key="." line="69" column="27" />
+        <mark key="^" line="69" column="27" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/messageaccessengine/conditions/Match.java" timestamp="1544227535085" />
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/messageaccessengine/NavigationServlet.java" timestamp="1544477505912">
@@ -406,52 +406,52 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">LXUgOTlkZjg3OWZhMTg1NGIxNmJkNjFiMTliNmZhNmI4NmE6IA==</text>
+        <text>path</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">LXUgOTlkZjg3OWZhMTg1NGIxNmJkNjFiMTliNmZhNmI4NmE6IA==</text>
+        <text>path</text>
       </register>
       <register name="/" type="4">
-        <text>loginToken</text>
+        <text>)</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CXB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIEZPUk1fSURfUEFSQU0gPSAiZm9ybUlkIjsK</text>
+        <text encoding="base64">CQkJCS5jbGFpbSgicGF0aCIsIHBhdGgpCg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">CQkJCg==</text>
+      <register name="1" type="4">
+        <text>data.getClass(</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5NYXA7Cg==</text>
+        <text encoding="base64">CQkJCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJCS5jbGFpbSgidHlwZSIsIGRhdGEuZ2V0Q2xhc3MoKS5nZXRTaW1wbGVOYW1lKCkpCg==</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5NYXA7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJCS5jbGFpbSgiZGF0YSIsIG1hcHBlci5yZWFkVmFsdWUoR3NvbkN1c3RvbS5mb3JUeXBlKEdTT05fVFlQRS5BUEkpLnRvU2F2ZWRKc29uKGRhdGEpLCBNYXAuY2xhc3MpKQo=</text>
+        <text encoding="base64">CQkJCS5jbGFpbSgidHlwZSIsIGRhdGEuZ2V0Q2xhc3MoKS5nZXRTaW1wbGVOYW1lKCkpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJaWYgKCFrbGFzcy5nZXRTaW1wbGVOYW1lKCkuZXF1YWxzKGNsYWltcy5nZXRDbGFpbSgidHlwZSIpKSkgewoJCQkJdGhyb3cgbmV3IENvdWxkTm90RGVjb2RlSldURXhjZXB0aW9uKElOVkFMSURfSldUX01FU1NBR0UpOwoJCQl9Cg==</text>
+        <text encoding="base64">CQkJCS5jbGFpbSgiZGF0YSIsIG1hcHBlci5yZWFkVmFsdWUoR3NvbkN1c3RvbS5mb3JUeXBlKEdTT05fVFlQRS5BUEkpLnRvU2F2ZWRKc29uKGRhdGEpLCBNYXAuY2xhc3MpKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5yZXdhcmRseS5tYWlsZm9vLnV0aWxzLmdzb251dGlscy5Hc29uQ3VzdG9tOwppbXBvcnQgY29tLnJld2FyZGx5Lm1haWxmb28udXRpbHMuZ3NvbnV0aWxzLkdzb25DdXN0b20uR1NPTl9UWVBFOwo=</text>
+        <text encoding="base64">CQkJaWYgKCFrbGFzcy5nZXRTaW1wbGVOYW1lKCkuZXF1YWxzKGNsYWltcy5nZXRDbGFpbSgidHlwZSIpKSkgewoJCQkJdGhyb3cgbmV3IENvdWxkTm90RGVjb2RlSldURXhjZXB0aW9uKElOVkFMSURfSldUX01FU1NBR0UpOwoJCQl9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5yZXdhcmRseS5tYWlsZm9vLnV0aWxzLmdzb251dGlscy5Hc29uQ3VzdG9tOwppbXBvcnQgY29tLnJld2FyZGx5Lm1haWxmb28udXRpbHMuZ3NvbnV0aWxzLkdzb25DdXN0b20uR1NPTl9UWVBFOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJCQlMaXN0PFRlYW0+IHRlYW1zID0gREFPLmdldEFsbFRlYW1zVXNlcklzT24ob3duZXIuZ2V0VXNlcktleSgpKTsK</text>
+        <text encoding="base64">CQkJZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJTGlzdDxUZWFtPiB0ZWFtcyA9IERBTy5nZXRBbGxUZWFtc1VzZXJJc09uKHVzZXIuZ2V0VXNlcktleSgpKTsK</text>
+        <text encoding="base64">CQkJCQlMaXN0PFRlYW0+IHRlYW1zID0gREFPLmdldEFsbFRlYW1zVXNlcklzT24ob3duZXIuZ2V0VXNlcktleSgpKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>loginToken</last-search>
+      <last-search>)</last-search>
       <last-offset />
-      <last-pattern>loginToken</last-pattern>
+      <last-pattern>)</last-pattern>
       <last-replace>other.email</last-replace>
       <last-substitute>loginToken</last-substitute>
       <last-dir>1</last-dir>
@@ -459,7 +459,6 @@
     </search>
     <history>
       <history-search>
-        <entry>,</entry>
         <entry>break</entry>
         <entry>SET</entry>
         <entry>filterSettings</entry>
@@ -479,6 +478,7 @@
         <entry>any</entry>
         <entry>email</entry>
         <entry>loginToken</entry>
+        <entry>)</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2JyZWFrL3JldHVybiBmaWx0ZXJUeXBlLlNFVA==</entry>
