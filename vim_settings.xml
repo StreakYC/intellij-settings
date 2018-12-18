@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/spanner/Message.java" timestamp="1545092384406" />
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/spanner/Message.java" timestamp="1545096386546" />
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/messageaccessengine/nodes/Leaf.java" timestamp="1545092572175">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
@@ -40,6 +40,12 @@
         <mark key="]" line="2663" column="0" />
         <mark key="." line="2663" column="0" />
         <mark key="^" line="2663" column="83" />
+      </file>
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/messageaccessengine/models/Context.java" timestamp="1545097490532">
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="0" />
+        <mark key="." line="32" column="0" />
+        <mark key="^" line="17" column="22" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/nondatastore/uiSettings/FilterSettings.java" timestamp="1542232342804">
         <mark key="[" line="17" column="20" />
@@ -360,11 +366,11 @@
       <jump line="75" column="48" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/utils/jwt/JWTGetToken.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>METADATA</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQl0aGlzLnRocmVhZCA9IC8qCgkJCQkJCQkJCSAgKQoKCQkJCQkJCQkJICAqLwoJCQluZXcgQXJyYXlMaXN0PD4oKTsK</text>
       </register>
       <register name="-" type="4">
-        <text>METADATA</text>
+        <text encoding="base64">cHJpdmF0ZSA=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx2aXNpYmlsaXR5XD4=</text>
@@ -373,31 +379,31 @@
         <text encoding="base64">CQkJCXRocm93IG5ldyBSdW50aW1lRXhjZXB0aW9uKGUpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQlTeXN0ZW0ub3V0LnByaW50bG4ocnZzLnNlcmlhbGl6ZSgpKTsK</text>
+        <text encoding="base64">CQl0aGlzLnRocmVhZCA9IC8qCgkJCQkJCQkJCSAgKQoKCQkJCQkJCQkJICAqLwoJCQluZXcgQXJyYXlMaXN0PD4oKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5TZXQ7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJRmllbGQgZmllbGQgPSBudWxsOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJCWUxLnByaW50U3RhY2tUcmFjZSgpOwo=</text>
+        <text encoding="base64">CQlTeXN0ZW0ub3V0LnByaW50bG4ocnZzLnNlcmlhbGl6ZSgpKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJdGhyb3cgbmV3IFJ1bnRpbWVFeGNlcHRpb24oZSk7Cg==</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5TZXQ7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJZmllbGQuc2V0QWNjZXNzaWJsZSh0cnVlKTsKCQkJcmV0dXJuIGZpZWxkLmdldChvYmopOwo=</text>
+        <text encoding="base64">CQkJRmllbGQgZmllbGQgPSBudWxsOwo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">CQkJCWUxLnByaW50U3RhY2tUcmFjZSgpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJU3lzdGVtLm91dC5wcmludGxuKGNvbnRlbnRzVXJsKTsK</text>
+        <text encoding="base64">CQkJdGhyb3cgbmV3IFJ1bnRpbWVFeGNlcHRpb24oZSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJY29udGVudHNVcmwuc2UK</text>
+        <text encoding="base64">CQkJZmllbGQuc2V0QWNjZXNzaWJsZSh0cnVlKTsKCQkJcmV0dXJuIGZpZWxkLmdldChvYmopOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
