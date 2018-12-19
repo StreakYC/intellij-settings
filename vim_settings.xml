@@ -131,11 +131,11 @@
         <mark key="^" line="22" column="60" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/messageaccessengine/conditions/HasSharedBoxedContact.java" timestamp="1545178616119" />
-      <file name="$USER_HOME$/src/MailFoo/curls" timestamp="1545168267981">
-        <mark key="[" line="95" column="98" />
-        <mark key="]" line="95" column="98" />
-        <mark key="^" line="95" column="101" />
-        <mark key="." line="95" column="98" />
+      <file name="$USER_HOME$/src/MailFoo/curls" timestamp="1545249049656">
+        <mark key="[" line="95" column="196" />
+        <mark key="]" line="95" column="196" />
+        <mark key="^" line="95" column="197" />
+        <mark key="." line="95" column="196" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/messageaccessengine/conditions/IsMe.java" timestamp="1545182894388">
         <mark key="[" line="6" column="55" />
@@ -155,6 +155,12 @@
         <mark key="." line="18" column="0" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/nondatastore/GmailApiThreadIdentifier.java" timestamp="1545244127261" />
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/domains/Users.java" timestamp="1545248677961">
+        <mark key="[" line="74" column="43" />
+        <mark key="]" line="76" column="24" />
+        <mark key="." line="76" column="24" />
+        <mark key="^" line="76" column="24" />
+      </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/messageaccessengine/conditions/False.java" timestamp="1545182878131">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
@@ -390,11 +396,11 @@
       <jump line="130" column="11" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/messageaccessengine/graph/MessageVisibilityGraph.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>template.matches(context)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQl9Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>template.matches(context)</text>
+        <text>o</text>
       </register>
       <register name="/" type="4">
         <text>;</text>
@@ -402,20 +408,20 @@
       <register name="0" type="2">
         <text encoding="base64">Y3VybCAtdSA5OWRmODc5ZmExODU0YjE2YmQ2MWIxOWI2ZmE2Yjg2YTogImh0dHA6Ly9sb2NhbGhvc3Q6MzA3NjcvYXBpL3YyL2VudmVsb3Blcz9nbWFpbFRocmVhZEtleT1hZ3h6Zm0xaGFXeG1iMjluWVdWeU5Bc1NERTl5WjJGdWFYcGhkR2x2YmlJS2MzUnlaV0ZyTG1OdmJRd0xFZ3RIYldGcGJGUm9jbVZoWkJpQWdNQ0pfdDJ3Q3d3Igo=</text>
       </register>
-      <register name="1" type="4">
-        <text>template.matches(context)</text>
+      <register name="1" type="2">
+        <text encoding="base64">CQl9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5yZXdhcmRseS5tYWlsZm9vLm1lc3NhZ2VhY2Nlc3NlbmdpbmUubW9kZWxzLkNvbnRleHQ7Cg==</text>
+        <text encoding="base64">CQkJcmV0dXJuIGZhbHNlOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5yZXdhcmRseS5tYWlsZm9vLm1lc3NhZ2VhY2Nlc3NlbmdpbmUubW9kZWxzLkNvbnRleHQ7Cg==</text>
+        <text encoding="base64">CQl9IGNhdGNoIChOdWxsUG9pbnRlckV4Y2VwdGlvbiBlKSB7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5yZXdhcmRseS5tYWlsZm9vLm1lc3NhZ2VhY2Nlc3NlbmdpbmUubW9kZWxzLkNvbnRleHQ7Cg==</text>
+        <text encoding="base64">CQl0cnkgewo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5yZXdhcmRseS5tYWlsZm9vLm1lc3NhZ2VhY2Nlc3NlbmdpbmUubW9kZWxzLkNvbnRleHQ7Cg==</text>
+      <register name="5" type="4">
+        <text>template.matches(context)</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">aW1wb3J0IGNvbS5yZXdhcmRseS5tYWlsZm9vLm1lc3NhZ2VhY2Nlc3NlbmdpbmUubW9kZWxzLkNvbnRleHQ7Cg==</text>
