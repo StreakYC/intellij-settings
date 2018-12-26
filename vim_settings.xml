@@ -29,7 +29,7 @@
         <mark key="." line="17" column="14" />
         <mark key="^" line="17" column="14" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/rewardly/mailfoo/unittests/MessageAccessIntegrationTests.java" timestamp="1545853083447">
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/rewardly/mailfoo/unittests/MessageAccessIntegrationTests.java" timestamp="1545856439395">
         <mark key="'" line="91" column="28" />
         <mark key="[" line="112" column="80" />
         <mark key="]" line="113" column="48" />
@@ -47,6 +47,12 @@
         <mark key="]" line="5" column="16" />
         <mark key="." line="5" column="16" />
         <mark key="^" line="5" column="16" />
+      </file>
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/pom.xml" timestamp="1545856446448">
+        <mark key="[" line="774" column="24" />
+        <mark key="]" line="774" column="24" />
+        <mark key="^" line="774" column="20" />
+        <mark key="." line="774" column="24" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/rewardly/mailfoo/unittests/MailMergeRemoteTests.java" timestamp="1542156370176">
         <mark key="[" line="40" column="0" />
@@ -419,33 +425,29 @@
       <jump line="87" column="28" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/rewardly/mailfoo/unittests/MessageAccessIntegrationTests.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQkK</text>
+      <register name="&quot;" type="4">
+        <text>com.test.annotation.type.IntegrationTest</text>
       </register>
       <register name="-" type="4">
-        <text>messageId</text>
+        <text>com.test.annotation.type.IntegrationTest</text>
       </register>
       <register name="/" type="4">
         <text>X</text>
       </register>
-      <register name="0" type="4">
-        <text>,
-    &quot;mailboxes&quot;: [
-      {
-      }
-    ]</text>
+      <register name="0" type="2">
+        <text encoding="base64">CQkJCQkJCTxnb2FsPmludGVncmF0aW9uLXRlc3Q8L2dvYWw+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">CQkJCQkJCTxnb2FsPnZlcmlmeTwvZ29hbD4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5yZXdhcmRseS5tYWlsZm9vLmRhdGFtb2RlbC5zcGFubmVyLnBhcnRpYWwuTWVzc2FnZVRocmVhZDsK</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQlNZXNzYWdlVGhyZWFkIHF1ZXJ5VGhyZWFkID0gbmV3IE1lc3NhZ2VUaHJlYWQoIjAiLCAidDAiKTsK</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5yZXdhcmRseS5tYWlsZm9vLmRhdGFtb2RlbC5zcGFubmVyLnBhcnRpYWwuTWVzc2FnZVRocmVhZDsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgewogICAgICB9Cg==</text>
+        <text encoding="base64">CQlNZXNzYWdlVGhyZWFkIHF1ZXJ5VGhyZWFkID0gbmV3IE1lc3NhZ2VUaHJlYWQoIjAiLCAidDAiKTsK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgICAgewogICAgICB9Cg==</text>
@@ -460,7 +462,7 @@
         <text encoding="base64">ICAgICAgewogICAgICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgewogICAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
