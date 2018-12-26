@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/spanner/Message.java" timestamp="1545847434708" />
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/spanner/Message.java" timestamp="1545852999359" />
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/messageaccessengine/nodes/Leaf.java" timestamp="1545092572175">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
@@ -29,12 +29,12 @@
         <mark key="." line="17" column="14" />
         <mark key="^" line="17" column="14" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/rewardly/mailfoo/unittests/MessageAccessIntegrationTests.java" timestamp="1545849569800">
-        <mark key="'" line="88" column="28" />
-        <mark key="[" line="106" column="0" />
-        <mark key="]" line="89" column="0" />
-        <mark key="^" line="81" column="49" />
-        <mark key="." line="89" column="0" />
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/rewardly/mailfoo/unittests/MessageAccessIntegrationTests.java" timestamp="1545853083447">
+        <mark key="'" line="91" column="28" />
+        <mark key="[" line="112" column="80" />
+        <mark key="]" line="113" column="48" />
+        <mark key="." line="113" column="48" />
+        <mark key="^" line="113" column="48" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/messageaccessengine/conditions/Condition.java" timestamp="1545182541679">
         <mark key="[" line="3" column="0" />
@@ -419,7 +419,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgewogICAgICB9Cg==</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="-" type="4">
         <text>messageId</text>
@@ -435,13 +435,13 @@
     ]</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgewogICAgICB9Cg==</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgewogICAgICB9Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5yZXdhcmRseS5tYWlsZm9vLmRhdGFtb2RlbC5zcGFubmVyLnBhcnRpYWwuTWVzc2FnZVRocmVhZDsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgewogICAgICB9Cg==</text>
+        <text encoding="base64">CQlNZXNzYWdlVGhyZWFkIHF1ZXJ5VGhyZWFkID0gbmV3IE1lc3NhZ2VUaHJlYWQoIjAiLCAidDAiKTsK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgICAgewogICAgICB9Cg==</text>
@@ -450,16 +450,16 @@
         <text encoding="base64">ICAgICAgewogICAgICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgewogICAgICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJCQkJCS8qCglwdWJsaWMgQm9vbGVhbiBpc0Zyb207CglwdWJsaWMgQm9vbGVhbiBpc1RvOwoJcHVibGljIFN0cmluZyBtYWlsYm94RG9tYWluOwoJCQkJCQkJICovCg==</text>
+        <text encoding="base64">ICAgICAgewogICAgICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJCQkJCS5zZXQoIlgiKS50byhtYWlsYm94LlgpCg==</text>
+        <text encoding="base64">ICAgICAgewogICAgICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJCQkJCQlwdWJsaWMgU3RyaW5nIG1haWxib3hFbWFpbDsKCXB1YmxpYyBTdHJpbmcgbWFpbGJveE5hbWU7CglwdWJsaWMgQm9vbGVhbiBpc0JjYzsKCXB1YmxpYyBCb29sZWFuIGlzQ2M7CglwdWJsaWMgQm9vbGVhbiBpc0RlbGl2ZXJlZFRvOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
