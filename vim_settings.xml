@@ -248,11 +248,11 @@
         <mark key="^" line="12" column="21" />
         <mark key="." line="12" column="21" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/rewardly/mailfoo/integration/ITMessageAccess.java" timestamp="1545865084994">
-        <mark key="[" line="93" column="48" />
-        <mark key="]" line="93" column="48" />
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/rewardly/mailfoo/integration/ITMessageAccess.java" timestamp="1545868016020">
+        <mark key="[" line="118" column="23" />
+        <mark key="]" line="118" column="23" />
         <mark key="^" line="93" column="48" />
-        <mark key="." line="93" column="48" />
+        <mark key="." line="118" column="23" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/rewardly/mailfoo/unittests/UISettingsTest.java" timestamp="1542315180918">
         <mark key="[" line="115" column="46" />
@@ -406,10 +406,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Timestamp.now()</text>
+        <text>System.getenv(&quot;BIGTABLE_EMULATOR_HOST&quot;)</text>
       </register>
       <register name="-" type="4">
-        <text>Timestamp.now()</text>
+        <text>System.getenv(&quot;BIGTABLE_EMULATOR_HOST&quot;)</text>
       </register>
       <register name="/" type="4">
         <text>X</text>
