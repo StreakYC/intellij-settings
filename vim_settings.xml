@@ -46,8 +46,8 @@
         <mark key="." line="5" column="16" />
         <mark key="^" line="5" column="16" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/pom.xml" timestamp="1545863436316">
-        <mark key="[" line="21" column="8" />
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/pom.xml" timestamp="1545878798842">
+        <mark key="[" line="51" column="21" />
         <mark key="]" line="21" column="8" />
         <mark key="." line="21" column="8" />
       </file>
@@ -185,6 +185,8 @@
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/spanner/MessageFile.java" timestamp="1545863034807">
         <mark key="[" line="9" column="26" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/google/cloud/google-cloud-bigtable-admin/0.59.0-alpha/google-cloud-bigtable-admin-0.59.0-alpha-sources.jar!/com/google/cloud/bigtable/admin/v2/BigtableInstanceAdminSettings.java" timestamp="1545879736658" />
+      <file name="$MAVEN_REPOSITORY$/com/google/cloud/google-cloud-bigtable-admin/0.59.0-alpha/google-cloud-bigtable-admin-0.59.0-alpha.jar!/com/google/cloud/bigtable/admin/v2/stub/BigtableInstanceAdminStub.class" timestamp="1545879365933" />
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/messageaccessengine/conditions/True.java" timestamp="1545182796820">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
@@ -249,10 +251,10 @@
         <mark key="^" line="12" column="21" />
         <mark key="." line="12" column="21" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/rewardly/mailfoo/integration/ITMessageAccess.java" timestamp="1545877074471">
-        <mark key="[" line="124" column="0" />
-        <mark key="]" line="124" column="0" />
-        <mark key="." line="124" column="0" />
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/rewardly/mailfoo/integration/ITMessageAccess.java" timestamp="1545879998696">
+        <mark key="[" line="124" column="50" />
+        <mark key="]" line="124" column="50" />
+        <mark key="." line="124" column="50" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/rewardly/mailfoo/unittests/UISettingsTest.java" timestamp="1542315180918">
         <mark key="[" line="115" column="46" />
@@ -405,11 +407,11 @@
       <jump line="87" column="28" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/rewardly/mailfoo/unittests/MessageAccessIntegrationTests.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQlidFN0dWIuCg==</text>
+      <register name="&quot;" type="4">
+        <text>new BigtableInstanceAdminClient(</text>
       </register>
       <register name="-" type="4">
-        <text>forTarget</text>
+        <text>new BigtableInstanceAdminClient(</text>
       </register>
       <register name="/" type="4">
         <text>X</text>
@@ -418,31 +420,31 @@
         <text encoding="base64">CQkJCQkJLnNldCgiaW50ZXJuYWxEYXRlIikudG8oVGltZXN0YW1wLm5vdygpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQlidFN0dWIuCg==</text>
+        <text encoding="base64">CQkpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQk8L3Byb3BlcnRpZXM+Cg==</text>
+        <text encoding="base64">CQlCaWd0YWJsZQkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQk8cHJvcGVydGllcz4K</text>
+        <text encoding="base64">CQlidFN0dWIuCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJCQk8L2NvbmZpZ3VyYXRpb24+Cg==</text>
+        <text encoding="base64">CQk8L3Byb3BlcnRpZXM+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJCQk8Y29uZmlndXJhdGlvbj4K</text>
+        <text encoding="base64">CQk8cHJvcGVydGllcz4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJCQk8aW5jbHVkZXM+CgkJCQkJCTxpbmNsdWRlPioqLyouY2xhc3M8L2luY2x1ZGU+CgkJCQkJPC9pbmNsdWRlcz4K</text>
+        <text encoding="base64">CQkJCQk8L2NvbmZpZ3VyYXRpb24+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">QFRlc3QK</text>
+        <text encoding="base64">CQkJCQk8Y29uZmlndXJhdGlvbj4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJLmZvclRhcmdldCgiYmlndGFibGUuZ29vZ2xlYXBpcy5jb20iKQo=</text>
+        <text encoding="base64">CQkJCQk8aW5jbHVkZXM+CgkJCQkJCTxpbmNsdWRlPioqLyouY2xhc3M8L2luY2x1ZGU+CgkJCQkJPC9pbmNsdWRlcz4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQlHb29nbGVDcmVkZW50aWFscyBjcmVkcyA9IEdvb2dsZUNyZWRlbnRpYWxzLmdldEFwcGxpY2F0aW9uRGVmYXVsdCgpOwo=</text>
+        <text encoding="base64">QFRlc3QK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
