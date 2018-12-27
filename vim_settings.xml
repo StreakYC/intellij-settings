@@ -174,10 +174,11 @@
         <mark key="." line="3" column="62" />
         <mark key="^" line="3" column="62" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/bigtable/SpannerBigtable.java" timestamp="1545897156293">
-        <mark key="[" line="51" column="4" />
-        <mark key="]" line="52" column="106" />
-        <mark key="." line="52" column="0" />
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/bigtable/SpannerBigtable.java" timestamp="1545898016452">
+        <mark key="[" line="52" column="81" />
+        <mark key="]" line="52" column="93" />
+        <mark key="." line="52" column="93" />
+        <mark key="^" line="52" column="93" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/domains/Users.java" timestamp="1545248677961">
         <mark key="[" line="74" column="43" />
@@ -257,10 +258,10 @@
         <mark key="^" line="12" column="21" />
         <mark key="." line="12" column="21" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/rewardly/mailfoo/integration/ITMessageAccess.java" timestamp="1545895782678">
-        <mark key="[" line="183" column="0" />
-        <mark key="]" line="183" column="0" />
-        <mark key="." line="183" column="0" />
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/rewardly/mailfoo/integration/ITMessageAccess.java" timestamp="1545898027804">
+        <mark key="[" line="125" column="26" />
+        <mark key="]" line="125" column="26" />
+        <mark key="." line="125" column="26" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/rewardly/mailfoo/unittests/UISettingsTest.java" timestamp="1542315180918">
         <mark key="[" line="115" column="46" />
@@ -413,11 +414,11 @@
       <jump line="129" column="32" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/rewardly/mailfoo/integration/ITMessageAccess.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CXB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIE1FU1NBR0VTX1RBQkxFID0gInByb2plY3RzL21haWxmb29nYWUvaW5zdGFuY2VzL2JpZ3RhYmxlMS90YWJsZXMvTWVzc2FnZXMiOwo=</text>
+      <register name="&quot;" type="4">
+        <text>myTable</text>
       </register>
       <register name="-" type="4">
-        <text>*</text>
+        <text>myTable</text>
       </register>
       <register name="/" type="4">
         <text>CreateTableR</text>
