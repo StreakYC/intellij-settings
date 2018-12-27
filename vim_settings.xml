@@ -191,6 +191,7 @@
         <mark key="^" line="2" column="18" />
         <mark key="." line="2" column="0" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/io/grpc/grpc-core/1.13.1/grpc-core-1.13.1-sources.jar!/io/grpc/ManagedChannelBuilder.java" timestamp="1545876815594" />
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/rewardly/mailfoo/unittests/MessageAccessEngineRemoteTest.java" timestamp="1545417473661">
         <mark key="[" line="181" column="16" />
         <mark key="]" line="181" column="15" />
@@ -248,11 +249,10 @@
         <mark key="^" line="12" column="21" />
         <mark key="." line="12" column="21" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/rewardly/mailfoo/integration/ITMessageAccess.java" timestamp="1545868016020">
-        <mark key="[" line="118" column="23" />
-        <mark key="]" line="118" column="23" />
-        <mark key="^" line="93" column="48" />
-        <mark key="." line="118" column="23" />
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/rewardly/mailfoo/integration/ITMessageAccess.java" timestamp="1545877074471">
+        <mark key="[" line="124" column="0" />
+        <mark key="]" line="124" column="0" />
+        <mark key="." line="124" column="0" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/rewardly/mailfoo/unittests/UISettingsTest.java" timestamp="1542315180918">
         <mark key="[" line="115" column="46" />
@@ -405,11 +405,11 @@
       <jump line="87" column="28" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/rewardly/mailfoo/unittests/MessageAccessIntegrationTests.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>System.getenv(&quot;BIGTABLE_EMULATOR_HOST&quot;)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQlidFN0dWIuCg==</text>
       </register>
       <register name="-" type="4">
-        <text>System.getenv(&quot;BIGTABLE_EMULATOR_HOST&quot;)</text>
+        <text>forTarget</text>
       </register>
       <register name="/" type="4">
         <text>X</text>
@@ -418,31 +418,31 @@
         <text encoding="base64">CQkJCQkJLnNldCgiaW50ZXJuYWxEYXRlIikudG8oVGltZXN0YW1wLm5vdygpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQk8L3Byb3BlcnRpZXM+Cg==</text>
+        <text encoding="base64">CQlidFN0dWIuCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQk8cHJvcGVydGllcz4K</text>
+        <text encoding="base64">CQk8L3Byb3BlcnRpZXM+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJCQk8L2NvbmZpZ3VyYXRpb24+Cg==</text>
+        <text encoding="base64">CQk8cHJvcGVydGllcz4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJCQk8Y29uZmlndXJhdGlvbj4K</text>
+        <text encoding="base64">CQkJCQk8L2NvbmZpZ3VyYXRpb24+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJCQk8aW5jbHVkZXM+CgkJCQkJCTxpbmNsdWRlPioqLyouY2xhc3M8L2luY2x1ZGU+CgkJCQkJPC9pbmNsdWRlcz4K</text>
+        <text encoding="base64">CQkJCQk8Y29uZmlndXJhdGlvbj4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">QFRlc3QK</text>
+        <text encoding="base64">CQkJCQk8aW5jbHVkZXM+CgkJCQkJCTxpbmNsdWRlPioqLyouY2xhc3M8L2luY2x1ZGU+CgkJCQkJPC9pbmNsdWRlcz4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJLmZvclRhcmdldCgiYmlndGFibGUuZ29vZ2xlYXBpcy5jb20iKQo=</text>
+        <text encoding="base64">QFRlc3QK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQlHb29nbGVDcmVkZW50aWFscyBjcmVkcyA9IEdvb2dsZUNyZWRlbnRpYWxzLmdldEFwcGxpY2F0aW9uRGVmYXVsdCgpOwo=</text>
+        <text encoding="base64">CQkJLmZvclRhcmdldCgiYmlndGFibGUuZ29vZ2xlYXBpcy5jb20iKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkgPSBTcGFubmVyQmlndGFibGUuY3JlYXRlU3R1YigpOwo=</text>
+        <text encoding="base64">CQlHb29nbGVDcmVkZW50aWFscyBjcmVkcyA9IEdvb2dsZUNyZWRlbnRpYWxzLmdldEFwcGxpY2F0aW9uRGVmYXVsdCgpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
