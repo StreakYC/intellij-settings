@@ -84,6 +84,7 @@
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/nondatastore/Envelope.java" timestamp="1545162487524">
         <mark key="[" line="93" column="30" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/google/cloud/google-cloud-bigtable-admin/0.59.0-alpha/google-cloud-bigtable-admin-0.59.0-alpha-sources.jar!/com/google/cloud/bigtable/admin/v2/BigtableInstanceAdminClient.java" timestamp="1545883506260" />
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/messageaccessengine/nodes/If.java" timestamp="1544731168116">
         <mark key="[" line="8" column="16" />
         <mark key="]" line="8" column="16" />
@@ -166,6 +167,7 @@
         <mark key="." line="43" column="28" />
         <mark key="^" line="43" column="28" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/google/cloud/google-cloud-bigtable-admin/0.59.0-alpha/google-cloud-bigtable-admin-0.59.0-alpha-sources.jar!/com/google/cloud/bigtable/admin/v2/models/CreateTableRequest.java" timestamp="1545885090432" />
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/listeners/SpannerContextListener.java" timestamp="1542150431106">
         <mark key="[" line="3" column="40" />
         <mark key="]" line="3" column="62" />
@@ -251,10 +253,12 @@
         <mark key="^" line="12" column="21" />
         <mark key="." line="12" column="21" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/rewardly/mailfoo/integration/ITMessageAccess.java" timestamp="1545882266857">
-        <mark key="[" line="125" column="48" />
-        <mark key="]" line="125" column="48" />
-        <mark key="." line="125" column="48" />
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/rewardly/mailfoo/integration/ITMessageAccess.java" timestamp="1545885754891">
+        <mark key="'" line="131" column="32" />
+        <mark key="[" line="129" column="58" />
+        <mark key="]" line="129" column="29" />
+        <mark key="." line="129" column="29" />
+        <mark key="^" line="129" column="29" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/rewardly/mailfoo/unittests/UISettingsTest.java" timestamp="1542315180918">
         <mark key="[" line="115" column="46" />
@@ -298,16 +302,13 @@
         <mark key="." line="116" column="69" />
         <mark key="^" line="103" column="71" />
       </file>
-      <file name="/fragment.java" timestamp="1545861089867">
+      <file name="/fragment.java" timestamp="1545882470382">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="21" />
         <mark key="." line="0" column="21" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="1311" column="36" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/DAO.java" />
-      <jump line="2741" column="0" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/DAO.java" />
-      <jump line="43" column="6" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/spanner/queries/ThreadInfo.java" />
       <jump line="32" column="0" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/domains/ThreadInfos.java" />
       <jump line="123" column="24" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/domains/ThreadInfos.java" />
       <jump line="44" column="19" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/RatchetRpcDelegate.java" />
@@ -405,55 +406,58 @@
       <jump line="85" column="28" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/rewardly/mailfoo/unittests/MessageAccessIntegrationTests.java" />
       <jump line="86" column="28" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/rewardly/mailfoo/unittests/MessageAccessIntegrationTests.java" />
       <jump line="87" column="28" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/rewardly/mailfoo/unittests/MessageAccessIntegrationTests.java" />
+      <jump line="10" column="0" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/rewardly/mailfoo/integration/ITMessageAccess.java" />
+      <jump line="126" column="37" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/rewardly/mailfoo/integration/ITMessageAccess.java" />
+      <jump line="129" column="32" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/rewardly/mailfoo/integration/ITMessageAccess.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>= BigtableInstanceAdminStubSettings</text>
+        <text>ProjectName.of(&quot;emulated&quot;)</text>
       </register>
       <register name="-" type="4">
-        <text>= BigtableInstanceAdminStubSettings</text>
+        <text>ProjectName.of(&quot;emulated&quot;)</text>
       </register>
       <register name="/" type="4">
-        <text>X</text>
+        <text>CreateTableR</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQkJCQkJLnNldCgiaW50ZXJuYWxEYXRlIikudG8oVGltZXN0YW1wLm5vdygpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJLm5ld0J1aWxkZXIoKS5idWlsZCgpLmNyZWF0ZVN0dWIoKTsK</text>
+        <text encoding="base64">CQkJCQkJCQkJCQkJCSAgIC5idWlsZCgpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkpOwo=</text>
+        <text encoding="base64">CQkJCQkJCQkJCQkJCSAgIC5zZXRUYWJsZUlkKCJ0YWJsZSIpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQlCaWd0YWJsZQkK</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5nb29nbGUuYmlndGFibGUuYWRtaW4udjIuQ3JlYXRlVGFibGVSZXF1ZXN0Owo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQlidFN0dWIuCg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5nb29nbGUuYmlndGFibGUuYWRtaW4udjIuQ3JlYXRlVGFibGVSZXF1ZXN0Owo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQk8L3Byb3BlcnRpZXM+Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5nb29nbGUuY2xvdWQuYmlndGFibGUuYWRtaW4udjIuc3R1Yi5CaWd0YWJsZUluc3RhbmNlQWRtaW5TdHViU2V0dGluZ3M7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQk8cHJvcGVydGllcz4K</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5nb29nbGUuY2xvdWQuYmlndGFibGUuYWRtaW4udjIuQmlndGFibGVJbnN0YW5jZUFkbWluQ2xpZW50Owo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJCQk8L2NvbmZpZ3VyYXRpb24+Cg==</text>
+        <text encoding="base64">CQlyZXF1ZXN0Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJCQk8Y29uZmlndXJhdGlvbj4K</text>
+        <text encoding="base64">CQlhZG1pbkNsaWVudC4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJCQk8aW5jbHVkZXM+CgkJCQkJCTxpbmNsdWRlPioqLyouY2xhc3M8L2luY2x1ZGU+CgkJCQkJPC9pbmNsdWRlcz4K</text>
+        <text encoding="base64">CQkJLm5ld0J1aWxkZXIoKS5idWlsZCgpLmNyZWF0ZVN0dWIoKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>X</last-search>
+      <last-search>CreateTableR</last-search>
       <last-offset />
-      <last-pattern>X</last-pattern>
+      <last-pattern>CreateTableR</last-pattern>
       <last-replace>mailboxDomain</last-replace>
       <last-substitute>X</last-substitute>
       <last-dir>1</last-dir>
@@ -461,7 +465,6 @@
     </search>
     <history>
       <history-search>
-        <entry>getSumm</entry>
         <entry>summary</entry>
         <entry>entityT</entry>
         <entry>Tracked</entry>
@@ -481,6 +484,7 @@
         <entry>String</entry>
         <entry>;</entry>
         <entry>X</entry>
+        <entry>CreateTableR</entry>
       </history-search>
       <history-cmd>
         <entry>s/email/domain/g</entry>
