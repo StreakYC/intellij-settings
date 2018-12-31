@@ -245,11 +245,12 @@
         <mark key="^" line="262" column="56" />
         <mark key="." line="262" column="56" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/test/resources/fixtures/cases.json" timestamp="1546287065543">
-        <mark key="[" line="2" column="52" />
-        <mark key="]" line="2" column="52" />
-        <mark key="." line="2" column="52" />
-        <mark key="^" line="93" column="18" />
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/test/resources/fixtures/cases.json" timestamp="1546288802513">
+        <mark key="'" line="7" column="51" />
+        <mark key="[" line="88" column="31" />
+        <mark key="]" line="88" column="55" />
+        <mark key="." line="88" column="55" />
+        <mark key="^" line="88" column="55" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/utils/RemoteAccess.java" timestamp="1544723304685">
         <mark key="[" line="88" column="12" />
@@ -318,7 +319,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="5817" column="4" filename="$USER_HOME$/src/MailFoo/curls" />
       <jump line="5816" column="0" filename="$USER_HOME$/src/MailFoo/curls" />
       <jump line="38" column="0" filename="$USER_HOME$/src/MailFoo/curls" />
       <jump line="1294" column="0" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/test/resources/largeUISettings.json" />
@@ -418,16 +418,17 @@
       <jump line="246" column="0" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/test/resources/fixtures/workflows.json" />
       <jump line="65" column="6" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/test/resources/fixtures/workflows.json" />
       <jump line="67" column="0" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/test/resources/fixtures/workflows.json" />
+      <jump line="7" column="51" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/test/resources/fixtures/cases.json" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>,</text>
+        <text>1545079412000</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>1545079412000</text>
       </register>
       <register name="/" type="4">
-        <text>,</text>
+        <text>,,</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQkJCQkJICAgLmFkZEZpbGVUb0RhdGFzdG9yZSgid29ya2Zsb3dzIiwgV29ya2Zsb3cuY2xhc3MpCg==</text>
@@ -464,17 +465,16 @@
       </register>
     </registers>
     <search>
-      <last-search>,</last-search>
+      <last-search>,,</last-search>
       <last-offset />
-      <last-pattern>,</last-pattern>
-      <last-replace />
-      <last-substitute>+</last-substitute>
+      <last-pattern>,,</last-pattern>
+      <last-replace>,</last-replace>
+      <last-substitute>,,</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>Tracked</entry>
         <entry>()</entry>
         <entry>.class</entry>
         <entry>return</entry>
@@ -494,9 +494,9 @@
         <entry>CreateTableR</entry>
         <entry>+</entry>
         <entry>,</entry>
+        <entry>,,</entry>
       </history-search>
       <history-cmd>
-        <entry>s/loginToken/other.email/g</entry>
         <entry>ws</entry>
         <entry>wq</entry>
         <entry>q</entry>
@@ -515,6 +515,7 @@
         <entry>s/X/isTo/g</entry>
         <entry>s/X/mailboxDomain/g</entry>
         <entry encoding="base64">JzwsJz5zLysvLw==</entry>
+        <entry>%s/,,/,/g</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
