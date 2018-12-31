@@ -116,6 +116,9 @@
         <mark key="." line="196" column="172" />
         <mark key="^" line="196" column="171" />
       </file>
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/test/resources/fixtures/workflows.json" timestamp="1546282906944">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/messageaccessengine/conditions/All.java" timestamp="1545182748564">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
@@ -174,6 +177,9 @@
         <mark key="^" line="43" column="28" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/google/cloud/google-cloud-bigtable-admin/0.59.0-alpha/google-cloud-bigtable-admin-0.59.0-alpha-sources.jar!/com/google/cloud/bigtable/admin/v2/models/CreateTableRequest.java" timestamp="1545885090432" />
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/test/resources/fixtures/gmailThreads.json" timestamp="1546282902550">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/listeners/SpannerContextListener.java" timestamp="1542150431106">
         <mark key="[" line="3" column="40" />
         <mark key="]" line="3" column="62" />
@@ -270,10 +276,11 @@
         <mark key="^" line="12" column="21" />
         <mark key="." line="12" column="21" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/rewardly/mailfoo/integration/ITMessageAccess.java" timestamp="1546051339487">
-        <mark key="[" line="236" column="51" />
-        <mark key="]" line="240" column="0" />
-        <mark key="." line="240" column="0" />
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/rewardly/mailfoo/integration/ITMessageAccess.java" timestamp="1546283324665">
+        <mark key="[" line="137" column="61" />
+        <mark key="]" line="137" column="61" />
+        <mark key="." line="137" column="61" />
+        <mark key="^" line="138" column="59" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/rewardly/mailfoo/unittests/UISettingsTest.java" timestamp="1542315180918">
         <mark key="[" line="115" column="46" />
@@ -414,32 +421,32 @@
       <jump line="743" column="20" filename="$USER_HOME$/src/MailFoo/ServerCommon/pom.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQlTeXN0ZW0ub3V0LnByaW50bG4oIm1lZXAgbWVlcCBtZWVwIik7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>eam</text>
       </register>
       <register name="-" type="4">
-        <text>Name</text>
+        <text>eam</text>
       </register>
       <register name="/" type="4">
         <text>+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgewogICAgICAgICJnaWQiOiAiMCIsCiAgICAgICAgIm1lc3NhZ2VJZCI6ICJtMCIsCiAgICAgICAgIm1haWxib3hFbWFpbCI6ICIwQDAuY29tIiwKICAgICAgICAibWFpbGJveE5hbWUiOiAiWmVybyIsCiAgICAgICAgImlzQmNjIjogZmFsc2UsCiAgICAgICAgImlzQ2MiOiBmYWxzZSwKICAgICAgICAiaXNEZWxpdmVyZWRUbyI6IHRydWUsCiAgICAgICAgImlzRnJvbSI6IGZhbHNlLAogICAgICAgICJpc1RvIjogZmFsc2UsCiAgICAgICAgIm1haWxib3hEb21haW4iOiAiMC5jb20iCiAgICAgIH0K</text>
+        <text encoding="base64">CQkJCQkJICAgLmFkZEZpbGVUb0RhdGFzdG9yZSgidGVhbXMiLCBUZWFtLmNsYXNzKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQlTeXN0ZW0ub3V0LnByaW50bG4oIm1lZXAgbWVlcCBtZWVwIik7Cg==</text>
+        <text encoding="base64">CQlXb3JrZmxvdyB3b3JrZmxvdyA9IG5ldyBXb3JrZmxvdygpOwoJCUdtYWlsVGhyZWFkIGdtYWlsVGhyZWFkID0gbmV3IEdtYWlsVGhyZWFkKCk7CgkJZ21haWxUaHJlYWQuc2V0RW5jb2RlZFRocmVhZElkKCJ0MCIpOwoJCWdtYWlsVGhyZWFkLnNldFdvcmtmbG93S2V5KHdvcmtmbG93LmdldFdvcmtmbG93S2V5KCkpOwo=</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">CnB1YmxpYyBjbGFzcyBVdGlscyB7CglwdWJsaWMgdm9pZCBjbGVhbk9sZERhdGFiYXNlcygpIHsKCQlEYXRhYmFzZUFkbWluQ2xpZW50IGRiQWRtaW5DbGllbnQgPSBoZWxwZXIuZ2V0Q2xpZW50KCkuZ2V0RGF0YWJhc2VBZG1pbkNsaWVudCgpOwoJCVBhZ2U8RGF0YWJhc2U+IHBhZ2UgPSBkYkFkbWluQ2xpZW50Lmxpc3REYXRhYmFzZXMoSU5TVEFOQ0VfSUQsIE9wdGlvbnMucGFnZVNpemUoMSkpOwoJCUxpc3Q8RGF0YWJhc2U+IGRicyA9IG5ldyBBcnJheUxpc3Q8PigpOwoJCXdoaWxlIChwYWdlICE9IG51bGwpIHsKCQkJRGF0YWJhc2UgZGIgPSBJdGVyYWJsZXMuZ2V0T25seUVsZW1lbnQocGFnZS5nZXRWYWx1ZXMoKSk7CgkJCWlmIChkYi5nZXRJZCgpLmdldERhdGFiYXNlKCkuc3RhcnRzV2l0aCgidGVzdGRiXyIpKSB7CgkJCQlkYnMuYWRkKGRiKTsKCQkJfQoJCQlwYWdlID0gcGFnZS5nZXROZXh0UGFnZSgpOwoJCX0KCQlmb3IgKERhdGFiYXNlIGRiOiBkYnMpIHsKCQkJZGIuZHJvcCgpOwoJCX0KCX0KfQ==</text>
+      <register name="2" type="2">
+        <text encoding="base64">CQl3b3JrZmxvdy4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJZGJBZG1pbkNsaWVudC5kcm9wRGF0YWJhc2UoSU5TVEFOQ0VfSUQsIGRiKTsK</text>
+        <text encoding="base64">CQlTeXN0ZW0ub3V0LnByaW50bG4oIm1lZXAgbWVlcCBtZWVwIik7Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">CnB1YmxpYyBjbGFzcyBVdGlscyB7CglwdWJsaWMgdm9pZCBjbGVhbk9sZERhdGFiYXNlcygpIHsKCQlEYXRhYmFzZUFkbWluQ2xpZW50IGRiQWRtaW5DbGllbnQgPSBoZWxwZXIuZ2V0Q2xpZW50KCkuZ2V0RGF0YWJhc2VBZG1pbkNsaWVudCgpOwoJCVBhZ2U8RGF0YWJhc2U+IHBhZ2UgPSBkYkFkbWluQ2xpZW50Lmxpc3REYXRhYmFzZXMoSU5TVEFOQ0VfSUQsIE9wdGlvbnMucGFnZVNpemUoMSkpOwoJCUxpc3Q8RGF0YWJhc2U+IGRicyA9IG5ldyBBcnJheUxpc3Q8PigpOwoJCXdoaWxlIChwYWdlICE9IG51bGwpIHsKCQkJRGF0YWJhc2UgZGIgPSBJdGVyYWJsZXMuZ2V0T25seUVsZW1lbnQocGFnZS5nZXRWYWx1ZXMoKSk7CgkJCWlmIChkYi5nZXRJZCgpLmdldERhdGFiYXNlKCkuc3RhcnRzV2l0aCgidGVzdGRiXyIpKSB7CgkJCQlkYnMuYWRkKGRiKTsKCQkJfQoJCQlwYWdlID0gcGFnZS5nZXROZXh0UGFnZSgpOwoJCX0KCQlmb3IgKERhdGFiYXNlIGRiOiBkYnMpIHsKCQkJZGIuZHJvcCgpOwoJCX0KCX0KfQ==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJZGJBZG1pbkNsaWVudC5kcm9wRGF0YWJhc2UoSU5TVEFOQ0VfSUQsIGRiKTsK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
