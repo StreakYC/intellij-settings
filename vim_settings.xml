@@ -38,7 +38,7 @@
         <mark key="^" line="2" column="18" />
         <mark key="." line="67" column="0" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataupdaters/getters/EnvelopesGetter.java" timestamp="1546460038808" />
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataupdaters/getters/EnvelopesGetter.java" timestamp="1546461807927" />
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/spanner/MessageMailbox.java" timestamp="1545863031867">
         <mark key="[" line="10" column="75" />
         <mark key="]" line="25" column="0" />
@@ -81,20 +81,16 @@
         <mark key="." line="4" column="15" />
         <mark key="^" line="5" column="12" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/rewardly/mailfoo/integration/ITMessageAccess.java" timestamp="1546460297051">
-        <mark key="[" line="244" column="39" />
-        <mark key="]" line="238" column="0" />
-        <mark key="." line="238" column="0" />
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/rewardly/mailfoo/integration/ITMessageAccess.java" timestamp="1546462242441">
+        <mark key="[" line="251" column="32" />
+        <mark key="]" line="251" column="54" />
+        <mark key="." line="251" column="54" />
+        <mark key="^" line="251" column="54" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/domains/Envelopes.java" timestamp="1546457418549">
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/domains/Envelopes.java" timestamp="1546462187845">
         <mark key="[" line="137" column="0" />
         <mark key="]" line="137" column="0" />
         <mark key="." line="137" column="0" />
-      </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/rewardly/mailfoo/integration/MessageAccessIntegrationTests.java" timestamp="1545859273881">
-        <mark key="[" line="113" column="22" />
-        <mark key="]" line="113" column="23" />
-        <mark key="." line="113" column="23" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/rewardly/mailfoo/helpers/FixtureLoader.java" timestamp="1546290304150" />
       <file name="/fragment.java" timestamp="1546459527611">
@@ -206,11 +202,11 @@
       <jump line="7" column="51" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/test/resources/fixtures/cases.json" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>DAO.getAllTeamsUserIsOn(requester.getUserKey())</text>
       </register>
       <register name="-" type="4">
-        <text>GmailThread</text>
+        <text>DAO.getAllTeamsUserIsOn(requester.getUserKey())</text>
       </register>
       <register name="/" type="4">
         <text>,,</text>
