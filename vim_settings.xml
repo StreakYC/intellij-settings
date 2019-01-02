@@ -18,9 +18,13 @@
         <mark key="." line="751" column="0" />
         <mark key="^" line="755" column="20" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/DAO.java" timestamp="1546463656737">
-        <mark key="[" line="2831" column="5" />
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/DAO.java" timestamp="1546464381478">
+        <mark key="[" line="2834" column="139" />
+        <mark key="]" line="2834" column="82" />
+        <mark key="^" line="2834" column="82" />
+        <mark key="." line="2834" column="82" />
       </file>
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/spanner/partial/MessageThread.java" timestamp="1546464359312" />
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/bigtable/BigtableGraphFanOutProcessor.java" timestamp="1546035424341">
         <mark key="[" line="302" column="48" />
         <mark key="]" line="222" column="8" />
@@ -205,10 +209,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>DAO.getAllTeamsUserIsOn(requester.getUserKey())</text>
+        <text>GmailId</text>
       </register>
       <register name="-" type="4">
-        <text>DAO.getAllTeamsUserIsOn(requester.getUserKey())</text>
+        <text>GmailId</text>
       </register>
       <register name="/" type="4">
         <text>,,</text>
