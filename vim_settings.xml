@@ -4,7 +4,7 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/spanner/Message.java" timestamp="1546026818278" />
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/domains/ThreadInfos.java" timestamp="1546467363799" />
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/domains/ThreadInfos.java" timestamp="1546468274923" />
       <file name="/a.dummy" timestamp="1546017967805">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -30,10 +30,12 @@
         <mark key="]" line="222" column="8" />
         <mark key="." line="222" column="8" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/messageaccessengine/graph/MessageVisibilityGraph.java" timestamp="1546467418568">
-        <mark key="[" line="157" column="0" />
-        <mark key="]" line="157" column="0" />
-        <mark key="." line="157" column="0" />
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/messageaccessengine/graph/MessageVisibilityGraph.java" timestamp="1546468623806">
+        <mark key="'" line="175" column="20" />
+        <mark key="[" line="163" column="62" />
+        <mark key="]" line="166" column="20" />
+        <mark key="." line="166" column="20" />
+        <mark key="^" line="166" column="20" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/google/cloud/google-cloud-bigtable-admin/0.59.0-alpha/google-cloud-bigtable-admin-0.59.0-alpha-sources.jar!/com/google/cloud/bigtable/admin/v2/BigtableInstanceAdminClient.java" timestamp="1545883506260" />
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/test/resources/fixtures/users.json" timestamp="1546286577599" />
@@ -88,10 +90,10 @@
         <mark key="." line="4" column="15" />
         <mark key="^" line="5" column="12" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/rewardly/mailfoo/integration/ITMessageAccess.java" timestamp="1546466287849">
-        <mark key="[" line="256" column="82" />
-        <mark key="]" line="256" column="82" />
-        <mark key="." line="256" column="82" />
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/rewardly/mailfoo/integration/ITMessageAccess.java" timestamp="1546469094659">
+        <mark key="[" line="250" column="25" />
+        <mark key="]" line="250" column="25" />
+        <mark key="." line="250" column="25" />
         <mark key="^" line="259" column="37" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/domains/Envelopes.java" timestamp="1546462187845">
@@ -107,7 +109,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="5816" column="0" filename="$USER_HOME$/src/MailFoo/curls" />
       <jump line="38" column="0" filename="$USER_HOME$/src/MailFoo/curls" />
       <jump line="1294" column="0" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/test/resources/largeUISettings.json" />
       <jump line="23" column="12" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/nondatastore/uiSettings/UISettings.java" />
@@ -207,16 +208,17 @@
       <jump line="65" column="6" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/test/resources/fixtures/workflows.json" />
       <jump line="67" column="0" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/test/resources/fixtures/workflows.json" />
       <jump line="7" column="51" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/test/resources/fixtures/cases.json" />
+      <jump line="175" column="20" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/messageaccessengine/graph/MessageVisibilityGraph.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQkJOwo=</text>
+      <register name="&quot;" type="4">
+        <text>= teams</text>
       </register>
       <register name="-" type="4">
-        <text>node</text>
+        <text>= teams</text>
       </register>
       <register name="/" type="4">
-        <text>,,</text>
+        <text>localUsers</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQkJCQkJICAgLmFkZEZpbGVUb0RhdGFzdG9yZSgid29ya2Zsb3dzIiwgV29ya2Zsb3cuY2xhc3MpCg==</text>
@@ -249,21 +251,20 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text encoding="base64">JzwsJz5zL2xvY2FsVXNlcnMvdXNlcnM=</text>
       </register>
     </registers>
     <search>
-      <last-search>,,</last-search>
+      <last-search>localUsers</last-search>
       <last-offset />
-      <last-pattern>,,</last-pattern>
-      <last-replace>,</last-replace>
-      <last-substitute>,,</last-substitute>
+      <last-pattern>localUsers</last-pattern>
+      <last-replace>users</last-replace>
+      <last-substitute>localUsers</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>()</entry>
         <entry>.class</entry>
         <entry>return</entry>
         <entry>value</entry>
@@ -283,9 +284,9 @@
         <entry>+</entry>
         <entry>,</entry>
         <entry>,,</entry>
+        <entry>localUsers</entry>
       </history-search>
       <history-cmd>
-        <entry>ws</entry>
         <entry>wq</entry>
         <entry>q</entry>
         <entry encoding="base64">JzwsJz5zL21lc3NhZ2UvZ2V0TWVzc2FnZSgp</entry>
@@ -305,6 +306,7 @@
         <entry encoding="base64">JzwsJz5zLysvLw==</entry>
         <entry>%s/,,/,/g</entry>
         <entry>w</entry>
+        <entry encoding="base64">JzwsJz5zL2xvY2FsVXNlcnMvdXNlcnM=</entry>
       </history-cmd>
       <history-expr />
       <history-input />
