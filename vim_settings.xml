@@ -4,7 +4,7 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/spanner/Message.java" timestamp="1546026818278" />
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/domains/ThreadInfos.java" timestamp="1546465215355" />
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/domains/ThreadInfos.java" timestamp="1546467363799" />
       <file name="/a.dummy" timestamp="1546017967805">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -29,6 +29,11 @@
         <mark key="[" line="302" column="48" />
         <mark key="]" line="222" column="8" />
         <mark key="." line="222" column="8" />
+      </file>
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/messageaccessengine/graph/MessageVisibilityGraph.java" timestamp="1546467418568">
+        <mark key="[" line="157" column="0" />
+        <mark key="]" line="157" column="0" />
+        <mark key="." line="157" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/google/cloud/google-cloud-bigtable-admin/0.59.0-alpha/google-cloud-bigtable-admin-0.59.0-alpha-sources.jar!/com/google/cloud/bigtable/admin/v2/BigtableInstanceAdminClient.java" timestamp="1545883506260" />
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/test/resources/fixtures/users.json" timestamp="1546286577599" />
@@ -67,11 +72,6 @@
         <mark key="^" line="75" column="8" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/google/cloud/google-cloud-spanner/0.55.1-beta/google-cloud-spanner-0.55.1-beta-sources.jar!/com/google/cloud/spanner/DatabaseAdminClient.java" timestamp="1546024276270" />
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/rewardly/mailfoo/integration/Utils.java" timestamp="1546025836641">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-      </file>
       <file name="$MAVEN_REPOSITORY$/com/google/cloud/google-cloud-bigtable-admin/0.59.0-alpha/google-cloud-bigtable-admin-0.59.0-alpha-sources.jar!/com/google/cloud/bigtable/admin/v2/BigtableInstanceAdminSettings.java" timestamp="1545879736658" />
       <file name="$MAVEN_REPOSITORY$/com/google/cloud/google-cloud-bigtable-admin/0.59.0-alpha/google-cloud-bigtable-admin-0.59.0-alpha.jar!/com/google/cloud/bigtable/admin/v2/stub/BigtableInstanceAdminStub.class" timestamp="1545879365933" />
       <file name="$MAVEN_REPOSITORY$/io/grpc/grpc-core/1.13.1/grpc-core-1.13.1-sources.jar!/io/grpc/ManagedChannelBuilder.java" timestamp="1545876815594" />
@@ -209,11 +209,11 @@
       <jump line="7" column="51" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/test/resources/fixtures/cases.json" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>.reduce()</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQkJOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>.reduce()</text>
+        <text>node</text>
       </register>
       <register name="/" type="4">
         <text>,,</text>
@@ -222,7 +222,7 @@
         <text encoding="base64">CQkJCQkJICAgLmFkZEZpbGVUb0RhdGFzdG9yZSgid29ya2Zsb3dzIiwgV29ya2Zsb3cuY2xhc3MpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJOwo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
@@ -236,17 +236,17 @@
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">CXB1YmxpYyBzdGF0aWMgRW52ZWxvcGVzIGdsb2JhbFVuaWZpZWRGcm9tU2VlZHMoTGlzdDxHbWFpbFRocmVhZElkZW50aWZpZXI+KSB7CgkJCgl9</text>
-      </register>
-      <register name="7" type="2">
+      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="4">
+        <text encoding="base64">CXB1YmxpYyBzdGF0aWMgRW52ZWxvcGVzIGdsb2JhbFVuaWZpZWRGcm9tU2VlZHMoTGlzdDxHbWFpbFRocmVhZElkZW50aWZpZXI+KSB7CgkJCgl9</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHN0YXRpYyBjb20ucmV3YXJkbHkubWFpbGZvby5kYXRhYWNjZXNzLnV0aWxzLk9meVNlcnZpY2Uub2Z5Owo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
