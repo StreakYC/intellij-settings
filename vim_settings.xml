@@ -90,11 +90,11 @@
         <mark key="." line="4" column="15" />
         <mark key="^" line="5" column="12" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/rewardly/mailfoo/integration/ITMessageAccess.java" timestamp="1546469094659">
-        <mark key="[" line="250" column="25" />
-        <mark key="]" line="250" column="25" />
-        <mark key="." line="250" column="25" />
-        <mark key="^" line="259" column="37" />
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/rewardly/mailfoo/integration/ITMessageAccess.java" timestamp="1546471334725">
+        <mark key="[" line="165" column="61" />
+        <mark key="]" line="141" column="60" />
+        <mark key="." line="141" column="60" />
+        <mark key="^" line="141" column="60" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/domains/Envelopes.java" timestamp="1546462187845">
         <mark key="[" line="137" column="0" />
@@ -212,16 +212,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>= teams</text>
+        <text>MessageGrantRuleset</text>
       </register>
       <register name="-" type="4">
-        <text>= teams</text>
+        <text>MessageGrantRuleset</text>
       </register>
       <register name="/" type="4">
         <text>localUsers</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQkJCQkJICAgLmFkZEZpbGVUb0RhdGFzdG9yZSgid29ya2Zsb3dzIiwgV29ya2Zsb3cuY2xhc3MpCg==</text>
+        <text encoding="base64">CQlzdGF0ZW1lbnRzLmFkZEFsbChDb25maWd1cmF0aW9uLklOU1RBTkNFLmdldE1ldGFkYXRhKE1lc3NhZ2VHcmFudFJ1bGVzZXQuY2xhc3MpLmdldFRhYmxlKCkuZGRsKCkpOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">CQkJOwo=</text>
@@ -251,7 +251,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5zL2xvY2FsVXNlcnMvdXNlcnM=</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -305,8 +305,8 @@
         <entry>s/X/mailboxDomain/g</entry>
         <entry encoding="base64">JzwsJz5zLysvLw==</entry>
         <entry>%s/,,/,/g</entry>
-        <entry>w</entry>
         <entry encoding="base64">JzwsJz5zL2xvY2FsVXNlcnMvdXNlcnM=</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
