@@ -70,6 +70,7 @@
         <mark key="]" line="595" column="0" />
         <mark key="." line="595" column="0" />
       </file>
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/handlers/GetEntities.java" timestamp="1547240314940" />
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/rewardly/mailfoo/unittests/DatastoreTest.java" timestamp="1546629452870">
         <mark key="[" line="44" column="46" />
         <mark key="]" line="44" column="46" />
@@ -145,6 +146,7 @@
         <mark key="." line="33" column="0" />
         <mark key="^" line="33" column="4" />
       </file>
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataupdaters/getters/EnvelopesGetter.java" timestamp="1547240285171" />
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/spanner/MessageMailbox.java" timestamp="1545863031867">
         <mark key="[" line="10" column="75" />
         <mark key="]" line="25" column="0" />
@@ -162,8 +164,11 @@
         <mark key="." line="90" column="20" />
         <mark key="^" line="90" column="21" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/curls" timestamp="1547239023507">
-        <mark key="[" line="108" column="0" />
+      <file name="$USER_HOME$/src/MailFoo/curls" timestamp="1547239999058">
+        <mark key="[" line="111" column="43" />
+        <mark key="]" line="111" column="43" />
+        <mark key="^" line="111" column="43" />
+        <mark key="." line="111" column="43" />
       </file>
       <file name="/fragment.java" timestamp="1547164383018">
         <mark key="[" line="0" column="0" />
@@ -274,53 +279,53 @@
       <jump line="2838" column="39" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/DAO.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQlMb25nIG51bGxMb25nID0gbnVsbDsK</text>
+      <register name="&quot;" type="4">
+        <text>https://dev.streak.com:8888/api/v2/envelopes?gmailThreadKey=agptYWlsZm9vZ2Flci0LEgxPcmdhbml6YXRpb24iCnN0cmVhay5jb20MCxILR21haWxUaHJlYWQYBAw</text>
       </register>
       <register name="-" type="4">
-        <text>BackfillEmailManager</text>
+        <text>https://dev.streak.com:8888/api/v2/envelopes?gmailThreadKey=agptYWlsZm9vZ2Flci0LEgxPcmdhbml6YXRpb24iCnN0cmVhay5jb20MCxILR21haWxUaHJlYWQYBAw</text>
       </register>
       <register name="/" type="4">
-        <text>MessageIndexInfo</text>
+        <text>&quot;</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQk8ZGVwZW5kZW5jeT4KCQkJPGdyb3VwSWQ+aW8ubmV0dHk8L2dyb3VwSWQ+CgkJCTxhcnRpZmFjdElkPm5ldHR5LXRjbmF0aXZlLWJvcmluZ3NzbC1zdGF0aWM8L2FydGlmYWN0SWQ+CgkJCTx2ZXJzaW9uPjIuMC44LkZpbmFsPC92ZXJzaW9uPgoJCTwvZGVwZW5kZW5jeT4K</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">CQlMb25nIG51bGxMb25nID0gbnVsbDsK</text>
+      <register name="1" type="4">
+        <text>https://dev.streak.com:8888/api/v2/envelopes?gmailThreadKey=agptYWlsZm9vZ2Flci0LEgxPcmdhbml6YXRpb24iCnN0cmVhay5jb20MCxILR21haWxUaHJlYWQYBAw</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJcmV0dXJuIG51bGw7Cg==</text>
+        <text encoding="base64">CQlMb25nIG51bGxMb25nID0gbnVsbDsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQk8ZGVwZW5kZW5jeT4KCQkJPGdyb3VwSWQ+aW8ubmV0dHk8L2dyb3VwSWQ+CgkJCTxhcnRpZmFjdElkPm5ldHR5LXRjbmF0aXZlPC9hcnRpZmFjdElkPgoJCQk8dmVyc2lvbj4yLjAuOC5GaW5hbDwvdmVyc2lvbj4KCQk8L2RlcGVuZGVuY3k+Cg==</text>
+        <text encoding="base64">CQkJcmV0dXJuIG51bGw7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQlTeXN0ZW0ub3V0LnByaW50bG4oaW8uZ3JwYy5uZXR0eS5zaGFkZWQuaW8ubmV0dHkuaGFuZGxlci5zc2wuT3BlblNzbC52ZXJzaW9uKCkpOwo=</text>
+        <text encoding="base64">CQk8ZGVwZW5kZW5jeT4KCQkJPGdyb3VwSWQ+aW8ubmV0dHk8L2dyb3VwSWQ+CgkJCTxhcnRpZmFjdElkPm5ldHR5LXRjbmF0aXZlPC9hcnRpZmFjdElkPgoJCQk8dmVyc2lvbj4yLjAuOC5GaW5hbDwvdmVyc2lvbj4KCQk8L2RlcGVuZGVuY3k+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQlTeXN0ZW0ub3V0LnByaW50bG4oaW8uZ3JwYy5uZXR0eS5zaGFkZWQuaW8ubmV0dHkuaGFuZGxlci5zc2wuT3BlblNzbC52ZXJzaW9uKCkpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJPHZlcnNpb24+JHtncnBjLnZlcnNpb259PC92ZXJzaW9uPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQlqb2IuYWRkVGhyZWFkSWRzKG5ld0luZm9zLnN0cmVhbSgpLm1hcChpbmZvIC0+IGluZm8uZ2V0VGhyZWFkSWRlbnRpZmllcigpLmFzS2V5KCkpLmNvbGxlY3QoQ29sbGVjdG9ycy50b1NldCgpKSk7Cg==</text>
+        <text encoding="base64">CQkJPHZlcnNpb24+JHtncnBjLnZlcnNpb259PC92ZXJzaW9uPgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQk7Cg==</text>
+        <text encoding="base64">CQlqb2IuYWRkVGhyZWFkSWRzKG5ld0luZm9zLnN0cmVhbSgpLm1hcChpbmZvIC0+IGluZm8uZ2V0VGhyZWFkSWRlbnRpZmllcigpLmFzS2V5KCkpLmNvbGxlY3QoQ29sbGVjdG9ycy50b1NldCgpKSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQl9Cg==</text>
+        <text encoding="base64">CQk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>MessageIndexInfo</last-search>
+      <last-search>&quot;</last-search>
       <last-offset />
-      <last-pattern>MessageIndexInfo</last-pattern>
+      <last-pattern>&quot;</last-pattern>
       <last-replace>String</last-replace>
       <last-substitute>MessageIndexInfo</last-substitute>
       <last-dir>1</last-dir>
@@ -345,9 +350,9 @@
         <entry>,,</entry>
         <entry>localUsers</entry>
         <entry>bothVersion</entry>
-        <entry>&quot;</entry>
         <entry>private</entry>
         <entry>MessageIndexInfo</entry>
+        <entry>&quot;</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1N0cmluZy8v</entry>
