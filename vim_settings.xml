@@ -50,7 +50,7 @@
         <mark key="." line="17" column="0" />
         <mark key="^" line="17" column="24" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/backend-war/src/main/webapp/WEB-INF/web.xml" timestamp="1547494445965" />
+      <file name="$USER_HOME$/src/MailFoo/backend-war/src/main/webapp/WEB-INF/web.xml" timestamp="1547502891239" />
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/tests/CreateTeamFromPIServlet.java" timestamp="1547494459631" />
       <file name="/a.dummy" timestamp="1547156191300">
         <mark key="[" line="0" column="0" />
@@ -68,10 +68,6 @@
         <mark key="]" line="184" column="0" />
         <mark key="." line="184" column="0" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/pom.xml" timestamp="1547164098839">
-        <mark key="]" line="595" column="0" />
-        <mark key="." line="595" column="0" />
-      </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/messageaccessengine/models/User.java" timestamp="1547241657323">
         <mark key="[" line="33" column="40" />
       </file>
@@ -79,7 +75,7 @@
         <mark key="]" line="78" column="0" />
         <mark key="." line="78" column="0" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/DAO.java" timestamp="1547500173502">
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/DAO.java" timestamp="1547504105979">
         <mark key="'" line="2811" column="55" />
         <mark key="[" line="2838" column="23" />
         <mark key="]" line="2862" column="24" />
@@ -105,6 +101,7 @@
         <mark key="." line="49" column="58" />
         <mark key="^" line="49" column="58" />
       </file>
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataupdaters/creators/MessageGrantRequestCreator.java" timestamp="1547502675206" />
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/rewardly/mailfoo/unittests/MessageAccessEngineRemoteTest.java" timestamp="1546558050454">
         <mark key="[" line="141" column="0" />
         <mark key="]" line="141" column="0" />
@@ -132,6 +129,7 @@
         <mark key="^" line="29" column="33" />
         <mark key="." line="15" column="0" />
       </file>
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/filters/CSRFFilter.java" timestamp="1547503284420" />
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/test/resources/fixtures/workflows.json" timestamp="1547074711111">
         <mark key="[" line="133" column="20" />
         <mark key="]" line="133" column="20" />
@@ -149,6 +147,12 @@
         <mark key="]" line="17" column="12" />
         <mark key="^" line="11" column="41" />
         <mark key="." line="17" column="12" />
+      </file>
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/utils/RemoteAccess.java" timestamp="1547504122597">
+        <mark key="[" line="39" column="45" />
+        <mark key="]" line="39" column="45" />
+        <mark key="^" line="39" column="44" />
+        <mark key="." line="39" column="45" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/api/APIV2EndpointManager.java" timestamp="1547249337778">
         <mark key="^" line="278" column="4" />
@@ -181,13 +185,13 @@
         <mark key="." line="90" column="20" />
         <mark key="^" line="90" column="21" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/curls" timestamp="1547244316030">
-        <mark key="[" line="112" column="47" />
-        <mark key="]" line="107" column="0" />
-        <mark key="^" line="107" column="0" />
-        <mark key="." line="107" column="0" />
+      <file name="$USER_HOME$/src/MailFoo/curls" timestamp="1547503880404">
+        <mark key="[" line="114" column="41" />
+        <mark key="]" line="114" column="41" />
+        <mark key="^" line="114" column="41" />
+        <mark key="." line="114" column="41" />
       </file>
-      <file name="/fragment.java" timestamp="1547241098033">
+      <file name="/fragment.java" timestamp="1547503984573">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -296,11 +300,11 @@
       <jump line="2811" column="55" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/DAO.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQlEQU8uZ2V0VXNlckJ5RW1haWwoZW1haWwpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>archive@lrqdo.fr</text>
       </register>
       <register name="-" type="4">
-        <text>contactResp</text>
+        <text>archive@lrqdo.fr</text>
       </register>
       <register name="/" type="4">
         <text>&quot;</text>
@@ -308,32 +312,32 @@
       <register name="0" type="2">
         <text encoding="base64">CQltZXNzYWdlT3duZXJGdW5jdGlvbiA9IChWb2lkIHYpIC0+IHRocmVhZEluZm9zLmdldFVzZXJzKCk7Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">CQlEQU8uZ2V0VXNlckJ5RW1haWwoZW1haWwpOwo=</text>
+      <register name="1" type="4">
+        <text>archive@lrqdo.fr</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5yZXdhcmRseS5tYWlsZm9vLnV0aWxzLkNvbnRhY3RIZWxwZXI7Cg==</text>
+        <text encoding="base64">CQlEQU8uZ2V0VXNlckJ5RW1haWwoZW1haWwpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQlTdHJpbmcgY29udGFjdFJlc3AgPSBDb250YWN0SGVscGVyLmdldENvbnRhY3RzRm9yUXVlcnlBc1N0cmluZyhEQU8uZ2V0VXNlckJ5RW1haWwoZW1haWwpLCBxdWVyeSwgSW50ZWdlci5wYXJzZUludChtYXgpKTsK</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5yZXdhcmRseS5tYWlsZm9vLnV0aWxzLkNvbnRhY3RIZWxwZXI7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQlTdHJpbmcgbWF4ID0gcmVxLmdldFBhcmFtZXRlcigibWF4Iik7Cg==</text>
+        <text encoding="base64">CQlTdHJpbmcgY29udGFjdFJlc3AgPSBDb250YWN0SGVscGVyLmdldENvbnRhY3RzRm9yUXVlcnlBc1N0cmluZyhEQU8uZ2V0VXNlckJ5RW1haWwoZW1haWwpLCBxdWVyeSwgSW50ZWdlci5wYXJzZUludChtYXgpKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQlTdHJpbmcgcXVlcnkgPSByZXEuZ2V0UGFyYW1ldGVyKCJxdWVyeSIpOwo=</text>
+        <text encoding="base64">CQlTdHJpbmcgbWF4ID0gcmVxLmdldFBhcmFtZXRlcigibWF4Iik7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQlyZXR1cm4gbWVzc2FnZU93bmVyczsK</text>
+        <text encoding="base64">CQlTdHJpbmcgcXVlcnkgPSByZXEuZ2V0UGFyYW1ldGVyKCJxdWVyeSIpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CXB1YmxpYyBDb2xsZWN0aW9uPFVzZXI+IGdldE1lc3NhZ2VPd25lcnMoKSB7CgkJcmV0dXJuIG1lc3NhZ2VPd25lcnM7Cg==</text>
+        <text encoding="base64">CQlyZXR1cm4gbWVzc2FnZU93bmVyczsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CXByaXZhdGUgQ29sbGVjdGlvbjxVc2VyPiBtZXNzYWdlT3duZXJzOwo=</text>
+        <text encoding="base64">CXB1YmxpYyBDb2xsZWN0aW9uPFVzZXI+IGdldE1lc3NhZ2VPd25lcnMoKSB7CgkJcmV0dXJuIG1lc3NhZ2VPd25lcnM7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQl0aGlzLm1lc3NhZ2VPd25lcnMgPSBtZXNzYWdlT3duZXJzOwo=</text>
+        <text encoding="base64">CXByaXZhdGUgQ29sbGVjdGlvbjxVc2VyPiBtZXNzYWdlT3duZXJzOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
