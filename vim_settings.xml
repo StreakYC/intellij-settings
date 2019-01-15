@@ -9,6 +9,12 @@
         <mark key="." line="80" column="0" />
         <mark key="^" line="64" column="36" />
       </file>
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/bigtable/MessageAccessEngine.java" timestamp="1547584584180">
+        <mark key="[" line="140" column="56" />
+        <mark key="]" line="141" column="67" />
+        <mark key="." line="141" column="67" />
+        <mark key="^" line="141" column="67" />
+      </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/spanner/Message.java" timestamp="1547156837874">
         <mark key="[" line="285" column="80" />
         <mark key="]" line="283" column="31" />
@@ -22,7 +28,7 @@
         <mark key="^" line="131" column="83" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/backend-war/src/main/webapp/WEB-INF/web.xml" timestamp="1547510303121" />
-      <file name="/a.dummy" timestamp="1547156191300">
+      <file name="/a.dummy" timestamp="1547584100670">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -33,13 +39,31 @@
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/pom.xml" timestamp="1547508555736">
         <mark key="[" line="35" column="18" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/messageaccessengine/RulesetVisibilityService.java" timestamp="1547581987147" />
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/messageaccessengine/graph/MessageVisibilityGraph.java" timestamp="1547525861931" />
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/DAO.java" timestamp="1547504105979">
+        <mark key="'" line="2811" column="55" />
+        <mark key="[" line="2838" column="23" />
+        <mark key="]" line="2862" column="24" />
+        <mark key="^" line="2862" column="24" />
+        <mark key="." line="2862" column="24" />
+      </file>
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/messageaccessengine/models/Context.java" timestamp="1547587328139">
+        <mark key="[" line="11" column="5" />
+        <mark key="]" line="9" column="17" />
+        <mark key="^" line="9" column="17" />
+        <mark key="." line="9" column="17" />
+      </file>
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/messageaccessengine/RulesetVisibilityService.java" timestamp="1547585014322" />
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/messageaccessengine/graph/MessageVisibilityGraph.java" timestamp="1547584035866">
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="41" column="0" />
+        <mark key="." line="41" column="0" />
+      </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/Spanner.java" timestamp="1547161043518">
         <mark key="[" line="54" column="0" />
         <mark key="]" line="54" column="0" />
         <mark key="." line="54" column="0" />
       </file>
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/test/resources/fixtures/users.json" timestamp="1547584885003" />
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/rewardly/mailfoo/integration/CleanDatabases.java" timestamp="1547085530993">
         <mark key="[" line="19" column="27" />
         <mark key="]" line="15" column="0" />
@@ -159,6 +183,9 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
+      <file name="/Dummy.txt" timestamp="1547585030931">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/test/resources/fixtures/cases.json" timestamp="1547075039781">
         <mark key="[" line="121" column="13" />
         <mark key="]" line="121" column="13" />
@@ -178,20 +205,21 @@
         <mark key="." line="40" column="110" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/api/APIServlet.java" timestamp="1547510605198" />
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/rewardly/mailfoo/integration/ITMessageAccess.java" timestamp="1547579749528">
-        <mark key="'" line="358" column="4" />
-        <mark key="[" line="287" column="0" />
-        <mark key="]" line="287" column="0" />
-        <mark key="." line="287" column="0" />
-        <mark key="^" line="282" column="16" />
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/rewardly/mailfoo/integration/ITMessageAccess.java" timestamp="1547587536229">
+        <mark key="'" line="375" column="4" />
+        <mark key="[" line="354" column="32" />
+        <mark key="]" line="354" column="33" />
+        <mark key="^" line="352" column="34" />
+        <mark key="." line="354" column="33" />
       </file>
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/messageaccessengine/models/Message.java" timestamp="1547587459835" />
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/bigtable/IndexConsumer.java" timestamp="1547159503192">
         <mark key="[" line="33" column="0" />
         <mark key="]" line="33" column="0" />
         <mark key="." line="33" column="0" />
         <mark key="^" line="33" column="4" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/domains/Envelopes.java" timestamp="1547251158246">
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/domains/Envelopes.java" timestamp="1547582834987">
         <mark key="[" line="37" column="0" />
         <mark key="]" line="37" column="0" />
         <mark key="." line="37" column="0" />
@@ -203,7 +231,7 @@
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/ImmutableEntityKey.java" timestamp="1547511719967" />
       <file name="$USER_HOME$/src/MailFoo/pom.xml" timestamp="1547513034258" />
-      <file name="/fragment.java" timestamp="1547509751502">
+      <file name="/fragment.java" timestamp="1547586337664">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -313,52 +341,52 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CQlMaXN0PEdtYWlsQXBpVGhyZWFkSWRlbnRpZmllcj4gc2VlZHMgPSBDb2xsZWN0aW9ucy5zaW5nbGV0b25MaXN0KHNlZWQpOwo=</text>
+        <text encoding="base64">CQl0ZW1wbGF0ZS50aHJlYWRJZCA9ICJ0MTAxIjsK</text>
       </register>
       <register name="-" type="4">
-        <text>IsRequesterMemberOfTeam</text>
+        <text>isNotThread</text>
       </register>
       <register name="/" type="4">
-        <text>)</text>
+        <text>(enabled = false)</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CUBUZXN0CglwdWJsaWMgdm9pZCBBbnlGcm9tVGhyZWFkKCkgewoKCX0K</text>
+        <text encoding="base64">CQl0ZW1wbGF0ZS50aHJlYWRJZCA9ICJ0MTAxIjsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQlMaXN0PEdtYWlsQXBpVGhyZWFkSWRlbnRpZmllcj4gc2VlZHMgPSBDb2xsZWN0aW9ucy5zaW5nbGV0b25MaXN0KHNlZWQpOwo=</text>
+        <text encoding="base64">CQlDb250ZXh0IGlzTm90VGhyZWFkID0gbmV3IENvbnRleHQoKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CS8vVE9ETyBJZ25vcmluZyBmb3Igbm93IGR1ZSB0byBidWdzIGluIHRoZSBiaWd0YWJsZSBjb2RlCg==</text>
+        <text encoding="base64">CQlDb250ZXh0IGlzVGhyZWFkID0gbmV3IENvbnRleHQoKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkvLyBUT0RPIGZpeCBndWVzdAo=</text>
+        <text encoding="base64">CQlNZXNzYWdlCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">CQlVc2VyIHVzZXJOb3RPblRlYW0gPSBEQU8uZ2V0VXNlckJ5RW1haWwoInRlYW1fdHdvQHN0cmVhay5jb20iKTsK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQlib3RoVGVhbXNVc2VyLnVwZGF0ZUV4cGVyaW1lbnRzKCk7Cg==</text>
+        <text encoding="base64">CQlUZWFtIHRlYW1PbmUgPSBEQU8uZ2V0QWxsVGVhbXNVc2VySXNPbihvd25lci5nZXRVc2VyS2V5KCkpLmdldCgwKTsKCQlUZWFtIHRlYW1Ud28gPSBEQU8uZ2V0QWxsVGVhbXNVc2VySXNPbih1c2VyTm90T25UZWFtLmdldFVzZXJLZXkoKSkuZ2V0KDApOwo=</text>
       </register>
-      <register name="7" type="4">
-        <text>, &quot;gmailThreadKey&quot;, &quot;skip&quot;</text>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text>, &quot;gmailThreadKey&quot;, &quot;skip&quot;</text>
+      <register name="8" type="2">
+        <text encoding="base64">CUBUZXN0CglwdWJsaWMgdm9pZCBIYXNFeHRlcm5hbENvbnRhY3QoKSB7CgoJfQo=</text>
       </register>
-      <register name="9" type="4">
-        <text>, &quot;gmailThreadKey&quot;, &quot;skip&quot;</text>
+      <register name="9" type="2">
+        <text encoding="base64">CQlVc2VyIHJlcXVlc3RlciA9IERBTy5nZXRVc2VyQnlFbWFpbCgiaF90ZWFtc0BzdHJlYWsuY29tIik7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>)</last-search>
+      <last-search>(enabled = false)</last-search>
       <last-offset />
-      <last-pattern>)</last-pattern>
+      <last-pattern>(enabled = false)</last-pattern>
       <last-replace />
       <last-substitute>(enabled = false)</last-substitute>
       <last-dir>1</last-dir>
@@ -384,11 +412,10 @@
         <entry>private</entry>
         <entry>MessageIndexInfo</entry>
         <entry>&quot;</entry>
-        <entry>(enabled = false)</entry>
         <entry>)</entry>
+        <entry>(enabled = false)</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zLzsvOiAiIiw=</entry>
         <entry>s/X/mailboxEmail/g</entry>
         <entry>s/X/mailboxName/g</entry>
         <entry>s/X/isBcc/g</entry>
@@ -407,6 +434,7 @@
         <entry encoding="base64">JzwsJz5zL01lc3NhZ2VJbmRleEluZm8vR21haWxBcGlUaHJlYWRJZGVudGlmaWVyL2c=</entry>
         <entry encoding="base64">JzwsJz5zL01lc3NhZ2VJbmRleEluZm8vU3RyaW5nL2c=</entry>
         <entry>%s/(enabled = false)//</entry>
+        <entry>s</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
