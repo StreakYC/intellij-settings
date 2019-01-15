@@ -178,11 +178,11 @@
         <mark key="." line="40" column="110" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/api/APIServlet.java" timestamp="1547510605198" />
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/rewardly/mailfoo/integration/ITMessageAccess.java" timestamp="1547573737804">
-        <mark key="'" line="354" column="4" />
-        <mark key="[" line="332" column="16" />
-        <mark key="]" line="332" column="33" />
-        <mark key="." line="332" column="33" />
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/rewardly/mailfoo/integration/ITMessageAccess.java" timestamp="1547577312322">
+        <mark key="'" line="353" column="4" />
+        <mark key="[" line="353" column="0" />
+        <mark key="]" line="353" column="0" />
+        <mark key="." line="353" column="0" />
         <mark key="^" line="332" column="33" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/bigtable/IndexConsumer.java" timestamp="1547159503192">
@@ -312,8 +312,8 @@
       <jump line="331" column="4" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/rewardly/mailfoo/integration/ITMessageAccess.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>IsRequesterMemberOfTeam</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CS8vVE9ETyBJZ25vcmluZyBmb3Igbm93IGR1ZSB0byBidWdzIGluIHRoZSBiaWd0YWJsZSBjb2RlCg==</text>
       </register>
       <register name="-" type="4">
         <text>IsRequesterMemberOfTeam</text>
@@ -325,19 +325,19 @@
         <text encoding="base64">CUBUZXN0CglwdWJsaWMgdm9pZCBBbnlGcm9tVGhyZWFkKCkgewoKCX0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">CS8vVE9ETyBJZ25vcmluZyBmb3Igbm93IGR1ZSB0byBidWdzIGluIHRoZSBiaWd0YWJsZSBjb2RlCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkvLyBUT0RPIGZpeCBndWVzdAo=</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">CQo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">CQlib3RoVGVhbXNVc2VyLnVwZGF0ZUV4cGVyaW1lbnRzKCk7Cg==</text>
-      </register>
-      <register name="4" type="4">
-        <text>, &quot;gmailThreadKey&quot;, &quot;skip&quot;</text>
-      </register>
-      <register name="5" type="4">
-        <text>, &quot;gmailThreadKey&quot;, &quot;skip&quot;</text>
       </register>
       <register name="6" type="4">
         <text>, &quot;gmailThreadKey&quot;, &quot;skip&quot;</text>
@@ -345,11 +345,11 @@
       <register name="7" type="4">
         <text>, &quot;gmailThreadKey&quot;, &quot;skip&quot;</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">CQkvLyBUT0RPIGZpeCBndWVzdAo=</text>
+      <register name="8" type="4">
+        <text>, &quot;gmailThreadKey&quot;, &quot;skip&quot;</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">CQkJCQo=</text>
+      <register name="9" type="4">
+        <text>, &quot;gmailThreadKey&quot;, &quot;skip&quot;</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
