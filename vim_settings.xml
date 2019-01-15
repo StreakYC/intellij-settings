@@ -33,7 +33,7 @@
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/pom.xml" timestamp="1547508555736">
         <mark key="[" line="35" column="18" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/messageaccessengine/graph/MessageVisibilityGraph.java" timestamp="1547525810507" />
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/messageaccessengine/graph/MessageVisibilityGraph.java" timestamp="1547525861931" />
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/Spanner.java" timestamp="1547161043518">
         <mark key="[" line="54" column="0" />
         <mark key="]" line="54" column="0" />
@@ -163,11 +163,11 @@
         <mark key="." line="121" column="13" />
         <mark key="^" line="121" column="15" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/utils/RemoteAccess.java" timestamp="1547504122597">
-        <mark key="[" line="39" column="45" />
-        <mark key="]" line="39" column="45" />
-        <mark key="^" line="39" column="44" />
-        <mark key="." line="39" column="45" />
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/utils/RemoteAccess.java" timestamp="1547570936400">
+        <mark key="[" line="39" column="12" />
+        <mark key="]" line="39" column="13" />
+        <mark key="^" line="39" column="13" />
+        <mark key="." line="39" column="13" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/TeamContact.java" timestamp="1547511731309" />
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/jetty/ApiServer.java" timestamp="1547510653532">
@@ -176,6 +176,12 @@
         <mark key="." line="40" column="110" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/api/APIServlet.java" timestamp="1547510605198" />
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/rewardly/mailfoo/integration/ITMessageAccess.java" timestamp="1547571240489">
+        <mark key="'" line="334" column="4" />
+        <mark key="[" line="178" column="73" />
+        <mark key="]" line="178" column="73" />
+        <mark key="." line="178" column="73" />
+      </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/bigtable/IndexConsumer.java" timestamp="1547159503192">
         <mark key="[" line="33" column="0" />
         <mark key="]" line="33" column="0" />
@@ -201,8 +207,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="169" column="65" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/domains/ThreadInfos.java" />
-      <jump line="452" column="8" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataupdaters/DataWorkerFactory.java" />
       <jump line="277" column="0" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/rewardly/mailfoo/emailmanager/SpannerTest.java" />
       <jump line="11" column="196" filename="$USER_HOME$/src/MailFoo/curls" />
       <jump line="276" column="0" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/rewardly/mailfoo/emailmanager/SpannerTest.java" />
@@ -301,19 +305,21 @@
       <jump line="2838" column="39" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/DAO.java" />
       <jump line="440" column="50" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/DAO.java" />
       <jump line="2811" column="55" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/DAO.java" />
+      <jump line="239" column="9" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/rewardly/mailfoo/integration/ITMessageAccess.java" />
+      <jump line="331" column="4" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/rewardly/mailfoo/integration/ITMessageAccess.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQkJCQo=</text>
+      <register name="&quot;" type="4">
+        <text>Ruleset</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>Ruleset</text>
       </register>
       <register name="/" type="4">
-        <text>&quot;</text>
+        <text>(enabled = false)</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQkJCQkuYXBwZW5kKGZvb0NvbnRhY3QuZ2V0S2V5KCkudG9MZWdhY3lVcmxTYWZlKCkpCg==</text>
+        <text encoding="base64">CQlzdGF0ZW1lbnRzLmFkZEFsbChDb25maWd1cmF0aW9uLklOU1RBTkNFLmdldE1ldGFkYXRhKE1lc3NhZ2VHcmFudFJ1bGVzZXQuY2xhc3MpLmdldFRhYmxlKCkuZGRsKCkpOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">CQkJCQo=</text>
@@ -347,17 +353,16 @@
       </register>
     </registers>
     <search>
-      <last-search>&quot;</last-search>
+      <last-search>(enabled = false)</last-search>
       <last-offset />
-      <last-pattern>&quot;</last-pattern>
-      <last-replace>String</last-replace>
-      <last-substitute>MessageIndexInfo</last-substitute>
+      <last-pattern>(enabled = false)</last-pattern>
+      <last-replace />
+      <last-substitute>(enabled = false)</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>any</entry>
         <entry>email</entry>
         <entry>loginToken</entry>
         <entry>)</entry>
@@ -377,9 +382,9 @@
         <entry>private</entry>
         <entry>MessageIndexInfo</entry>
         <entry>&quot;</entry>
+        <entry>(enabled = false)</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zL1N0cmluZy8v</entry>
         <entry encoding="base64">JzwsJz5zLzsvOiAiIiw=</entry>
         <entry>s/X/mailboxEmail/g</entry>
         <entry>s/X/mailboxName/g</entry>
@@ -398,6 +403,7 @@
         <entry encoding="base64">JzwsJz5zL3ByaXZhdGUvcHVibGlj</entry>
         <entry encoding="base64">JzwsJz5zL01lc3NhZ2VJbmRleEluZm8vR21haWxBcGlUaHJlYWRJZGVudGlmaWVyL2c=</entry>
         <entry encoding="base64">JzwsJz5zL01lc3NhZ2VJbmRleEluZm8vU3RyaW5nL2c=</entry>
+        <entry>%s/(enabled = false)//</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
