@@ -45,7 +45,7 @@
         <mark key="^" line="29" column="33" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/utils/Constants.java" timestamp="1547511099188" />
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/utils/Constants.java" timestamp="1547572562344" />
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/test/resources/fixtures/workflows.json" timestamp="1547074711111">
         <mark key="[" line="133" column="20" />
         <mark key="]" line="133" column="20" />
@@ -59,6 +59,9 @@
         <mark key="." line="17" column="12" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCore-war/src/main/webapp/WEB-INF/web.xml" timestamp="1547509198005" />
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataupdaters/getters/EnvelopesGetter.java" timestamp="1547572750657">
+        <mark key="[" line="46" column="12" />
+      </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/spanner/MessageMailbox.java" timestamp="1545863031867">
         <mark key="[" line="10" column="75" />
         <mark key="]" line="25" column="0" />
@@ -176,11 +179,11 @@
         <mark key="." line="40" column="110" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/api/APIServlet.java" timestamp="1547510605198" />
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/rewardly/mailfoo/integration/ITMessageAccess.java" timestamp="1547571240489">
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/rewardly/mailfoo/integration/ITMessageAccess.java" timestamp="1547572729936">
         <mark key="'" line="334" column="4" />
-        <mark key="[" line="178" column="73" />
-        <mark key="]" line="178" column="73" />
-        <mark key="." line="178" column="73" />
+        <mark key="[" line="346" column="0" />
+        <mark key="]" line="346" column="0" />
+        <mark key="." line="346" column="0" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/bigtable/IndexConsumer.java" timestamp="1547159503192">
         <mark key="[" line="33" column="0" />
@@ -309,53 +312,53 @@
       <jump line="331" column="4" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/rewardly/mailfoo/integration/ITMessageAccess.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Ruleset</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>Ruleset</text>
+        <text>, &quot;gmailThreadKey&quot;, &quot;skip&quot;</text>
       </register>
       <register name="/" type="4">
-        <text>(enabled = false)</text>
+        <text>)</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQlzdGF0ZW1lbnRzLmFkZEFsbChDb25maWd1cmF0aW9uLklOU1RBTkNFLmdldE1ldGFkYXRhKE1lc3NhZ2VHcmFudFJ1bGVzZXQuY2xhc3MpLmdldFRhYmxlKCkuZGRsKCkpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJCQo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">CQkJY3R4LnNldEluaXRQYXJhbWV0ZXIoIm9yZy5lY2xpcHNlLmpldHR5LnNlcnZsZXQuRGVmYXVsdC5kaXJBbGxvd2VkIiwgImZhbHNlIik7Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">CQkJY3R4LnNldFBhcmVudExvYWRlclByaW9yaXR5KHRydWUpOwo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">CQkJY3R4LmFkZFNlcnZsZXQoQVBJU2VydmxldC5jbGFzcywgIi9hcGkvKiIpOwo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">CXB1YmxpYyBzdGF0aWMgSGFuZGxlcldyYXBwZXIgY3JlYXRlU3RhdGljUmVzb3VyY2VIYW5kbGVyKCkgdGhyb3dzIElPRXhjZXB0aW9uLCBTZXJ2bGV0RXhjZXB0aW9uIHsKCQlSZXNvdXJjZUhhbmRsZXIgc3RhdGljUmVzb3VyY2VIYW5kbGVyID0gbmV3IFJlc291cmNlSGFuZGxlcigpOwoKCQlIYW5kbGVyV3JhcHBlciBjb3JzV3JhcHBlZFJlc291cmNlSGFuZGxlciA9IG5ldyBIYW5kbGVyV3JhcHBlcigpIHsKCQkJQE92ZXJyaWRlCgkJCXB1YmxpYyB2b2lkIGhhbmRsZShTdHJpbmcgcGF0aCwKCQkJCQkJCSAgIFJlcXVlc3QgcmVxdWVzdCwKCQkJCQkJCSAgIEh0dHBTZXJ2bGV0UmVxdWVzdCBodHRwUmVxdWVzdCwKCQkJCQkJCSAgIEh0dHBTZXJ2bGV0UmVzcG9uc2UgaHR0cFJlc3BvbnNlKSB0aHJvd3MgSU9FeGNlcHRpb24sIFNlcnZsZXRFeGNlcHRpb24gewoJCQkJc3VwZXIuaGFuZGxlKHBhdGgsIHJlcXVlc3QsIGh0dHBSZXF1ZXN0LCBodHRwUmVzcG9uc2UpOwoKCQkJCWlmIChyZXF1ZXN0LmlzSGFuZGxlZCgpKSB7CgkJCQkJaHR0cFJlc3BvbnNlLnNldEhlYWRlcigiQWNjZXNzLUNvbnRyb2wtQWxsb3ctT3JpZ2luIiwgIioiKTsKCQkJCQlodHRwUmVzcG9uc2Uuc2V0SGVhZGVyKCJBY2Nlc3MtQ29udHJvbC1BbGxvdy1NZXRob2RzIiwgIkdFVCIpOwoJCQkJfQoJCQl9CgkJfTsKCQljb3JzV3JhcHBlZFJlc291cmNlSGFuZGxlci5zZXRIYW5kbGVyKHN0YXRpY1Jlc291cmNlSGFuZGxlcik7CgkJcmV0dXJuIGNvcnNXcmFwcGVkUmVzb3VyY2VIYW5kbGVyOwoJfQoKCXByaXZhdGUgc3RhdGljIEhhbmRsZXIgZ3ppcChIYW5kbGVyIGhhbmRsZXIpIHsKCQlmaW5hbCBHemlwSGFuZGxlciBnemlwSGFuZGxlciA9IG5ldyBHemlwSGFuZGxlcigpOwoJCWd6aXBIYW5kbGVyLnNldEhhbmRsZXIoaGFuZGxlcik7CgkJcmV0dXJuIGd6aXBIYW5kbGVyOwoJfQo=</text>
+      <register name="2" type="2">
+        <text encoding="base64">CQlib3RoVGVhbXNVc2VyLnVwZGF0ZUV4cGVyaW1lbnRzKCk7Cg==</text>
+      </register>
+      <register name="3" type="4">
+        <text>, &quot;gmailThreadKey&quot;, &quot;skip&quot;</text>
+      </register>
+      <register name="4" type="4">
+        <text>, &quot;gmailThreadKey&quot;, &quot;skip&quot;</text>
+      </register>
+      <register name="5" type="4">
+        <text>, &quot;gmailThreadKey&quot;, &quot;skip&quot;</text>
+      </register>
+      <register name="6" type="4">
+        <text>, &quot;gmailThreadKey&quot;, &quot;skip&quot;</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJCWluaXRTdGF0aWNDb250ZXh0SGFuZGxlcih3ZWJhcHBEaXIsICIvYXNzZXRzIiksCgkJCQlpbml0U3RhdGljQ29udGV4dEhhbmRsZXIod2ViYXBwRGlyLCAiL2NzcyIpLAoJCQkJaW5pdFN0YXRpY0NvbnRleHRIYW5kbGVyKHdlYmFwcERpciwgIi9mb250cyIpLAoJCQkJaW5pdFN0YXRpY0NvbnRleHRIYW5kbGVyKHdlYmFwcERpciwgIi9pbWFnZXMiKSwKCQkJCWluaXRTdGF0aWNDb250ZXh0SGFuZGxlcih3ZWJhcHBEaXIsICIvanMiKSwKCQkJCWluaXRTdGF0aWNDb250ZXh0SGFuZGxlcih3ZWJhcHBEaXIsICIvc3RhdGljSFRNTCIpLAoJCQkJaW5pdFN0YXRpY0NvbnRleHRIYW5kbGVyKHdlYmFwcERpciwgIi90cmFuc2xhdGlvblN0YXRpYyIpLAoJCQkJaW5pdFN0YXRpY0NvbnRleHRIYW5kbGVyKHdlYmFwcERpciwgIi9pbnRlcmNvbUhlbHBlciIpLAoJCQkJaW5pdFN0YXRpY0NvbnRleHRIYW5kbGVyKHdlYmFwcERpciwgIi9tYXBzQXV0b2NvbXBsZXRlSGVscGVyIiksCgkJCQlpbml0U3RhdGljQ29udGV4dEhhbmRsZXIod2ViYXBwRGlyLCAiL25hdGl2ZVRlbExpbmtIYW5kbGVySGVscGVyIiksCgkJCQlpbml0U3RhdGljQ29udGV4dEhhbmRsZXIod2ViYXBwRGlyLCAiL3N0cmlwZUhlbHBlciIpLAoJCQkJaW5pdFN0YXRpY0NvbnRleHRIYW5kbGVyKHdlYmFwcERpciwgIi90eXBlZm9ybUhlbHBlciIpLAo=</text>
+        <text encoding="base64">CQkvLyBUT0RPIGZpeCBndWVzdAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJaW50IG1heFRocmVhZHMgPSBJbnRlZ2VyLnZhbHVlT2YoU3lzdGVtLmdldFByb3BlcnR5KCJzZXJ2ZXJDb21tb25IdHRwU2VydmVyLm1heFRocmVhZHMiLCAiMjAiKSk7Cg==</text>
+        <text encoding="base64">CQkJCQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJY3R4LnNldERlc2NyaXB0b3Iod2ViYXBwRGlyICsgIi9XRUItSU5GL3dlYi54bWwiKTsKCQkJLy9jdHguc2V0UmVzb3VyY2VCYXNlKHdlYmFwcERpcik7Cg==</text>
+        <text encoding="base64">CQkJY3R4LnNldEluaXRQYXJhbWV0ZXIoIm9yZy5lY2xpcHNlLmpldHR5LnNlcnZsZXQuRGVmYXVsdC5kaXJBbGxvd2VkIiwgImZhbHNlIik7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>(enabled = false)</last-search>
+      <last-search>)</last-search>
       <last-offset />
-      <last-pattern>(enabled = false)</last-pattern>
+      <last-pattern>)</last-pattern>
       <last-replace />
       <last-substitute>(enabled = false)</last-substitute>
       <last-dir>1</last-dir>
@@ -365,7 +368,6 @@
       <history-search>
         <entry>email</entry>
         <entry>loginToken</entry>
-        <entry>)</entry>
         <entry encoding="base64">XDx2aXNpYmlsaXR5XD4=</entry>
         <entry>message</entry>
         <entry>public</entry>
@@ -383,6 +385,7 @@
         <entry>MessageIndexInfo</entry>
         <entry>&quot;</entry>
         <entry>(enabled = false)</entry>
+        <entry>)</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLzsvOiAiIiw=</entry>
