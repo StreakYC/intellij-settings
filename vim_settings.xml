@@ -33,7 +33,7 @@
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/pom.xml" timestamp="1547508555736">
         <mark key="[" line="35" column="18" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/messageaccessengine/RulesetVisibilityService.java" timestamp="1547573731623" />
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/messageaccessengine/RulesetVisibilityService.java" timestamp="1547580632263" />
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/messageaccessengine/graph/MessageVisibilityGraph.java" timestamp="1547525861931" />
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/Spanner.java" timestamp="1547161043518">
         <mark key="[" line="54" column="0" />
@@ -178,12 +178,12 @@
         <mark key="." line="40" column="110" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/api/APIServlet.java" timestamp="1547510605198" />
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/rewardly/mailfoo/integration/ITMessageAccess.java" timestamp="1547577312322">
-        <mark key="'" line="353" column="4" />
-        <mark key="[" line="353" column="0" />
-        <mark key="]" line="353" column="0" />
-        <mark key="." line="353" column="0" />
-        <mark key="^" line="332" column="33" />
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/rewardly/mailfoo/integration/ITMessageAccess.java" timestamp="1547579749528">
+        <mark key="'" line="358" column="4" />
+        <mark key="[" line="287" column="0" />
+        <mark key="]" line="287" column="0" />
+        <mark key="." line="287" column="0" />
+        <mark key="^" line="282" column="16" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/bigtable/IndexConsumer.java" timestamp="1547159503192">
         <mark key="[" line="33" column="0" />
@@ -313,7 +313,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CS8vVE9ETyBJZ25vcmluZyBmb3Igbm93IGR1ZSB0byBidWdzIGluIHRoZSBiaWd0YWJsZSBjb2RlCg==</text>
+        <text encoding="base64">CQlMaXN0PEdtYWlsQXBpVGhyZWFkSWRlbnRpZmllcj4gc2VlZHMgPSBDb2xsZWN0aW9ucy5zaW5nbGV0b25MaXN0KHNlZWQpOwo=</text>
       </register>
       <register name="-" type="4">
         <text>IsRequesterMemberOfTeam</text>
@@ -325,22 +325,22 @@
         <text encoding="base64">CUBUZXN0CglwdWJsaWMgdm9pZCBBbnlGcm9tVGhyZWFkKCkgewoKCX0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CS8vVE9ETyBJZ25vcmluZyBmb3Igbm93IGR1ZSB0byBidWdzIGluIHRoZSBiaWd0YWJsZSBjb2RlCg==</text>
+        <text encoding="base64">CQlMaXN0PEdtYWlsQXBpVGhyZWFkSWRlbnRpZmllcj4gc2VlZHMgPSBDb2xsZWN0aW9ucy5zaW5nbGV0b25MaXN0KHNlZWQpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkvLyBUT0RPIGZpeCBndWVzdAo=</text>
+        <text encoding="base64">CS8vVE9ETyBJZ25vcmluZyBmb3Igbm93IGR1ZSB0byBidWdzIGluIHRoZSBiaWd0YWJsZSBjb2RlCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">CQkvLyBUT0RPIGZpeCBndWVzdAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQlib3RoVGVhbXNVc2VyLnVwZGF0ZUV4cGVyaW1lbnRzKCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text>, &quot;gmailThreadKey&quot;, &quot;skip&quot;</text>
+      <register name="6" type="2">
+        <text encoding="base64">CQlib3RoVGVhbXNVc2VyLnVwZGF0ZUV4cGVyaW1lbnRzKCk7Cg==</text>
       </register>
       <register name="7" type="4">
         <text>, &quot;gmailThreadKey&quot;, &quot;skip&quot;</text>
