@@ -33,6 +33,7 @@
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/pom.xml" timestamp="1547508555736">
         <mark key="[" line="35" column="18" />
       </file>
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/messageaccessengine/RulesetVisibilityService.java" timestamp="1547573731623" />
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/messageaccessengine/graph/MessageVisibilityGraph.java" timestamp="1547525861931" />
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/Spanner.java" timestamp="1547161043518">
         <mark key="[" line="54" column="0" />
@@ -59,9 +60,7 @@
         <mark key="." line="17" column="12" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCore-war/src/main/webapp/WEB-INF/web.xml" timestamp="1547509198005" />
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataupdaters/getters/EnvelopesGetter.java" timestamp="1547572750657">
-        <mark key="[" line="46" column="12" />
-      </file>
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataupdaters/getters/EnvelopesGetter.java" timestamp="1547572750657" />
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/spanner/MessageMailbox.java" timestamp="1545863031867">
         <mark key="[" line="10" column="75" />
         <mark key="]" line="25" column="0" />
@@ -179,11 +178,12 @@
         <mark key="." line="40" column="110" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/api/APIServlet.java" timestamp="1547510605198" />
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/rewardly/mailfoo/integration/ITMessageAccess.java" timestamp="1547572729936">
-        <mark key="'" line="334" column="4" />
-        <mark key="[" line="346" column="0" />
-        <mark key="]" line="346" column="0" />
-        <mark key="." line="346" column="0" />
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/rewardly/mailfoo/integration/ITMessageAccess.java" timestamp="1547573737804">
+        <mark key="'" line="354" column="4" />
+        <mark key="[" line="332" column="16" />
+        <mark key="]" line="332" column="33" />
+        <mark key="." line="332" column="33" />
+        <mark key="^" line="332" column="33" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/bigtable/IndexConsumer.java" timestamp="1547159503192">
         <mark key="[" line="33" column="0" />
@@ -312,26 +312,26 @@
       <jump line="331" column="4" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/rewardly/mailfoo/integration/ITMessageAccess.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>IsRequesterMemberOfTeam</text>
       </register>
       <register name="-" type="4">
-        <text>, &quot;gmailThreadKey&quot;, &quot;skip&quot;</text>
+        <text>IsRequesterMemberOfTeam</text>
       </register>
       <register name="/" type="4">
         <text>)</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQlzdGF0ZW1lbnRzLmFkZEFsbChDb25maWd1cmF0aW9uLklOU1RBTkNFLmdldE1ldGFkYXRhKE1lc3NhZ2VHcmFudFJ1bGVzZXQuY2xhc3MpLmdldFRhYmxlKCkuZGRsKCkpOwo=</text>
+        <text encoding="base64">CUBUZXN0CglwdWJsaWMgdm9pZCBBbnlGcm9tVGhyZWFkKCkgewoKCX0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQlib3RoVGVhbXNVc2VyLnVwZGF0ZUV4cGVyaW1lbnRzKCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text>, &quot;gmailThreadKey&quot;, &quot;skip&quot;</text>
+      <register name="3" type="2">
+        <text encoding="base64">CQlib3RoVGVhbXNVc2VyLnVwZGF0ZUV4cGVyaW1lbnRzKCk7Cg==</text>
       </register>
       <register name="4" type="4">
         <text>, &quot;gmailThreadKey&quot;, &quot;skip&quot;</text>
@@ -342,14 +342,14 @@
       <register name="6" type="4">
         <text>, &quot;gmailThreadKey&quot;, &quot;skip&quot;</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">CQkvLyBUT0RPIGZpeCBndWVzdAo=</text>
+      <register name="7" type="4">
+        <text>, &quot;gmailThreadKey&quot;, &quot;skip&quot;</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJCQo=</text>
+        <text encoding="base64">CQkvLyBUT0RPIGZpeCBndWVzdAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJY3R4LnNldEluaXRQYXJhbWV0ZXIoIm9yZy5lY2xpcHNlLmpldHR5LnNlcnZsZXQuRGVmYXVsdC5kaXJBbGxvd2VkIiwgImZhbHNlIik7Cg==</text>
+        <text encoding="base64">CQkJCQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
