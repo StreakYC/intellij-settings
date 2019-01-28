@@ -61,11 +61,12 @@
         <mark key="]" line="96" column="0" />
         <mark key="." line="96" column="0" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/containers/src/main/java/com/streak/bigtable/SpannerBigtableUpdater.kt" timestamp="1548711563690">
+      <file name="$USER_HOME$/src/MailFoo/containers/src/main/java/com/streak/bigtable/SpannerBigtableUpdater.kt" timestamp="1548712806106">
+        <mark key="'" line="71" column="35" />
         <mark key="[" line="87" column="28" />
-        <mark key="]" line="87" column="23" />
-        <mark key="." line="87" column="23" />
-        <mark key="^" line="87" column="23" />
+        <mark key="]" line="71" column="35" />
+        <mark key="." line="71" column="35" />
+        <mark key="^" line="71" column="35" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/messageaccessengine/conditions/HasExternalContact.java" timestamp="1547853329762">
         <mark key="[" line="8" column="21" />
@@ -177,7 +178,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/test/resources/largeUISettings.json" />
       <jump line="7518" column="57" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/test/resources/largeUISettings.json" />
       <jump line="337" column="26" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/test/resources/largeUISettings.json" />
       <jump line="7492" column="45" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/test/resources/largeUISettings.json" />
@@ -277,6 +277,7 @@
       <jump line="101" column="38" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataupdaters/getters/ThreadInfoBigTableGetter.java" />
       <jump line="489" column="18" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/bigtable/SpannerBigtable.java" />
       <jump line="539" column="87" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/bigtable/SpannerBigtable.java" />
+      <jump line="71" column="35" filename="$USER_HOME$/src/MailFoo/containers/src/main/java/com/streak/bigtable/SpannerBigtableUpdater.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -319,7 +320,7 @@
         <text encoding="base64">CQkJRnVsbE1lc3NhZ2UgZnVsbE1lc3NhZ2UgPSBwYXJzZUludG9GdWxsTWVzc2FnZShycyk7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5zL21haWxib3hlcy9maWxlcw==</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -373,8 +374,8 @@
         <entry>%s/internalUsers/isInternal</entry>
         <entry encoding="base64">JzwsJz5zL25ldyBNZXNzYWdlTm9kZSgvLw==</entry>
         <entry encoding="base64">JzwsJz5zL05vZGUvLw==</entry>
-        <entry>w</entry>
         <entry encoding="base64">JzwsJz5zL21haWxib3hlcy9maWxlcw==</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
