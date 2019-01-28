@@ -34,12 +34,12 @@
         <mark key="]" line="27" column="0" />
         <mark key="." line="27" column="0" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/bigtable/SpannerBigtable.java" timestamp="1548709418614">
-        <mark key="'" line="534" column="18" />
-        <mark key="[" line="415" column="43" />
-        <mark key="]" line="415" column="43" />
-        <mark key="." line="415" column="43" />
-        <mark key="^" line="414" column="54" />
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/bigtable/SpannerBigtable.java" timestamp="1548710292440">
+        <mark key="'" line="539" column="87" />
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="0" />
+        <mark key="." line="33" column="0" />
+        <mark key="^" line="539" column="87" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/messageaccessengine/graph/Node.java" timestamp="1547685533758">
         <mark key="[" line="42" column="44" />
@@ -177,7 +177,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1449" column="40" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/test/resources/largeUISettings.json" />
       <jump line="0" column="0" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/test/resources/largeUISettings.json" />
       <jump line="7518" column="57" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/test/resources/largeUISettings.json" />
       <jump line="337" column="26" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/test/resources/largeUISettings.json" />
@@ -277,10 +276,11 @@
       <jump line="171" column="0" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/bigtable/MessageAccessEngine.java" />
       <jump line="101" column="38" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataupdaters/getters/ThreadInfoBigTableGetter.java" />
       <jump line="489" column="18" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/bigtable/SpannerBigtable.java" />
+      <jump line="539" column="87" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/bigtable/SpannerBigtable.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>mailbox.getString(MAILBOX_DOMAIN_COLUMN);</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IGVkdS5lbW9yeS5tYXRoY3MuYmFja3BvcnQuamF2YS51dGlsLkNvbGxlY3Rpb25zOwo=</text>
       </register>
       <register name="-" type="4">
         <text>mailbox.getString(MAILBOX_DOMAIN_COLUMN);</text>
@@ -292,31 +292,31 @@
         <text encoding="base64">CQl3aGlsZSAobWFpbGJveF9ycy5uZXh0KCkpIHsKCQkJU3RydWN0IHN0cnVjdCA9IG1haWxib3hfcnMuZ2V0Q3VycmVudFJvd0FzU3RydWN0KCk7CgkJCVN0cmluZyBtZXNzYWdlSWQgPSBzdHJ1Y3QuZ2V0U3RyaW5nKCJtZXNzYWdlSWQiKTsKCQkJaWYgKCFtYWlsYm94ZXMuY29udGFpbnNLZXkobWVzc2FnZUlkKSkgewoJCQkJbWFpbGJveGVzLnB1dChtZXNzYWdlSWQsIG5ldyBBcnJheUxpc3Q8PigpKTsKCQkJfQoJCQltYWlsYm94ZXMuZ2V0KG1lc3NhZ2VJZCkuYWRkKHN0cnVjdCk7CgkJfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJCQkK</text>
+        <text encoding="base64">aW1wb3J0IGVkdS5lbW9yeS5tYXRoY3MuYmFja3BvcnQuamF2YS51dGlsLkNvbGxlY3Rpb25zOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJCWlmICghbWFpbGJveC5pc051bGwoTUFJTEJPWF9FTUFJTF9DT0xVTU4pKSB7Cg==</text>
+        <text encoding="base64">CQkJCQkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJCX0K</text>
+        <text encoding="base64">CQkJCWlmICghbWFpbGJveC5pc051bGwoTUFJTEJPWF9FTUFJTF9DT0xVTU4pKSB7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJZm9yIChTdHJ1Y3QgbWFpbGJveCA6IG1haWxib3hlcykgewo=</text>
+        <text encoding="base64">CQkJCX0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJRnVsbE1lc3NhZ2UK</text>
+        <text encoding="base64">CQkJZm9yIChTdHJ1Y3QgbWFpbGJveCA6IG1haWxib3hlcykgewo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CgkJCWZvciAoU3RydWN0IG1haWxib3ggOiBtYWlsYm94ZXMpIHsK</text>
+        <text encoding="base64">CQkJRnVsbE1lc3NhZ2UK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJTGlzdDxTdHJ1Y3Q+IG1haWxib3hlcyA9IHJzLmdldFN0cnVjdExpc3QoIm1haWxib3hlcyIpOwo=</text>
+        <text encoding="base64">CgkJCWZvciAoU3RydWN0IG1haWxib3ggOiBtYWlsYm94ZXMpIHsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJRnVsbE1lc3NhZ2UgZnVsbE1lc3NhZ2UgPSBwYXJzZUludG9GdWxsTWVzc2FnZShycyk7Cg==</text>
+        <text encoding="base64">CQkJTGlzdDxTdHJ1Y3Q+IG1haWxib3hlcyA9IHJzLmdldFN0cnVjdExpc3QoIm1haWxib3hlcyIpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQl3aGlsZSAocnMubmV4dCgpKSB7Cg==</text>
+        <text encoding="base64">CQkJRnVsbE1lc3NhZ2UgZnVsbE1lc3NhZ2UgPSBwYXJzZUludG9GdWxsTWVzc2FnZShycyk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL21haWxib3hlcy9maWxlcw==</text>
