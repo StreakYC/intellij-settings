@@ -34,6 +34,13 @@
         <mark key="]" line="27" column="0" />
         <mark key="." line="27" column="0" />
       </file>
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/bigtable/SpannerBigtable.java" timestamp="1548709418614">
+        <mark key="'" line="534" column="18" />
+        <mark key="[" line="415" column="43" />
+        <mark key="]" line="415" column="43" />
+        <mark key="." line="415" column="43" />
+        <mark key="^" line="414" column="54" />
+      </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/messageaccessengine/graph/Node.java" timestamp="1547685533758">
         <mark key="[" line="42" column="44" />
         <mark key="]" line="42" column="32" />
@@ -43,7 +50,7 @@
         <mark key="'" line="112" column="37" />
         <mark key="[" line="102" column="72" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/google/cloud/google-cloud-spanner/0.55.1-beta/google-cloud-spanner-0.55.1-beta-sources.jar!/com/google/cloud/spanner/DatabaseClient.java" timestamp="1548702961479" />
+      <file name="$MAVEN_REPOSITORY$/com/google/cloud/google-cloud-spanner/0.55.1-beta/google-cloud-spanner-0.55.1-beta-sources.jar!/com/google/cloud/spanner/DatabaseClient.java" timestamp="1548704055365" />
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/pom.xml" timestamp="1547860008909">
         <mark key="[" line="85" column="23" />
         <mark key="]" line="85" column="24" />
@@ -54,7 +61,12 @@
         <mark key="]" line="96" column="0" />
         <mark key="." line="96" column="0" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/containers/src/main/java/com/streak/bigtable/SpannerBigtableUpdater.kt" timestamp="1548703034873" />
+      <file name="$USER_HOME$/src/MailFoo/containers/src/main/java/com/streak/bigtable/SpannerBigtableUpdater.kt" timestamp="1548705487698">
+        <mark key="[" line="100" column="67" />
+        <mark key="]" line="112" column="27" />
+        <mark key="." line="112" column="27" />
+        <mark key="^" line="112" column="27" />
+      </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/messageaccessengine/conditions/HasExternalContact.java" timestamp="1547853329762">
         <mark key="[" line="8" column="21" />
         <mark key="]" line="8" column="21" />
@@ -165,7 +177,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="277" column="11" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/test/resources/largeUISettings.json" />
       <jump line="1449" column="40" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/test/resources/largeUISettings.json" />
       <jump line="0" column="0" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/test/resources/largeUISettings.json" />
       <jump line="7518" column="57" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/test/resources/largeUISettings.json" />
@@ -265,63 +276,63 @@
       <jump line="109" column="37" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/caching/BigtableCache.java" />
       <jump line="171" column="0" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/bigtable/MessageAccessEngine.java" />
       <jump line="101" column="38" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataupdaters/getters/ThreadInfoBigTableGetter.java" />
+      <jump line="489" column="18" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/bigtable/SpannerBigtable.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>mailbox.getString(MAILBOX_DOMAIN_COLUMN);</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">c2NvcGUg</text>
+        <text>mailbox.getString(MAILBOX_DOMAIN_COLUMN);</text>
       </register>
       <register name="/" type="4">
-        <text>spanner</text>
+        <text>mailboxes</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQlmb3IgKEdtYWlsQXBpVGhyZWFkSWRlbnRpZmllciBzZWVkIDogc2VlZHMpIHsK</text>
+        <text encoding="base64">CQl3aGlsZSAobWFpbGJveF9ycy5uZXh0KCkpIHsKCQkJU3RydWN0IHN0cnVjdCA9IG1haWxib3hfcnMuZ2V0Q3VycmVudFJvd0FzU3RydWN0KCk7CgkJCVN0cmluZyBtZXNzYWdlSWQgPSBzdHJ1Y3QuZ2V0U3RyaW5nKCJtZXNzYWdlSWQiKTsKCQkJaWYgKCFtYWlsYm94ZXMuY29udGFpbnNLZXkobWVzc2FnZUlkKSkgewoJCQkJbWFpbGJveGVzLnB1dChtZXNzYWdlSWQsIG5ldyBBcnJheUxpc3Q8PigpKTsKCQkJfQoJCQltYWlsYm94ZXMuZ2V0KG1lc3NhZ2VJZCkuYWRkKHN0cnVjdCk7CgkJfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCQkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCWlmICghbWFpbGJveC5pc051bGwoTUFJTEJPWF9FTUFJTF9DT0xVTU4pKSB7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJYm9vbGVhbiBmb3JjZVRyYWNpbmcgPSAK</text>
+        <text encoding="base64">CQkJCX0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJZm9yIChTdHJ1Y3QgbWFpbGJveCA6IG1haWxib3hlcykgewo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJCXRyYWNlci5nZXRDdXJyZW50U3BhbigpLgo=</text>
+        <text encoding="base64">CQkJRnVsbE1lc3NhZ2UK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJCXRyYWNlci4K</text>
+        <text encoding="base64">CgkJCWZvciAoU3RydWN0IG1haWxib3ggOiBtYWlsYm94ZXMpIHsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJCQkJCQkJCSAgZW52IC0+IGVudi5yZmNNZXNzYWdlSWQsCg==</text>
+        <text encoding="base64">CQkJTGlzdDxTdHJ1Y3Q+IG1haWxib3hlcyA9IHJzLmdldFN0cnVjdExpc3QoIm1haWxib3hlcyIpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJCQkJCQkJICAuZmlsdGVyKGVudiAtPiBlbnYucmZjTWVzc2FnZUlkICE9IG51bGwpCg==</text>
+        <text encoding="base64">CQkJRnVsbE1lc3NhZ2UgZnVsbE1lc3NhZ2UgPSBwYXJzZUludG9GdWxsTWVzc2FnZShycyk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGVkdS5lbW9yeS5tYXRoY3MuYmFja3BvcnQuamF2YS51dGlsLkNvbGxlY3Rpb25zOwo=</text>
+        <text encoding="base64">CQl3aGlsZSAocnMubmV4dCgpKSB7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text encoding="base64">JzwsJz5zL21haWxib3hlcy9maWxlcw==</text>
       </register>
     </registers>
     <search>
-      <last-search>spanner</last-search>
+      <last-search>mailboxes</last-search>
       <last-offset />
-      <last-pattern>spanner</last-pattern>
-      <last-replace />
-      <last-substitute>Node</last-substitute>
+      <last-pattern>mailboxes</last-pattern>
+      <last-replace>files</last-replace>
+      <last-substitute>mailboxes</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>CreateTableR</entry>
         <entry>+</entry>
         <entry>,</entry>
         <entry>,,</entry>
@@ -341,9 +352,9 @@
         <entry>;</entry>
         <entry>jetty</entry>
         <entry>spanner</entry>
+        <entry>mailboxes</entry>
       </history-search>
       <history-cmd>
-        <entry>s/X/isTo/g</entry>
         <entry>s/X/mailboxDomain/g</entry>
         <entry encoding="base64">JzwsJz5zLysvLw==</entry>
         <entry>%s/,,/,/g</entry>
@@ -363,6 +374,7 @@
         <entry encoding="base64">JzwsJz5zL25ldyBNZXNzYWdlTm9kZSgvLw==</entry>
         <entry encoding="base64">JzwsJz5zL05vZGUvLw==</entry>
         <entry>w</entry>
+        <entry encoding="base64">JzwsJz5zL21haWxib3hlcy9maWxlcw==</entry>
       </history-cmd>
       <history-expr />
       <history-input />
