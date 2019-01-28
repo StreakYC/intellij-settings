@@ -34,11 +34,11 @@
         <mark key="]" line="27" column="0" />
         <mark key="." line="27" column="0" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/bigtable/SpannerBigtable.java" timestamp="1548710292440">
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/bigtable/SpannerBigtable.java" timestamp="1548711210913">
         <mark key="'" line="539" column="87" />
-        <mark key="[" line="33" column="0" />
-        <mark key="]" line="33" column="0" />
-        <mark key="." line="33" column="0" />
+        <mark key="[" line="345" column="118" />
+        <mark key="]" line="345" column="119" />
+        <mark key="." line="345" column="119" />
         <mark key="^" line="539" column="87" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/messageaccessengine/graph/Node.java" timestamp="1547685533758">
@@ -61,11 +61,11 @@
         <mark key="]" line="96" column="0" />
         <mark key="." line="96" column="0" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/containers/src/main/java/com/streak/bigtable/SpannerBigtableUpdater.kt" timestamp="1548705487698">
-        <mark key="[" line="100" column="67" />
-        <mark key="]" line="112" column="27" />
-        <mark key="." line="112" column="27" />
-        <mark key="^" line="112" column="27" />
+      <file name="$USER_HOME$/src/MailFoo/containers/src/main/java/com/streak/bigtable/SpannerBigtableUpdater.kt" timestamp="1548711563690">
+        <mark key="[" line="87" column="28" />
+        <mark key="]" line="87" column="23" />
+        <mark key="." line="87" column="23" />
+        <mark key="^" line="87" column="23" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/messageaccessengine/conditions/HasExternalContact.java" timestamp="1547853329762">
         <mark key="[" line="8" column="21" />
@@ -279,11 +279,11 @@
       <jump line="539" column="87" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/bigtable/SpannerBigtable.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGVkdS5lbW9yeS5tYXRoY3MuYmFja3BvcnQuamF2YS51dGlsLkNvbGxlY3Rpb25zOwo=</text>
+      <register name="&quot;" type="4">
+        <text>_</text>
       </register>
       <register name="-" type="4">
-        <text>mailbox.getString(MAILBOX_DOMAIN_COLUMN);</text>
+        <text>_</text>
       </register>
       <register name="/" type="4">
         <text>mailboxes</text>
