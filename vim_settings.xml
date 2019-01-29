@@ -115,7 +115,6 @@
         <mark key="]" line="22" column="23" />
         <mark key="." line="22" column="23" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/gmail/sendmail/MailMergeSender.java" timestamp="1548794111445" />
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/api/AuthFilter.java" timestamp="1548369026885">
         <mark key="[" line="209" column="29" />
       </file>
@@ -123,12 +122,6 @@
         <mark key="[" line="40" column="109" />
         <mark key="]" line="40" column="110" />
         <mark key="." line="40" column="110" />
-      </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/gmail/GmailAPIHelper.java" timestamp="1548792558033">
-        <mark key="[" line="254" column="92" />
-        <mark key="]" line="254" column="0" />
-        <mark key="." line="254" column="0" />
-        <mark key="^" line="259" column="57" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/ratchet/Query.java" timestamp="1548724251954">
         <mark key="[" line="124" column="27" />
@@ -153,12 +146,12 @@
         <mark key="]" line="39" column="0" />
         <mark key="." line="39" column="0" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/curls" timestamp="1548794132635">
+      <file name="$USER_HOME$/src/MailFoo/curls" timestamp="1548799221604">
         <mark key="'" line="31" column="0" />
-        <mark key="[" line="121" column="0" />
-        <mark key="]" line="119" column="169" />
-        <mark key="^" line="114" column="41" />
-        <mark key="." line="119" column="0" />
+        <mark key="[" line="134" column="58" />
+        <mark key="]" line="137" column="58" />
+        <mark key="^" line="137" column="57" />
+        <mark key="." line="137" column="58" />
       </file>
       <file name="/fragment.java" timestamp="1548450560341">
         <mark key="[" line="0" column="0" />
@@ -274,17 +267,17 @@
       <jump line="71" column="35" filename="$USER_HOME$/src/MailFoo/containers/src/main/java/com/streak/bigtable/SpannerBigtableUpdater.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQkJCQlpZiAoZW1haWxNZXNzYWdlLmdldFBheWxvYWQoKS5nZXRIZWFkZXJzKCkuY29udGFpbnMoaGVhZGVyVG9GaW5kKSkgewoJCQkJCQlyZXR1cm4gdHJ1ZTsKCQkJCQl9Cg==</text>
+      <register name="&quot;" type="4">
+        <text>agxzfm1haWxmb29nYWVyNAsSDE9yZ2FuaXphdGlvbiIKc3RyZWFrLmNvbQwLEgtHbWFpbFRocmVhZBiAgMDJnOXZCww</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ZWFkZXIg</text>
+        <text>agxzfm1haWxmb29nYWVyNAsSDE9yZ2FuaXphdGlvbiIKc3RyZWFrLmNvbQwLEgtHbWFpbFRocmVhZBiAgMDJnOXZCww</text>
       </register>
       <register name="/" type="4">
         <text>mailboxes</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CXB1YmxpYyBRdWVyeSBhZGRNYXRjaChTdHJpbmcgZmllbGROYW1lLCBPYmplY3QgdmFsdWUpIHsKCQlhZGRXaGVyZU9yQW5kKCk7CgkJQWJzdHJhY3RNZXRhZGF0YUZpZWxkIGZpZWxkID0gbWV0YWRhdGEuZ2V0TWV0YWRhdGFGaWVsZChmaWVsZE5hbWUpOwoJCWZpZWxkLmdldFRyYW5zbGF0b3IoKS5hZGRWYWx1ZVRvU3RhdGVtZW50KGJ1aWxkZXIsIGZpZWxkLmdldE5hbWUoKSwgKytpbmRleCwgdmFsdWUpOwoJCWJ1aWxkZXIuYXBwZW5kKGZpZWxkLmdldFNwYW5uZXJGaWVsZHMoKS5zdHJlYW0oKQoJCQkJCQkJLm1hcChzZiAtPiBzZi5hc0ZpbHRlcihpbmRleCkpCgkJCQkJCQkuY29sbGVjdChDb2xsZWN0b3JzLmpvaW5pbmcoIiBBTkQgIiwgIigiLCAiKSIpKSk7CgkJcmV0dXJuIHRoaXM7Cgl9Cg==</text>
+        <text encoding="base64">Y3VybCAgLWIgImpvbmF0aGFuJTQwc3RyZWFrJTJFY29tdWlkPUV1M0lLS0lYeTFxU3JORDdGUWFtbFJ5TGh4eVNaNzdqUjhrNTl3MVJXV2xucVZrOFlodTdMVEpMeWx4Q092NDAvZ0JPVVp6SWtna3g4djc1bUlMZzBtVjROUEFiNWVESDZVQjFBT2VVTHM5TGRpeWMvQlc1emx4cmhPNXFzYThtOyIgXAogICJodHRwczovL2FwaS5zdHJlYWsuY29tL2FwaS92Mi9lbnZlbG9wZXM/Z21haWxUaHJlYWRLZXk9YWd4emZtMWhhV3htYjI5bllXVnlOQXNTREU5eVoyRnVhWHBoZEdsdmJpSUtjM1J5WldGckxtTnZiUXdMRWd0SGJXRnBiRlJvY21WaFpCaUFnTURUX3NlU0NndyZlbWFpbD1qb25hdGhhbkBzdHJlYWsuY29tIgo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">CQkJCQlpZiAoZW1haWxNZXNzYWdlLmdldFBheWxvYWQoKS5nZXRIZWFkZXJzKCkuY29udGFpbnMoaGVhZGVyVG9GaW5kKSkgewoJCQkJCQlyZXR1cm4gdHJ1ZTsKCQkJCQl9Cg==</text>
