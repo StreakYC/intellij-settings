@@ -45,8 +45,11 @@
         <mark key="." line="36" column="16" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/spanner/partial/MessageThread.java" timestamp="1548875932070" />
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/messageaccessengine/RulesetVisibilityService.java" timestamp="1549059075091">
-        <mark key="[" line="226" column="5" />
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/messageaccessengine/RulesetVisibilityService.java" timestamp="1549060232668">
+        <mark key="[" line="242" column="0" />
+        <mark key="]" line="237" column="9" />
+        <mark key="." line="235" column="0" />
+        <mark key="^" line="232" column="71" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/messageaccessengine/graph/MessageConnectivityGraph.java" timestamp="1548968181511">
         <mark key="[" line="196" column="0" />
@@ -298,46 +301,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBtYXN0ZXIK</text>
+        <text encoding="base64">CQlpZiAoISgoSWYpdGhpcy5oZWFkKS5nZXRDb25kaXRpb24oKS5nZXRDbGFzcygpLmVxdWFscyhJc01lLmNsYXNzKSkgewoJCQlyZXR1cm4gZmFsc2U7CgkJfQo=</text>
       </register>
       <register name="-" type="4">
-        <text>all</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text>mailboxes</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQkJCUFzc2VydC5hc3NlcnROb3ROdWxsKGNvbXBsZXhGcm9tSGlzdG9yeS5jcmVhdGVkQXQpOwoJCQkJQXNzZXJ0LmFzc2VydE5vdE51bGwoY29tcGxleEZyb21IaXN0b3J5LnVwZGF0ZWRBdCk7Cg==</text>
+        <text encoding="base64">CQlpZiAoISgoSWYpdGhpcy5oZWFkKS5nZXRDb25kaXRpb24oKS5nZXRDbGFzcygpLmVxdWFscyhJc01lLmNsYXNzKSkgewoJCQlyZXR1cm4gZmFsc2U7CgkJfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBtYXN0ZXIK</text>
+        <text encoding="base64">CQl9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECgkJCUFzc2VydC5hc3NlcnRFcXVhbHMoMTAwMCwgbG9hZGVkQzEucHJpbWl0aXZlKTsKCj09PT09PT0K</text>
+        <text encoding="base64">Pj4+Pj4+PiBtYXN0ZXIK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CUBUZXN0CglwdWJsaWMgdm9pZCB0aW1lc3RhbXBzKCkgewoJfQo=</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECgkJCUFzc2VydC5hc3NlcnRFcXVhbHMoMTAwMCwgbG9hZGVkQzEucHJpbWl0aXZlKTsKCj09PT09PT0K</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">CUBUZXN0CglwdWJsaWMgdm9pZCB0aW1lc3RhbXBzKCkgewoJfQo=</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">CQlMaXN0PE11dGF0aW9uPiBtdXRhdGlvbnMgPSBuZXcgQXJyYXlMaXN0PD4oKTsKCQltdXRhdGlvbnMuYWRkKE11dGF0aW9uLmRlbGV0ZSgiQ29tcGxleCIsIEtleVNldC5hbGwoKSkpOwoJCVNwYW5uZXIuZ2V0Q2xpZW50KCkud3JpdGUobXV0YXRpb25zKTsK</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>KeySet.range(KeyRange.openOpen(
 			Key.of(1533837399477L),
 			Key.of(1537200238359L)
 		))));</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">CQkK</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">CQltZXNzYWdlcy50b1RocmVhZHMoKS5tYXAoVGhyZWFkOjpnZXRTdWJqZWN0KQo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">CQkJZmluYWwgTGlzdDxNdXRhdGlvbj4gbXV0YXRpb25zID0gTGlzdHMubmV3QXJyYXlMaXN0KCk7Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">CQl9IGVsc2UgaWYgKGlzQ3JlYXRlZEF0KSB7Cg==</text>
+        <text encoding="base64">CQkJZmluYWwgTGlzdDxNdXRhdGlvbj4gbXV0YXRpb25zID0gTGlzdHMubmV3QXJyYXlMaXN0KCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
