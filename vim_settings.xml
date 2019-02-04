@@ -11,10 +11,11 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/admin/AdminEnvelopeServlet.java" timestamp="1549321144119">
-        <mark key="[" line="76" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/admin/AdminEnvelopeServlet.java" timestamp="1549322655807">
+        <mark key="[" line="76" column="43" />
+        <mark key="]" line="75" column="4" />
+        <mark key="." line="75" column="4" />
+        <mark key="^" line="75" column="4" />
       </file>
       <file name="/a.dummy" timestamp="1548184070623">
         <mark key="[" line="0" column="0" />
@@ -41,6 +42,7 @@
         <mark key="]" line="85" column="24" />
         <mark key="." line="85" column="24" />
       </file>
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/handlers/GetEntities.java" timestamp="1549322559072" />
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/ratchet/ImmutableTransactionCallable.java" timestamp="1548967006283">
         <mark key="[" line="31" column="0" />
         <mark key="]" line="31" column="62" />
@@ -315,10 +317,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5yZXdhcmRseS5tYWlsZm9vLmRhdGFtb2RlbC5zcGFubmVyLk1lc3NhZ2U7Cg==</text>
+        <text encoding="base64">CQlTZXQ8Tm9kZT4gbm9kZXMgPSBncmFwaC5nZXROb2RlcygpOwoJCVNldDxEZWZhdWx0RWRnZT4gZWRnZXMgPSBncmFwaC5nZXRFZGdlcygpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>vertexSet</text>
+        <text encoding="base64">ID0gZ3JhcGguZ2V0RWRnZXMoKTs=</text>
       </register>
       <register name="/" type="4">
         <text>mailboxes</text>
@@ -327,31 +329,31 @@
         <text encoding="base64">CXB1YmxpYyBTZXQ8Tm9kZT4gZ2V0Tm9kZXMoKSB7CgkJcmV0dXJuIG12Zy52ZXJ0ZXhTZXQoKTsKCX0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5yZXdhcmRseS5tYWlsZm9vLmRhdGFtb2RlbC5zcGFubmVyLk1lc3NhZ2U7Cg==</text>
+        <text encoding="base64">CQlTZXQ8Tm9kZT4gbm9kZXMgPSBncmFwaC5nZXROb2RlcygpOwoJCVNldDxEZWZhdWx0RWRnZT4gZWRnZXMgPSBncmFwaC5nZXRFZGdlcygpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQlub2Rlcwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CXByaXZhdGUgc3RhdGljIGNsYXNzIE1lc3NhZ2VOb2RlIHsKCgl9CgoJcHJpdmF0ZSBzdGF0aWMgY2xhc3MgR21haWxUaHJlYWROb2RlIHsKCgl9CgoJcHJpdmF0ZSBzdGF0aWMgY2xhc3MgTWVzc2FnZUVkZ2UgewoKCX0K</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5yZXdhcmRseS5tYWlsZm9vLmRhdGFtb2RlbC5zcGFubmVyLk1lc3NhZ2U7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQlncmFwaC5nZXQK</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">CXByaXZhdGUgc3RhdGljIGNsYXNzIE1lc3NhZ2VOb2RlIHsKCgl9CgoJcHJpdmF0ZSBzdGF0aWMgY2xhc3MgR21haWxUaHJlYWROb2RlIHsKCgl9CgoJcHJpdmF0ZSBzdGF0aWMgY2xhc3MgTWVzc2FnZUVkZ2UgewoKCX0K</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">CQlNZXNzYWdlQ29ubmVjdGl2aXR5R3JhcGggZ3JhcGggPSBtZXNzYWdlQWNjZXNzRW5naW5lLmdldE1lc3NhZ2VDb25uZWN0aXZpdHlHcmFwaCgpOwo=</text>
+        <text encoding="base64">CQlncmFwaC5nZXQK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQlMaXN0PE1lc3NhZ2U+IG1lc3NhZ2VzID0gbWVzc2FnZUFjY2Vzc0VuZ2luZS5nZXRNZXNzYWdlcygpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CXByaXZhdGUgc3RhdGljIGNsYXNzIEdtYWlsVGhyZWFkTm9kZSB7CgoJfQo=</text>
+        <text encoding="base64">CQlNZXNzYWdlQ29ubmVjdGl2aXR5R3JhcGggZ3JhcGggPSBtZXNzYWdlQWNjZXNzRW5naW5lLmdldE1lc3NhZ2VDb25uZWN0aXZpdHlHcmFwaCgpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJCQo=</text>
+        <text encoding="base64">CQlMaXN0PE1lc3NhZ2U+IG1lc3NhZ2VzID0gbWVzc2FnZUFjY2Vzc0VuZ2luZS5nZXRNZXNzYWdlcygpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
