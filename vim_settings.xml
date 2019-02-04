@@ -11,7 +11,7 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/admin/AdminEnvelopeServlet.java" timestamp="1549322655807">
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/admin/AdminEnvelopeServlet.java" timestamp="1549323421885">
         <mark key="[" line="76" column="43" />
         <mark key="]" line="75" column="4" />
         <mark key="." line="75" column="4" />
@@ -74,16 +74,16 @@
         <mark key="]" line="22" column="0" />
         <mark key="." line="22" column="0" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/utils/Constants.java" timestamp="1548450076269">
-        <mark key="[" line="675" column="55" />
-        <mark key="]" line="675" column="75" />
-        <mark key="^" line="675" column="75" />
-        <mark key="." line="675" column="75" />
-      </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/messageaccessengine/nodes/If.java" timestamp="1549064403013">
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/MailFoo/ServerCore-war/src/main/webapp/WEB-INF/web.xml" timestamp="1549323455413">
+        <mark key="[" line="530" column="28" />
+        <mark key="]" line="530" column="36" />
+        <mark key="^" line="530" column="36" />
+        <mark key="." line="530" column="36" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/api/APIV2EndpointManager.java" timestamp="1548968667676">
         <mark key="[" line="252" column="148" />
@@ -116,12 +116,6 @@
         <mark key="]" line="72" column="0" />
         <mark key="." line="72" column="0" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/streak/ratchet/entities/Complex.java" timestamp="1548884760821">
-        <mark key="[" line="26" column="5" />
-        <mark key="]" line="26" column="5" />
-        <mark key="." line="26" column="5" />
-        <mark key="^" line="23" column="4" />
-      </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/messageaccessengine/models/LazyContext.java" timestamp="1548181713126">
         <mark key="[" line="96" column="0" />
         <mark key="]" line="96" column="0" />
@@ -138,12 +132,6 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataupdaters/getters/ThreadInfoGetter.java" timestamp="1548455931809">
-        <mark key="[" line="23" column="69" />
-        <mark key="]" line="23" column="76" />
-        <mark key="." line="23" column="76" />
-        <mark key="^" line="23" column="76" />
-      </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/admin/EmailManagerBackfillServlet.java" timestamp="1547495123993">
         <mark key="[" line="19" column="12" />
         <mark key="]" line="3" column="0" />
@@ -159,22 +147,10 @@
         <mark key="." line="286" column="13" />
         <mark key="^" line="286" column="13" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/ratchet/translate/SimpleTranslator.java" timestamp="1548886788261">
-        <mark key="[" line="24" column="34" />
-        <mark key="]" line="25" column="20" />
-        <mark key="." line="25" column="20" />
-        <mark key="^" line="25" column="20" />
-      </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataupdaters/getters/ThreadInfoSpannerGetter.java" timestamp="1548377239709">
         <mark key="[" line="22" column="23" />
         <mark key="]" line="22" column="23" />
         <mark key="." line="22" column="23" />
-      </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/ratchet/schema/SpannerField.java" timestamp="1548888902226">
-        <mark key="[" line="67" column="15" />
-        <mark key="]" line="67" column="15" />
-        <mark key="^" line="60" column="38" />
-        <mark key="." line="67" column="15" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/api/AuthFilter.java" timestamp="1548369026885">
         <mark key="[" line="209" column="29" />
@@ -316,11 +292,11 @@
       <jump line="44" column="37" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/streak/ratchet/RatchetIntegrationTests.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQlTZXQ8Tm9kZT4gbm9kZXMgPSBncmFwaC5nZXROb2RlcygpOwoJCVNldDxEZWZhdWx0RWRnZT4gZWRnZXMgPSBncmFwaC5nZXRFZGdlcygpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>InvoiceEmailerTask</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ID0gZ3JhcGguZ2V0RWRnZXMoKTs=</text>
+        <text>InvoiceEmailerTask</text>
       </register>
       <register name="/" type="4">
         <text>mailboxes</text>
