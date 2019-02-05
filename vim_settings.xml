@@ -3,19 +3,23 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/bigtable/MessageAccessEngine.java" timestamp="1549320462058">
-        <mark key="[" line="134" column="5" />
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/bigtable/MessageAccessEngine.java" timestamp="1549328197771">
+        <mark key="[" line="139" column="0" />
+        <mark key="]" line="140" column="117" />
+        <mark key="." line="140" column="117" />
+        <mark key="^" line="140" column="117" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/spanner/Message.java" timestamp="1548190580008">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/admin/AdminEnvelopeServlet.java" timestamp="1549323421885">
-        <mark key="[" line="76" column="43" />
-        <mark key="]" line="75" column="4" />
-        <mark key="." line="75" column="4" />
-        <mark key="^" line="75" column="4" />
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/admin/AdminEnvelopeServlet.java" timestamp="1549328287393">
+        <mark key="'" line="88" column="16" />
+        <mark key="[" line="85" column="77" />
+        <mark key="]" line="128" column="43" />
+        <mark key="." line="128" column="43" />
+        <mark key="^" line="128" column="43" />
       </file>
       <file name="/a.dummy" timestamp="1548184070623">
         <mark key="[" line="0" column="0" />
@@ -53,11 +57,12 @@
         <mark key="]" line="36" column="16" />
         <mark key="." line="36" column="16" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/messageaccessengine/graph/MessageConnectivityGraph.java" timestamp="1549320667792">
-        <mark key="[" line="56" column="19" />
-        <mark key="]" line="56" column="19" />
-        <mark key="^" line="55" column="28" />
-        <mark key="." line="56" column="19" />
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/messageaccessengine/graph/MessageConnectivityGraph.java" timestamp="1549326219638">
+        <mark key="'" line="32" column="42" />
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="^" line="54" column="28" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/messageaccessengine/graph/MessageVisibilityGraph.java" timestamp="1547688567963">
         <mark key="[" line="30" column="20" />
@@ -132,6 +137,7 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/jgrapht/jgrapht-core/1.3.0/jgrapht-core-1.3.0-sources.jar!/org/jgrapht/graph/DefaultEdge.java" timestamp="1549326073671" />
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/admin/EmailManagerBackfillServlet.java" timestamp="1547495123993">
         <mark key="[" line="19" column="12" />
         <mark key="]" line="3" column="0" />
@@ -172,6 +178,12 @@
         <mark key="." line="20" column="21" />
         <mark key="^" line="20" column="21" />
       </file>
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/messageaccessengine/graph/Edge.java" timestamp="1549327018355">
+        <mark key="[" line="12" column="15" />
+        <mark key="]" line="12" column="20" />
+        <mark key="^" line="12" column="20" />
+        <mark key="." line="12" column="20" />
+      </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/rewardly/mailfoo/helpers/FixtureLoader.java" timestamp="1547499899821">
         <mark key="[" line="39" column="0" />
         <mark key="]" line="39" column="0" />
@@ -190,9 +202,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3" column="13" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/test/resources/largeUISettings.json" />
-      <jump line="31" column="16" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/nondatastore/uiSettings/ColumnKey.java" />
-      <jump line="48" column="54" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/rewardly/mailfoo/unittests/UISettingsTest.java" />
       <jump line="80" column="0" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/rewardly/mailfoo/unittests/UISettingsTest.java" />
       <jump line="234" column="32" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/test/resources/largeUISettings.json" />
       <jump line="97" column="197" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/api/APIV2EndpointManager.java" />
@@ -290,65 +299,65 @@
       <jump line="310" column="32" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/streak/ratchet/RatchetIntegrationTests.java" />
       <jump line="309" column="32" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/streak/ratchet/RatchetIntegrationTests.java" />
       <jump line="44" column="37" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/streak/ratchet/RatchetIntegrationTests.java" />
+      <jump line="33" column="42" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/messageaccessengine/graph/MessageConnectivityGraph.java" />
+      <jump line="95" column="21" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/admin/AdminEnvelopeServlet.java" />
+      <jump line="87" column="16" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/admin/AdminEnvelopeServlet.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>InvoiceEmailerTask</text>
+        <text encoding="base64">cHJpdmF0ZSA=</text>
       </register>
       <register name="-" type="4">
-        <text>InvoiceEmailerTask</text>
+        <text encoding="base64">cHJpdmF0ZSA=</text>
       </register>
       <register name="/" type="4">
-        <text>mailboxes</text>
+        <text>Message</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CXB1YmxpYyBTZXQ8Tm9kZT4gZ2V0Tm9kZXMoKSB7CgkJcmV0dXJuIG12Zy52ZXJ0ZXhTZXQoKTsKCX0K</text>
+        <text encoding="base64">CQkJaWYgKG5vZGUgaW5zdGFuY2VvZiBNZXNzYWdlTm9kZSkgewoJCQkJcmVzcG9uc2Uubm9kZXMuYWRkKG5ldyBNZXNzYWdlUmVzcG9uc2VOb2RlKChNZXNzYWdlTm9kZSkgbm9kZSkpOwoJCQl9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQlTZXQ8Tm9kZT4gbm9kZXMgPSBncmFwaC5nZXROb2RlcygpOwoJCVNldDxEZWZhdWx0RWRnZT4gZWRnZXMgPSBncmFwaC5nZXRFZGdlcygpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQlub2Rlcwo=</text>
+        <text encoding="base64">CQkJcmVzcG9uc2Uubm9kZXMuYWRkKG5ldyBSZXNwb25zZU5vZGUobm9kZSkpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5yZXdhcmRseS5tYWlsZm9vLmRhdGFtb2RlbC5zcGFubmVyLk1lc3NhZ2U7Cg==</text>
+        <text encoding="base64">CQkJc3VwZXIobm9kZSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJc3VwZXIobm9kZSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CXByaXZhdGUgc3RhdGljIGNsYXNzIE1lc3NhZ2VOb2RlIHsKCgl9CgoJcHJpdmF0ZSBzdGF0aWMgY2xhc3MgR21haWxUaHJlYWROb2RlIHsKCgl9CgoJcHJpdmF0ZSBzdGF0aWMgY2xhc3MgTWVzc2FnZUVkZ2UgewoKCX0K</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">CQlncmFwaC5nZXQK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">CQlwdWJsaWMgUmVzcG9uc2VOb2RlKE5vZGUgbm9kZSkgewoJCQl0aGlzLmlkID0gbm9kZS5oYXNoQ29kZSgpOwoJCQlpZiAobm9kZSBpbnN0YW5jZW9mIE1lc3NhZ2VOb2RlKSB7CgkJCX0KCQkJZWxzZSBpZiAobm9kZSBpbnN0YW5jZW9mIEdtYWlsVGhyZWFkTm9kZSkgewoJCQl9CgkJCWVsc2UgewoJCQkJdGhpcy50eXBlID0gbnVsbDsKCQkJfQoJCX0K</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">CQkJCXRoaXMudHlwZSA9ICJHbWFpbFRocmVhZCI7Cg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">CQlNZXNzYWdlQ29ubmVjdGl2aXR5R3JhcGggZ3JhcGggPSBtZXNzYWdlQWNjZXNzRW5naW5lLmdldE1lc3NhZ2VDb25uZWN0aXZpdHlHcmFwaCgpOwo=</text>
+        <text encoding="base64">CQkJCXRoaXMudHlwZSA9ICJNZXNzYWdlIjsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQlMaXN0PE1lc3NhZ2U+IG1lc3NhZ2VzID0gbWVzc2FnZUFjY2Vzc0VuZ2luZS5nZXRNZXNzYWdlcygpOwo=</text>
+        <text encoding="base64">CQkJCXRoaXMub2JqZWN0ID0gbnVsbDsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>mailboxes</last-search>
+      <last-search>Message</last-search>
       <last-offset />
-      <last-pattern>mailboxes</last-pattern>
-      <last-replace>files</last-replace>
-      <last-substitute>mailboxes</last-substitute>
+      <last-pattern>Message</last-pattern>
+      <last-replace>GmailThread</last-replace>
+      <last-substitute>Message</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>+</entry>
-        <entry>,</entry>
-        <entry>,,</entry>
         <entry>localUsers</entry>
         <entry>bothVersion</entry>
         <entry>private</entry>
@@ -366,12 +375,11 @@
         <entry>jetty</entry>
         <entry>spanner</entry>
         <entry>mailboxes</entry>
+        <entry>DefaultEdge</entry>
+        <entry>String</entry>
+        <entry>Message</entry>
       </history-search>
       <history-cmd>
-        <entry>s/X/mailboxDomain/g</entry>
-        <entry encoding="base64">JzwsJz5zLysvLw==</entry>
-        <entry>%s/,,/,/g</entry>
-        <entry encoding="base64">JzwsJz5zL2xvY2FsVXNlcnMvdXNlcnM=</entry>
         <entry encoding="base64">JzwsJz5zL2JvdGhWZXJzaW9uL29uZVZlcnNpb24=</entry>
         <entry encoding="base64">JzwsJz5zL2JvdGhWZXJzaW9uL3R3b1ZlcnNpb24=</entry>
         <entry encoding="base64">JzwsJz5zL2JvdGhWZXJzaW9uL2d1ZXN0VmVyc2lvbg==</entry>
@@ -387,6 +395,10 @@
         <entry encoding="base64">JzwsJz5zL25ldyBNZXNzYWdlTm9kZSgvLw==</entry>
         <entry encoding="base64">JzwsJz5zL05vZGUvLw==</entry>
         <entry encoding="base64">JzwsJz5zL21haWxib3hlcy9maWxlcw==</entry>
+        <entry>%s/DefaultEdge/Edge</entry>
+        <entry encoding="base64">JzwsJz5zL1N0cmluZy9pbnQ=</entry>
+        <entry encoding="base64">JzwsJz5zL01lc3NhZ2UvR21haWxUaHJlYWQ=</entry>
+        <entry encoding="base64">JzwsJz5zL01lc3NhZ2UvR21haWxUaHJlYWQvZw==</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
