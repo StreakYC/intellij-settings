@@ -156,6 +156,11 @@
         <mark key="." line="23" column="76" />
         <mark key="^" line="23" column="76" />
       </file>
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/messageaccessengine/nodes/Max.java" timestamp="1549678681919">
+        <mark key="[" line="35" column="52" />
+        <mark key="]" line="35" column="52" />
+        <mark key="." line="35" column="52" />
+      </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/rewardly/mailfoo/unittests/MessageAccessEngineRemoteTest.java" timestamp="1549668598543">
         <mark key="[" line="459" column="0" />
         <mark key="]" line="459" column="0" />
@@ -333,10 +338,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>GsonCustom.writeToResponse(</text>
+        <text>, node.evaluate(context)</text>
       </register>
       <register name="-" type="4">
-        <text>GsonCustom.writeToResponse(</text>
+        <text>, node.evaluate(context)</text>
       </register>
       <register name="/" type="4">
         <text>)</text>
