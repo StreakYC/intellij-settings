@@ -19,8 +19,11 @@
         <mark key="]" line="37" column="15" />
         <mark key="." line="37" column="15" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/site-js/annotateRulesetViewer/annotateRulesetViewer.js" timestamp="1549906433756">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/src/MailFoo/site-js/annotateRulesetViewer/annotateRulesetViewer.js" timestamp="1549907600757">
+        <mark key="[" line="10" column="1" />
+        <mark key="]" line="8" column="42" />
+        <mark key="^" line="8" column="42" />
+        <mark key="." line="8" column="42" />
       </file>
       <file name="/a.dummy" timestamp="1548184070623">
         <mark key="[" line="0" column="0" />
@@ -78,7 +81,7 @@
         <mark key="." line="27" column="18" />
         <mark key="^" line="27" column="18" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/site-js/teamNetwork/teamNetwork.js" timestamp="1549906429449" />
+      <file name="$USER_HOME$/src/MailFoo/site-js/teamNetwork/teamNetwork.js" timestamp="1549907472539" />
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/messageaccessengine/RulesetVisibilityService.java" timestamp="1549677854956">
         <mark key="[" line="229" column="59" />
         <mark key="]" line="208" column="0" />
@@ -89,6 +92,7 @@
         <mark key="]" line="30" column="20" />
         <mark key="." line="30" column="20" />
       </file>
+      <file name="$USER_HOME$/src/MailFoo/site-js/teamNetwork/layout.jsx" timestamp="1549907672739" />
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/Spanner.java" timestamp="1547161043518">
         <mark key="[" line="54" column="0" />
         <mark key="]" line="54" column="0" />
@@ -363,11 +367,11 @@
       <jump line="332" column="65" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/bigtable/BigtableGraphFanOutProcessor.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CTxzZXJ2bGV0PgoJCTxzZXJ2bGV0LW5hbWU+YWRtaW48L3NlcnZsZXQtbmFtZT4KCQk8anNwLWZpbGU+L2FkbWluL2FkbWluLmpzcDwvanNwLWZpbGU+Cgk8L3NlcnZsZXQ+Cgk8c2VydmxldC1tYXBwaW5nPgoJCTxzZXJ2bGV0LW5hbWU+YWRtaW48L3NlcnZsZXQtbmFtZT4KCQk8dXJsLXBhdHRlcm4+L2FkbWluPC91cmwtcGF0dGVybj4KCTwvc2VydmxldC1tYXBwaW5nPgo=</text>
+      <register name="&quot;" type="4">
+        <text>teamNetworkMap</text>
       </register>
       <register name="-" type="4">
-        <text>left.annotate(context), right.annotate(context)),</text>
+        <text>teamNetworkMap</text>
       </register>
       <register name="/" type="4">
         <text>)</text>
@@ -376,34 +380,34 @@
         <text encoding="base64">CTxzZXJ2bGV0PgoJCTxzZXJ2bGV0LW5hbWU+YWRtaW48L3NlcnZsZXQtbmFtZT4KCQk8anNwLWZpbGU+L2FkbWluL2FkbWluLmpzcDwvanNwLWZpbGU+Cgk8L3NlcnZsZXQ+Cgk8c2VydmxldC1tYXBwaW5nPgoJCTxzZXJ2bGV0LW5hbWU+YWRtaW48L3NlcnZsZXQtbmFtZT4KCQk8dXJsLXBhdHRlcm4+L2FkbWluPC91cmwtcGF0dGVybj4KCTwvc2VydmxldC1tYXBwaW5nPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJCWNvbmRpdGlvbnMuc3RyZWFtKCkKCQkJCQkJICAubWFwKGNvbmRpdGlvbiAtPiBjb25kaXRpb24uYW5ub3RhdGUoY29udGV4dCkpCgkJCQkJCSAgLmNvbGxlY3QoQ29sbGVjdG9ycy50b0xpc3QoKSkpLAo=</text>
+        <text encoding="base64">CWRhdEd1aUluaXQoKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5yZXdhcmRseS5tYWlsZm9vLm1lc3NhZ2VhY2Nlc3NlbmdpbmUubW9kZWxzLkNvbnRleHQ7Cg==</text>
+        <text encoding="base64">CQkJCWNvbmRpdGlvbnMuc3RyZWFtKCkKCQkJCQkJICAubWFwKGNvbmRpdGlvbiAtPiBjb25kaXRpb24uYW5ub3RhdGUoY29udGV4dCkpCgkJCQkJCSAgLmNvbGxlY3QoQ29sbGVjdG9ycy50b0xpc3QoKSkpLAo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">aW1wb3J0IGNvbS5yZXdhcmRseS5tYWlsZm9vLm1lc3NhZ2VhY2Nlc3NlbmdpbmUubW9kZWxzLkNvbnRleHQ7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJCQkJCQkJLm9yRWxzZVRocm93KFJ1bnRpbWVFeGNlcHRpb246Om5ldyk7Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5yZXdhcmRseS5tYWlsZm9vLm1lc3NhZ2VhY2Nlc3NlbmdpbmUubW9kZWxzLkNvbnRleHQ7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkgbWVzc2FnZUFjY2Vzc0VuZ2luZTsK</text>
+        <text encoding="base64">CQkJCQkJCQkJLm9yRWxzZVRocm93KFJ1bnRpbWVFeGNlcHRpb246Om5ldyk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkgbWVzc2FnZUFjY2Vzc0VuZ2luZTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">CQo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -457,8 +461,8 @@
         <entry encoding="base64">JzwsJz5zL1N0cmluZy9pbnQ=</entry>
         <entry encoding="base64">JzwsJz5zL01lc3NhZ2UvR21haWxUaHJlYWQ=</entry>
         <entry encoding="base64">JzwsJz5zL01lc3NhZ2UvR21haWxUaHJlYWQvZw==</entry>
-        <entry>w</entry>
         <entry>wq</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
