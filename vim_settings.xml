@@ -92,7 +92,7 @@
         <mark key="]" line="30" column="20" />
         <mark key="." line="30" column="20" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/site-js/teamNetwork/layout.jsx" timestamp="1549907672739" />
+      <file name="$USER_HOME$/src/MailFoo/site-js/teamNetwork/layout.jsx" timestamp="1549912194433" />
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/Spanner.java" timestamp="1547161043518">
         <mark key="[" line="54" column="0" />
         <mark key="]" line="54" column="0" />
@@ -156,6 +156,12 @@
         <mark key="[" line="96" column="0" />
         <mark key="]" line="96" column="0" />
         <mark key="." line="96" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/MailFoo/site-js/annotateRulesetViewer/annotateRulesetViewer.jsx" timestamp="1549912272815">
+        <mark key="[" line="18" column="28" />
+        <mark key="]" line="18" column="33" />
+        <mark key="^" line="18" column="33" />
+        <mark key="." line="18" column="33" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCore-war/src/main/webapp/admin/teamNetwork.jsp" timestamp="1549906475342" />
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/messageaccessengine/conditions/Or.java" timestamp="1549680156911">
@@ -368,16 +374,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>teamNetworkMap</text>
+        <text>message</text>
       </register>
       <register name="-" type="4">
-        <text>teamNetworkMap</text>
+        <text>message</text>
       </register>
       <register name="/" type="4">
         <text>)</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CTxzZXJ2bGV0PgoJCTxzZXJ2bGV0LW5hbWU+YWRtaW48L3NlcnZsZXQtbmFtZT4KCQk8anNwLWZpbGU+L2FkbWluL2FkbWluLmpzcDwvanNwLWZpbGU+Cgk8L3NlcnZsZXQ+Cgk8c2VydmxldC1tYXBwaW5nPgoJCTxzZXJ2bGV0LW5hbWU+YWRtaW48L3NlcnZsZXQtbmFtZT4KCQk8dXJsLXBhdHRlcm4+L2FkbWluPC91cmwtcGF0dGVybj4KCTwvc2VydmxldC1tYXBwaW5nPgo=</text>
+        <text encoding="base64">CXJlbmRlcigpIHsKCQlyZXR1cm4gKAogICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0ibWVzc2FnZSI+CiAgICAgICAgICAgIDwvZGl2PgogICAgICAgICk7Cgl9Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">CWRhdEd1aUluaXQoKTsK</text>
