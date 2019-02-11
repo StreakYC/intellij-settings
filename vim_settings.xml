@@ -51,7 +51,7 @@
         <mark key="^" line="10" column="12" />
         <mark key="." line="10" column="12" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/admin/AdminRulesetAnnotatorServlet.java" timestamp="1549677837771">
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/admin/AdminRulesetAnnotatorServlet.java" timestamp="1549913099339">
         <mark key="^" line="46" column="54" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/pom.xml" timestamp="1547860008909">
@@ -92,7 +92,7 @@
         <mark key="]" line="30" column="20" />
         <mark key="." line="30" column="20" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/site-js/teamNetwork/layout.jsx" timestamp="1549912194433" />
+      <file name="$USER_HOME$/src/MailFoo/site-js/teamNetwork/layout.jsx" timestamp="1549913158038" />
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/Spanner.java" timestamp="1547161043518">
         <mark key="[" line="54" column="0" />
         <mark key="]" line="54" column="0" />
@@ -157,11 +157,12 @@
         <mark key="]" line="96" column="0" />
         <mark key="." line="96" column="0" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/site-js/annotateRulesetViewer/annotateRulesetViewer.jsx" timestamp="1549912272815">
-        <mark key="[" line="18" column="28" />
-        <mark key="]" line="18" column="33" />
-        <mark key="^" line="18" column="33" />
-        <mark key="." line="18" column="33" />
+      <file name="$USER_HOME$/src/MailFoo/site-js/annotateRulesetViewer/annotateRulesetViewer.jsx" timestamp="1549913207982">
+        <mark key="'" line="20" column="12" />
+        <mark key="[" line="29" column="27" />
+        <mark key="]" line="30" column="53" />
+        <mark key="^" line="30" column="53" />
+        <mark key="." line="30" column="53" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCore-war/src/main/webapp/admin/teamNetwork.jsp" timestamp="1549906475342" />
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/messageaccessengine/conditions/Or.java" timestamp="1549680156911">
@@ -271,7 +272,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="97" column="197" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/api/APIV2EndpointManager.java" />
       <jump line="73" column="0" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/handlers/DeleteEntity.java" />
       <jump line="0" column="0" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/handlers/DeleteEntity.java" />
       <jump line="13" column="28" filename="$USER_HOME$/src/MailFoo/IntegrationTests/src/test/java/com/rewardly/integrationtests/api/modeltests/SnippetPermissionViewAssignedAPITest.java" />
@@ -371,19 +371,20 @@
       <jump line="0" column="0" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/bigtable/BigtableGraphFanOutProcessor.java" />
       <jump line="2529" column="33" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/DAO.java" />
       <jump line="332" column="65" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/bigtable/BigtableGraphFanOutProcessor.java" />
+      <jump line="20" column="12" filename="$USER_HOME$/src/MailFoo/site-js/annotateRulesetViewer/annotateRulesetViewer.jsx" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>message</text>
+        <text>userKey</text>
       </register>
       <register name="-" type="4">
-        <text>message</text>
+        <text>userKey</text>
       </register>
       <register name="/" type="4">
-        <text>)</text>
+        <text>^</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CXJlbmRlcigpIHsKCQlyZXR1cm4gKAogICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0ibWVzc2FnZSI+CiAgICAgICAgICAgIDwvZGl2PgogICAgICAgICk7Cgl9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAkJaWQ9InVzZXJLZXkiCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">CWRhdEd1aUluaXQoKTsK</text>
@@ -417,17 +418,16 @@
       </register>
     </registers>
     <search>
-      <last-search>)</last-search>
+      <last-search>^</last-search>
       <last-offset />
-      <last-pattern>)</last-pattern>
-      <last-replace>GmailThread</last-replace>
-      <last-substitute>Message</last-substitute>
+      <last-pattern>^</last-pattern>
+      <last-replace encoding="base64">ICAgIA==</last-replace>
+      <last-substitute>^</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>localUsers</entry>
         <entry>bothVersion</entry>
         <entry>private</entry>
         <entry>MessageIndexInfo</entry>
@@ -447,9 +447,9 @@
         <entry>String</entry>
         <entry>Message</entry>
         <entry>)</entry>
+        <entry>^</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zL2JvdGhWZXJzaW9uL29uZVZlcnNpb24=</entry>
         <entry encoding="base64">JzwsJz5zL2JvdGhWZXJzaW9uL3R3b1ZlcnNpb24=</entry>
         <entry encoding="base64">JzwsJz5zL2JvdGhWZXJzaW9uL2d1ZXN0VmVyc2lvbg==</entry>
         <entry encoding="base64">JzwsJz5zL3ByaXZhdGUvcHVibGlj</entry>
@@ -468,6 +468,7 @@
         <entry encoding="base64">JzwsJz5zL01lc3NhZ2UvR21haWxUaHJlYWQ=</entry>
         <entry encoding="base64">JzwsJz5zL01lc3NhZ2UvR21haWxUaHJlYWQvZw==</entry>
         <entry>wq</entry>
+        <entry encoding="base64">JzwsJz5zL14vICAgIA==</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
