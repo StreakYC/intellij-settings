@@ -49,10 +49,6 @@
         <mark key="]" line="131" column="35" />
         <mark key="." line="131" column="35" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataupdaters/EntityActionScheduler.java" timestamp="1550609595960">
-        <mark key="]" line="28" column="0" />
-        <mark key="." line="28" column="0" />
-      </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/messageaccessengine/conditions/AnnotatedCondition.java" timestamp="1549679692000">
         <mark key="[" line="9" column="8" />
         <mark key="]" line="8" column="64" />
@@ -70,6 +66,7 @@
         <mark key="]" line="488" column="0" />
         <mark key="." line="488" column="0" />
       </file>
+      <file name="$USER_HOME$/src/MailFoo/DataflowLogsExport/src/main/java/com/streak/logging/dataflow/BackendLogsExport.java" timestamp="1551381876445" />
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataupdaters/getters/ThreadInfoGetter.java" timestamp="1548455931809">
         <mark key="[" line="23" column="69" />
         <mark key="]" line="23" column="76" />
@@ -82,11 +79,22 @@
         <mark key="^" line="22" column="18" />
         <mark key="." line="22" column="20" />
       </file>
+      <file name="$USER_HOME$/src/MailFoo/DataflowLogsExport/src/main/java/com/streak/logging/dataflow/BoxMover.java" timestamp="1551382706898">
+        <mark key="[" line="13" column="81" />
+        <mark key="]" line="13" column="81" />
+        <mark key="^" line="13" column="80" />
+        <mark key="." line="13" column="81" />
+      </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/ratchet/translate/SimpleTranslator.java" timestamp="1548886788261">
         <mark key="[" line="24" column="34" />
         <mark key="]" line="25" column="20" />
         <mark key="." line="25" column="20" />
         <mark key="^" line="25" column="20" />
+      </file>
+      <file name="$USER_HOME$/src/MailFoo/DataflowLogsExport/src/main/java/com/streak/logging/dataflow/BoxMoverJob.java" timestamp="1551381528516">
+        <mark key="[" line="2" column="20" />
+        <mark key="]" line="2" column="21" />
+        <mark key="." line="2" column="21" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataupdaters/creators/GmailThreadCreator.java" timestamp="1551147674379" />
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/ratchet/schema/SpannerField.java" timestamp="1548888902226">
@@ -101,6 +109,7 @@
         <mark key="^" line="127" column="53" />
         <mark key="." line="127" column="53" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/apache/beam/beam-sdks-java-io-google-cloud-platform/2.8.0/beam-sdks-java-io-google-cloud-platform-2.8.0-sources.jar!/org/apache/beam/sdk/io/gcp/pubsub/PubsubIO.java" timestamp="1551382669815" />
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/api/APIV2EndpointManager.java" timestamp="1551380155653">
         <mark key="[" line="275" column="0" />
         <mark key="]" line="275" column="0" />
@@ -258,11 +267,11 @@
       <jump line="866" column="46" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/DAO.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQllbHNlIGlmIChlbnRpdHlUeXBlLmVxdWFscyhVbmlmaWVkVGhyZWFkc1N1bW1hcnlHZXR0ZXIuY2xhc3MuZ2V0U2ltcGxlTmFtZSgpKSkgewoJCQlyZXR1cm4gbmV3IFVuaWZpZWRUaHJlYWRzU3VtbWFyeUdldHRlcigpOwoJCX0K</text>
+      <register name="&quot;" type="4">
+        <text>Topic</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IDogNjM3OQ==</text>
+        <text>Topic</text>
       </register>
       <register name="/" type="4">
         <text>;</text>
