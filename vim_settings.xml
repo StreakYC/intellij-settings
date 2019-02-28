@@ -79,17 +79,23 @@
         <mark key="^" line="22" column="18" />
         <mark key="." line="22" column="20" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/DataflowLogsExport/src/main/java/com/streak/logging/dataflow/BoxMover.java" timestamp="1551387621057">
-        <mark key="[" line="48" column="5" />
-        <mark key="]" line="41" column="10" />
-        <mark key="." line="41" column="10" />
-        <mark key="^" line="41" column="10" />
+      <file name="$USER_HOME$/src/MailFoo/DataflowLogsExport/src/main/java/com/streak/logging/dataflow/BoxMover.java" timestamp="1551389524831">
+        <mark key="[" line="56" column="36" />
+        <mark key="]" line="34" column="0" />
+        <mark key="." line="34" column="0" />
+        <mark key="^" line="33" column="56" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/ratchet/translate/SimpleTranslator.java" timestamp="1548886788261">
         <mark key="[" line="24" column="34" />
         <mark key="]" line="25" column="20" />
         <mark key="." line="25" column="20" />
         <mark key="^" line="25" column="20" />
+      </file>
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/Case.java" timestamp="1551389477358">
+        <mark key="[" line="292" column="95" />
+        <mark key="]" line="293" column="54" />
+        <mark key="." line="293" column="54" />
+        <mark key="^" line="293" column="54" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/DataflowLogsExport/src/main/java/com/streak/logging/dataflow/BoxMoverJob.java" timestamp="1551381528516">
         <mark key="[" line="2" column="20" />
@@ -268,44 +274,44 @@
       <jump line="866" column="46" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/DAO.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">KGtleVRvTW92ZSkgLT4gewoJCQlLZXk8Q2FzZT4gY2FzZUtleSA9IERBTy5kZWNvZGVLZXlUcmFuc2xhdGVFeGNlcHRpb24oa2V5VG9Nb3ZlKTsKCQkJS2V5PE9yZ2FuaXphdGlvbj4gZW50aXR5R3JvdXAgPSBjYXNlS2V5LmdldFBhcmVudCgpOwoJCQlyZXR1cm4gS1Yub2YoZW50aXR5R3JvdXAsIGNhc2VLZXkpOwoJCX0p</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>keyToMove</text>
+        <text>If set to anything other than null, ignore reads and block mutations.  Box is in the process of being moved</text>
       </register>
       <register name="/" type="4">
         <text>;</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CS8qKgoJICogVHdvIHRlYW0gbWVtYmVycyBoYXZlIHRocmVhZHMgbGlua2VkIHRvIGEgYm94LiAgVGhleSBib3RoIHNlZSBib3RoIHRocmVhZHMKCSAqLwo=</text>
+        <text encoding="base64">CUBOb1NlcmlhbGl6YXRpb24gQE5vRGVzZXJpYWxpemF0aW9uCg==</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">KGtleVRvTW92ZSkgLT4gewoJCQlLZXk8Q2FzZT4gY2FzZUtleSA9IERBTy5kZWNvZGVLZXlUcmFuc2xhdGVFeGNlcHRpb24oa2V5VG9Nb3ZlKTsKCQkJS2V5PE9yZ2FuaXphdGlvbj4gZW50aXR5R3JvdXAgPSBjYXNlS2V5LmdldFBhcmVudCgpOwoJCQlyZXR1cm4gS1Yub2YoZW50aXR5R3JvdXAsIGNhc2VLZXkpOwoJCX0p</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">CQl3aW5kb3dlZE1vdmVzLmFwcGx5KEdyb3VwQnlLZXk8U3RyaW5nLCBTdHJpbmc+KQo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">CQllbHNlIGlmIChlbnRpdHlUeXBlLmVxdWFscyhVbmlmaWVkVGhyZWFkc1N1bW1hcnlHZXR0ZXIuY2xhc3MuZ2V0U2ltcGxlTmFtZSgpKSkgewoJCQlyZXR1cm4gbmV3IFVuaWZpZWRUaHJlYWRzU3VtbWFyeUdldHRlcigpOwoJCX0K</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">CQllbmRwb2ludHMuYWRkKG5ldyBBUElFbmRwb2ludCgiL3VuaWZpZWRUaHJlYWRzL3N1bW1hcmllcyIsIEdFVCkuYWRkRW50aXR5VHlwZVBhcmFtKFVuaWZpZWRUaHJlYWRzU3VtbWFyeUdldHRlci5jbGFzcy5nZXRTaW1wbGVOYW1lKCkpKTsK</text>
-      </register>
-      <register name="5" type="4">
-        <text encoding="base64">IDogNjM3OQ==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">CQl9CgkJY2F0Y2ggKFRocm93YWJsZSB0KSB7CgkJCXRocm93IG5ldyBSdW50aW1lRXhjZXB0aW9uKHQpOwoJCX0K</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">CQl0cnkgewo=</text>
-      </register>
-      <register name="8" type="2">
+      <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">CXB1YmxpYyBKZWRpc1Bvb2wgaW5pdGlhbGl6ZURldlBvb2woKSB7CgkJcmV0dXJuIG5ldyBKZWRpc1Bvb2woImxvY2FsaG9zdCIpOwoJfQo=</text>
+      <register name="2" type="2">
+        <text encoding="base64">CUBOb1NlcmlhbGl6YXRpb24gQE5vRGVzZXJpYWxpemF0aW9uCglwcml2YXRlIFN0cmluZyB0YXJnZXRQaXBlbGluZTsK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">CS8vIElmIHNldCB0byBhbnl0aGluZyBvdGhlciB0aGFuIG51bGwsIGlnbm9yZSByZWFkcyBhbmQgYmxvY2sgbXV0YXRpb25zLiAgQm94IGlzIGluIHRoZSBwcm9jZXNzIG9mIGJlaW5nIG1vdmVkCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="4">
+        <text encoding="base64">KGtleVRvTW92ZSkgLT4gewoJCQlLZXk8Q2FzZT4gY2FzZUtleSA9IERBTy5kZWNvZGVLZXlUcmFuc2xhdGVFeGNlcHRpb24oa2V5VG9Nb3ZlKTsKCQkJS2V5PE9yZ2FuaXphdGlvbj4gZW50aXR5R3JvdXAgPSBjYXNlS2V5LmdldFBhcmVudCgpOwoJCQlyZXR1cm4gS1Yub2YoZW50aXR5R3JvdXAsIGNhc2VLZXkpOwoJCX0p</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">CQl3aW5kb3dlZE1vdmVzLmFwcGx5KEdyb3VwQnlLZXk8U3RyaW5nLCBTdHJpbmc+KQo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">CQllbHNlIGlmIChlbnRpdHlUeXBlLmVxdWFscyhVbmlmaWVkVGhyZWFkc1N1bW1hcnlHZXR0ZXIuY2xhc3MuZ2V0U2ltcGxlTmFtZSgpKSkgewoJCQlyZXR1cm4gbmV3IFVuaWZpZWRUaHJlYWRzU3VtbWFyeUdldHRlcigpOwoJCX0K</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">CQllbmRwb2ludHMuYWRkKG5ldyBBUElFbmRwb2ludCgiL3VuaWZpZWRUaHJlYWRzL3N1bW1hcmllcyIsIEdFVCkuYWRkRW50aXR5VHlwZVBhcmFtKFVuaWZpZWRUaHJlYWRzU3VtbWFyeUdldHRlci5jbGFzcy5nZXRTaW1wbGVOYW1lKCkpKTsK</text>
+      </register>
+      <register name="9" type="4">
+        <text encoding="base64">IDogNjM3OQ==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
