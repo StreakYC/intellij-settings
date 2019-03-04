@@ -89,10 +89,10 @@
         <mark key="." line="26" column="5" />
         <mark key="^" line="23" column="4" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/messageaccessengine/models/LazyContext.java" timestamp="1551737316009">
-        <mark key="[" line="75" column="52" />
-        <mark key="]" line="134" column="35" />
-        <mark key="." line="134" column="35" />
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/messageaccessengine/models/LazyContext.java" timestamp="1551740104142">
+        <mark key="[" line="83" column="11" />
+        <mark key="]" line="83" column="11" />
+        <mark key="." line="83" column="11" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataupdaters/updaters/BatchCaseUpdater.java" timestamp="1550603933912">
         <mark key="[" line="488" column="0" />
@@ -279,8 +279,9 @@
       <jump line="866" column="46" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/DAO.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQkJCQkJCQkJCQkJCSAgLy8gVE9ETyAtIGhvdyBkbyB0ZWFtIGZsb3dzIHdvcmsgd2l0aCBndWVzdD8K</text>
+      <register name="&quot;" type="4">
+        <text>isInternal needs to be stable from the point of view of the message OWNERS, not the requester
+		 * The owner will look at</text>
       </register>
       <register name="-" type="4">
         <text>)</text>
@@ -291,32 +292,33 @@
       <register name="0" type="2">
         <text encoding="base64">CQlAUHJvY2Vzc0VsZW1lbnQKCQlwdWJsaWMgdm9pZCBwcm9jZXNzRWxlbWVudChARWxlbWVudCBTdHJpbmcgY2FzZUtleVN0cmluZywgT3V0cHV0UmVjZWl2ZXI8S1Y8S2V5PE9yZ2FuaXphdGlvbj4sIEtleTxDYXNlPj4+IHJlY2VpdmVyKSB7Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">CQkJCQkJCQkJCQkJCSAgLy8gVE9ETyAtIGhvdyBkbyB0ZWFtIGZsb3dzIHdvcmsgd2l0aCBndWVzdD8K</text>
+      <register name="1" type="4">
+        <text>isInternal needs to be stable from the point of view of the message OWNERS, not the requester
+		 * The owner will look at</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJTWFwPEtleTxUZWFtPiwgVGVhbT4gd29ya2Zsb3dUZWFtcyA9IDsK</text>
+        <text encoding="base64">CQkJCQkJCQkJCQkJCSAgLy8gVE9ETyAtIGhvdyBkbyB0ZWFtIGZsb3dzIHdvcmsgd2l0aCBndWVzdD8K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJRGF0YXN0b3JlVjEuUmVhZCBib3hlc1JlYWQgPSBEYXRhc3RvcmVJTy52MSgpLnJlYWQoKVYKCQkJCQkJCQkJCQkJCSAgIC53aXRoUHJvamVjdElkKCJtYWlsZm9vZ2FlIik7CgkJCURhdGFzdG9yZUlPLnYxKCkucmVhZCgpLgo=</text>
+        <text encoding="base64">CQkJTWFwPEtleTxUZWFtPiwgVGVhbT4gd29ya2Zsb3dUZWFtcyA9IDsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJRGF0YXN0b3JlVjEuUmVhZCBib3hlc1JlYWQgPSBEYXRhc3RvcmVJTy52MSgpLnJlYWQoKVYKCQkJCQkJCQkJCQkJCSAgIC53aXRoUHJvamVjdElkKCJtYWlsZm9vZ2FlIik7CgkJCURhdGFzdG9yZUlPLnYxKCkucmVhZCgpLgo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CUBOb1NlcmlhbGl6YXRpb24gQE5vRGVzZXJpYWxpemF0aW9uCglwcml2YXRlIFN0cmluZyB0YXJnZXRQaXBlbGluZTsK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">CS8vIElmIHNldCB0byBhbnl0aGluZyBvdGhlciB0aGFuIG51bGwsIGlnbm9yZSByZWFkcyBhbmQgYmxvY2sgbXV0YXRpb25zLiAgQm94IGlzIGluIHRoZSBwcm9jZXNzIG9mIGJlaW5nIG1vdmVkCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">KGtleVRvTW92ZSkgLT4gewoJCQlLZXk8Q2FzZT4gY2FzZUtleSA9IERBTy5kZWNvZGVLZXlUcmFuc2xhdGVFeGNlcHRpb24oa2V5VG9Nb3ZlKTsKCQkJS2V5PE9yZ2FuaXphdGlvbj4gZW50aXR5R3JvdXAgPSBjYXNlS2V5LmdldFBhcmVudCgpOwoJCQlyZXR1cm4gS1Yub2YoZW50aXR5R3JvdXAsIGNhc2VLZXkpOwoJCX0p</text>
+      <register name="7" type="2">
+        <text encoding="base64">CUBOb1NlcmlhbGl6YXRpb24gQE5vRGVzZXJpYWxpemF0aW9uCglwcml2YXRlIFN0cmluZyB0YXJnZXRQaXBlbGluZTsK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">CS8vIElmIHNldCB0byBhbnl0aGluZyBvdGhlciB0aGFuIG51bGwsIGlnbm9yZSByZWFkcyBhbmQgYmxvY2sgbXV0YXRpb25zLiAgQm94IGlzIGluIHRoZSBwcm9jZXNzIG9mIGJlaW5nIG1vdmVkCg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
