@@ -3,19 +3,19 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/bigtable/MessageAccessEngine.java" timestamp="1551906183229">
-        <mark key="'" line="144" column="4" />
-        <mark key="[" line="115" column="36" />
-        <mark key="]" line="115" column="36" />
-        <mark key="." line="115" column="36" />
-        <mark key="^" line="71" column="20" />
-      </file>
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/bigtable/MessageAccessEngine.java" timestamp="1551906183229" />
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/sharing/UserActionAccessManagementRecorderImpl.java" timestamp="1551832173499">
         <mark key="'" line="1473" column="0" />
         <mark key="[" line="1452" column="13" />
         <mark key="]" line="1452" column="12" />
         <mark key="^" line="1452" column="12" />
         <mark key="." line="1452" column="12" />
+      </file>
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/messageaccessengine/conditions/IsRequesterMemberOfTeam.java" timestamp="1551911052706">
+        <mark key="[" line="17" column="72" />
+        <mark key="]" line="17" column="72" />
+        <mark key="." line="17" column="72" />
+        <mark key="^" line="17" column="72" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/DataflowLogsExport/src/main/java/com/streak/logging/dataflow/BoxMoverJob.java" timestamp="1551381528516">
         <mark key="[" line="2" column="20" />
@@ -171,11 +171,11 @@
       <jump line="136" column="4" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/bigtable/MessageAccessEngine.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>AccessManagementRecorder am</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICogdmlhIHVuaWZpZWQgdGhyZWFkIHRoYXQgaXMgYWNjZXNzaWJsZSBieSB0aGUgbWVzc2FnZSBvd25lciwgd2hlcmUgdGhlIHBpcGVsaW5lIGlzIGFsc28gb3duZWQgYnkgdGhlIHRlYW0uCg==</text>
       </register>
       <register name="-" type="4">
-        <text>AccessManagementRecorder am</text>
+        <text>or if they are a guest on a pipeline connected</text>
       </register>
       <register name="/" type="4">
         <text>;</text>
@@ -184,31 +184,31 @@
         <text encoding="base64">CQl0aGlzLmFtID0gYW07Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQl0aGlzLmFtID0gYW07Cg==</text>
+        <text encoding="base64">ICogdmlhIHVuaWZpZWQgdGhyZWFkIHRoYXQgaXMgYWNjZXNzaWJsZSBieSB0aGUgbWVzc2FnZSBvd25lciwgd2hlcmUgdGhlIHBpcGVsaW5lIGlzIGFsc28gb3duZWQgYnkgdGhlIHRlYW0uCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJCXRlYW1zVXNlcklzT24uc3RyZWFtKCkuZmlsdGVyKCkK</text>
+        <text encoding="base64">CQl0aGlzLmFtID0gYW07Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQlyZXR1cm4gZmFsc2U7Cg==</text>
+        <text encoding="base64">CQkJCXRlYW1zVXNlcklzT24uc3RyZWFtKCkuZmlsdGVyKCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQoJcHJpdmF0ZSBib29sZWFuIGlzR21haWxUaHJlYWRBY2Nlc3NpYmxlKEdtYWlsVGhyZWFkIGdtYWlsVGhyZWFkKSB7CgkJcmV0dXJuIGZhbHNlOwoJfQo=</text>
+        <text encoding="base64">CQlyZXR1cm4gZmFsc2U7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJCWZvciAoR21haWxUaHJlYWQgZ21haWxUaHJlYWQ6IGdtYWlsVGhyZWFkcykgewoJCQkJCVBlcm1pc3Npb25DaGVja2VyPEdtYWlsVGhyZWFkPiBwYyA9IG5ldyBHbWFpbFRocmVhZFBlcm1pc3Npb25DaGVja2VyKCk7CgkJCQkJaWYoYW0uaXNBY3Rpb25BbGxvd2VkKHJlcXVlc3RlciwgQWN0aW9uLkdFVCwgZ21haWxUaHJlYWQsIHBjKSkgewoJCQkJCQlnbWFpbFRocmVhZEtleXMuYWRkKCkKCQkJCQl9CgkJCQl9Cg==</text>
+        <text encoding="base64">CQoJcHJpdmF0ZSBib29sZWFuIGlzR21haWxUaHJlYWRBY2Nlc3NpYmxlKEdtYWlsVGhyZWFkIGdtYWlsVGhyZWFkKSB7CgkJcmV0dXJuIGZhbHNlOwoJfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJCVNldDxLZXk8R21haWxUaHJlYWQ+PiBnbWFpbFRocmVhZEtleXMgPSB1bmlmaWVkVGhyZWFkLnN0cmVhbSgpCg==</text>
+        <text encoding="base64">CQkJCWZvciAoR21haWxUaHJlYWQgZ21haWxUaHJlYWQ6IGdtYWlsVGhyZWFkcykgewoJCQkJCVBlcm1pc3Npb25DaGVja2VyPEdtYWlsVGhyZWFkPiBwYyA9IG5ldyBHbWFpbFRocmVhZFBlcm1pc3Npb25DaGVja2VyKCk7CgkJCQkJaWYoYW0uaXNBY3Rpb25BbGxvd2VkKHJlcXVlc3RlciwgQWN0aW9uLkdFVCwgZ21haWxUaHJlYWQsIHBjKSkgewoJCQkJCQlnbWFpbFRocmVhZEtleXMuYWRkKCkKCQkJCQl9CgkJCQl9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJCQkJCQkJCQkJCQkJCQkgLmZpbHRlcigobikgLT4gbiBpbnN0YW5jZW9mIEdtYWlsVGhyZWFkTm9kZSkKCQkJCQkJCQkJCQkJCQkJCQkgLm1hcChub2RlIC0+ICgoR21haWxUaHJlYWROb2RlKSBub2RlKS5nZXRHbWFpbFRocmVhZCgpLmdldEdtYWlsVGhyZWFkS2V5KCkpCgkJCQkJCQkJCQkJCQkJCQkJIC5jb2xsZWN0KENvbGxlY3RvcnMudG9TZXQoKSk7Cg==</text>
+        <text encoding="base64">CQkJCVNldDxLZXk8R21haWxUaHJlYWQ+PiBnbWFpbFRocmVhZEtleXMgPSB1bmlmaWVkVGhyZWFkLnN0cmVhbSgpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJQ2FzZVBlcm1pc3Npb25DaGVja2VyIGNtYyA9IG5ldyBDYXNlUGVybWlzc2lvbkNoZWNrZXIoKTsK</text>
+        <text encoding="base64">CQkJCQkJCQkJCQkJCQkJCQkgLmZpbHRlcigobikgLT4gbiBpbnN0YW5jZW9mIEdtYWlsVGhyZWFkTm9kZSkKCQkJCQkJCQkJCQkJCQkJCQkgLm1hcChub2RlIC0+ICgoR21haWxUaHJlYWROb2RlKSBub2RlKS5nZXRHbWFpbFRocmVhZCgpLmdldEdtYWlsVGhyZWFkS2V5KCkpCgkJCQkJCQkJCQkJCQkJCQkJIC5jb2xsZWN0KENvbGxlY3RvcnMudG9TZXQoKSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">CQkJQ2FzZVBlcm1pc3Npb25DaGVja2VyIGNtYyA9IG5ldyBDYXNlUGVybWlzc2lvbkNoZWNrZXIoKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
