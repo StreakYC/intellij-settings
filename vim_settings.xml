@@ -25,11 +25,11 @@
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/ratchet/Translators.java" timestamp="1552434718685" />
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/spanner/partial/MessageThread.java" timestamp="1552339396680" />
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/ratchet/translate/DataClassTranslator.java" timestamp="1552434705941">
-        <mark key="[" line="148" column="15" />
-        <mark key="]" line="148" column="15" />
-        <mark key="^" line="82" column="44" />
-        <mark key="." line="148" column="15" />
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/ratchet/translate/DataClassTranslator.java" timestamp="1552435805942">
+        <mark key="[" line="152" column="15" />
+        <mark key="]" line="85" column="26" />
+        <mark key="^" line="85" column="26" />
+        <mark key="." line="85" column="26" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataupdaters/getters/SharingTokenGetter.java" timestamp="1552078711567">
         <mark key="[" line="64" column="0" />
@@ -103,10 +103,10 @@
         <mark key="]" line="25" column="0" />
         <mark key="." line="25" column="0" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/ratchet/translate/ListTranslator.java" timestamp="1552434580212">
-        <mark key="[" line="143" column="15" />
-        <mark key="]" line="143" column="15" />
-        <mark key="." line="143" column="15" />
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/ratchet/translate/ListTranslator.java" timestamp="1552435831440">
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="0" />
+        <mark key="." line="30" column="0" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/SharingToken.java" timestamp="1552430954176">
         <mark key="[" line="47" column="0" />
@@ -130,10 +130,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/ratchet/translate/SimpleTranslator.java" timestamp="1552434542409">
-        <mark key="[" line="30" column="15" />
-        <mark key="]" line="30" column="15" />
-        <mark key="." line="30" column="15" />
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/ratchet/translate/SimpleTranslator.java" timestamp="1552435774362">
+        <mark key="[" line="11" column="50" />
+        <mark key="]" line="20" column="26" />
+        <mark key="." line="20" column="26" />
+        <mark key="^" line="20" column="26" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataupdaters/updaters/SharingTokenUpdater.java" timestamp="1552425061026">
         <mark key="[" line="54" column="77" />
@@ -162,7 +163,7 @@
         <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/MessageGrant.java" timestamp="1552424937915" />
-      <file name="/fragment.java" timestamp="1552433833693">
+      <file name="/fragment.java" timestamp="1552435421830">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="31" />
         <mark key="." line="0" column="31" />
@@ -271,8 +272,8 @@
       <jump line="42" column="8" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataupdaters/creators/SharingTokenCreator.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>null</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CXByb3RlY3RlZCBMaXN0PFNwYW5uZXJGaWVsZD4gc3Bhbm5lckZpZWxkczsK</text>
       </register>
       <register name="-" type="4">
         <text>null</text>
@@ -284,34 +285,34 @@
         <text encoding="base64">CUBJZ25vcmUK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CX0K</text>
+        <text encoding="base64">CXByb3RlY3RlZCBMaXN0PFNwYW5uZXJGaWVsZD4gc3Bhbm5lckZpZWxkczsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CglAT3ZlcnJpZGUKCXB1YmxpYyBBYnN0cmFjdE1ldGFkYXRhRmllbGQgZ2V0TWV0YWRhdGFGaWVsZCgpIHsKCQlyZXR1cm4gbnVsbDsK</text>
+        <text encoding="base64">CX0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CX0K</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">CglAT3ZlcnJpZGUKCXB1YmxpYyBBYnN0cmFjdE1ldGFkYXRhRmllbGQgZ2V0TWV0YWRhdGFGaWVsZCgpIHsKCQlyZXR1cm4gbnVsbDsK</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="6" type="2">
+      <register name="4" type="2">
         <text encoding="base64">CX0K</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">CUBPdmVycmlkZQoJcHVibGljIEFic3RyYWN0TWV0YWRhdGFGaWVsZCBnZXRNZXRhZGF0YUZpZWxkKCkgewoJCXJldHVybiBudWxsOwo=</text>
+      <register name="5" type="2">
+        <text encoding="base64">CglAT3ZlcnJpZGUKCXB1YmxpYyBBYnN0cmFjdE1ldGFkYXRhRmllbGQgZ2V0TWV0YWRhdGFGaWVsZCgpIHsKCQlyZXR1cm4gbnVsbDsK</text>
       </register>
-      <register name="8" type="2">
+      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">CX0K</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">CUBPdmVycmlkZQoJcHVibGljIEFic3RyYWN0TWV0YWRhdGFGaWVsZCBnZXRNZXRhZGF0YUZpZWxkKCkgewoJCXJldHVybiBudWxsOwo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">CUBPdmVycmlkZQoJcHVibGljIEFic3RyYWN0TWV0YWRhdGFGaWVsZCBnZXRNZXRhZGF0YUZpZWxkKCkgewoJCXJldHVybiBudWxsOwoJfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -364,9 +365,9 @@
         <entry encoding="base64">JzwsJz5zL21lc3NhZ2UvdGhyZWFkL2c=</entry>
         <entry encoding="base64">JzwsJz5zL3RocmVhZC9tZXNzYWdlL2c=</entry>
         <entry encoding="base64">JzwsJz5zL3RocmVhZHMvbWVzc2FnZXM=</entry>
-        <entry>w</entry>
         <entry>q</entry>
         <entry>wq</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
