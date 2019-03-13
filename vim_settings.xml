@@ -3,6 +3,9 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/domains/Domain.java" timestamp="1552341113172">
+        <mark key="[" line="2" column="23" />
+      </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/listeners/SpannerContextListener.java" timestamp="1552076378900">
         <mark key="[" line="21" column="40" />
         <mark key="]" line="21" column="40" />
@@ -27,6 +30,9 @@
         <mark key="[" line="8" column="23" />
         <mark key="]" line="8" column="22" />
         <mark key="." line="8" column="22" />
+      </file>
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/pom.xml" timestamp="1552511109776">
+        <mark key="[" line="600" column="21" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/ratchet/translate/DateTranslator.java" timestamp="1552434696044">
         <mark key="[" line="38" column="0" />
@@ -70,10 +76,10 @@
         <mark key="]" line="31" column="0" />
         <mark key="." line="31" column="0" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/SharingToken.java" timestamp="1552508579759">
-        <mark key="[" line="38" column="30" />
-        <mark key="]" line="38" column="4" />
-        <mark key="." line="38" column="4" />
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/SharingToken.java" timestamp="1552511226594">
+        <mark key="[" line="61" column="52" />
+        <mark key="]" line="61" column="52" />
+        <mark key="." line="61" column="52" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/DataflowLogsExport/src/main/java/com/streak/logging/dataflow/BoxMover.java" timestamp="1551468829299">
         <mark key="[" line="57" column="145" />
@@ -270,10 +276,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>/</text>
+        <text>password</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>password</text>
       </register>
       <register name="/" type="4">
         <text>getSpannerFields</text>
@@ -282,31 +288,31 @@
         <text encoding="base64">CUBJZ25vcmUK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkgZmllbGQ7Cg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">CQlpZiAobnVsbCA9PSBzcGFubmVyRmllbGRzKSB7CgkJCXNwYW5uZXJGaWVsZHMgPSAKCQl9Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">CQlpZiAodGhpcy5wcmVmaXgpCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">CQkJCQkJLy8gVE9ETyAtIGNsZWFybHkgbXV0YXRpbmcgbGlrZSB0aGlzIGRvZXMgbm90IHdvcmssIHJpZ2h0Pwo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">CQkJCQlTeXN0ZW0ub3V0LnByaW50bG4oImhpIik7Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">CQkJaWYgKG1ldGFkYXRhRmllbGQuKQo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">Ly8gUmVhZCBwYXNzd29yZCBmcm9tIHVzZXIKCQljaGFyW10gcGFzc3dvcmQgPSByZWFkUGFzc3dvcmRGcm9tVXNlcigpOwo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">CQlNZXNzYWdlRGlnZXN0LmdldEluc3RhbmNlKCkK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">CQlCQ3J5cHQuY2hlY2twdygK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">CQkgZmllbGQ7Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">CQlpZiAobnVsbCA9PSBzcGFubmVyRmllbGRzKSB7CgkJCXNwYW5uZXJGaWVsZHMgPSAKCQl9Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">CQlpZiAodGhpcy5wcmVmaXgpCg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">CXB1YmxpYyBUaHJlYWQgdGhyZWFkOyAvLyBURVNUIFRPRE8gcmVtb3ZlIHRoaXMgbGlrZSBBU0FQCg==</text>
+        <text encoding="base64">CQkJCQkJLy8gVE9ETyAtIGNsZWFybHkgbXV0YXRpbmcgbGlrZSB0aGlzIGRvZXMgbm90IHdvcmssIHJpZ2h0Pwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CUBJZ25vcmUK</text>
+        <text encoding="base64">CQkJCQlTeXN0ZW0ub3V0LnByaW50bG4oImhpIik7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
