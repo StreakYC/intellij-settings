@@ -42,11 +42,11 @@
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataupdaters/getters/UnifiedMessageGetter.java" timestamp="1552683382799" />
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/ratchet/ImmutableTransactionCallable.java" timestamp="1552674763324" />
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataupdaters/creators/UnifiedMessageCreator.java" timestamp="1552685545369">
-        <mark key="[" line="73" column="22" />
-        <mark key="]" line="73" column="21" />
-        <mark key="." line="73" column="21" />
-        <mark key="^" line="73" column="21" />
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataupdaters/creators/UnifiedMessageCreator.java" timestamp="1552686475366">
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="38" column="0" />
+        <mark key="." line="38" column="0" />
+        <mark key="^" line="79" column="32" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/ratchet/translate/Translator.java" timestamp="1552444067869">
         <mark key="[" line="73" column="59" />
@@ -91,7 +91,7 @@
         <mark key="]" line="249" column="143" />
         <mark key="." line="249" column="0" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataupdaters/getters/EnvelopesGetter.java" timestamp="1552685054874" />
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataupdaters/getters/EnvelopesGetter.java" timestamp="1552686448143" />
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/ratchet/AbstractMetadataField.java" timestamp="1552677527728" />
       <file name="$USER_HOME$/src/MailFoo/curls" timestamp="1552604161478">
         <mark key="[" line="112" column="49" />
@@ -309,8 +309,8 @@
       <jump line="17" column="12" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataupdaters/creators/UnifiedMessageCreator.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>sourceUser.getGoogleProfileId()</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>sourceUser.getGoogleProfileId()</text>
@@ -319,34 +319,34 @@
         <text>getSpannerFields</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQkJdGhyb3cgbmV3IEluc3VmZmljaWVudFBhcmFtZXRlcnNFeGNlcHRpb24oIk1lc3NhZ2UiKTsK</text>
+        <text encoding="base64">CQkJdGhyb3cgbmV3IFVuYXV0aG9yaXplZEV4Y2VwdGlvbigiTmF1Z2h0eSIpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQltZXNzYWdlcy5mCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQlmb3IgKGxvbmcgbWVzKQo=</text>
+        <text encoding="base64">CQltZXNzYWdlcy5mCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQlmb3IgKGxvbmcgbWVzKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CXB1YmxpYyBNZXNzYWdlIGdldE1lc3NhZ2UoU3RyaW5nIGdpZCwgU3RyaW5nIG1lc3NhZ2VJZCkgewoJCQoJfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CXB1YmxpYyBNZXNzYWdlIGdldE1lc3NhZ2UoU3RyaW5nIGdpZCwgU3RyaW5nIG1lc3NhZ2VJZCkgewoJCQoJfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGVkdS5lbW9yeS5tYXRoY3MuYmFja3BvcnQuamF2YS51dGlsLkNvbGxlY3Rpb25zOwo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">CQlzb3VyY2VVc2VyS2V5ID0gREFPLmRlY29kZUtleVRyYW5zbGF0ZUV4Y2VwdGlvbihwYXJhbXMuZ2V0KENvbnN0YW50cy5VU0VSX0tFWV9QQVJBTSkpOwo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">aW1wb3J0IGVkdS5lbW9yeS5tYXRoY3MuYmFja3BvcnQuamF2YS51dGlsLkNvbGxlY3Rpb25zOwo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">CQlzb3VyY2VVc2VyS2V5ID0gREFPLmRlY29kZUtleVRyYW5zbGF0ZUV4Y2VwdGlvbihwYXJhbXMuZ2V0KENvbnN0YW50cy5VU0VSX0tFWV9QQVJBTSkpOwo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkvLyBUT0RPOiBJcyB0aGlzIHJpZ2h0PwoJCXB1YmxpYyBib29sZWFuIHNob3VsZEhpZGUoKSB7CgkJCXJldHVybiB0aGlzID09IE5PTkUgfHwgdGhpcyA9PSBCTEFDS0xJU1Q7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
