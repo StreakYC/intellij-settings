@@ -7,10 +7,10 @@
       <file name="$MAVEN_REPOSITORY$/com/google/appengine/appengine-api-1.0-sdk/1.9.57/appengine-api-1.0-sdk-1.9.57.jar!/com/google/appengine/api/datastore/EntityTranslator.class" timestamp="1553544081300" />
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/caching/BigtableCache.java" timestamp="1553544884664" />
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/handlers/GetEntities.java" timestamp="1553213987869" />
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/bigtable/BigtableGraphFanOutProcessor.java" timestamp="1553545107525" />
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/bigtable/BigtableGraphFanOutProcessor.java" timestamp="1553561278729" />
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/messageaccessengine/RulesetVisibilityService.java" timestamp="1553278047759" />
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/ratchet/objectify/DatastoreWriteHookDelegate.java" timestamp="1553543756379" />
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/bigtable/GmailThreadKeyResponseObserver.java" timestamp="1553547913933" />
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/bigtable/GmailThreadKeyResponseObserver.java" timestamp="1553560845071" />
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/target/generated-sources/protobuf/java/com/rewardly/mailfoo/spannercache/TeamEmailContactOrOrgKey.java" timestamp="1553542553227" />
       <file name="$MAVEN_REPOSITORY$/com/google/api/grpc/proto-google-cloud-datastore-v1/0.20.1/proto-google-cloud-datastore-v1-0.20.1-sources.jar!/com/google/datastore/v1/Key.java" timestamp="1553544420069" />
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/utils/Constants.java" timestamp="1553293880123">
@@ -26,11 +26,10 @@
         <mark key="." line="69" column="15" />
         <mark key="^" line="69" column="13" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/bigtable/TeamContactResponseObserver.java" timestamp="1553554552291">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="^" line="18" column="94" />
-        <mark key="." line="19" column="0" />
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/bigtable/TeamContactResponseObserver.java" timestamp="1553562376711">
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="0" />
+        <mark key="." line="30" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/google/cloud/google-cloud-datastore/1.37.1/google-cloud-datastore-1.37.1-sources.jar!/com/google/cloud/datastore/Key.java" timestamp="1553542591381" />
       <file name="$USER_HOME$/src/MailFoo/curls" timestamp="1553557704368">
@@ -49,22 +48,22 @@
         <mark key="." line="51" column="4" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/RequestUserCache.java" timestamp="1553215738906" />
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataupdaters/getters/TeamContactGetter.java" timestamp="1553557370591">
-        <mark key="[" line="44" column="50" />
-        <mark key="]" line="44" column="54" />
-        <mark key="." line="44" column="54" />
-        <mark key="^" line="44" column="54" />
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataupdaters/getters/TeamContactGetter.java" timestamp="1553561926270">
+        <mark key="'" line="98" column="16" />
+        <mark key="[" line="99" column="125" />
+        <mark key="]" line="99" column="133" />
+        <mark key="." line="99" column="133" />
+        <mark key="^" line="99" column="133" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/TeamContact.java" timestamp="1553292122386" />
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/bigtable/BigtableAccessObject.java" timestamp="1553554569181">
-        <mark key="[" line="97" column="15" />
-        <mark key="]" line="97" column="15" />
-        <mark key="." line="97" column="15" />
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/bigtable/BigtableAccessObject.java" timestamp="1553562407696">
+        <mark key="[" line="105" column="0" />
+        <mark key="]" line="105" column="0" />
+        <mark key="." line="105" column="0" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/ImmutableEntityKey.java" timestamp="1553552960511" />
     </filemarks>
     <jumps>
-      <jump line="7" column="8" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/test/resources/fixtures/Messages.json" />
       <jump line="15" column="12" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/test/resources/fixtures/Messages.json" />
       <jump line="80" column="28" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/rewardly/mailfoo/unittests/MessageAccessIntegrationTests.java" />
       <jump line="81" column="28" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/rewardly/mailfoo/unittests/MessageAccessIntegrationTests.java" />
@@ -164,13 +163,14 @@
       <jump line="72" column="24" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/ratchet/translate/Translator.java" />
       <jump line="22" column="0" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/utils/RequestDataService.java" />
       <jump line="17" column="12" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataupdaters/creators/UnifiedMessageCreator.java" />
+      <jump line="98" column="16" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataupdaters/getters/TeamContactGetter.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Key</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQkJCQlyb3dTZXRCdWlsZGVyLmFkZFJvCg==</text>
       </register>
       <register name="-" type="4">
-        <text>Key</text>
+        <text>Collections.emptyList())</text>
       </register>
       <register name="/" type="4">
         <text>{</text>
@@ -179,31 +179,31 @@
         <text encoding="base64">CQkJCU1hcDxJbW11dGFibGVFbnRpdHlLZXk8VGVhbUNvbnRhY3Q+LCBUZWFtQ29udGFjdD4gY29udGFjdHMgPSBEQU8uZ2V0SW1tdXRhYmxlRW50aXRpZXModGVhbUNvbnRhY3RLZXlzKTsKCQkJCU1hcDxLZXk8VGVhbT4sIFRlYW0+IHRlYW1zRm9yQ29udGFjdHMgPSBEQU8uZ2V0RW50aXRpZXMoVGVhbS5nZXRUZWFtS2V5c0ZvclNjb3BlZFRvVGVhbU9iamVjdHMoY29udGFjdHMudmFsdWVzKCkpKTsKCQkJCWFtLmF0dGVtcHRBY3Rpb24odS5nZXRVc2VyS2V5KCksIEFjdGlvbi5HRVQsIGNvbnRhY3RzLnZhbHVlcygpLCBuZXcgVGVhbUNvbnRhY3RzUGVybWlzc2lvbkNoZWNrZXIodGVhbXNGb3JDb250YWN0cykpOwoJCQkJcmV0VmFsID0gY29udGFjdHM7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJSW1tdXRhYmxlRW50aXR5S2V5LmNyZWF0ZShyYXdLZXkpKTsK</text>
+        <text encoding="base64">CQkJCQlyb3dTZXRCdWlsZGVyLmFkZFJvCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5yZXdhcmRseS5tYWlsZm9vLmRhdGFtb2RlbC5UZWFtOwo=</text>
+        <text encoding="base64">CQlTeXN0ZW0uZXJyLnByaW50bG4oIlRlYW1Db250YWN0UmVzcG9uc2VPYnNlcnZlciBvbkVycm9yOiIpOwoJCXRocm93YWJsZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJCQkJCQkJCQkJCQkJCSAgLmFkZEZpbHRlcnMoUm93RmlsdGVyLm5ld0J1aWxkZXIoKQoJCQkJCQkJCQkJCQkJCQkJCQkJCQkgICAuc2V0Q2VsbHNQZXJDb2x1bW5MaW1pdEZpbHRlcigxKQoJCQkJCQkJCQkJCQkJCQkJCQkJCQkgICAuYnVpbGQoKSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQlyZXR1cm4gbmV3IEhhc2hTZXQ8PigpOwo=</text>
+        <text encoding="base64">CXB1YmxpYyBIYXNoU2V0PEltbXV0YWJsZUVudGl0eUtleTxUZWFtQ29udGFjdD4+IGdldFRlYW1Db250YWN0S2V5cygpIHsKCQlyZXR1cm4gdGVhbUNvbnRhY3RLZXlzOwoJfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQljYXRjaCAoIGUpIHsKCQkJZS5wcmludFN0YWNrVHJhY2UoKTsKCQl9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJCUVudGl0eSBlbnRpdHkgPSBFbnRpdHkubmV3QnVpbGRlcih0ZWFtS2V5LmdldFJhdygpKS5idWlsZCgpOwo=</text>
+        <text encoding="base64">CQljYXRjaCAoSW50ZXJydXB0ZWRFeGNlcHRpb24gaWdub3JlZCkgewoJCX0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJCUVudGl0eVRyYW5zbGF0b3IuY29udmVydFRvUGIoZW50aXR5KQo=</text>
+        <text encoding="base64">CQkJZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJCQkJCQkJCQkuc2V0Q29uc2lzdGVudElkKGVudGl0eVBhaXIuYi5nZXRQcm9wZXJ0aWVzTWFwKCkKCQkJCQkJCQkJCQkJCQkJCQkJIC5nZXQoImNvbnNpc3RlbnRJZCIpLmdldFN0cmluZ1ZhbHVlKCkpCg==</text>
+        <text encoding="base64">CQkJdGhyb3cgbmV3IFJ1bnRpbWVFeGNlcHRpb24oIlRpbWVvdXQgZmV0Y2hpbmcgdGVhbWNvbnRhY3RrZXlzIik7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJcmV0dXJuIG9ic2VydmVyLmdldFRlYW1Db250YWN0S2V5cygpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -242,7 +242,6 @@
         <entry>{</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/System.out.println/Assert.assertNotNull</entry>
         <entry>%s/internalUsers/isInternal</entry>
         <entry encoding="base64">JzwsJz5zL25ldyBNZXNzYWdlTm9kZSgvLw==</entry>
         <entry encoding="base64">JzwsJz5zL05vZGUvLw==</entry>
@@ -261,6 +260,7 @@
         <entry>q</entry>
         <entry>wq</entry>
         <entry encoding="base64">JzwsJz5zL2dldFNwYW5uZXJGaWVsZHMvYXNTcGFubmVyRmllbGRzL2c=</entry>
+        <entry>w\</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
