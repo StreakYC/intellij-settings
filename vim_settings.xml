@@ -18,11 +18,12 @@
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/google/cloud/datastore/EntityUtil.java" timestamp="1553627182547">
         <mark key="[" line="12" column="5" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/caching/BigtableCache.java" timestamp="1553725074199">
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/caching/BigtableCache.java" timestamp="1553728689631">
         <mark key="'" line="152" column="20" />
-        <mark key="[" line="152" column="0" />
-        <mark key="]" line="152" column="0" />
-        <mark key="." line="152" column="0" />
+        <mark key="[" line="218" column="76" />
+        <mark key="]" line="218" column="110" />
+        <mark key="." line="218" column="110" />
+        <mark key="^" line="218" column="110" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/messageaccessengine/models/LazyContext.java" timestamp="1553276011495">
         <mark key="[" line="51" column="4" />
@@ -158,11 +159,11 @@
       <jump line="155" column="20" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/caching/BigtableCache.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>CACHE_FAMILY</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>CACHE_FAMILY</text>
       </register>
       <register name="/" type="4">
         <text>{</text>
