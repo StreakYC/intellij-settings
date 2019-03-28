@@ -18,13 +18,14 @@
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/google/cloud/datastore/EntityUtil.java" timestamp="1553627182547">
         <mark key="[" line="12" column="5" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/caching/BigtableCache.java" timestamp="1553731672921">
-        <mark key="'" line="152" column="20" />
-        <mark key="[" line="189" column="40" />
-        <mark key="]" line="221" column="110" />
-        <mark key="." line="221" column="110" />
-        <mark key="^" line="221" column="110" />
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/caching/BigtableCache.java" timestamp="1553734353417">
+        <mark key="'" line="151" column="20" />
+        <mark key="[" line="189" column="89" />
+        <mark key="]" line="189" column="88" />
+        <mark key="." line="189" column="88" />
+        <mark key="^" line="213" column="41" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/google/api/grpc/proto-google-cloud-bigtable-v2/0.20.1/proto-google-cloud-bigtable-v2-0.20.1-sources.jar!/com/google/bigtable/v2/MutateRowsRequest.java" timestamp="1553733575143" />
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/messageaccessengine/models/LazyContext.java" timestamp="1553276011495">
         <mark key="[" line="51" column="4" />
         <mark key="]" line="51" column="4" />
@@ -159,8 +160,8 @@
       <jump line="155" column="20" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/caching/BigtableCache.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>CACHE_FAMILY</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQkJCQkJaW5kZXhNdXRhdGlvbkVudHJpZXMuYWRkKGVudHJ5KTsK</text>
       </register>
       <register name="-" type="4">
         <text>CACHE_FAMILY</text>
@@ -169,7 +170,7 @@
         <text>{</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQkJCU1hcDxJbW11dGFibGVFbnRpdHlLZXk8VGVhbUNvbnRhY3Q+LCBUZWFtQ29udGFjdD4gY29udGFjdHMgPSBEQU8uZ2V0SW1tdXRhYmxlRW50aXRpZXModGVhbUNvbnRhY3RLZXlzKTsKCQkJCU1hcDxLZXk8VGVhbT4sIFRlYW0+IHRlYW1zRm9yQ29udGFjdHMgPSBEQU8uZ2V0RW50aXRpZXMoVGVhbS5nZXRUZWFtS2V5c0ZvclNjb3BlZFRvVGVhbU9iamVjdHMoY29udGFjdHMudmFsdWVzKCkpKTsKCQkJCWFtLmF0dGVtcHRBY3Rpb24odS5nZXRVc2VyS2V5KCksIEFjdGlvbi5HRVQsIGNvbnRhY3RzLnZhbHVlcygpLCBuZXcgVGVhbUNvbnRhY3RzUGVybWlzc2lvbkNoZWNrZXIodGVhbXNGb3JDb250YWN0cykpOwoJCQkJcmV0VmFsID0gY29udGFjdHM7Cg==</text>
+        <text encoding="base64">CQkJCQkJaW5kZXhNdXRhdGlvbkVudHJpZXMuYWRkKGVudHJ5KTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
