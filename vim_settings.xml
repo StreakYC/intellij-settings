@@ -18,7 +18,7 @@
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/google/cloud/datastore/EntityUtil.java" timestamp="1553627182547">
         <mark key="[" line="12" column="5" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/caching/BigtableCache.java" timestamp="1553734353417">
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/caching/BigtableCache.java" timestamp="1553735318863">
         <mark key="'" line="151" column="20" />
         <mark key="[" line="189" column="89" />
         <mark key="]" line="189" column="88" />
@@ -39,15 +39,15 @@
         <mark key="]" line="30" column="0" />
         <mark key="." line="30" column="0" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/bigtable/BigtableAccessObject.java" timestamp="1553635119420">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/bigtable/BigtableAccessObject.java" timestamp="1553735558503">
+        <mark key="[" line="105" column="39" />
+        <mark key="]" line="105" column="39" />
+        <mark key="." line="105" column="39" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/caching/BigtableCacheWriter.java" timestamp="1553647165852">
         <mark key="[" line="2" column="34" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/curls" timestamp="1553716316865">
+      <file name="$USER_HOME$/src/MailFoo/curls" timestamp="1553735510762">
         <mark key="[" line="89" column="12" />
         <mark key="]" line="89" column="12" />
         <mark key="." line="89" column="12" />
@@ -160,11 +160,11 @@
       <jump line="155" column="20" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/caching/BigtableCache.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQkJCQkJaW5kZXhNdXRhdGlvbkVudHJpZXMuYWRkKGVudHJ5KTsK</text>
+      <register name="&quot;" type="4">
+        <text>.getPath(0).getId()</text>
       </register>
       <register name="-" type="4">
-        <text>CACHE_FAMILY</text>
+        <text>.getPath(0).getId()</text>
       </register>
       <register name="/" type="4">
         <text>{</text>
@@ -172,32 +172,36 @@
       <register name="0" type="2">
         <text encoding="base64">CQkJCQkJaW5kZXhNdXRhdGlvbkVudHJpZXMuYWRkKGVudHJ5KTsK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>TeamEmailContactOrOrgKey.newBuilder()
+																 .setTeamKey(EntityUtil.toPb(teamKey.getRaw()).toByteString())
+																 .setEmailAddress(email)
+																 .build()
+																 .toByteString();</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkvLyBUT0RPOiBEZWxldGUgaW5kZXggZW50cmllcyBmb3IgZGVsZXRlZCBvciBtb2RpZmllZCBlbnRpdGllcwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJCQkJQnl0ZVN0cmluZyByb3dLZXkgPSBUZWFtRW1haWxDb250YWN0T3JPcmdLZXkubmV3QnVpbGRlcigpCgkJCQkJCQkJCQkJCQkJCQkJLnNldFRlYW1LZXkoZW50aXR5LmdldFByb3BlcnRpZXNNYXAoKS5nZXQoInRlYW1LZXkiKS5nZXRLZXlWYWx1ZSgpLnRvQnl0ZVN0cmluZygpKQoJCQkJCQkJCQkJCQkJCQkJCS5zZXRFbWFpbEFkZHJlc3MoZW1haWxBZGRyZXNzKQoJCQkJCQkJCQkJCQkJCQkJCS5zZXRDb25zaXN0ZW50SWQoZW50aXR5LmdldFByb3BlcnRpZXNNYXAoKQoJCQkJCQkJCQkJCQkJCQkJCQkJCQkJICAgLmdldCgiY29uc2lzdGVudElkIikuZ2V0U3RyaW5nVmFsdWUoKSkKCQkJCQkJCQkJCQkJCQkJCQkuYnVpbGQoKQoJCQkJCQkJCQkJCQkJCQkJCS50b0J5dGVTdHJpbmcoKTsK</text>
+        <text encoding="base64">CQkvLyBUT0RPOiBEZWxldGUgaW5kZXggZW50cmllcyBmb3IgZGVsZXRlZCBvciBtb2RpZmllZCBlbnRpdGllcwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJCQl9Cg==</text>
+        <text encoding="base64">CQkJCQkJQnl0ZVN0cmluZyByb3dLZXkgPSBUZWFtRW1haWxDb250YWN0T3JPcmdLZXkubmV3QnVpbGRlcigpCgkJCQkJCQkJCQkJCQkJCQkJLnNldFRlYW1LZXkoZW50aXR5LmdldFByb3BlcnRpZXNNYXAoKS5nZXQoInRlYW1LZXkiKS5nZXRLZXlWYWx1ZSgpLnRvQnl0ZVN0cmluZygpKQoJCQkJCQkJCQkJCQkJCQkJCS5zZXRFbWFpbEFkZHJlc3MoZW1haWxBZGRyZXNzKQoJCQkJCQkJCQkJCQkJCQkJCS5zZXRDb25zaXN0ZW50SWQoZW50aXR5LmdldFByb3BlcnRpZXNNYXAoKQoJCQkJCQkJCQkJCQkJCQkJCQkJCQkJICAgLmdldCgiY29uc2lzdGVudElkIikuZ2V0U3RyaW5nVmFsdWUoKSkKCQkJCQkJCQkJCQkJCQkJCQkuYnVpbGQoKQoJCQkJCQkJCQkJCQkJCQkJCS50b0J5dGVTdHJpbmcoKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJCQlmb3IgKFZhbHVlIGVtYWlsQWRkcmVzc1ZhbHVlIDogZW1haWxBZGRyZXNzZXMuZ2V0QXJyYXlWYWx1ZSgpLmdldFZhbHVlc0xpc3QoKSkgewoJCQkJCQlTdHJpbmcgZW1haWxBZGRyZXNzID0gZW1haWxBZGRyZXNzVmFsdWUuZ2V0U3RyaW5nVmFsdWUoKTsK</text>
+        <text encoding="base64">CQkJCQl9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJCQkvLyBkZWxldGUgb2xkIGxpbmUK</text>
+        <text encoding="base64">CQkJCQlmb3IgKFZhbHVlIGVtYWlsQWRkcmVzc1ZhbHVlIDogZW1haWxBZGRyZXNzZXMuZ2V0QXJyYXlWYWx1ZSgpLmdldFZhbHVlc0xpc3QoKSkgewoJCQkJCQlTdHJpbmcgZW1haWxBZGRyZXNzID0gZW1haWxBZGRyZXNzVmFsdWUuZ2V0U3RyaW5nVmFsdWUoKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCQkvLyBkZWxldGUgb2xkIGxpbmUK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CgkJLy8gb2theSwgdmlzaXRvciB3aXRoIE11dGF0ZVJvd3NSZXF1ZXN0IGlzIHByb2JhYmx5IHRoZSBlYXNpZXN0IHdheSB0byBzbGFtIGl0IGluCgkJLy8gdWdoaGhoaGgKCQkvLyB1dXV1Z2dnZ2doaGhoaGhoaGhoaGhoaGhoaGhoaGhoaAoJCS8vIGFsc28gZnVjayBwYWlyCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
