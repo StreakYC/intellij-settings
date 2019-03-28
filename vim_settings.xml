@@ -3,12 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataupdaters/getters/TeamContactGetter.java" timestamp="1553813561845">
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataupdaters/getters/TeamContactGetter.java" timestamp="1553814772397">
         <mark key="'" line="98" column="16" />
-        <mark key="[" line="99" column="125" />
-        <mark key="]" line="99" column="133" />
-        <mark key="." line="99" column="133" />
-        <mark key="^" line="99" column="133" />
+        <mark key="[" line="103" column="42" />
+        <mark key="]" line="103" column="42" />
+        <mark key="." line="103" column="42" />
+        <mark key="^" line="103" column="42" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/utils/Constants.java" timestamp="1553293880123">
         <mark key="[" line="272" column="31" />
@@ -24,11 +24,11 @@
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/google/cloud/datastore/EntityUtil.java" timestamp="1553627182547">
         <mark key="[" line="12" column="5" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/caching/BigtableCache.java" timestamp="1553811230347">
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/caching/BigtableCache.java" timestamp="1553814529076">
         <mark key="'" line="151" column="20" />
-        <mark key="[" line="188" column="80" />
-        <mark key="]" line="188" column="81" />
-        <mark key="." line="188" column="81" />
+        <mark key="[" line="192" column="0" />
+        <mark key="]" line="192" column="0" />
+        <mark key="." line="192" column="0" />
         <mark key="^" line="188" column="80" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/google/api/grpc/proto-google-cloud-bigtable-v2/0.20.1/proto-google-cloud-bigtable-v2-0.20.1-sources.jar!/com/google/bigtable/v2/MutateRowsRequest.java" timestamp="1553733575143" />
@@ -171,8 +171,8 @@
       <jump line="155" column="20" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/caching/BigtableCache.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Name</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQkJCXJldFYK</text>
       </register>
       <register name="-" type="4">
         <text>Name</text>
@@ -184,31 +184,31 @@
         <text encoding="base64">CQkJLmZvckFkZHJlc3MoIjEyNy4wLjAuMSIsIDgwODYpCgkJCS51c2VQbGFpbnRleHQoKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">dmFsdWUudG9TdHJpbmcoKQo=</text>
+        <text encoding="base64">CQkJCXJldFYK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJCQkuZm9yVGFyZ2V0KCJsb2NhbGhvc3Q6ODA4NiIpCg==</text>
+        <text encoding="base64">CQkJCQkJLypUZWFtRW1haWxDb250YWN0T3JPcmdLZXkubmV3QnVpbGRlcigpCgkJCQkJCQkJCQkJCQkJCQkuc2V0VGVhbUtleShlbnRpdHkuZ2V0UHJvcGVydGllc01hcCgpLmdldCgidGVhbUtleSIpLmdldEtleVZhbHVlKCkudG9CeXRlU3RyaW5nKCkpCgkJCQkJCQkJCQkJCQkJCQkuc2V0RW1haWxBZGRyZXNzKGVtYWlsQWRkcmVzcykKCQkJCQkJCQkJCQkJCQkJCS5zZXRDb25zaXN0ZW50SWQoZW50aXR5LmdldFByb3BlcnRpZXNNYXAoKQoJCQkJCQkJCQkJCQkJCQkJCQkJCQkgICAuZ2V0KCJjb25zaXN0ZW50SWQiKS5nZXRTdHJpbmdWYWx1ZSgpKQoJCQkJCQkJCQkJCQkJCQkJLmJ1aWxkKCkKCQkJCQkJCQkJCQkJCQkJCS50b0J5dGVTdHJpbmcoKTsqLwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJCQkvL2VuZEJzID0gQnl0ZVN0cmluZy5jb3B5RnJvbShuZXcgYnl0ZVtdeyhieXRlKSAweGZmfSk7Cg==</text>
+        <text encoding="base64">dmFsdWUudG9TdHJpbmcoKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJCQlzdGFydEJzID0gQnl0ZVN0cmluZy5jb3B5RnJvbShuZXcgYnl0ZVtdezB9KTsK</text>
+        <text encoding="base64">CQkJCQkuZm9yVGFyZ2V0KCJsb2NhbGhvc3Q6ODA4NiIpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJCQkJCQkuY2xlYXJTdGFydEtleSgpCg==</text>
+        <text encoding="base64">CQkJCQkvL2VuZEJzID0gQnl0ZVN0cmluZy5jb3B5RnJvbShuZXcgYnl0ZVtdeyhieXRlKSAweGZmfSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJCQkJCQkJCQkJIC5idWlsZCgpKQo=</text>
+        <text encoding="base64">CQkJCQlzdGFydEJzID0gQnl0ZVN0cmluZy5jb3B5RnJvbShuZXcgYnl0ZVtdezB9KTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJCQkJCQkJCQkJIC5zZXRSb3dzKFJvd1NldC5uZXdCdWlsZGVyKCkKCQkJCQkJCQkJCQkJCQkJCS5hZGRSb3dSYW5nZXMoUm93UmFuZ2UubmV3QnVpbGRlcigpCgoJCQkJCQkJCQkJCQkJCQkJCQkJCQkgIC5idWlsZCgpKQo=</text>
+        <text encoding="base64">CQkJCQkJCQkuY2xlYXJTdGFydEtleSgpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJU3lzdGVtLm91dC5wcmludGxuKGUpOwo=</text>
+        <text encoding="base64">CQkJCQkJCQkJCQkJIC5idWlsZCgpKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJU3Bhbm5lckJpZ3RhYmxlLmNyZWF0ZVN0dWIoKS4K</text>
+        <text encoding="base64">CQkJCQkJCQkJCQkJIC5zZXRSb3dzKFJvd1NldC5uZXdCdWlsZGVyKCkKCQkJCQkJCQkJCQkJCQkJCS5hZGRSb3dSYW5nZXMoUm93UmFuZ2UubmV3QnVpbGRlcigpCgoJCQkJCQkJCQkJCQkJCQkJCQkJCQkgIC5idWlsZCgpKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
