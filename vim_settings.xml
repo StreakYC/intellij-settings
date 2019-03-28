@@ -39,11 +39,11 @@
         <mark key="]" line="30" column="0" />
         <mark key="." line="30" column="0" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/bigtable/BigtableAccessObject.java" timestamp="1553806954839">
-        <mark key="[" line="116" column="20" />
-        <mark key="]" line="116" column="21" />
-        <mark key="." line="116" column="21" />
-        <mark key="^" line="116" column="21" />
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/bigtable/BigtableAccessObject.java" timestamp="1553808355640">
+        <mark key="[" line="116" column="51" />
+        <mark key="]" line="117" column="53" />
+        <mark key="." line="117" column="53" />
+        <mark key="^" line="117" column="53" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/caching/BigtableCacheWriter.java" timestamp="1553647165852">
         <mark key="[" line="2" column="34" />
@@ -163,10 +163,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>/</text>
+        <text>startBs</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>startBs</text>
       </register>
       <register name="/" type="4">
         <text>{</text>
@@ -175,35 +175,35 @@
         <text encoding="base64">CQkJCQkJaW5kZXhNdXRhdGlvbkVudHJpZXMuYWRkKGVudHJ5KTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJCQkJCQkJCQkJIC5idWlsZCgpKQo=</text>
+        <text encoding="base64">CQkJCQkJCQkuY2xlYXJTdGFydEtleSgpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJCQkJCQkJCQkJIC5zZXRSb3dzKFJvd1NldC5uZXdCdWlsZGVyKCkKCQkJCQkJCQkJCQkJCQkJCS5hZGRSb3dSYW5nZXMoUm93UmFuZ2UubmV3QnVpbGRlcigpCgoJCQkJCQkJCQkJCQkJCQkJCQkJCQkgIC5idWlsZCgpKQo=</text>
+        <text encoding="base64">CQkJCQkJCQkJCQkJIC5idWlsZCgpKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJU3lzdGVtLm91dC5wcmludGxuKGUpOwo=</text>
+        <text encoding="base64">CQkJCQkJCQkJCQkJIC5zZXRSb3dzKFJvd1NldC5uZXdCdWlsZGVyKCkKCQkJCQkJCQkJCQkJCQkJCS5hZGRSb3dSYW5nZXMoUm93UmFuZ2UubmV3QnVpbGRlcigpCgoJCQkJCQkJCQkJCQkJCQkJCQkJCQkgIC5idWlsZCgpKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJU3Bhbm5lckJpZ3RhYmxlLmNyZWF0ZVN0dWIoKS4K</text>
+        <text encoding="base64">CQkJU3lzdGVtLm91dC5wcmludGxuKGUpOwo=</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">CQkJU3Bhbm5lckJpZ3RhYmxlLmNyZWF0ZVN0dWIoKS4K</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">CQkJCQkJCQkJCQkJIC5zZXRGaQo=</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>TeamEmailContactOrOrgKey.newBuilder()
 																 .setTeamKey(EntityUtil.toPb(teamKey.getRaw()).toByteString())
 																 .setEmailAddress(email)
 																 .build()
 																 .toByteString();</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">CQkvLyBUT0RPOiBEZWxldGUgaW5kZXggZW50cmllcyBmb3IgZGVsZXRlZCBvciBtb2RpZmllZCBlbnRpdGllcwo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJCQkJQnl0ZVN0cmluZyByb3dLZXkgPSBUZWFtRW1haWxDb250YWN0T3JPcmdLZXkubmV3QnVpbGRlcigpCgkJCQkJCQkJCQkJCQkJCQkJLnNldFRlYW1LZXkoZW50aXR5LmdldFByb3BlcnRpZXNNYXAoKS5nZXQoInRlYW1LZXkiKS5nZXRLZXlWYWx1ZSgpLnRvQnl0ZVN0cmluZygpKQoJCQkJCQkJCQkJCQkJCQkJCS5zZXRFbWFpbEFkZHJlc3MoZW1haWxBZGRyZXNzKQoJCQkJCQkJCQkJCQkJCQkJCS5zZXRDb25zaXN0ZW50SWQoZW50aXR5LmdldFByb3BlcnRpZXNNYXAoKQoJCQkJCQkJCQkJCQkJCQkJCQkJCQkJICAgLmdldCgiY29uc2lzdGVudElkIikuZ2V0U3RyaW5nVmFsdWUoKSkKCQkJCQkJCQkJCQkJCQkJCQkuYnVpbGQoKQoJCQkJCQkJCQkJCQkJCQkJCS50b0J5dGVTdHJpbmcoKTsK</text>
+        <text encoding="base64">CQkvLyBUT0RPOiBEZWxldGUgaW5kZXggZW50cmllcyBmb3IgZGVsZXRlZCBvciBtb2RpZmllZCBlbnRpdGllcwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
