@@ -24,13 +24,6 @@
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/google/cloud/datastore/EntityUtil.java" timestamp="1553627182547">
         <mark key="[" line="12" column="5" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/caching/BigtableCache.java" timestamp="1553881698109">
-        <mark key="'" line="151" column="20" />
-        <mark key="[" line="185" column="87" />
-        <mark key="]" line="195" column="0" />
-        <mark key="." line="195" column="0" />
-        <mark key="^" line="191" column="80" />
-      </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/messageaccessengine/models/LazyContext.java" timestamp="1553276011495">
         <mark key="[" line="51" column="4" />
         <mark key="]" line="51" column="4" />
@@ -45,11 +38,23 @@
         <mark key="." line="21" column="77" />
         <mark key="^" line="22" column="8" />
       </file>
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/nondatastore/uiSettings/filters/DateFilterCondition.java" timestamp="1553885422874">
+        <mark key="[" line="142" column="15" />
+        <mark key="]" line="142" column="141" />
+        <mark key="^" line="142" column="141" />
+        <mark key="." line="142" column="141" />
+      </file>
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/rewardly/mailfoo/unittests/UISettingsTest.java" timestamp="1553885117403">
+        <mark key="'" line="122" column="0" />
+        <mark key="[" line="67" column="0" />
+        <mark key="]" line="67" column="0" />
+        <mark key="." line="67" column="0" />
+      </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/bigtable/BigtableAccessObject.java" timestamp="1553818113811">
-        <mark key="[" line="147" column="12" />
-        <mark key="]" line="147" column="41" />
-        <mark key="." line="147" column="41" />
-        <mark key="^" line="147" column="41" />
+        <mark key="[" line="2" column="12" />
+        <mark key="]" line="2" column="41" />
+        <mark key="." line="2" column="41" />
+        <mark key="^" line="2" column="41" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/caching/BigtableCacheWriter.java" timestamp="1553647165852">
         <mark key="[" line="2" column="34" />
@@ -60,14 +65,13 @@
         <mark key="." line="89" column="12" />
         <mark key="^" line="137" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1553811784285">
+      <file name="/fragment.java" timestamp="1553885364390">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="80" column="28" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/rewardly/mailfoo/unittests/MessageAccessIntegrationTests.java" />
       <jump line="81" column="28" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/rewardly/mailfoo/unittests/MessageAccessIntegrationTests.java" />
       <jump line="82" column="28" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/rewardly/mailfoo/unittests/MessageAccessIntegrationTests.java" />
       <jump line="83" column="28" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/rewardly/mailfoo/unittests/MessageAccessIntegrationTests.java" />
@@ -167,6 +171,7 @@
       <jump line="17" column="12" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataupdaters/creators/UnifiedMessageCreator.java" />
       <jump line="98" column="16" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataupdaters/getters/TeamContactGetter.java" />
       <jump line="155" column="20" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/caching/BigtableCache.java" />
+      <jump line="122" column="0" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/rewardly/mailfoo/unittests/UISettingsTest.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -176,7 +181,7 @@
         <text>/</text>
       </register>
       <register name="/" type="4">
-        <text>{</text>
+        <text>\/\/</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQkJLmZvckFkZHJlc3MoIjEyNy4wLjAuMSIsIDgwODYpCgkJCS51c2VQbGFpbnRleHQoKQo=</text>
@@ -213,17 +218,16 @@
       </register>
     </registers>
     <search>
-      <last-search>{</last-search>
+      <last-search>\/\/</last-search>
       <last-offset />
-      <last-pattern>{</last-pattern>
-      <last-replace>asSpannerFields</last-replace>
-      <last-substitute>getSpannerFields</last-substitute>
+      <last-pattern>\/\/</last-pattern>
+      <last-replace />
+      <last-substitute>\/\/</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>spanner</entry>
         <entry>mailboxes</entry>
         <entry>DefaultEdge</entry>
         <entry>String</entry>
@@ -243,9 +247,9 @@
         <entry>threads</entry>
         <entry>getSpannerFields</entry>
         <entry>{</entry>
+        <entry>\/\/</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/internalUsers/isInternal</entry>
         <entry encoding="base64">JzwsJz5zL25ldyBNZXNzYWdlTm9kZSgvLw==</entry>
         <entry encoding="base64">JzwsJz5zL05vZGUvLw==</entry>
         <entry encoding="base64">JzwsJz5zL21haWxib3hlcy9maWxlcw==</entry>
@@ -264,6 +268,7 @@
         <entry>wq</entry>
         <entry encoding="base64">JzwsJz5zL2dldFNwYW5uZXJGaWVsZHMvYXNTcGFubmVyRmllbGRzL2c=</entry>
         <entry>w\</entry>
+        <entry encoding="base64">JzwsJz5zL1wvXC8vLw==</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
