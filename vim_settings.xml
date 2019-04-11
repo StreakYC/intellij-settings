@@ -10,8 +10,6 @@
         <mark key="." line="103" column="25" />
         <mark key="^" line="103" column="42" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/admin/AdminEnvelopeServlet.java" timestamp="1554164891655" />
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/listeners/RemoteContextListener.java" timestamp="1554164172382" />
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/utils/Constants.java" timestamp="1553293880123">
         <mark key="[" line="272" column="31" />
         <mark key="]" line="272" column="31" />
@@ -26,7 +24,6 @@
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/google/cloud/datastore/EntityUtil.java" timestamp="1553627182547">
         <mark key="[" line="12" column="5" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/tasks/BulkTaskEnqueuer.java" timestamp="1554164564686" />
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/caching/BigtableCache.java" timestamp="1554237687258">
         <mark key="[" line="191" column="42" />
         <mark key="]" line="191" column="95" />
@@ -38,7 +35,6 @@
         <mark key="]" line="51" column="4" />
         <mark key="." line="51" column="4" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/filters/StreakAdminFilter.java" timestamp="1554162920830" />
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/caching/TeamContactByEmail.java" timestamp="1553643631152">
         <mark key="[" line="2" column="31" />
       </file>
@@ -54,7 +50,6 @@
         <mark key="^" line="142" column="141" />
         <mark key="." line="142" column="141" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/filters/OpenCensusFilter.java" timestamp="1554149636189" />
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/bigtable/BigtableAccessObject.java" timestamp="1554237679904">
         <mark key="[" line="108" column="126" />
         <mark key="]" line="108" column="127" />
@@ -64,12 +59,10 @@
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/caching/BigtableCacheWriter.java" timestamp="1553647165852">
         <mark key="[" line="2" column="34" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/filters/ExtractRequestDataFilter.java" timestamp="1554163364031" />
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataupdaters/getters/ThreadInfoGetter.java" timestamp="1554149021862" />
-      <file name="$USER_HOME$/src/MailFoo/curls" timestamp="1554165304030">
-        <mark key="[" line="42" column="43" />
-        <mark key="]" line="41" column="979" />
-        <mark key="." line="41" column="979" />
+      <file name="$USER_HOME$/src/MailFoo/curls" timestamp="1555001993081">
+        <mark key="[" line="128" column="70" />
+        <mark key="]" line="128" column="70" />
+        <mark key="." line="128" column="70" />
         <mark key="^" line="41" column="979" />
       </file>
       <file name="/fragment.java" timestamp="1553885364390">
@@ -182,52 +175,52 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>%5B%22166ade52c03410c1%22%2C%22166ade0eea995aed%22%2C%22166adde9d0ccdc1b%22%2C%22166a8b89cf3adc6d%22%2C%22166add96d1a8e184%22%2C%22166ad55904c65172%22%2C%22166ac4be608bed5b%22%2C%22166adbdf550b47bd%22%2C%22166adb6b63074a50%22%2C%22166adaa1fe37d4c7%22%2C%22166ad16b2213cf18%22%2C%2216511711f4b8b99a%22%2C%22166ada5e7ad0e4b4%22%2C%22166ada035d9d90fe%22%2C%22166ad9dca5d8bfd9%22%2C%22166ad9a4c6709608%22%2C%22166ad98e331542bc%22%2C%22166ad3a0a795895b%22%2C%22166ad8f9b8e5ac56%22%2C%22166ad756f5dccbcd%22%2C%22166ad750b2de6909%22%2C%22166ad750969560d2%22%2C%22166ad74ff96ac24e%22%2C%22166ad74fb5f5518d%22%2C%22166ad725c902a6bd%22%2C%22166ad6aaf3d66ca3%22%2C%22166ad699454bda38%22%2C%22166a8a2fbe0ea192%22%2C%22166ad64ebc7b221f%22%2C%22166ad5a03a4e8342%22%2C%22166ad5b543129877%22%2C%22166ad5267f3152da%22%2C%22166ac5f3c44c0c7f%22%2C%22166ac0ed3cb31919%22%2C%22166ad33aa1c57141%22%2C%22166ad3a5149ee656%22%2C%22166ad32d88b3d21e%22%2C%22166ad2e257f7c91c%22%2C%22166abca5a4564ede%22%2C%22166ad13f62a85e2f%22%2C%22166ad16694d84425%22%2C%22166ad0fa53a2ac4d%22%2C%22166ad0adc296c1ac%22%2C%22166ad0a16aea51ff%22%2C%22166acfc317ffafaa%22%2C%22166ad02f1feabdc9%22%2C%22166acff40c09bae9%22%2C%22165920973fa291dd%22%2C%22166acfbcd332dacc%22%2C%22166acf8aaaccd3ca%22%5D</text>
+        <text>dan@imotionvideo.com</text>
       </register>
       <register name="-" type="4">
-        <text>%5B%22166ade52c03410c1%22%2C%22166ade0eea995aed%22%2C%22166adde9d0ccdc1b%22%2C%22166a8b89cf3adc6d%22%2C%22166add96d1a8e184%22%2C%22166ad55904c65172%22%2C%22166ac4be608bed5b%22%2C%22166adbdf550b47bd%22%2C%22166adb6b63074a50%22%2C%22166adaa1fe37d4c7%22%2C%22166ad16b2213cf18%22%2C%2216511711f4b8b99a%22%2C%22166ada5e7ad0e4b4%22%2C%22166ada035d9d90fe%22%2C%22166ad9dca5d8bfd9%22%2C%22166ad9a4c6709608%22%2C%22166ad98e331542bc%22%2C%22166ad3a0a795895b%22%2C%22166ad8f9b8e5ac56%22%2C%22166ad756f5dccbcd%22%2C%22166ad750b2de6909%22%2C%22166ad750969560d2%22%2C%22166ad74ff96ac24e%22%2C%22166ad74fb5f5518d%22%2C%22166ad725c902a6bd%22%2C%22166ad6aaf3d66ca3%22%2C%22166ad699454bda38%22%2C%22166a8a2fbe0ea192%22%2C%22166ad64ebc7b221f%22%2C%22166ad5a03a4e8342%22%2C%22166ad5b543129877%22%2C%22166ad5267f3152da%22%2C%22166ac5f3c44c0c7f%22%2C%22166ac0ed3cb31919%22%2C%22166ad33aa1c57141%22%2C%22166ad3a5149ee656%22%2C%22166ad32d88b3d21e%22%2C%22166ad2e257f7c91c%22%2C%22166abca5a4564ede%22%2C%22166ad13f62a85e2f%22%2C%22166ad16694d84425%22%2C%22166ad0fa53a2ac4d%22%2C%22166ad0adc296c1ac%22%2C%22166ad0a16aea51ff%22%2C%22166acfc317ffafaa%22%2C%22166ad02f1feabdc9%22%2C%22166acff40c09bae9%22%2C%22165920973fa291dd%22%2C%22166acfbcd332dacc%22%2C%22166acf8aaaccd3ca%22%5D</text>
+        <text>dan@imotionvideo.com</text>
       </register>
       <register name="/" type="4">
-        <text>\/\/</text>
+        <text>&quot;</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQkJLmZvckFkZHJlc3MoIjEyNy4wLjAuMSIsIDgwODYpCgkJCS51c2VQbGFpbnRleHQoKQo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">CQkJCQkuZm9yQWRkcmVzcygiMTI3LjAuMC4xIiwgODA4NikudXNlUGxhaW50ZXh0KCkK</text>
+      <register name="1" type="4">
+        <text>dan@imotionvideo.com</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJCXJldFYK</text>
+        <text encoding="base64">CQkJCQkuZm9yQWRkcmVzcygiMTI3LjAuMC4xIiwgODA4NikudXNlUGxhaW50ZXh0KCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJCQkJLypUZWFtRW1haWxDb250YWN0T3JPcmdLZXkubmV3QnVpbGRlcigpCgkJCQkJCQkJCQkJCQkJCQkuc2V0VGVhbUtleShlbnRpdHkuZ2V0UHJvcGVydGllc01hcCgpLmdldCgidGVhbUtleSIpLmdldEtleVZhbHVlKCkudG9CeXRlU3RyaW5nKCkpCgkJCQkJCQkJCQkJCQkJCQkuc2V0RW1haWxBZGRyZXNzKGVtYWlsQWRkcmVzcykKCQkJCQkJCQkJCQkJCQkJCS5zZXRDb25zaXN0ZW50SWQoZW50aXR5LmdldFByb3BlcnRpZXNNYXAoKQoJCQkJCQkJCQkJCQkJCQkJCQkJCQkgICAuZ2V0KCJjb25zaXN0ZW50SWQiKS5nZXRTdHJpbmdWYWx1ZSgpKQoJCQkJCQkJCQkJCQkJCQkJLmJ1aWxkKCkKCQkJCQkJCQkJCQkJCQkJCS50b0J5dGVTdHJpbmcoKTsqLwo=</text>
+        <text encoding="base64">CQkJCXJldFYK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">dmFsdWUudG9TdHJpbmcoKQo=</text>
+        <text encoding="base64">CQkJCQkJLypUZWFtRW1haWxDb250YWN0T3JPcmdLZXkubmV3QnVpbGRlcigpCgkJCQkJCQkJCQkJCQkJCQkuc2V0VGVhbUtleShlbnRpdHkuZ2V0UHJvcGVydGllc01hcCgpLmdldCgidGVhbUtleSIpLmdldEtleVZhbHVlKCkudG9CeXRlU3RyaW5nKCkpCgkJCQkJCQkJCQkJCQkJCQkuc2V0RW1haWxBZGRyZXNzKGVtYWlsQWRkcmVzcykKCQkJCQkJCQkJCQkJCQkJCS5zZXRDb25zaXN0ZW50SWQoZW50aXR5LmdldFByb3BlcnRpZXNNYXAoKQoJCQkJCQkJCQkJCQkJCQkJCQkJCQkgICAuZ2V0KCJjb25zaXN0ZW50SWQiKS5nZXRTdHJpbmdWYWx1ZSgpKQoJCQkJCQkJCQkJCQkJCQkJLmJ1aWxkKCkKCQkJCQkJCQkJCQkJCQkJCS50b0J5dGVTdHJpbmcoKTsqLwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJCQkuZm9yVGFyZ2V0KCJsb2NhbGhvc3Q6ODA4NiIpCg==</text>
+        <text encoding="base64">dmFsdWUudG9TdHJpbmcoKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJCQkvL2VuZEJzID0gQnl0ZVN0cmluZy5jb3B5RnJvbShuZXcgYnl0ZVtdeyhieXRlKSAweGZmfSk7Cg==</text>
+        <text encoding="base64">CQkJCQkuZm9yVGFyZ2V0KCJsb2NhbGhvc3Q6ODA4NiIpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJCQlzdGFydEJzID0gQnl0ZVN0cmluZy5jb3B5RnJvbShuZXcgYnl0ZVtdezB9KTsK</text>
+        <text encoding="base64">CQkJCQkvL2VuZEJzID0gQnl0ZVN0cmluZy5jb3B5RnJvbShuZXcgYnl0ZVtdeyhieXRlKSAweGZmfSk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJCQkJCQkuY2xlYXJTdGFydEtleSgpCg==</text>
+        <text encoding="base64">CQkJCQlzdGFydEJzID0gQnl0ZVN0cmluZy5jb3B5RnJvbShuZXcgYnl0ZVtdezB9KTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJCQkJCQkJCQkJIC5idWlsZCgpKQo=</text>
+        <text encoding="base64">CQkJCQkJCQkuY2xlYXJTdGFydEtleSgpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>\/\/</last-search>
+      <last-search>&quot;</last-search>
       <last-offset />
-      <last-pattern>\/\/</last-pattern>
+      <last-pattern>&quot;</last-pattern>
       <last-replace />
       <last-substitute>\/\/</last-substitute>
       <last-dir>1</last-dir>
@@ -240,7 +233,6 @@
         <entry>String</entry>
         <entry>Message</entry>
         <entry>^</entry>
-        <entry>&quot;</entry>
         <entry>requesterKey</entry>
         <entry>requester</entry>
         <entry>testD</entry>
@@ -255,6 +247,7 @@
         <entry>getSpannerFields</entry>
         <entry>{</entry>
         <entry>\/\/</entry>
+        <entry>&quot;</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL25ldyBNZXNzYWdlTm9kZSgvLw==</entry>
