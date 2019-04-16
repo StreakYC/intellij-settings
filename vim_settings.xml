@@ -4,17 +4,18 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/bigtable/MessageAccessEngine.java" timestamp="1555357591954" />
-      <file name="$USER_HOME$/src/MailFoo/containers/src/main/java/com/streak/emailmanager/MessageSaver.java" timestamp="1555451095323">
-        <mark key="[" line="98" column="9" />
-        <mark key="]" line="100" column="43" />
-        <mark key="^" line="100" column="43" />
-        <mark key="." line="100" column="43" />
+      <file name="$USER_HOME$/src/MailFoo/containers/src/main/java/com/streak/emailmanager/MessageSaver.java" timestamp="1555451885880">
+        <mark key="[" line="83" column="0" />
+        <mark key="]" line="98" column="74" />
+        <mark key="^" line="98" column="74" />
+        <mark key="." line="98" column="74" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/bigtable/SpannerBigtable.java" timestamp="1555448586303">
-        <mark key="'" line="787" column="28" />
-        <mark key="[" line="824" column="0" />
-        <mark key="]" line="824" column="0" />
-        <mark key="." line="824" column="0" />
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/bigtable/SpannerBigtable.java" timestamp="1555452049937">
+        <mark key="'" line="776" column="15" />
+        <mark key="[" line="786" column="0" />
+        <mark key="]" line="786" column="0" />
+        <mark key="." line="786" column="0" />
+        <mark key="^" line="781" column="91" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/caching/BigtableCache.java" timestamp="1554237687258">
         <mark key="[" line="191" column="42" />
@@ -74,7 +75,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="83" column="28" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/rewardly/mailfoo/unittests/MessageAccessIntegrationTests.java" />
       <jump line="84" column="28" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/rewardly/mailfoo/unittests/MessageAccessIntegrationTests.java" />
       <jump line="85" column="28" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/rewardly/mailfoo/unittests/MessageAccessIntegrationTests.java" />
       <jump line="86" column="28" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/rewardly/mailfoo/unittests/MessageAccessIntegrationTests.java" />
@@ -174,63 +174,63 @@
       <jump line="122" column="0" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/rewardly/mailfoo/unittests/UISettingsTest.java" />
       <jump line="205" column="36" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/caching/BigtableCache.java" />
       <jump line="781" column="28" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/bigtable/SpannerBigtable.java" />
+      <jump line="776" column="15" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/bigtable/SpannerBigtable.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CQkvKgoJCWZvciAoU3RydWN0IGZpbGUgOiBmaWxlcykgewoJCQlidWlsZGVyLmFkZEZpbGVzQnVpbGRlcigpCgkJCQkgICAuc2V0QXR0YWNobWVudElkKGZpbGUuZ2V0U3RyaW5nKCJhdHRhY2htZW50SWQiKSkKCQkJCSAgIC5zZXRNaW1lVHlwZShmaWxlLmdldFN0cmluZygibWltZVR5cGUiKSkKCQkJCSAgIC5zZXROYW1lKGZpbGUuZ2V0U3RyaW5nKCJuYW1lIikpCgkJCQkgICAuc2V0U2l6ZShmaWxlLmdldExvbmcoInNpemUiKSk7CgkJfQoJCSovCg==</text>
+        <text encoding="base64">CQlidWlsZGVyOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>.getPartId())</text>
+        <text>aLong</text>
       </register>
       <register name="/" type="4">
-        <text>rawMessage</text>
+        <text>builder</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQkJCQkJCW1haWxib3hCdWlsZGVyLnNldElzQ2ModHJ1ZSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkvKgoJCWZvciAoU3RydWN0IGZpbGUgOiBmaWxlcykgewoJCQlidWlsZGVyLmFkZEZpbGVzQnVpbGRlcigpCgkJCQkgICAuc2V0QXR0YWNobWVudElkKGZpbGUuZ2V0U3RyaW5nKCJhdHRhY2htZW50SWQiKSkKCQkJCSAgIC5zZXRNaW1lVHlwZShmaWxlLmdldFN0cmluZygibWltZVR5cGUiKSkKCQkJCSAgIC5zZXROYW1lKGZpbGUuZ2V0U3RyaW5nKCJuYW1lIikpCgkJCQkgICAuc2V0U2l6ZShmaWxlLmdldExvbmcoInNpemUiKSk7CgkJfQoJCSovCg==</text>
+        <text encoding="base64">CQlidWlsZGVyOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJCQkJCS5zZXQK</text>
+        <text encoding="base64">CQliCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQlhZGRGaWxlcyhidWlsZGVyLCBtZXNzYWdlLmdldCkK</text>
+        <text encoding="base64">CQkvKgoJCWZvciAoU3RydWN0IGZpbGUgOiBmaWxlcykgewoJCQlidWlsZGVyLmFkZEZpbGVzQnVpbGRlcigpCgkJCQkgICAuc2V0QXR0YWNobWVudElkKGZpbGUuZ2V0U3RyaW5nKCJhdHRhY2htZW50SWQiKSkKCQkJCSAgIC5zZXRNaW1lVHlwZShmaWxlLmdldFN0cmluZygibWltZVR5cGUiKSkKCQkJCSAgIC5zZXROYW1lKGZpbGUuZ2V0U3RyaW5nKCJuYW1lIikpCgkJCQkgICAuc2V0U2l6ZShmaWxlLmdldExvbmcoInNpemUiKSk7CgkJfQoJCSovCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQl9CgkJZm9yIChTdHJ1Y3QgZmlsZSA6IGZpbGVzKSB7Cg==</text>
+        <text encoding="base64">CQkJCQkJCS5zZXQK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQlMaXN0PFN0cnVjdD4gZmlsZXMgPSBzLmdldFN0cnVjdExpc3QoImZpbGVzIik7Cg==</text>
+        <text encoding="base64">CQlhZGRGaWxlcyhidWlsZGVyLCBtZXNzYWdlLmdldCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQlpZiAoIXMuaXNOdWxsKCJyZmNNZXNzYWdlSWQiKSkgewoJCQlidWlsZGVyLnNldFJmY01lc3NhZ2VJZChzLmdldFN0cmluZygicmZjTWVzc2FnZUlkIikpOwoJCX0K</text>
+        <text encoding="base64">CQl9CgkJZm9yIChTdHJ1Y3QgZmlsZSA6IGZpbGVzKSB7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQlidWlsZGVyLnNldFNlZW5PbkluZGV4UnVuKHMuZ2V0TG9uZygic2Vlbk9uSW5kZXhSdW4iKSk7Cg==</text>
+        <text encoding="base64">CQlMaXN0PFN0cnVjdD4gZmlsZXMgPSBzLmdldFN0cnVjdExpc3QoImZpbGVzIik7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQlMaXN0PFN0cnVjdD4gbWFpbGJveGVzID0gcy5nZXRTdHJ1Y3RMaXN0KCJtYWlsYm94ZXMiKTsKCQlmb3IgKFN0cnVjdCBtYWlsYm94IDogbWFpbGJveGVzKSB7CgkJCU1lc3NhZ2VNYWlsYm94LkJ1aWxkZXIgbWFpbGJveEJ1aWxkZXIgPSBidWlsZGVyLmFkZE1haWxib3hlc0J1aWxkZXIoKQoJCQkJCQkJCQkJCQkJCSAgIC5zZXRNYWlsYm94RW1haWwobWFpbGJveC5nZXRTdHJpbmcoIm1haWxib3hFbWFpbCIpKQoJCQkJCQkJCQkJCQkJCSAgIC5zZXRJc0JjYyghbWFpbGJveC5pc051bGwoImlzQmNjIikpCgkJCQkJCQkJCQkJCQkJICAgLnNldElzQ2MoIW1haWxib3guaXNOdWxsKCJpc0NjIikpCgkJCQkJCQkJCQkJCQkJICAgLnNldElzRGVsaXZlcmVkVG8oIW1haWxib3guaXNOdWxsKCJpc0RlbGl2ZXJlZFRvIikpCgkJCQkJCQkJCQkJCQkJICAgLnNldElzRnJvbSghbWFpbGJveC5pc051bGwoImlzRnJvbSIpKQoJCQkJCQkJCQkJCQkJCSAgIC5zZXRJc1RvKCFtYWlsYm94LmlzTnVsbCgiaXNUbyIpKTsKCQkJaWYgKCFtYWlsYm94LmlzTnVsbCgibWFpbGJveERvbWFpbiIpKSB7CgkJCQltYWlsYm94QnVpbGRlci5zZXRNYWlsYm94RG9tYWluKG1haWxib3guZ2V0U3RyaW5nKCJtYWlsYm94RG9tYWluIikpOwoJCQl9CgkJCWlmICghbWFpbGJveC5pc051bGwoIm1haWxib3hOYW1lIikpIHsKCQkJCW1haWxib3hCdWlsZGVyLnNldE1haWxib3hOYW1lKG1haWxib3guZ2V0U3RyaW5nKCJtYWlsYm94TmFtZSIpKTsKCQkJfQoJCX0K</text>
+        <text encoding="base64">CQlpZiAoIXMuaXNOdWxsKCJyZmNNZXNzYWdlSWQiKSkgewoJCQlidWlsZGVyLnNldFJmY01lc3NhZ2VJZChzLmdldFN0cmluZygicmZjTWVzc2FnZUlkIikpOwoJCX0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQlpZiAoIXMuaXNOdWxsKCJsaXN0SWQiKSkgewoJCQlidWlsZGVyLnNldExpc3RJZChzLmdldFN0cmluZygibGlzdElkIikpOwoJCX0K</text>
+        <text encoding="base64">CQlidWlsZGVyLnNldFNlZW5PbkluZGV4UnVuKHMuZ2V0TG9uZygic2Vlbk9uSW5kZXhSdW4iKSk7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text encoding="base64">JzwsJz5zL2J1aWxkZXIvLw==</text>
       </register>
     </registers>
     <search>
-      <last-search>rawMessage</last-search>
+      <last-search>builder</last-search>
       <last-offset />
-      <last-pattern>rawMessage</last-pattern>
-      <last-replace>message</last-replace>
-      <last-substitute>rawMessage</last-substitute>
+      <last-pattern>builder</last-pattern>
+      <last-replace />
+      <last-substitute>builder</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>DefaultEdge</entry>
         <entry>String</entry>
         <entry>Message</entry>
         <entry>^</entry>
@@ -250,9 +250,9 @@
         <entry>\/\/</entry>
         <entry>&quot;</entry>
         <entry>rawMessage</entry>
+        <entry>builder</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zL05vZGUvLw==</entry>
         <entry encoding="base64">JzwsJz5zL21haWxib3hlcy9maWxlcw==</entry>
         <entry>%s/DefaultEdge/Edge</entry>
         <entry encoding="base64">JzwsJz5zL1N0cmluZy9pbnQ=</entry>
@@ -272,6 +272,7 @@
         <entry encoding="base64">JzwsJz5zL1wvXC8vLw==</entry>
         <entry encoding="base64">JzwsJz5zL3Jhd01lc3NhZ2UvbWVzc2FnZQ==</entry>
         <entry>w</entry>
+        <entry encoding="base64">JzwsJz5zL2J1aWxkZXIvLw==</entry>
       </history-cmd>
       <history-expr />
       <history-input />
