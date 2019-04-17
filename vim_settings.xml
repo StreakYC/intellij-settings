@@ -20,7 +20,12 @@
         <mark key="]" line="17" column="52" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/tasks/casecomponentupdaters/CaseGmailThreadUpdater.java" timestamp="1555537548749" />
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/tasks/casecomponentupdaters/CaseGmailThreadUpdater.java" timestamp="1555538572459">
+        <mark key="[" line="238" column="94" />
+        <mark key="]" line="238" column="94" />
+        <mark key="." line="238" column="94" />
+        <mark key="^" line="238" column="93" />
+      </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataupdaters/getters/ThreadInfoGetter.java" timestamp="1555091103615" />
       <file name="$USER_HOME$/src/MailFoo/containers/src/main/java/com/streak/emailmanager/SpannerConstants.java" timestamp="1555447761676" />
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/Case.java" timestamp="1555537089264" />
@@ -165,11 +170,11 @@
       <jump line="154" column="69" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/bigtable/SpannerBigtable.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQkJCQlyZXR1cm4gc2hhcmVkU3R1YjsK</text>
+      <register name="&quot;" type="4">
+        <text>Organization.organizationIdForEmail(senderEmail).equals(Organization.organizationIdForEmail(gmailThreadCreators.get(creatorKey).getEmail()));</text>
       </register>
       <register name="-" type="4">
-        <text>aLong</text>
+        <text>Organization.organizationIdForEmail(senderEmail).equals(Organization.organizationIdForEmail(gmailThreadCreators.get(creatorKey).getEmail()));</text>
       </register>
       <register name="/" type="4">
         <text>builder</text>
