@@ -3,33 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/bigtable/MessageAccessEngine.java" timestamp="1555357591954" />
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/caching/BigtableCache.java" timestamp="1554237687258">
-        <mark key="[" line="191" column="42" />
-        <mark key="]" line="191" column="95" />
-        <mark key="^" line="191" column="95" />
-        <mark key="." line="191" column="95" />
-      </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/handlers/GetEntities.java" timestamp="1555555400849" />
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/rewardly/mailfoo/unittests/DatastoreTest.java" timestamp="1555543321113">
-        <mark key="[" line="76" column="17" />
-        <mark key="]" line="80" column="12" />
-        <mark key="." line="80" column="12" />
-        <mark key="^" line="80" column="12" />
-      </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/tasks/casecomponentupdaters/CaseGmailThreadUpdater.java" timestamp="1555538572459">
-        <mark key="[" line="238" column="94" />
-        <mark key="]" line="238" column="94" />
-        <mark key="." line="238" column="94" />
-        <mark key="^" line="238" column="93" />
-      </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/messageaccessengine/RulesetVisibilityService.java" timestamp="1555542434052">
-        <mark key="[" line="98" column="26" />
-        <mark key="]" line="98" column="30" />
-        <mark key="." line="98" column="30" />
-        <mark key="^" line="98" column="30" />
-      </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataupdaters/getters/ThreadInfoGetter.java" timestamp="1555091103615" />
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataupdaters/getters/TeamContactGetter.java" timestamp="1555555410746">
         <mark key="'" line="98" column="16" />
         <mark key="[" line="103" column="25" />
@@ -43,9 +16,21 @@
         <mark key="^" line="739" column="4" />
         <mark key="." line="739" column="4" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/containers/src/main/java/com/streak/emailmanager/SpannerConstants.java" timestamp="1555447761676" />
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/Case.java" timestamp="1555537089264" />
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/nondatastore/Message.java" timestamp="1555444391818" />
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/caching/BigtableCache.java" timestamp="1554237687258">
+        <mark key="[" line="191" column="42" />
+        <mark key="]" line="191" column="95" />
+        <mark key="^" line="191" column="95" />
+        <mark key="." line="191" column="95" />
+      </file>
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataupdaters/getters/CommentGetter.java" timestamp="1555630880386">
+        <mark key="'" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/rewardly/mailfoo/unittests/DatastoreTest.java" timestamp="1555543321113">
+        <mark key="[" line="76" column="17" />
+        <mark key="]" line="80" column="12" />
+        <mark key="." line="80" column="12" />
+        <mark key="^" line="80" column="12" />
+      </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/bigtable/TeamContactResponseObserver.java" timestamp="1553817960122">
         <mark key="[" line="21" column="77" />
         <mark key="]" line="21" column="77" />
@@ -64,17 +49,26 @@
         <mark key="." line="108" column="127" />
         <mark key="^" line="108" column="130" />
       </file>
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/tasks/casecomponentupdaters/CaseGmailThreadUpdater.java" timestamp="1555538572459">
+        <mark key="[" line="238" column="94" />
+        <mark key="]" line="238" column="94" />
+        <mark key="." line="238" column="94" />
+        <mark key="^" line="238" column="93" />
+      </file>
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/messageaccessengine/RulesetVisibilityService.java" timestamp="1555542434052">
+        <mark key="[" line="98" column="26" />
+        <mark key="]" line="98" column="30" />
+        <mark key="." line="98" column="30" />
+        <mark key="^" line="98" column="30" />
+      </file>
       <file name="$USER_HOME$/src/MailFoo/curls" timestamp="1555090358721">
         <mark key="[" line="142" column="52" />
         <mark key="]" line="142" column="52" />
         <mark key="." line="142" column="52" />
         <mark key="^" line="142" column="48" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/gmail/GmailAPIUtils.java" timestamp="1555448290443" />
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/Organization.java" timestamp="1555537448227" />
     </filemarks>
     <jumps>
-      <jump line="85" column="28" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/rewardly/mailfoo/unittests/MessageAccessIntegrationTests.java" />
       <jump line="86" column="28" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/rewardly/mailfoo/unittests/MessageAccessIntegrationTests.java" />
       <jump line="87" column="28" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/rewardly/mailfoo/unittests/MessageAccessIntegrationTests.java" />
       <jump line="10" column="0" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/rewardly/mailfoo/integration/ITMessageAccess.java" />
@@ -174,6 +168,7 @@
       <jump line="781" column="28" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/bigtable/SpannerBigtable.java" />
       <jump line="776" column="15" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/bigtable/SpannerBigtable.java" />
       <jump line="154" column="69" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/bigtable/SpannerBigtable.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataupdaters/getters/CommentGetter.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
