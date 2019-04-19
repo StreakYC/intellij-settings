@@ -16,12 +16,13 @@
         <mark key="^" line="739" column="4" />
         <mark key="." line="739" column="4" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/bigtable/SpannerBigtable.java" timestamp="1555710569971">
+      <file name="$USER_HOME$/src/MailFoo/containers/src/main/java/com/streak/emailmanager/MessageSaver.java" timestamp="1555715285298" />
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/bigtable/SpannerBigtable.java" timestamp="1555715297152">
         <mark key="'" line="649" column="49" />
-        <mark key="[" line="661" column="91" />
-        <mark key="]" line="646" column="8" />
-        <mark key="." line="646" column="8" />
-        <mark key="^" line="646" column="8" />
+        <mark key="[" line="647" column="32" />
+        <mark key="]" line="647" column="32" />
+        <mark key="." line="647" column="32" />
+        <mark key="^" line="647" column="97" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/caching/BigtableCache.java" timestamp="1554237687258">
         <mark key="[" line="191" column="42" />
@@ -184,11 +185,11 @@
       <jump line="644" column="49" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/bigtable/SpannerBigtable.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQlidWlsZGVyLnNldEdpZChnaWQpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>Timestamp.newBuilder().setSeconds(message.getInternalDate() / 1000).build());</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">YnVpbGRlcgkJCQkJCQkJCQkJCQkJCQkJCSAg</text>
+        <text>Timestamp.newBuilder().setSeconds(message.getInternalDate() / 1000).build());</text>
       </register>
       <register name="/" type="4">
         <text>^</text>
