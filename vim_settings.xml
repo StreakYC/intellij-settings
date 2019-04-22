@@ -16,7 +16,7 @@
         <mark key="^" line="739" column="4" />
         <mark key="." line="739" column="4" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/spanner/Message.java" timestamp="1555716554219">
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/spanner/Message.java" timestamp="1555962479398">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="78" column="52" />
         <mark key="]" line="79" column="94" />
@@ -43,11 +43,10 @@
         <mark key="]" line="85" column="0" />
         <mark key="." line="85" column="0" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/DataflowLogsExport/src/main/java/com/streak/logging/dataflow/BigtableDateFixer.java" timestamp="1555959352322">
-        <mark key="[" line="33" column="60" />
-        <mark key="]" line="34" column="4" />
-        <mark key="^" line="34" column="4" />
-        <mark key="." line="34" column="4" />
+      <file name="$USER_HOME$/src/MailFoo/DataflowLogsExport/src/main/java/com/streak/logging/dataflow/BigtableDateFixer.java" timestamp="1555963139416">
+        <mark key="]" line="102" column="16" />
+        <mark key="^" line="102" column="16" />
+        <mark key="." line="102" column="16" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/rewardly/mailfoo/unittests/DatastoreTest.java" timestamp="1555543321113">
         <mark key="[" line="76" column="17" />
@@ -55,6 +54,7 @@
         <mark key="." line="80" column="12" />
         <mark key="^" line="80" column="12" />
       </file>
+      <file name="$USER_HOME$/src/MailFoo/DataflowLogsExport/src/main/java/com/streak/logging/dataflow/CacheCopier.java" timestamp="1555963127376" />
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/bigtable/TeamContactResponseObserver.java" timestamp="1553817960122">
         <mark key="[" line="21" column="77" />
         <mark key="]" line="21" column="77" />
@@ -85,9 +85,10 @@
         <mark key="." line="98" column="30" />
         <mark key="^" line="98" column="30" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/DataflowLogsExport/src/main/java/com/streak/logging/dataflow/BigtableCheckWriter.java" timestamp="1555959344061">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="44" />
+      <file name="$USER_HOME$/src/MailFoo/DataflowLogsExport/src/main/java/com/streak/logging/dataflow/BigtableCheckWriter.java" timestamp="1555962633939">
+        <mark key="[" line="64" column="60" />
+        <mark key="]" line="64" column="60" />
+        <mark key="." line="64" column="60" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/curls" timestamp="1555090358721">
         <mark key="[" line="142" column="52" />
@@ -202,11 +203,11 @@
       <jump line="0" column="0" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/spanner/Message.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CXB1YmxpYyBzdGF0aWMgdm9pZCBtYWluKFN0cmluZ1tdIGFyZ3MpIHsK</text>
+      <register name="&quot;" type="4">
+        <text>Object</text>
       </register>
       <register name="-" type="4">
-        <text>Timestamp.newBuilder().setSeconds(message.getInternalDate() / 1000).build());</text>
+        <text>Object</text>
       </register>
       <register name="/" type="4">
         <text>^</text>
@@ -215,31 +216,31 @@
         <text encoding="base64">CXB1YmxpYyBzdGF0aWMgdm9pZCBtYWluKFN0cmluZ1tdIGFyZ3MpIHsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQlidWlsZGVyLnNldEdpZChnaWQpOwo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">CQk6dwo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">CQlpZiAobnVsbCA9PSBnaWQpIHsKCQkJdGhyb3cgbmV3IFJ1bnRpbWVFeGNlcHRpb24oIk5vdCBOdWxsIEdJRCBpcyBudWxsISIpOwoJCX0K</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">CQkJfQo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">CQkJaWYgKG51bGwgIT0gcGFydC5nZXRQYXJ0cygpKSB7Cg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">CQkJCQkJCQo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">CQkJCQkJCQkJCQkJCQkJCQkJCSAgLnNldE1haWxib3hOYW1lKFN0cmluZ1V0aWxzLmxlZnQobWFpbGJveC5nZXROYW1lKCksIExFTl9MSU1JVCkpOwo=</text>
+      <register name="2" type="2">
+        <text encoding="base64">CQkJCQkJU3RyaW5nIGZ1bGxJZCA9IGZtLmdldEdpZCgpICsgIjoiICsgZm0uZ2V0TWVzc2FnZUlkKCk7Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">CQl3cml0ZUlmTmVlZGVkID0gUGFyRG8ub2YoCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">CQkJCQlpZiAoci5nZXRGYW1pbGllc0NvdW50KCkgIT0gMSkgewoJCQkJCQl0aHJvdyBuZXcgUnVudGltZUV4Y2VwdGlvbigiR290IGZhbWlseSBjb3VudCAiICsgci5nZXRGYW1pbGllc0NvdW50KCkpOwoJCQkJCX0K</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">CQkJCQlpZiAoci5nZXRGYW1pbGllc0NvdW50KCkgIT0gMSkgewoJCQkJCQl0aHJvdyBuZXcgUnVudGltZUV4Y2VwdGlvbigiR290IGZhbWlseSBjb3VudCAiICsgci5nZXRGYW1pbGllc0NvdW50KCkpOwoJCQkJCX0KCQkJCQlGYW1pbHkgZiA9IHIuZ2V0RmFtaWxpZXMoMCk7CgkJCQkJaWYgKGYuZ2V0Q29sdW1uc0NvdW50KCkgIT0gMSkgewoJCQkJCQl0aHJvdyBuZXcgUnVudGltZUV4Y2VwdGlvbigiR290IGNvbHVtbiBjb3VudCAiICsgZi5nZXRDb2x1bW5zQ291bnQoKSk7CgkJCQkJfQoJCQkJCUNvbHVtbiBjID0gZi5nZXRDb2x1bW5zKDApOwoJCQkJCWlmIChjLmdldENlbGxzQ291bnQoKSAhPSAxKSB7CgkJCQkJCXRocm93IG5ldyBSdW50aW1lRXhjZXB0aW9uKCJHb3QgY2VsbCBjb3VudCAiICsgYy5nZXRDZWxsc0NvdW50KCkpOwoJCQkJCX0K</text>
+      </register>
+      <register name="7" type="4">
+        <text encoding="base64">CQkJaWYgKHIuZ2V0RmFtaWxpZXNDb3VudCgpICE9IDEpIHsKCQkJCQkJdGhyb3cgbmV3IFJ1bnRpbWVFeGNlcHRpb24oIkdvdCBmYW1pbHkgY291bnQgIiArIHIuZ2V0RmFtaWxpZXNDb3VudCgpKTsKCQkJCQl9CgkJCQkJRmFtaWx5IGYgPSByLmdldEZhbWlsaWVzKDApOwoJCQkJCWlmIChmLmdldENvbHVtbnNDb3VudCgpICE9IDEpIHsKCQkJCQkJdGhyb3cgbmV3IFJ1bnRpbWVFeGNlcHRpb24oIkdvdCBjb2x1bW4gY291bnQgIiArIGYuZ2V0Q29sdW1uc0NvdW50KCkpOwoJCQkJCX0KCQkJCQlDb2x1bW4gYyA9IGYuZ2V0Q29sdW1ucygwKTsKCQkJCQlpZiAoYy5nZXRDZWxsc0NvdW50KCkgIT0gMSkgewoJCQkJCQl0aHJvdyBuZXcgUnVudGltZUV4Y2VwdGlvbigiR290IGNlbGwgY291bnQgIiArIGMuZ2V0Q2VsbHNDb3VudCgpKTsKCQkJCQl9CgkJCQkJQ2VsbCBjMSA9IGMuZ2V0Q2VsbHMoMCk7</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CXByaXZhdGUgTGlzdDxDb21tZW50PiBnZXRDb21tZW50c0ZvcktleXMoTGlzdDxLZXk8Q29tbWVudD4+IGNvbW1lbnRLZXlzKSB7CgkJTWFwPEtleTxDb21tZW50PiwgQ29tbWVudD4gY29tbWVudE1hcCA9IERBTy5nZXRFbnRpdGllcyhjb21tZW50S2V5cyk7CgkJTGlzdDxDb21tZW50PiBjb21tZW50cyA9IG5ldyBBcnJheUxpc3Q8Q29tbWVudD4oKTsKCQlmb3IgKEtleTxDb21tZW50PiBrZXkgOiBjb21tZW50S2V5cykgewoJCQljb21tZW50cy5hZGQoY29tbWVudE1hcC5nZXQoa2V5KSk7CgkJfQoJCXJldHVybiBjb21tZW50czsKCX0K</text>
+        <text encoding="base64">CQlsb25nIHRpbWVzdGFtcCA9IFN5c3RlbS5jdXJyZW50VGltZU1pbGxpcygpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJfQo=</text>
+        <text encoding="base64">CQlidWlsZGVyLnNldEdpZChnaWQpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
