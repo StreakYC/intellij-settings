@@ -43,6 +43,12 @@
         <mark key="]" line="85" column="0" />
         <mark key="." line="85" column="0" />
       </file>
+      <file name="$USER_HOME$/src/MailFoo/DataflowLogsExport/src/main/java/com/streak/logging/dataflow/BigtableDateFixer.java" timestamp="1555959352322">
+        <mark key="[" line="33" column="60" />
+        <mark key="]" line="34" column="4" />
+        <mark key="^" line="34" column="4" />
+        <mark key="." line="34" column="4" />
+      </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/rewardly/mailfoo/unittests/DatastoreTest.java" timestamp="1555543321113">
         <mark key="[" line="76" column="17" />
         <mark key="]" line="80" column="12" />
@@ -78,6 +84,10 @@
         <mark key="]" line="98" column="30" />
         <mark key="." line="98" column="30" />
         <mark key="^" line="98" column="30" />
+      </file>
+      <file name="$USER_HOME$/src/MailFoo/DataflowLogsExport/src/main/java/com/streak/logging/dataflow/BigtableCheckWriter.java" timestamp="1555959344061">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="44" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/curls" timestamp="1555090358721">
         <mark key="[" line="142" column="52" />
@@ -192,8 +202,8 @@
       <jump line="0" column="0" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/spanner/Message.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Timestamp.newBuilder().setSeconds(message.getInternalDate() / 1000).build());</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CXB1YmxpYyBzdGF0aWMgdm9pZCBtYWluKFN0cmluZ1tdIGFyZ3MpIHsK</text>
       </register>
       <register name="-" type="4">
         <text>Timestamp.newBuilder().setSeconds(message.getInternalDate() / 1000).build());</text>
@@ -202,7 +212,7 @@
         <text>^</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQkJCWVsc2UgaWYgKCJzdWJqZWN0Ii5lcXVhbHMobG93ZXJIZWFkZXJOYW1lKSkgewoJCQkJCWJ1aWxkZXIuc2V0U3ViamVjdChoZWFkZXIuZ2V0VmFsdWUoKSk7CgkJCQl9Cg==</text>
+        <text encoding="base64">CXB1YmxpYyBzdGF0aWMgdm9pZCBtYWluKFN0cmluZ1tdIGFyZ3MpIHsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">CQlidWlsZGVyLnNldEdpZChnaWQpOwo=</text>
