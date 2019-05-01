@@ -33,6 +33,7 @@
         <mark key="." line="289" column="76" />
         <mark key="^" line="289" column="76" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/apache/beam/beam-sdks-java-core/2.8.0/beam-sdks-java-core-2.8.0-sources.jar!/org/apache/beam/sdk/options/PipelineOptions.java" timestamp="1556745367048" />
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/caching/BigtableCache.java" timestamp="1554237687258">
         <mark key="[" line="191" column="42" />
         <mark key="]" line="191" column="95" />
@@ -94,7 +95,7 @@
         <mark key="^" line="739" column="4" />
         <mark key="." line="739" column="4" />
       </file>
-      <file name="/Dummy.txt" timestamp="1556743577502">
+      <file name="/Dummy.txt" timestamp="1556745257171">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/Spanner.java" timestamp="1556051624560">
@@ -148,17 +149,16 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/apache/beam/beam-sdks-java-core/2.8.0/beam-sdks-java-core-2.8.0-sources.jar!/org/apache/beam/sdk/testing/TestPipeline.java" timestamp="1556741719902" />
       <file name="$USER_HOME$/src/MailFoo/containers/src/main/java/com/streak/oneoff/GdprDeleter.java" timestamp="1556051675362">
         <mark key="[" line="170" column="13" />
         <mark key="]" line="171" column="106" />
         <mark key="^" line="171" column="106" />
         <mark key="." line="171" column="106" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/streak/logging/dataflow/BoxMoverTest.java" timestamp="1556744526728">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/streak/logging/dataflow/BoxMoverTest.java" timestamp="1556745467169">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/DataflowLogsExport/src/main/java/com/streak/logging/dataflow/BigtableCheckWriter.java" timestamp="1555962633939">
         <mark key="[" line="64" column="60" />
@@ -178,7 +178,7 @@
         <mark key="." line="142" column="52" />
         <mark key="^" line="142" column="48" />
       </file>
-      <file name="/fragment.java" timestamp="1556743577513">
+      <file name="/fragment.java" timestamp="1556745300901">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -286,10 +286,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy50ZXN0bmcuYW5ub3RhdGlvbnMuVGVzdDsK</text>
+        <text encoding="base64">CQlkYQo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">c3RhdGljIA==</text>
+        <text>ssert false;</text>
       </register>
       <register name="/" type="4">
         <text>^</text>
@@ -298,31 +298,31 @@
         <text encoding="base64">CQlQVHJhbnNmb3JtPFBDb2xsZWN0aW9uPD8gZXh0ZW5kcyBFbnRpdHlSZXN1bHQ+LCBQQ29sbGVjdGlvbjxWb2lkPj4gc29tZVN0ZXAgPSBQYXJEby5vZihuZXcgRG9GbjxFbnRpdHlSZXN1bHQsIFZvaWQ+KCkgewo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy50ZXN0bmcuYW5ub3RhdGlvbnMuVGVzdDsK</text>
+        <text encoding="base64">CQlkYQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQlEb0ZuVGVzdGVyCg==</text>
+        <text encoding="base64">aW1wb3J0IG9yZy50ZXN0bmcuYW5ub3RhdGlvbnMuVGVzdDsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQl0aGlzLmltcG9ydEpvYkNhdXNpbmdFZGl0ID0gaW1wb3J0Sm9iQ2F1c2luZ0VkaXQ7Cg==</text>
+        <text encoding="base64">CQlEb0ZuVGVzdGVyCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CXByaXZhdGUgS2V5PEltcG9ydEpvYj4gaW1wb3J0Sm9iQ2F1c2luZ0VkaXQ7Cg==</text>
+        <text encoding="base64">CQl0aGlzLmltcG9ydEpvYkNhdXNpbmdFZGl0ID0gaW1wb3J0Sm9iQ2F1c2luZ0VkaXQ7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJCWNhc2VLZXlzVG9GZXRjaEdtYWlsVGhyZWFkSWRlbnRpZmllcnNGb3IuYWRkKG9sZENhc2UuZ2V0Q2FzZUtleSgpKTsK</text>
+        <text encoding="base64">CXByaXZhdGUgS2V5PEltcG9ydEpvYj4gaW1wb3J0Sm9iQ2F1c2luZ0VkaXQ7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJCQo=</text>
+        <text encoding="base64">CQkJCWNhc2VLZXlzVG9GZXRjaEdtYWlsVGhyZWFkSWRlbnRpZmllcnNGb3IuYWRkKG9sZENhc2UuZ2V0Q2FzZUtleSgpKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CURvRm48RW50aXR5UmVzdWx0LCBWb2lkPiBnZXRTaGl0ID0gbmV3IERvRm48RW50aXR5UmVzdWx0LCBWb2lkPigpIHsKCX07Cg==</text>
+        <text encoding="base64">CQkJCQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQlEb0ZuPEVudGl0eVJlc3VsdCwgVm9pZD4gZ2V0U2hpdCA9IG5ldyBEb0ZuPEVudGl0eVJlc3VsdCwgVm9pZD4oKSB7CgkJfTsK</text>
+        <text encoding="base64">CURvRm48RW50aXR5UmVzdWx0LCBWb2lkPiBnZXRTaGl0ID0gbmV3IERvRm48RW50aXR5UmVzdWx0LCBWb2lkPigpIHsKCX07Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">bGxlY3Rpb247Cg==</text>
+        <text encoding="base64">CQlEb0ZuPEVudGl0eVJlc3VsdCwgVm9pZD4gZ2V0U2hpdCA9IG5ldyBEb0ZuPEVudGl0eVJlc3VsdCwgVm9pZD4oKSB7CgkJfTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
