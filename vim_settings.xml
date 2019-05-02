@@ -21,6 +21,7 @@
         <mark key="." line="28" column="0" />
         <mark key="^" line="39" column="70" />
       </file>
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/tasks/TransformCasesForWorkflowTask.java" timestamp="1556840338246" />
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/mapreduce/MapreduceStatusServlet.java" timestamp="1556052422293">
         <mark key="[" line="205" column="0" />
         <mark key="]" line="205" column="0" />
@@ -39,11 +40,11 @@
         <mark key="^" line="191" column="95" />
         <mark key="." line="191" column="95" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataupdaters/EntityActionScheduler.java" timestamp="1556838258352">
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="131" column="48" />
-        <mark key="^" line="131" column="48" />
-        <mark key="." line="131" column="48" />
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataupdaters/EntityActionScheduler.java" timestamp="1556838969325">
+        <mark key="[" line="32" column="71" />
+        <mark key="]" line="132" column="48" />
+        <mark key="^" line="132" column="48" />
+        <mark key="." line="132" column="48" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/rewardly/mailfoo/unittests/DatastoreTest.java" timestamp="1556817723262">
         <mark key="[" line="42" column="15" />
@@ -119,11 +120,11 @@
         <mark key="^" line="1634" column="17" />
         <mark key="." line="1633" column="0" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataupdaters/updaters/SingleCaseMover.java" timestamp="1556837736161">
-        <mark key="[" line="462" column="0" />
-        <mark key="]" line="462" column="0" />
-        <mark key="^" line="119" column="50" />
-        <mark key="." line="462" column="0" />
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataupdaters/updaters/SingleCaseMover.java" timestamp="1556839272343">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="^" line="117" column="50" />
+        <mark key="." line="11" column="0" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/DataflowLogsExport/src/main/java/com/streak/logging/dataflow/BigtableDateFixer.java" timestamp="1556038156982">
         <mark key="'" line="43" column="0" />
@@ -183,10 +184,11 @@
         <mark key="]" line="64" column="60" />
         <mark key="." line="64" column="60" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/logging/dataflow/BoxMover.java" timestamp="1556820707443">
-        <mark key="[" line="69" column="73" />
-        <mark key="]" line="42" column="0" />
-        <mark key="." line="42" column="0" />
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/logging/dataflow/BoxMover.java" timestamp="1556839690821">
+        <mark key="'" line="44" column="8" />
+        <mark key="[" line="91" column="0" />
+        <mark key="]" line="91" column="0" />
+        <mark key="." line="91" column="0" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/curls" timestamp="1555090358721">
         <mark key="[" line="142" column="52" />
@@ -199,7 +201,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="175" column="20" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/messageaccessengine/graph/MessageVisibilityGraph.java" />
       <jump line="233" column="0" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/rewardly/mailfoo/integration/ITMessageAccess.java" />
       <jump line="369" column="29" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/rewardly/mailfoo/integration/ITMessageAccess.java" />
       <jump line="375" column="8" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/rewardly/mailfoo/integration/ITMessageAccess.java" />
@@ -299,46 +300,47 @@
       <jump line="76" column="12" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/spanner/MessageMailbox.java" />
       <jump line="79" column="12" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/spanner/MessageMailbox.java" />
       <jump line="54" column="0" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/logging/dataflow/BoxMover.java" />
+      <jump line="45" column="8" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/logging/dataflow/BoxMover.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJb2xkQ2FzZQo=</text>
       </register>
       <register name="-" type="4">
-        <text>newWorkflow</text>
+        <text encoding="base64">TGlzdDxHbWFpbFRocmVhZElkZW50aWZpZXI+IA==</text>
       </register>
       <register name="/" type="4">
         <text>^</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQkJCQkJICAgLmFkZEZpbGVUb0RhdGFzdG9yZSgidGVhbXMiLCBUZWFtLmNsYXNzKQo=</text>
+        <text encoding="base64">CQkJTWFwPEtleTxUYXNrPiwgVGFzaz4gdGFza3MgPSBEQU8uZ2V0RW50aXRpZXMob2xkQ2FzZS5nZXRUYXNrS2V5cygpKTsKCQkJTWFwPEtleTxHbWFpbFRocmVhZD4sIEdtYWlsVGhyZWFkPiBnbWFpbFRocmVhZHMgPSBEQU8uZ2V0RW50aXRpZXMob2xkQ2FzZS5nZXRHbWFpbFRocmVhZEtleXMoKSk7CgkJCU1hcDxLZXk8RmlsZT4sIEZpbGU+IGRyaXZlRmlsZXMgPSBEQU8uZ2V0RW50aXRpZXMob2xkQ2FzZS5nZXREcml2ZUZpbGVLZXlzKCkpOwoJCQlNYXA8S2V5PE1lZXRpbmc+LCBNZWV0aW5nPiBtZWV0aW5ncyA9IERBTy5nZXRFbnRpdGllcyhvbGRDYXNlLmdldE1lZXRpbmdLZXlzKCkpOwoJCQlNYXA8S2V5PENhc2U+LCBDYXNlPiBsaW5rZWRDYXNlcyA9IERBTy5nZXRFbnRpdGllcyhvbGRDYXNlLmdldExpbmtlZENhc2VLZXlzKCkpOwoJCQlNYXA8S2V5PEhhbmdvdXRzQ2hhdENvbnZlcnNhdGlvbj4sIEhhbmdvdXRzQ2hhdENvbnZlcnNhdGlvbj4gaGFuZ291dENoYXRDb252ZXJzYXRpb25zID0gREFPLmdldEVudGl0aWVzKG9sZENhc2UuZ2V0SGFuZ291dHNDaGF0Q29udmVyc2F0aW9uS2V5cygpKTsKCQkJTGlzdDxHbWFpbFRocmVhZElkZW50aWZpZXI+IGdtYWlsVGhyZWFkSWRlbnRpZmllcnMgPSBEQU8uZ2V0R21haWxUaHJlYWRJZGVudGlmaWVyc0J5Q2FzZUtleShvbGRDYXNlLmdldENhc2VLZXkoKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJb2xkQ2FzZQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CXByaXZhdGUgc3RhdGljIE9iamVjdCBnZXROZXdGaWVsZFZhbHVlKEZpZWxkIG9sZFdvcmtmbG93RmllbGQsIEZpZWxkIG5ld1dvcmtmbG93RmllbGQsIENhc2Ugb2xkQ2FzZSkgewoJCWlmIChvbGRXb3JrZmxvd0ZpZWxkLmdldFR5cGUoKSAhPSBuZXdXb3JrZmxvd0ZpZWxkLmdldFR5cGUoKSB8fAoJCQlvbGRDYXNlLmdldEZpZWxkVmFsdWUob2xkV29ya2Zsb3dGaWVsZC5nZXRGaWVsZEtleSgpKSA9PSBudWxsKSB7CgkJCXJldHVybiBudWxsOwoJCX0KCgkJaWYgKG9sZFdvcmtmbG93RmllbGQuZ2V0VHlwZSgpID09IEZJRUxEX1RZUEUuVEFHKSB7CgkJCUBTdXBwcmVzc1dhcm5pbmdzKCJ1bmNoZWNrZWQiKQoJCQlMaXN0PFN0cmluZz4gb2xkVGFnS2V5cyA9IChMaXN0PFN0cmluZz4pIG9sZENhc2UuZ2V0RmllbGRWYWx1ZShvbGRXb3JrZmxvd0ZpZWxkLmdldEZpZWxkS2V5KCkpOwoJCQlMaXN0PFN0cmluZz4gb2xkVGFnVmFsdWVzID0gb2xkV29ya2Zsb3dGaWVsZC5nZXRUYWdTZXR0aW5ncygpLmdldEl0ZW1zKCkuZ2V0VmFsdWVzRm9yS2V5cyhvbGRUYWdLZXlzKTsKCQkJTGlzdDxTdHJpbmc+IG5ld1RhZ0tleXMgPSBuZXdXb3JrZmxvd0ZpZWxkLmdldFRhZ1NldHRpbmdzKCkuZ2V0SXRlbXMoKS5nZXRLZXlzRm9yVmFsdWVzKG9sZFRhZ1ZhbHVlcyk7CgkJCXJldHVybiBuZXdUYWdLZXlzOwoJCX0KCQllbHNlIGlmIChvbGRXb3JrZmxvd0ZpZWxkLmdldFR5cGUoKSA9PSBGSUVMRF9UWVBFLkRST1BET1dOKSB7CgkJCVN0cmluZyBvbGREcm9wZG93bktleSA9IChTdHJpbmcpIG9sZENhc2UuZ2V0RmllbGRWYWx1ZShvbGRXb3JrZmxvd0ZpZWxkLmdldEZpZWxkS2V5KCkpOwoJCQlTdHJpbmcgb2xkRHJvcGRvd25WYWx1ZSA9IG9sZFdvcmtmbG93RmllbGQuZ2V0RHJvcGRvd25TZXR0aW5ncygpLmdldEl0ZW1zKCkuZ2V0VmFsdWVGb3JLZXkob2xkRHJvcGRvd25LZXkpOwoJCQlTdHJpbmcgbmV3RHJvcGRvd25LZXkgPSBuZXdXb3JrZmxvd0ZpZWxkLmdldERyb3Bkb3duU2V0dGluZ3MoKS5nZXRJdGVtcygpLmdldEtleUZvclZhbHVlKG9sZERyb3Bkb3duVmFsdWUpOwoJCQlyZXR1cm4gbmV3RHJvcGRvd25LZXk7CgkJfQoJCWVsc2UgewoJCQlyZXR1cm4gb2xkQ2FzZS5nZXRGaWVsZFZhbHVlKG9sZFdvcmtmbG93RmllbGQuZ2V0RmllbGRLZXkoKSk7CgkJfQoJfQo=</text>
+        <text encoding="base64">CQkJb2xkQ2FzZQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5yZXdhcmRseS5tYWlsZm9vLmRhdGFtb2RlbC5TdGFnZTsK</text>
+        <text encoding="base64">CQkJbWF0ZXJpYWxpemVkQ2FzZS5kZAo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkvLyBtaWdyYXRlIHRoZSBzdGFnZQoJCVN0YWdlIG5ld1N0YWdlID0gbmV3V29ya2Zsb3cuZ2V0U3RhZ2VGb3JTdGFnZU5hbWUob2xkV29ya2Zsb3cuZ2V0U3RhZ2Uob2xkQ2FzZS5nZXRTdGFnZUtleSgpKS5nZXROYW1lKCkpOwoJCWlmIChuZXdTdGFnZSAhPSBudWxsKSB7CgkJCW9sZENhc2Uuc2V0U3RhZ2VLZXkobmV3U3RhZ2UuZ2V0U3RhZ2VLZXkoKSk7CgkJfQoJCWVsc2UgewoJCQlvbGRDYXNlLnNldFN0YWdlS2V5KG5ld1dvcmtmbG93LmdldFN0YWdlT3JkZXIoKS5nZXQoMCkpOwoJCX0K</text>
+        <text encoding="base64">CQkJTWFwPEtleTxDb21tZW50PiwgQ29tbWVudD4gY29tbWVudHMgPSBEQU8uZ2V0RW50aXRpZXMob2xkQ2FzZS5nZXRDb21tZW50S2V5cygpKTsKCQkJTWFwPEtleTxUYXNrPiwgVGFzaz4gdGFza3MgPSBEQU8uZ2V0RW50aXRpZXMob2xkQ2FzZS5nZXRUYXNrS2V5cygpKTsKCQkJTWFwPEtleTxHbWFpbFRocmVhZD4sIEdtYWlsVGhyZWFkPiBnbWFpbFRocmVhZHMgPSBEQU8uZ2V0RW50aXRpZXMob2xkQ2FzZS5nZXRHbWFpbFRocmVhZEtleXMoKSk7CgkJCU1hcDxLZXk8RmlsZT4sIEZpbGU+IGRyaXZlRmlsZXMgPSBEQU8uZ2V0RW50aXRpZXMob2xkQ2FzZS5nZXREcml2ZUZpbGVLZXlzKCkpOwoJCQlNYXA8S2V5PE1lZXRpbmc+LCBNZWV0aW5nPiBtZWV0aW5ncyA9IERBTy5nZXRFbnRpdGllcyhvbGRDYXNlLmdldE1lZXRpbmdLZXlzKCkpOwoJCQlNYXA8S2V5PENhc2U+LCBDYXNlPiBsaW5rZWRDYXNlcyA9IERBTy5nZXRFbnRpdGllcyhvbGRDYXNlLmdldExpbmtlZENhc2VLZXlzKCkpOwoJCQlNYXA8S2V5PEhhbmdvdXRzQ2hhdENvbnZlcnNhdGlvbj4sIEhhbmdvdXRzQ2hhdENvbnZlcnNhdGlvbj4gaGFuZ291dENoYXRDb252ZXJzYXRpb25zID0gREFPLmdldEVudGl0aWVzKG9sZENhc2UuZ2V0SGFuZ291dHNDaGF0Q29udmVyc2F0aW9uS2V5cygpKTsKCQkJTGlzdDxHbWFpbFRocmVhZElkZW50aWZpZXI+IGdtYWlsVGhyZWFkSWRlbnRpZmllcnMgPSBEQU8uZ2V0R21haWxUaHJlYWRJZGVudGlmaWVyc0J5Q2FzZUtleShvbGRDYXNlLmdldENhc2VLZXkoKSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkvLyBmaXJzdCB0cnkgYW5kIG1pZ3JhdGUgYW55IGZpZWxkcyB0aGF0IGFyZSBpbiBjb21tb24KCQkvLyBUT0RPIGJyb2tlbiwgbmV3IGtleXMgYXJlIGRpZmZlcmVudCBhbmQgcGVvcGxlIGZpZWxkcyBuZWVkIHRvIGNoYW5nZQoJCU1hcDxTdHJpbmcsIE9iamVjdD4gbmV3RmllbGRzID0gbmV3IEhhc2hNYXA8U3RyaW5nLCBPYmplY3Q+KCk7CgkJZm9yIChGaWVsZCBvbGRXb3JrZmxvd0ZpZWxkIDogb2xkV29ya2Zsb3cuZ2V0RmllbGRzKCkpIHsKCQkJRmllbGQgbmV3V29ya2Zsb3dGaWVsZCA9IG5ld1dvcmtmbG93LmdldEZpZWxkRm9yRmllbGROYW1lKG9sZFdvcmtmbG93RmllbGQuZ2V0TmFtZSgpKTsKCQkJaWYgKG5ld1dvcmtmbG93RmllbGQgIT0gbnVsbCAmJiBuZXdXb3JrZmxvd0ZpZWxkLmdldFR5cGUoKSA9PSBvbGRXb3JrZmxvd0ZpZWxkLmdldFR5cGUoKSkgewoJCQkJT2JqZWN0IG5ld0ZpZWxkVmFsdWUgPSBnZXROZXdGaWVsZFZhbHVlKG9sZFdvcmtmbG93RmllbGQsIG5ld1dvcmtmbG93RmllbGQsIG9sZENhc2UpOwoJCQkJbmV3RmllbGRzLnB1dChuZXdXb3JrZmxvd0ZpZWxkLmdldEZpZWxkS2V5KCksIG5ld0ZpZWxkVmFsdWUpOwoJCQl9CgkJfQoJCW9sZENhc2Uuc2V0RmllbGRWYWx1ZXMobmV3RmllbGRzKTsK</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5yZXdhcmRseS5tYWlsZm9vLmRhdGFtb2RlbC5GaWVsZC5GSUVMRF9UWVBFOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5yZXdhcmRseS5tYWlsZm9vLmRhdGFtb2RlbC5GaWVsZDsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkvLyByZWxhdGVkPyAtLSB3ZSBkb24ndCB1cGRhdGUgb3VyIG93biByZWxhdGVkLCB3ZSB1cGRhdGUgdGhlIG90aGVyIHNpZGUK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CXByaXZhdGUgc3RhdGljIE9iamVjdCBnZXROZXdGaWVsZFZhbHVlKEZpZWxkIG9sZFdvcmtmbG93RmllbGQsIEZpZWxkIG5ld1dvcmtmbG93RmllbGQsIENhc2Ugb2xkQ2FzZSkgewoJCWlmIChvbGRXb3JrZmxvd0ZpZWxkLmdldFR5cGUoKSAhPSBuZXdXb3JrZmxvd0ZpZWxkLmdldFR5cGUoKSB8fAoJCQlvbGRDYXNlLmdldEZpZWxkVmFsdWUob2xkV29ya2Zsb3dGaWVsZC5nZXRGaWVsZEtleSgpKSA9PSBudWxsKSB7CgkJCXJldHVybiBudWxsOwoJCX0KCgkJaWYgKG9sZFdvcmtmbG93RmllbGQuZ2V0VHlwZSgpID09IEZJRUxEX1RZUEUuVEFHKSB7CgkJCUBTdXBwcmVzc1dhcm5pbmdzKCJ1bmNoZWNrZWQiKQoJCQlMaXN0PFN0cmluZz4gb2xkVGFnS2V5cyA9IChMaXN0PFN0cmluZz4pIG9sZENhc2UuZ2V0RmllbGRWYWx1ZShvbGRXb3JrZmxvd0ZpZWxkLmdldEZpZWxkS2V5KCkpOwoJCQlMaXN0PFN0cmluZz4gb2xkVGFnVmFsdWVzID0gb2xkV29ya2Zsb3dGaWVsZC5nZXRUYWdTZXR0aW5ncygpLmdldEl0ZW1zKCkuZ2V0VmFsdWVzRm9yS2V5cyhvbGRUYWdLZXlzKTsKCQkJTGlzdDxTdHJpbmc+IG5ld1RhZ0tleXMgPSBuZXdXb3JrZmxvd0ZpZWxkLmdldFRhZ1NldHRpbmdzKCkuZ2V0SXRlbXMoKS5nZXRLZXlzRm9yVmFsdWVzKG9sZFRhZ1ZhbHVlcyk7CgkJCXJldHVybiBuZXdUYWdLZXlzOwoJCX0KCQllbHNlIGlmIChvbGRXb3JrZmxvd0ZpZWxkLmdldFR5cGUoKSA9PSBGSUVMRF9UWVBFLkRST1BET1dOKSB7CgkJCVN0cmluZyBvbGREcm9wZG93bktleSA9IChTdHJpbmcpIG9sZENhc2UuZ2V0RmllbGRWYWx1ZShvbGRXb3JrZmxvd0ZpZWxkLmdldEZpZWxkS2V5KCkpOwoJCQlTdHJpbmcgb2xkRHJvcGRvd25WYWx1ZSA9IG9sZFdvcmtmbG93RmllbGQuZ2V0RHJvcGRvd25TZXR0aW5ncygpLmdldEl0ZW1zKCkuZ2V0VmFsdWVGb3JLZXkob2xkRHJvcGRvd25LZXkpOwoJCQlTdHJpbmcgbmV3RHJvcGRvd25LZXkgPSBuZXdXb3JrZmxvd0ZpZWxkLmdldERyb3Bkb3duU2V0dGluZ3MoKS5nZXRJdGVtcygpLmdldEtleUZvclZhbHVlKG9sZERyb3Bkb3duVmFsdWUpOwoJCQlyZXR1cm4gbmV3RHJvcGRvd25LZXk7CgkJfQoJCWVsc2UgewoJCQlyZXR1cm4gb2xkQ2FzZS5nZXRGaWVsZFZhbHVlKG9sZFdvcmtmbG93RmllbGQuZ2V0RmllbGRLZXkoKSk7CgkJfQoJfQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -348,14 +350,13 @@
       <last-search>^</last-search>
       <last-offset />
       <last-pattern>^</last-pattern>
-      <last-replace>xxx = DAO.getEntities(</last-replace>
+      <last-replace>public final</last-replace>
       <last-substitute>^</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>addGmail</entry>
         <entry>;</entry>
         <entry>MessageGrant</entry>
         <entry>message</entry>
@@ -374,11 +375,10 @@
         <entry>*addAll(</entry>
         <entry>.*addAll(</entry>
         <entry>)</entry>
+        <entry encoding="base64">ID0gLio7</entry>
         <entry>^</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zL2dldFNwYW5uZXJGaWVsZHMvYXNTcGFubmVyRmllbGRzL2c=</entry>
-        <entry>w\</entry>
         <entry encoding="base64">JzwsJz5zL1wvXC8vLw==</entry>
         <entry encoding="base64">JzwsJz5zL3Jhd01lc3NhZ2UvbWVzc2FnZQ==</entry>
         <entry encoding="base64">JzwsJz5zL2J1aWxkZXIvLw==</entry>
@@ -396,6 +396,8 @@
         <entry encoding="base64">JzwsJz5zLykvLw==</entry>
         <entry encoding="base64">JzwsJz5zL14veHh4ID0gREFPLmdldEVudGl0aWVzKA==</entry>
         <entry>wq</entry>
+        <entry encoding="base64">JzwsJz5zLyA9IC4qOy87</entry>
+        <entry encoding="base64">JzwsJz5zL14vcHVibGljIGZpbmFs</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
