@@ -133,11 +133,10 @@
         <mark key="." line="82" column="74" />
         <mark key="^" line="82" column="74" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/analytics/SampleData.java" timestamp="1557248173841">
-        <mark key="[" line="55" column="0" />
-        <mark key="]" line="47" column="49" />
-        <mark key="." line="47" column="49" />
-        <mark key="^" line="47" column="49" />
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/analytics/SampleData.java" timestamp="1557250415904">
+        <mark key="[" line="39" column="5" />
+        <mark key="]" line="45" column="0" />
+        <mark key="." line="45" column="0" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/bigtable/TeamContactResponseObserver.java" timestamp="1553817960122">
         <mark key="[" line="21" column="77" />
@@ -310,11 +309,11 @@
       <jump line="45" column="8" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/logging/dataflow/BoxMover.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">Qm94IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQlMb25nIHBpcGVsaW5lc1RvQ3JlYXRlID0gTWF0aC5yb3VuZChyYW5kb20ubmV4dEdhdXNzaWFuKCkqbnVtYmVyUGlwZWxpbmVzIC8gNCk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Qm94IA==</text>
+        <text>numberBoxes</text>
       </register>
       <register name="/" type="4">
         <text>&quot;</text>
@@ -322,32 +321,32 @@
       <register name="0" type="2">
         <text encoding="base64">CXByaXZhdGUgc3RhdGljIGNsYXNzIEJveCB7CgoJfQo=</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">CQlMb25nIHBpcGVsaW5lc1RvQ3JlYXRlID0gTWF0aC5yb3VuZChyYW5kb20ubmV4dEdhdXNzaWFuKCkqbnVtYmVyUGlwZWxpbmVzIC8gNCk7Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">CQkJYm94ZXMgPSBMb25nU3RyZWFtLnJhbmdlKDAsIGJveGVzVG9DcmVhdGUpLm1hcChuIC0+IG5ldyBCb3goKSkuY29sbGVjdChDb2xsZWN0b3JzLnRvTGlzdCk7Cg==</text>
+      </register>
+      <register name="3" type="4">
         <text>Average Number of boxes to create per pipeline</text>
       </register>
-      <register name="2" type="4">
+      <register name="4" type="4">
         <text>MD5, SHA-1, SHA-256, ...</text>
       </register>
-      <register name="3" type="2">
+      <register name="5" type="2">
         <text encoding="base64">CXB1YmxpYyBzdGF0aWMgdm9pZCBtYWluKFN0cmluZ1tdIGFyZ3MpIHsKCgl9Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">CQkJb2xkQ2FzZQo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">CQkJb2xkQ2FzZQo=</text>
-      </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJbWF0ZXJpYWxpemVkQ2FzZS5kZAo=</text>
+        <text encoding="base64">CQkJb2xkQ2FzZQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJb2xkQ2FzZQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJTWFwPEtleTxDb21tZW50PiwgQ29tbWVudD4gY29tbWVudHMgPSBEQU8uZ2V0RW50aXRpZXMob2xkQ2FzZS5nZXRDb21tZW50S2V5cygpKTsKCQkJTWFwPEtleTxUYXNrPiwgVGFzaz4gdGFza3MgPSBEQU8uZ2V0RW50aXRpZXMob2xkQ2FzZS5nZXRUYXNrS2V5cygpKTsKCQkJTWFwPEtleTxHbWFpbFRocmVhZD4sIEdtYWlsVGhyZWFkPiBnbWFpbFRocmVhZHMgPSBEQU8uZ2V0RW50aXRpZXMob2xkQ2FzZS5nZXRHbWFpbFRocmVhZEtleXMoKSk7CgkJCU1hcDxLZXk8RmlsZT4sIEZpbGU+IGRyaXZlRmlsZXMgPSBEQU8uZ2V0RW50aXRpZXMob2xkQ2FzZS5nZXREcml2ZUZpbGVLZXlzKCkpOwoJCQlNYXA8S2V5PE1lZXRpbmc+LCBNZWV0aW5nPiBtZWV0aW5ncyA9IERBTy5nZXRFbnRpdGllcyhvbGRDYXNlLmdldE1lZXRpbmdLZXlzKCkpOwoJCQlNYXA8S2V5PENhc2U+LCBDYXNlPiBsaW5rZWRDYXNlcyA9IERBTy5nZXRFbnRpdGllcyhvbGRDYXNlLmdldExpbmtlZENhc2VLZXlzKCkpOwoJCQlNYXA8S2V5PEhhbmdvdXRzQ2hhdENvbnZlcnNhdGlvbj4sIEhhbmdvdXRzQ2hhdENvbnZlcnNhdGlvbj4gaGFuZ291dENoYXRDb252ZXJzYXRpb25zID0gREFPLmdldEVudGl0aWVzKG9sZENhc2UuZ2V0SGFuZ291dHNDaGF0Q29udmVyc2F0aW9uS2V5cygpKTsKCQkJTGlzdDxHbWFpbFRocmVhZElkZW50aWZpZXI+IGdtYWlsVGhyZWFkSWRlbnRpZmllcnMgPSBEQU8uZ2V0R21haWxUaHJlYWRJZGVudGlmaWVyc0J5Q2FzZUtleShvbGRDYXNlLmdldENhc2VLZXkoKSk7Cg==</text>
+        <text encoding="base64">CQkJbWF0ZXJpYWxpemVkQ2FzZS5kZAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5yZXdhcmRseS5tYWlsZm9vLmRhdGFtb2RlbC5GaWVsZC5GSUVMRF9UWVBFOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
