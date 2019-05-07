@@ -33,11 +33,11 @@
         <mark key="^" line="130" column="48" />
         <mark key="." line="130" column="48" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/analytics/FatBigTable.java" timestamp="1557264137495">
-        <mark key="[" line="47" column="42" />
-        <mark key="]" line="46" column="69" />
-        <mark key="." line="46" column="69" />
-        <mark key="^" line="46" column="69" />
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/analytics/FatBigTable.java" timestamp="1557267959290">
+        <mark key="[" line="54" column="40" />
+        <mark key="]" line="46" column="12" />
+        <mark key="." line="46" column="12" />
+        <mark key="^" line="46" column="12" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/rewardly/mailfoo/unittests/DatastoreTest.java" timestamp="1556817723262">
         <mark key="[" line="42" column="15" />
@@ -62,7 +62,7 @@
         <mark key="]" line="91" column="0" />
         <mark key="." line="91" column="0" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/caching/WritethroughBigtableCache.java" timestamp="1557263417038" />
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/caching/WritethroughBigtableCache.java" timestamp="1557267937559" />
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/graphql/TeamContactsDataFetcher.java" timestamp="1556063404327">
         <mark key="[" line="23" column="57" />
         <mark key="]" line="25" column="0" />
@@ -110,17 +110,23 @@
         <mark key="^" line="1634" column="17" />
         <mark key="." line="1633" column="0" />
       </file>
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/analytics/AnalyticsEngine.java" timestamp="1557268172307">
+        <mark key="[" line="7" column="4" />
+        <mark key="]" line="7" column="4" />
+        <mark key="^" line="7" column="6" />
+        <mark key="." line="7" column="4" />
+      </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataupdaters/updaters/SingleCaseMover.java" timestamp="1556839272343">
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/analytics/SampleData.java" timestamp="1557264146702">
-        <mark key="'" line="83" column="19" />
-        <mark key="[" line="89" column="4" />
-        <mark key="]" line="89" column="4" />
-        <mark key="." line="89" column="4" />
-        <mark key="^" line="89" column="5" />
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/analytics/SampleData.java" timestamp="1557268229886">
+        <mark key="'" line="87" column="19" />
+        <mark key="[" line="44" column="9" />
+        <mark key="]" line="18" column="47" />
+        <mark key="." line="18" column="47" />
+        <mark key="^" line="18" column="47" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/bigtable/TeamContactResponseObserver.java" timestamp="1553817960122">
         <mark key="[" line="21" column="77" />
@@ -294,46 +300,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>0</text>
+        <text encoding="base64">TGlzdDxTYW1wbGVEYXRhLlBpcGVsaW5lPg==</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text encoding="base64">TGlzdDxTYW1wbGVEYXRhLlBpcGVsaW5lPg==</text>
       </register>
       <register name="/" type="4">
         <text>&quot;</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CXByaXZhdGUgc3RhdGljIGNsYXNzIEJveCB7CgoJfQo=</text>
+        <text encoding="base64">CXB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIFRBQkxFID0gIkZhdEFuYWx5dGljcyI7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJCQkJLnNldENvbHVtblF1YWxpZmllcigiIi5nZXRCeXRlcygpKQo=</text>
+        <text encoding="base64">CQlyZXR1cm4gcGlwZWxpbmVzOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQlbaW47XQo=</text>
+        <text encoding="base64">CQkJCQkJLnNldENvbHVtblF1YWxpZmllcigiIi5nZXRCeXRlcygpKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQlMb25nIHBpcGVsaW5lc1RvQ3JlYXRlID0gTWF0aC5yb3VuZChyYW5kb20ubmV4dEdhdXNzaWFuKCkqbnVtYmVyUGlwZWxpbmVzIC8gNCk7Cg==</text>
+        <text encoding="base64">CQlbaW47XQo=</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">CQlMb25nIHBpcGVsaW5lc1RvQ3JlYXRlID0gTWF0aC5yb3VuZChyYW5kb20ubmV4dEdhdXNzaWFuKCkqbnVtYmVyUGlwZWxpbmVzIC8gNCk7Cg==</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">CQkJYm94ZXMgPSBMb25nU3RyZWFtLnJhbmdlKDAsIGJveGVzVG9DcmVhdGUpLm1hcChuIC0+IG5ldyBCb3goKSkuY29sbGVjdChDb2xsZWN0b3JzLnRvTGlzdCk7Cg==</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>Average Number of boxes to create per pipeline</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>MD5, SHA-1, SHA-256, ...</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">CXB1YmxpYyBzdGF0aWMgdm9pZCBtYWluKFN0cmluZ1tdIGFyZ3MpIHsKCgl9Cg==</text>
-      </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJb2xkQ2FzZQo=</text>
+        <text encoding="base64">CXB1YmxpYyBzdGF0aWMgdm9pZCBtYWluKFN0cmluZ1tdIGFyZ3MpIHsKCgl9Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">CQkJb2xkQ2FzZQo=</text>
       </register>
       <register name=":" type="4">
-        <text>e</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -387,8 +393,8 @@
         <entry>wq</entry>
         <entry encoding="base64">JzwsJz5zLyA9IC4qOy87</entry>
         <entry encoding="base64">JzwsJz5zL14vcHVibGljIGZpbmFs</entry>
-        <entry>w</entry>
         <entry>e</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
