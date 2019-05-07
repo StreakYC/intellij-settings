@@ -133,10 +133,12 @@
         <mark key="." line="82" column="74" />
         <mark key="^" line="82" column="74" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/analytics/SampleData.java" timestamp="1557250415904">
-        <mark key="[" line="39" column="5" />
-        <mark key="]" line="45" column="0" />
-        <mark key="." line="45" column="0" />
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/analytics/SampleData.java" timestamp="1557252720543">
+        <mark key="'" line="72" column="19" />
+        <mark key="[" line="66" column="15" />
+        <mark key="]" line="66" column="18" />
+        <mark key="." line="66" column="18" />
+        <mark key="^" line="66" column="18" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/bigtable/TeamContactResponseObserver.java" timestamp="1553817960122">
         <mark key="[" line="21" column="77" />
@@ -207,7 +209,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="233" column="0" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/rewardly/mailfoo/integration/ITMessageAccess.java" />
       <jump line="369" column="29" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/rewardly/mailfoo/integration/ITMessageAccess.java" />
       <jump line="375" column="8" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/rewardly/mailfoo/integration/ITMessageAccess.java" />
       <jump line="381" column="8" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/rewardly/mailfoo/integration/ITMessageAccess.java" />
@@ -307,13 +308,14 @@
       <jump line="79" column="12" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/spanner/MessageMailbox.java" />
       <jump line="54" column="0" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/logging/dataflow/BoxMover.java" />
       <jump line="45" column="8" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/logging/dataflow/BoxMover.java" />
+      <jump line="71" column="19" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/analytics/SampleData.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQlMb25nIHBpcGVsaW5lc1RvQ3JlYXRlID0gTWF0aC5yb3VuZChyYW5kb20ubmV4dEdhdXNzaWFuKCkqbnVtYmVyUGlwZWxpbmVzIC8gNCk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>Collection</text>
       </register>
       <register name="-" type="4">
-        <text>numberBoxes</text>
+        <text>Collection</text>
       </register>
       <register name="/" type="4">
         <text>&quot;</text>
@@ -349,7 +351,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>e</text>
       </register>
     </registers>
     <search>
@@ -385,7 +387,6 @@
         <entry>&quot;</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zL1wvXC8vLw==</entry>
         <entry encoding="base64">JzwsJz5zL3Jhd01lc3NhZ2UvbWVzc2FnZQ==</entry>
         <entry encoding="base64">JzwsJz5zL2J1aWxkZXIvLw==</entry>
         <entry encoding="base64">JzwsJz5zLyQvOw==</entry>
@@ -405,6 +406,7 @@
         <entry encoding="base64">JzwsJz5zLyA9IC4qOy87</entry>
         <entry encoding="base64">JzwsJz5zL14vcHVibGljIGZpbmFs</entry>
         <entry>w</entry>
+        <entry>e</entry>
       </history-cmd>
       <history-expr />
       <history-input />
