@@ -49,11 +49,11 @@
         <mark key="^" line="1634" column="17" />
         <mark key="." line="1633" column="0" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/analytics/results/AnalyticsResults.java" timestamp="1557362431424">
-        <mark key="[" line="26" column="12" />
-        <mark key="]" line="26" column="12" />
-        <mark key="^" line="25" column="12" />
-        <mark key="." line="26" column="12" />
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/analytics/results/AnalyticsResults.java" timestamp="1557363675245">
+        <mark key="[" line="33" column="4" />
+        <mark key="]" line="32" column="66" />
+        <mark key="^" line="32" column="73" />
+        <mark key="." line="32" column="66" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/analytics/AnalyticsEngine.java" timestamp="1557271542968">
         <mark key="[" line="8" column="50" />
@@ -205,10 +205,11 @@
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/analytics/TransitionResult.java" timestamp="1557337343647">
         <mark key="[" line="2" column="31" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/analytics/SampleData.java" timestamp="1557353055717">
-        <mark key="[" line="52" column="38" />
-        <mark key="]" line="54" column="0" />
-        <mark key="." line="54" column="0" />
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/analytics/SampleData.java" timestamp="1557364046955">
+        <mark key="[" line="55" column="62" />
+        <mark key="]" line="55" column="35" />
+        <mark key="." line="55" column="35" />
+        <mark key="^" line="55" column="35" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/bigtable/BigtableStubFactory.java" timestamp="1557271797939" />
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_152.jdk/Contents/Home/src.zip!/java/util/TreeMap.java" timestamp="1557359164447" />
@@ -216,6 +217,12 @@
         <mark key="[" line="82" column="0" />
         <mark key="]" line="82" column="0" />
         <mark key="." line="82" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/analytics/results/TransitionResult.java" timestamp="1557364230781">
+        <mark key="[" line="11" column="32" />
+        <mark key="]" line="14" column="18" />
+        <mark key="^" line="14" column="18" />
+        <mark key="." line="14" column="18" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/bigtable/BigtableAccessObject.java" timestamp="1557257789384">
         <mark key="[" line="108" column="126" />
@@ -332,12 +339,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>if (!query.hasStage(es.getValue())) {
-				continue;
-			}</text>
+        <text>descendantValue</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">bmV3IFRyZWVNYXA8PigpOw==</text>
+        <text>descendantValue</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpbXBsZW1lbnRzXD4=</text>
