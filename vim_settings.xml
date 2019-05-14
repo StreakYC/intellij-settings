@@ -37,11 +37,12 @@
         <mark key="^" line="191" column="95" />
         <mark key="." line="191" column="95" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/analytics/backends/FatBigTable.java" timestamp="1557868255806">
-        <mark key="'" line="107" column="9" />
-        <mark key="[" line="219" column="18" />
-        <mark key="]" line="219" column="18" />
-        <mark key="." line="219" column="18" />
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/analytics/backends/FatBigTable.java" timestamp="1557870928934">
+        <mark key="'" line="108" column="9" />
+        <mark key="[" line="197" column="37" />
+        <mark key="]" line="141" column="82" />
+        <mark key="." line="141" column="82" />
+        <mark key="^" line="141" column="82" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/Field.java" timestamp="1557860232563" />
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/analytics/FatBigTable.java" timestamp="1557351688263">
@@ -162,12 +163,12 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/analytics/SampleData.java" timestamp="1557856460028">
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/analytics/SampleData.java" timestamp="1557870748159">
         <mark key="'" line="43" column="30" />
-        <mark key="[" line="67" column="30" />
-        <mark key="]" line="69" column="33" />
-        <mark key="^" line="69" column="33" />
-        <mark key="." line="69" column="33" />
+        <mark key="[" line="101" column="42" />
+        <mark key="]" line="101" column="47" />
+        <mark key="^" line="101" column="47" />
+        <mark key="." line="101" column="47" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/bigtable/TeamContactResponseObserver.java" timestamp="1553817960122">
         <mark key="[" line="21" column="77" />
@@ -339,43 +340,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>T</text>
+        <text>Long</text>
       </register>
       <register name="-" type="4">
-        <text>T</text>
+        <text>Long</text>
       </register>
       <register name="/" type="4">
         <text>Analytics</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQkJIiwgcXVlcnlUaW1lPSIgKyBxdWVyeVRpbWUgKwo=</text>
+        <text encoding="base64">CQkJYnl0ZVtdIHR5cGVCeXRlID0gezF9OwoJCQlPdXRwdXQgb3V0cHV0ID0gQnl0ZVN0cmluZy5uZXdPdXRwdXQoKTsKCQkJb3V0cHV0LndyaXRlKHR5cGVCeXRlLCAwLCAxKTsKCQkJb3V0cHV0LndyaXRlKExvbmdzLnRvQnl0ZUFycmF5KChMb25nKSB2YWx1ZSkpOwoJCQlyZXR1cm4gb3V0cHV0LnRvQnl0ZVN0cmluZygpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cglwcml2YXRlIHN0YXRpYyBjbGFzcyBCb3hlZE51bWVyaWNWYWx1ZTxOdW1lcmljPiBleHRlbmRzIEJveGVkVmFsdWUgewoJfQoKCXByaXZhdGUgc3RhdGljIGNsYXNzIEJveGVkRGF0ZVZhbHVlPERhdGU+IGV4dGVuZHMgQm94ZWRWYWx1ZSB7Cgl9CgoJcHJpdmF0ZSBzdGF0aWMgY2xhc3MgQm94ZWRTdHJpbmdWYWx1ZTxTdHJpbmc+IGV4dGVuZHMgQm94ZWRWYWx1ZSB7Cgl9CgoJcHJpdmF0ZSBzdGF0aWMgY2xhc3MgQm94ZWRCb29sZWFuVmFsdWU8Qm9vbGVhbj4gZXh0ZW5kcyBCb3hlZFZhbHVlIHsKCX0K</text>
+        <text encoding="base64">CQkJCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCXJldHVybgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQlwcm90ZWN0ZWQgQm94ZWRWYWx1ZShUIHZhbHVlKSB7CgkJCXRoaXMudmFsdWUgPSB2YWx1ZTsKCQl9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CgkJcHJpdmF0ZSBCb3hlZEJvb2xlYW5WYWx1ZShCb29sZWFuIHZhbHVlKSB7CgkJCXN1cGVyKHZhbHVlKTsKCQl9Cg==</text>
+        <text encoding="base64">CQlwdWJsaWMgT2JqZWN0IGdldFZhbHVlKCkgewoJCQlyZXR1cm4gdmFsdWU7CgkJfQoJfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CgkJcHJpdmF0ZSBCb3hlZFN0cmluZ1ZhbHVlKFN0cmluZyB2YWx1ZSkgewoJCQlzdXBlcih2YWx1ZSk7CgkJfQo=</text>
+        <text encoding="base64">CXByaXZhdGUgc3RhdGljIGNsYXNzIEJveGVkVmFsdWUgewoJCXByb3RlY3RlZCBPYmplY3QgdmFsdWU7CgoJCS8vcHVibGljIGVudW0gRklFTERfVFlQRSB7CgkJLy8JVEVYVF9JTlBVVCwgRFJPUERPV04sIENIRUNLQk9YLCBEQVRFLCBQRVJTT04sIEZPUk1VTEEsIFRBRywgVEVBTV9DT05UQUNULCBURUFNX09SR0FOSVpBVElPTgoJCS8vfVYK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQlwcml2YXRlIEJveGVkRGF0ZVZhbHVlKERhdGUgdmFsdWUpIHsKCQkJc3VwZXIodmFsdWUpOwoJCX0K</text>
+        <text encoding="base64">Cglwcml2YXRlIHN0YXRpYyBjbGFzcyBCb3hlZE51bWVyaWNWYWx1ZTxOdW1lcmljPiBleHRlbmRzIEJveGVkVmFsdWUgewoJfQoKCXByaXZhdGUgc3RhdGljIGNsYXNzIEJveGVkRGF0ZVZhbHVlPERhdGU+IGV4dGVuZHMgQm94ZWRWYWx1ZSB7Cgl9CgoJcHJpdmF0ZSBzdGF0aWMgY2xhc3MgQm94ZWRTdHJpbmdWYWx1ZTxTdHJpbmc+IGV4dGVuZHMgQm94ZWRWYWx1ZSB7Cgl9CgoJcHJpdmF0ZSBzdGF0aWMgY2xhc3MgQm94ZWRCb29sZWFuVmFsdWU8Qm9vbGVhbj4gZXh0ZW5kcyBCb3hlZFZhbHVlIHsKCX0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQlwcml2YXRlIEJveGVkTnVtZXJpY1ZhbHVlKE51bWVyaWMgdmFsdWUpIHsKCQkJc3VwZXIodmFsdWUpOwoJCX0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CgkJQE92ZXJyaWRlCgkJcHVibGljIEJvb2xlYW4gZ2V0VmFsdWUoKSB7CgkJCXJldHVybiBudWxsOwoJCX0K</text>
+        <text encoding="base64">CQlwcm90ZWN0ZWQgQm94ZWRWYWx1ZShUIHZhbHVlKSB7CgkJCXRoaXMudmFsdWUgPSB2YWx1ZTsKCQl9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CgkJQE92ZXJyaWRlCgkJcHVibGljIFN0cmluZyBnZXRWYWx1ZSgpIHsKCQkJcmV0dXJuIG51bGw7CgkJfQo=</text>
+        <text encoding="base64">CgkJcHJpdmF0ZSBCb3hlZEJvb2xlYW5WYWx1ZShCb29sZWFuIHZhbHVlKSB7CgkJCXN1cGVyKHZhbHVlKTsKCQl9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
