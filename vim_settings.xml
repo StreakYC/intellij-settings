@@ -37,11 +37,12 @@
         <mark key="^" line="191" column="95" />
         <mark key="." line="191" column="95" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/analytics/backends/FatBigTable.java" timestamp="1557951411621">
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/analytics/backends/FatBigTable.java" timestamp="1557953101508">
         <mark key="'" line="113" column="9" />
-        <mark key="[" line="206" column="81" />
-        <mark key="]" line="216" column="0" />
-        <mark key="." line="216" column="0" />
+        <mark key="[" line="210" column="96" />
+        <mark key="]" line="210" column="0" />
+        <mark key="." line="210" column="0" />
+        <mark key="^" line="212" column="82" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/Field.java" timestamp="1557860232563" />
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/analytics/FatBigTable.java" timestamp="1557351688263">
@@ -355,7 +356,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ZGQK</text>
+        <text encoding="base64">CQkJCQkJCQkJCQkJCS5zZXRDb2x1bW5RdWFsaWZpZXJSZWdleEZpbHRlcigpCg==</text>
       </register>
       <register name="-" type="4">
         <text>hasRelevantStage</text>
@@ -367,9 +368,15 @@
         <text encoding="base64">CXB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIFRBQkxFX0lEID0gIkZhdEFuYWx5dGljcyI7Cg==</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">CQkJCQkJCQkJCQkJCS5zZXRDb2x1bW5RdWFsaWZpZXJSZWdleEZpbHRlcigpCg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">CQkJCQkJCQkJCQkJCQkJCQkJCQkgICAuc2V0RmllbGQoKQo=</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ZGQK</text>
       </register>
-      <register name="2" type="4">
+      <register name="4" type="4">
         <text>Condition.newBuilder()
 											   .setTrueFilter(
 												   hasRelevantStage
@@ -377,26 +384,20 @@
 											   )
 											   .build())</text>
       </register>
-      <register name="3" type="2">
+      <register name="5" type="2">
         <text encoding="base64">aW1wb3J0IGNvbS5nb29nbGUuY29tbW9uLnByaW1pdGl2ZXMuTG9uZ3M7Cg==</text>
       </register>
-      <register name="4" type="2">
+      <register name="6" type="2">
         <text encoding="base64">CQkJCg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">CQkJCXJldHVybgo=</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">CQlwdWJsaWMgT2JqZWN0IGdldFZhbHVlKCkgewoJCQlyZXR1cm4gdmFsdWU7CgkJfQoJfQo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">CXByaXZhdGUgc3RhdGljIGNsYXNzIEJveGVkVmFsdWUgewoJCXByb3RlY3RlZCBPYmplY3QgdmFsdWU7CgoJCS8vcHVibGljIGVudW0gRklFTERfVFlQRSB7CgkJLy8JVEVYVF9JTlBVVCwgRFJPUERPV04sIENIRUNLQk9YLCBEQVRFLCBQRVJTT04sIEZPUk1VTEEsIFRBRywgVEVBTV9DT05UQUNULCBURUFNX09SR0FOSVpBVElPTgoJCS8vfVYK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">Cglwcml2YXRlIHN0YXRpYyBjbGFzcyBCb3hlZE51bWVyaWNWYWx1ZTxOdW1lcmljPiBleHRlbmRzIEJveGVkVmFsdWUgewoJfQoKCXByaXZhdGUgc3RhdGljIGNsYXNzIEJveGVkRGF0ZVZhbHVlPERhdGU+IGV4dGVuZHMgQm94ZWRWYWx1ZSB7Cgl9CgoJcHJpdmF0ZSBzdGF0aWMgY2xhc3MgQm94ZWRTdHJpbmdWYWx1ZTxTdHJpbmc+IGV4dGVuZHMgQm94ZWRWYWx1ZSB7Cgl9CgoJcHJpdmF0ZSBzdGF0aWMgY2xhc3MgQm94ZWRCb29sZWFuVmFsdWU8Qm9vbGVhbj4gZXh0ZW5kcyBCb3hlZFZhbHVlIHsKCX0K</text>
+        <text encoding="base64">CQlwdWJsaWMgT2JqZWN0IGdldFZhbHVlKCkgewoJCQlyZXR1cm4gdmFsdWU7CgkJfQoJfQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
