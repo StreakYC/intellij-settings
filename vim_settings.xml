@@ -49,11 +49,11 @@
         <mark key="^" line="1634" column="17" />
         <mark key="." line="1633" column="0" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/analytics/results/AnalyticsResults.java" timestamp="1557856742846">
-        <mark key="[" line="55" column="52" />
-        <mark key="]" line="55" column="14" />
-        <mark key="." line="55" column="14" />
-        <mark key="^" line="55" column="14" />
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/analytics/results/AnalyticsResults.java" timestamp="1558042163702">
+        <mark key="[" line="56" column="30" />
+        <mark key="]" line="56" column="51" />
+        <mark key="." line="56" column="51" />
+        <mark key="^" line="56" column="51" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/analytics/AnalyticsEngine.java" timestamp="1557271542968">
         <mark key="[" line="8" column="50" />
@@ -134,12 +134,11 @@
         <mark key="." line="28" column="0" />
         <mark key="^" line="39" column="70" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/analytics/backends/FatBigTable.java" timestamp="1558034292628">
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/analytics/backends/FatBigTable.java" timestamp="1558041581747">
         <mark key="'" line="113" column="9" />
-        <mark key="[" line="181" column="0" />
-        <mark key="]" line="181" column="0" />
-        <mark key="." line="181" column="0" />
-        <mark key="^" line="155" column="30" />
+        <mark key="[" line="121" column="56" />
+        <mark key="]" line="125" column="0" />
+        <mark key="." line="125" column="0" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/rewardly/mailfoo/unittests/DatastoreTest.java" timestamp="1556817723262">
         <mark key="[" line="42" column="15" />
@@ -229,11 +228,12 @@
         <mark key="^" line="116" column="50" />
         <mark key="." line="116" column="50" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/rewardly/mailfoo/unittests/AnalyticsTest.java" timestamp="1558034305415">
-        <mark key="[" line="42" column="20" />
-        <mark key="]" line="43" column="33" />
-        <mark key="." line="43" column="33" />
-        <mark key="^" line="43" column="33" />
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/rewardly/mailfoo/unittests/AnalyticsTest.java" timestamp="1558041954414">
+        <mark key="'" line="45" column="43" />
+        <mark key="[" line="50" column="57" />
+        <mark key="]" line="50" column="65" />
+        <mark key="." line="50" column="65" />
+        <mark key="^" line="50" column="65" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/rewardly/mailfoo/integration/ITMessageAccess.java" timestamp="1556816623649">
         <mark key="[" line="82" column="0" />
@@ -242,9 +242,6 @@
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/analytics/results/TransitionResult.java" timestamp="1557857004973">
         <mark key="[" line="5" column="31" />
-        <mark key="]" line="7" column="94" />
-        <mark key="." line="7" column="94" />
-        <mark key="^" line="7" column="94" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/bigtable/BigtableAccessObject.java" timestamp="1557257789384">
         <mark key="[" line="108" column="126" />
@@ -257,7 +254,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="108" column="7" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/bigtable/BigtableGraphFanOutProcessor.java" />
       <jump line="360" column="4" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/bigtable/BigtableFanOutJob.java" />
       <jump line="356" column="34" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/bigtable/BigtableFanOutJob.java" />
       <jump line="248" column="8" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/DAO.java" />
@@ -357,51 +353,47 @@
       <jump line="111" column="102" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/analytics/FatBigTable.java" />
       <jump line="41" column="30" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/analytics/SampleData.java" />
       <jump line="107" column="9" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/analytics/backends/FatBigTable.java" />
+      <jump line="45" column="43" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/rewardly/mailfoo/unittests/AnalyticsTest.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQkK</text>
+      <register name="&quot;" type="4">
+        <text>onlyLead</text>
       </register>
       <register name="-" type="4">
-        <text>com.streak.analytics.</text>
+        <text>onlyLead</text>
       </register>
       <register name="/" type="4">
         <text>Analytics</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQkJTXV0YXRlUm93c1JlcXVlc3QgcmVxID0gYnVpbGRlci5idWlsZCgpOwo=</text>
+        <text encoding="base64">CQlpZiAoIXRyYW5zaXRpb25SZXN1bHRzLmNvbnRhaW5zS2V5KHRyYW5zaXRpb25LZXkpKSB7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">CQkJCUZhbWlseSBmYW1pbHkgPSByb3cuZ2V0RmFtaWxpZXMoMSk7IC8vIFRPRE8K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5zdHJlYWsuYW5hbHl0aWNzLlNhbXBsZURhdGEuVHJhbnNpdGlvbjsK</text>
+        <text encoding="base64">CQkJcm93LmdldAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5zdHJlYWsuYW5hbHl0aWNzLlNhbXBsZURhdGEuQm94Owo=</text>
+        <text encoding="base64">CQlpZiAoY291bikK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJCQkJCQkJCQkJCQkJCQkJCQkgICAuc2V0U3RhcnRWYWx1ZU9wZW4oc2VyaWFsaXplQXR0cmlidXRlKCgoTnVtZXJpY0VxdWFscyljb25kaXRpb24pLnZhbHVlKSkK</text>
+        <text encoding="base64">CQlyZXN1bHRzLgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJCQkJCQkJCQkJCQkJCQkJCQkgICAuc2V0RmllbGQoKQo=</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJCQkJCQkJCQkJCS5zZXRDb2x1bW5RdWFsaWZpZXJSZWdleEZpbHRlcigpCg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5zdHJlYWsuYW5hbHl0aWNzLlNhbXBsZURhdGEuVHJhbnNpdGlvbjsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJCQkJCQkJCQkJCQkJCQkJCQkgICAuc2V0RmllbGQoKQo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5zdHJlYWsuYW5hbHl0aWNzLlNhbXBsZURhdGEuQm94Owo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZGQK</text>
+        <text encoding="base64">CQkJCQkJCQkJCQkJCQkJCQkJCQkgICAuc2V0U3RhcnRWYWx1ZU9wZW4oc2VyaWFsaXplQXR0cmlidXRlKCgoTnVtZXJpY0VxdWFscyljb25kaXRpb24pLnZhbHVlKSkK</text>
       </register>
-      <register name="9" type="4">
-        <text>Condition.newBuilder()
-											   .setTrueFilter(
-												   hasRelevantStage
-
-											   )
-											   .build())</text>
+      <register name="9" type="2">
+        <text encoding="base64">CQkJCQkJCQkJCQkJCQkJCQkJCQkgICAuc2V0RmllbGQoKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
