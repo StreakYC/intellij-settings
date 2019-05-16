@@ -49,11 +49,11 @@
         <mark key="^" line="1634" column="17" />
         <mark key="." line="1633" column="0" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/analytics/results/AnalyticsResults.java" timestamp="1558042163702">
-        <mark key="[" line="56" column="30" />
-        <mark key="]" line="56" column="51" />
-        <mark key="." line="56" column="51" />
-        <mark key="^" line="56" column="51" />
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/analytics/results/AnalyticsResults.java" timestamp="1558046015669">
+        <mark key="[" line="75" column="21" />
+        <mark key="]" line="75" column="76" />
+        <mark key="." line="75" column="76" />
+        <mark key="^" line="75" column="76" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/analytics/AnalyticsEngine.java" timestamp="1557271542968">
         <mark key="[" line="8" column="50" />
@@ -228,12 +228,12 @@
         <mark key="^" line="116" column="50" />
         <mark key="." line="116" column="50" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/rewardly/mailfoo/unittests/AnalyticsTest.java" timestamp="1558044752551">
-        <mark key="'" line="45" column="43" />
-        <mark key="[" line="45" column="58" />
-        <mark key="]" line="45" column="58" />
-        <mark key="." line="45" column="58" />
-        <mark key="^" line="45" column="58" />
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/rewardly/mailfoo/unittests/AnalyticsTest.java" timestamp="1558046112926">
+        <mark key="'" line="56" column="8" />
+        <mark key="[" line="56" column="0" />
+        <mark key="]" line="56" column="76" />
+        <mark key="." line="56" column="0" />
+        <mark key="^" line="55" column="0" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/rewardly/mailfoo/integration/ITMessageAccess.java" timestamp="1556816623649">
         <mark key="[" line="82" column="0" />
@@ -254,7 +254,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="360" column="4" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/bigtable/BigtableFanOutJob.java" />
       <jump line="356" column="34" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/bigtable/BigtableFanOutJob.java" />
       <jump line="248" column="8" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/DAO.java" />
       <jump line="2838" column="39" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/DAO.java" />
@@ -354,19 +353,20 @@
       <jump line="41" column="30" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/analytics/SampleData.java" />
       <jump line="107" column="9" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/analytics/backends/FatBigTable.java" />
       <jump line="45" column="43" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/rewardly/mailfoo/unittests/AnalyticsTest.java" />
+      <jump line="56" column="8" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/rewardly/mailfoo/unittests/AnalyticsTest.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CQlmYXRCaWdUYWJsZS5hZGRCb3gobmV3IEZha2VCb3goCgkJCUltbXV0YWJsZUxpc3Qub2YobmV3IEZha2VUcmFuc2l0aW9uKGxvY2FsRXBvY2gsICJJbnF1aXJ5IikpLAoJCQlCeXRlU3RyaW5nLmNvcHlGcm9tVXRmOChwaXBlbGluZUtleSArICIjIiArICIyIiksCgkJCUltbXV0YWJsZU1hcC5vZigiQSIsIDJMKQoJCSkpOwo=</text>
+        <text encoding="base64">CQlBc3NlcnQuYXNzZXJ0RXF1YWxzKChsb25nKXJlc3VsdHMuZ2V0R3JvdXAoMUwpLmdldFRvdGFsQ291bnQoKSwgMUwpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>onlyLead</text>
+        <text>summingLong</text>
       </register>
       <register name="/" type="4">
-        <text>Analytics</text>
+        <text>1</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQlmYXRCaWdUYWJsZS5hZGRCb3gobmV3IEZha2VCb3goCgkJCUltbXV0YWJsZUxpc3Qub2YobmV3IEZha2VUcmFuc2l0aW9uKGxvY2FsRXBvY2gsICJJbnF1aXJ5IikpLAoJCQlCeXRlU3RyaW5nLmNvcHlGcm9tVXRmOChwaXBlbGluZUtleSArICIjIiArICIyIiksCgkJCUltbXV0YWJsZU1hcC5vZigiQSIsIDJMKQoJCSkpOwo=</text>
+        <text encoding="base64">CQlBc3NlcnQuYXNzZXJ0RXF1YWxzKChsb25nKXJlc3VsdHMuZ2V0R3JvdXAoMUwpLmdldFRvdGFsQ291bnQoKSwgMUwpOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -375,42 +375,41 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJCUZhbWlseSBmYW1pbHkgPSByb3cuZ2V0RmFtaWxpZXMoMSk7IC8vIFRPRE8K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJcm93LmdldAo=</text>
+        <text encoding="base64">CQkJCUZhbWlseSBmYW1pbHkgPSByb3cuZ2V0RmFtaWxpZXMoMSk7IC8vIFRPRE8K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQlpZiAoY291bikK</text>
+        <text encoding="base64">CQkJcm93LmdldAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQlyZXN1bHRzLgo=</text>
+        <text encoding="base64">CQlpZiAoY291bikK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">CQlyZXN1bHRzLgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5zdHJlYWsuYW5hbHl0aWNzLlNhbXBsZURhdGEuVHJhbnNpdGlvbjsK</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5zdHJlYWsuYW5hbHl0aWNzLlNhbXBsZURhdGEuQm94Owo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5zdHJlYWsuYW5hbHl0aWNzLlNhbXBsZURhdGEuVHJhbnNpdGlvbjsK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>s/1/2/g</text>
       </register>
     </registers>
     <search>
-      <last-search>Analytics</last-search>
+      <last-search>1</last-search>
       <last-offset />
-      <last-pattern>Analytics</last-pattern>
-      <last-replace>Query</last-replace>
-      <last-substitute>Analytics</last-substitute>
+      <last-pattern>1</last-pattern>
+      <last-replace>2</last-replace>
+      <last-substitute>1</last-substitute>
       <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>threads</entry>
         <entry>getSpannerFields</entry>
         <entry>{</entry>
         <entry>\/\/</entry>
@@ -430,9 +429,9 @@
         <entry>stages</entry>
         <entry encoding="base64">XDxPclw+</entry>
         <entry>Analytics</entry>
+        <entry>1</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zL14vYnVpbGRlcg==</entry>
         <entry>q</entry>
         <entry encoding="base64">JzwsJz5zL0VtYWlsL05hbWU=</entry>
         <entry encoding="base64">JzwsJz5zL0VtYWlsL0RvbWFpbi9n</entry>
@@ -452,6 +451,7 @@
         <entry encoding="base64">JzwsJz5zL3N0YWdlcy9hdHRyaWJ1dGVzL2c=</entry>
         <entry>s/Analytics/Query/g</entry>
         <entry>w</entry>
+        <entry>s/1/2/g</entry>
       </history-cmd>
       <history-expr />
       <history-input />
