@@ -61,11 +61,11 @@
         <mark key="^" line="8" column="6" />
         <mark key="." line="8" column="4" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/analytics/query/NumericEquals.java" timestamp="1557873126963">
-        <mark key="[" line="8" column="21" />
-        <mark key="]" line="8" column="20" />
-        <mark key="^" line="8" column="20" />
-        <mark key="." line="8" column="20" />
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/analytics/query/NumericEquals.java" timestamp="1558047550104">
+        <mark key="[" line="10" column="58" />
+        <mark key="]" line="10" column="40" />
+        <mark key="^" line="10" column="40" />
+        <mark key="." line="10" column="40" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/analytics/Transition.java" timestamp="1558032347740">
         <mark key="[" line="2" column="29" />
@@ -134,11 +134,25 @@
         <mark key="." line="28" column="0" />
         <mark key="^" line="39" column="70" />
       </file>
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/bigtable/SpannerBigtable.java" timestamp="1557273629539">
+        <mark key="'" line="446" column="49" />
+        <mark key="[" line="289" column="8" />
+        <mark key="]" line="289" column="76" />
+        <mark key="." line="289" column="76" />
+        <mark key="^" line="289" column="76" />
+      </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/analytics/backends/FatBigTable.java" timestamp="1558041581747">
         <mark key="'" line="113" column="9" />
         <mark key="[" line="121" column="56" />
         <mark key="]" line="125" column="0" />
         <mark key="." line="125" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/analytics/FatBigTable.java" timestamp="1557351688263">
+        <mark key="'" line="117" column="102" />
+        <mark key="[" line="91" column="36" />
+        <mark key="]" line="47" column="138" />
+        <mark key="." line="47" column="138" />
+        <mark key="^" line="47" column="138" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/rewardly/mailfoo/unittests/DatastoreTest.java" timestamp="1556817723262">
         <mark key="[" line="42" column="15" />
@@ -221,19 +235,19 @@
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/analytics/query/And.java" timestamp="1557872791939">
         <mark key="[" line="2" column="17" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/analytics/SampleData.java" timestamp="1558034162382">
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/analytics/SampleData.java" timestamp="1558048219989">
         <mark key="'" line="43" column="30" />
-        <mark key="[" line="116" column="20" />
-        <mark key="]" line="116" column="50" />
-        <mark key="^" line="116" column="50" />
-        <mark key="." line="116" column="50" />
+        <mark key="[" line="70" column="0" />
+        <mark key="]" line="70" column="0" />
+        <mark key="^" line="69" column="64" />
+        <mark key="." line="70" column="0" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/rewardly/mailfoo/unittests/AnalyticsTest.java" timestamp="1558046112926">
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/rewardly/mailfoo/unittests/AnalyticsTest.java" timestamp="1558047839398">
         <mark key="'" line="56" column="8" />
-        <mark key="[" line="56" column="0" />
-        <mark key="]" line="56" column="76" />
-        <mark key="." line="56" column="0" />
-        <mark key="^" line="55" column="0" />
+        <mark key="[" line="114" column="0" />
+        <mark key="]" line="114" column="33" />
+        <mark key="." line="114" column="33" />
+        <mark key="^" line="114" column="33" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/rewardly/mailfoo/integration/ITMessageAccess.java" timestamp="1556816623649">
         <mark key="[" line="82" column="0" />
@@ -357,46 +371,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CQlBc3NlcnQuYXNzZXJ0RXF1YWxzKChsb25nKXJlc3VsdHMuZ2V0R3JvdXAoMUwpLmdldFRvdGFsQ291bnQoKSwgMUwpOwo=</text>
+        <text encoding="base64">CQkJY29uZGl0aW9uLnZhbHVlID0gMmw7CgkJCWNvbmRpdGlvbi5hdHRyaWJ1dGUgPSAiT25lIjsK</text>
       </register>
       <register name="-" type="4">
-        <text>summingLong</text>
+        <text encoding="base64">TG9uZyA=</text>
       </register>
       <register name="/" type="4">
         <text>1</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQlBc3NlcnQuYXNzZXJ0RXF1YWxzKChsb25nKXJlc3VsdHMuZ2V0R3JvdXAoMUwpLmdldFRvdGFsQ291bnQoKSwgMUwpOwo=</text>
+        <text encoding="base64">CQlmYXRCaWdUYWJsZS5hZGRCb3gobmV3IEZha2VCb3goCgkJCUltbXV0YWJsZUxpc3Qub2YobmV3IEZha2VUcmFuc2l0aW9uKGxvY2FsRXBvY2gsICJJbnF1aXJ5IikpLAoJCQlCeXRlU3RyaW5nLmNvcHlGcm9tVXRmOChwaXBlbGluZUtleSArICIjIiArICIxIiksCgkJCUltbXV0YWJsZU1hcC5vZigiQSIsIDFMKQoJCSkpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJY29uZGl0aW9uLnZhbHVlID0gMmw7CgkJCWNvbmRpdGlvbi5hdHRyaWJ1dGUgPSAiT25lIjsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQlxdWVyeS5hZGRHcm91cEJ5KCJBIik7Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJCUZhbWlseSBmYW1pbHkgPSByb3cuZ2V0RmFtaWxpZXMoMSk7IC8vIFRPRE8K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJcm93LmdldAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQlpZiAoY291bikK</text>
+        <text encoding="base64">CQkJCUZhbWlseSBmYW1pbHkgPSByb3cuZ2V0RmFtaWxpZXMoMSk7IC8vIFRPRE8K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQlyZXN1bHRzLgo=</text>
+        <text encoding="base64">CQkJcm93LmdldAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">CQlpZiAoY291bikK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5zdHJlYWsuYW5hbHl0aWNzLlNhbXBsZURhdGEuVHJhbnNpdGlvbjsK</text>
+        <text encoding="base64">CQlyZXN1bHRzLgo=</text>
       </register>
       <register name=":" type="4">
-        <text>s/1/2/g</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -450,8 +464,8 @@
         <entry>s/Set/Filter</entry>
         <entry encoding="base64">JzwsJz5zL3N0YWdlcy9hdHRyaWJ1dGVzL2c=</entry>
         <entry>s/Analytics/Query/g</entry>
-        <entry>w</entry>
         <entry>s/1/2/g</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
