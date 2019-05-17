@@ -140,12 +140,11 @@
         <mark key="." line="289" column="76" />
         <mark key="^" line="289" column="76" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/analytics/backends/FatBigTable.java" timestamp="1558131111155">
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/analytics/backends/FatBigTable.java" timestamp="1558134884210">
         <mark key="'" line="113" column="9" />
-        <mark key="[" line="195" column="0" />
-        <mark key="]" line="212" column="39" />
-        <mark key="." line="212" column="39" />
-        <mark key="^" line="212" column="39" />
+        <mark key="[" line="229" column="0" />
+        <mark key="]" line="229" column="0" />
+        <mark key="." line="229" column="0" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/analytics/FatBigTable.java" timestamp="1557351688263">
         <mark key="'" line="117" column="102" />
@@ -370,11 +369,11 @@
       <jump line="56" column="8" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/rewardly/mailfoo/unittests/AnalyticsTest.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>.setChain(Chain.newBuilder()</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQkJCQkJCS8vIFRPRE8gLSBjb2x1bW5kZGFtZT8K</text>
       </register>
       <register name="-" type="4">
-        <text>.setChain(Chain.newBuilder()</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>1</text>
@@ -383,31 +382,32 @@
         <text encoding="base64">CQlmYXRCaWdUYWJsZS5hZGRCb3gobmV3IEZha2VCb3goCgkJCUltbXV0YWJsZUxpc3Qub2YobmV3IEZha2VUcmFuc2l0aW9uKGxvY2FsRXBvY2gsICJJbnF1aXJ5IikpLAoJCQlCeXRlU3RyaW5nLmNvcHlGcm9tVXRmOChwaXBlbGluZUtleSArICIjIiArICIxIiksCgkJCUltbXV0YWJsZU1hcC5vZigiQSIsIDFMKQoJCSkpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJY29uZGl0aW9uLnZhbHVlID0gMmw7CgkJCWNvbmRpdGlvbi5hdHRyaWJ1dGUgPSAiT25lIjsK</text>
+        <text encoding="base64">CQkJCQkJCS8vIFRPRE8gLSBjb2x1bW5kZGFtZT8K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQlxdWVyeS5hZGRHcm91cEJ5KCJBIik7Cg==</text>
+        <text encoding="base64">CQkJCQkJCQkJCQkJCS5idWlsZCgpKQo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="4">
+        <text>Condition.newBuilder()
+							.setTrueFilter(</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJQ29uZGl0aW9uIGNvbmRpdGlvbiAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJCUZhbWlseSBmYW1pbHkgPSByb3cuZ2V0RmFtaWxpZXMoMSk7IC8vIFRPRE8K</text>
+        <text encoding="base64">CQlDaGFpbi5uZXdCdWlsZGVyKCkuYWRkRmlsdGVycygK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJcm93LmdldAo=</text>
+        <text encoding="base64">CQlSb3dGaWx0ZXIuQnVpbGRlciByb3dGaWx0ZXJCdWlsZGVyID0gUm93RmlsdGVyLm5ld0J1aWxkZXIoKQoJCQkJCQkJCQkJCQkJICAuc2V0RmFtaWx5TmFtZVJlZ2V4RmlsdGVyKFRSQU5TSVRJT05TX0ZBTUlMWSkKCQkJCQkJCQkJCQkJCSAgLnNldENvbHVtblF1YWxpZmllclJlZ2V4RmlsdGVyKAoJCQkJCQkJCQkJCQkJCSAgQnl0ZVN0cmluZy5jb3B5RnJvbVV0ZjgocXVlcnkuZ2V0U3RhZ2VzKCkKCQkJCQkJCQkJCQkJCQkJCQkJCQkJICAgLnN0cmVhbSgpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQlpZiAoY291bikK</text>
+        <text encoding="base64">CQlpZiAocXVlcnkuZ2V0V2hlcmUoKSAhPSBudWxsKSB7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQlyZXN1bHRzLgo=</text>
+        <text encoding="base64">CQkJCQkJCQkJCQkJCQkJCQkJCQkJICAgLmNvbGxlY3QoQ29sbGVjdG9ycy5qb2luaW5nKCJ8IikpKSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
