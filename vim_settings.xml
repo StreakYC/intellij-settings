@@ -53,11 +53,10 @@
         <mark key="." line="71" column="16" />
         <mark key="^" line="71" column="15" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataupdaters/getters/InteractionsGetter.java" timestamp="1559850383086">
-        <mark key="[" line="82" column="36" />
-        <mark key="]" line="82" column="36" />
-        <mark key="." line="82" column="36" />
-        <mark key="^" line="82" column="35" />
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataupdaters/getters/InteractionsGetter.java" timestamp="1559851168967">
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="0" />
+        <mark key="." line="32" column="0" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/Task.java" timestamp="1559841746117" />
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataupdaters/getters/QueryResultsGetter.java" timestamp="1559258377546">
@@ -312,8 +311,8 @@
       <jump line="274" column="24" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataupdaters/creators/PlanInstanceCreator.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>btao</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IGNvbS5zdHJlYWsuYmlndGFibGUuTWVzc2FnZUFjY2Vzc0VuZ2luZTsK</text>
       </register>
       <register name="-" type="4">
         <text>btao</text>
@@ -325,33 +324,33 @@
         <text encoding="base64">CXB1YmxpYyBTZXQ8Tm9kZT4gZ2V0VW5pZmllZFRocmVhZChHbWFpbEFwaVRocmVhZElkZW50aWZpZXIgdGhyZWFkKSB7CgkJLy8gVGhpcyBjb3VsZCBiZSBmYXN0ZXIsIGJ1dCBvbmx5IHVzZWQgYSBzaW5nbGUgdGltZSBpbiBUaHJlYWRJbmZvcyBzbyBub3QgcGVyZm9ybWFuY2UgY3JpdGljYWwKCQlmb3IgKE5vZGUgbiA6IG12Zy52ZXJ0ZXhTZXQoKSkgewoJCQlpZiAodGhyZWFkLmdldEdpZCgpLmVxdWFscyhuLmdldEdpZCgpKSAmJiB0aHJlYWQuZ2V0VGhyZWFkSWQoKS5lcXVhbHMobi5nZXRUaHJlYWRJZCgpKSkgewoJCQkJcmV0dXJuIG12Z0Nvbm5lY3Rpdml0eUluc3BlY3Rvci5jb25uZWN0ZWRTZXRPZihuKTsKCQkJfQoJCX0KCQlyZXR1cm4gQ29sbGVjdGlvbnMuZW1wdHlTZXQoKTsKCX0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQlNZXNzYWdlQWNjZXNzRW5naW5lIG1lc3NhZ2VBY2Nlc3NFbmdpbmUgPSBuZXcgTWVzc2FnZUFjY2Vzc0VuZ2luZShzZWVkcywgcmVxdWVzdGVyLCBSZXF1ZXN0VXNlckNhY2hlLklOU1RBTkNFLCBhbSk7Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5zdHJlYWsuYmlndGFibGUuTWVzc2FnZUFjY2Vzc0VuZ2luZTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQlmb3IgKEdtYWlsVGhyZWFkIGdtYWlsVGhyZWFkIDogZ21haWxUaHJlYWRzKSB7CgkJCVNldDxOb2RlPiBtZXNzYWdlTm9kZXMgPSBtZXNzYWdlQWNjZXNzRW5naW5lLmdldFVuaWZpZWRUaHJlYWQoZ21haWxUaHJlYWQuZ2V0R21haWxUaHJlYWRLZXkoKSk7CgkJfQo=</text>
+        <text encoding="base64">CQlNZXNzYWdlQWNjZXNzRW5naW5lIG1lc3NhZ2VBY2Nlc3NFbmdpbmUgPSBuZXcgTWVzc2FnZUFjY2Vzc0VuZ2luZShzZWVkcywgcmVxdWVzdGVyLCBSZXF1ZXN0VXNlckNhY2hlLklOU1RBTkNFLCBhbSk7Cg==</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">CQlmb3IgKEdtYWlsVGhyZWFkIGdtYWlsVGhyZWFkIDogZ21haWxUaHJlYWRzKSB7CgkJCVNldDxOb2RlPiBtZXNzYWdlTm9kZXMgPSBtZXNzYWdlQWNjZXNzRW5naW5lLmdldFVuaWZpZWRUaHJlYWQoZ21haWxUaHJlYWQuZ2V0R21haWxUaHJlYWRLZXkoKSk7CgkJfQo=</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">CQltZXNzYWdlQWNjZXNzRW5naW5lLgo=</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>for (SenderEmailSendTimestampPair sestp : gmailThread.getSenderEmailSendTimestampPairs()) {
 				//ret.add(new Interaction(sestp.getSendTimestamp(), INTERACTION_TYPE.EMAIL, sestp.getEmail()));
 			}</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">CQlidGFvLmdldEZyb21UaHJlYWRJZHMoKQo=</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">CQkJCS8vIFRPRE8K</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">CgkJOwo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">CQlMaXN0PE1lZXRpbmc+IGNhbGxMb2dzID0gREFPLmdldENhbGxMb2dzRm9yVXNlcnNJblBlcmlvZCh3b3JrZmxvd0tleSwgdXNlcktleXMsIHBlcmlvZFN0YXJ0VGltZXN0YW1wLCBwZXJpb2RFbmRUaW1lc3RhbXApOwo=</text>
+        <text encoding="base64">CgkJOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
