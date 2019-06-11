@@ -96,6 +96,7 @@
         <mark key="]" line="91" column="0" />
         <mark key="." line="91" column="0" />
       </file>
+      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_152.jdk/Contents/Home/src.zip!/java/time/temporal/IsoFields.java" timestamp="1560293478844" />
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/graphql/TeamContactsDataFetcher.java" timestamp="1556063404327">
         <mark key="[" line="23" column="57" />
         <mark key="]" line="25" column="0" />
@@ -159,11 +160,10 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/analytics/query/NRelativeDate.java" timestamp="1560286682528">
-        <mark key="[" line="60" column="0" />
-        <mark key="]" line="61" column="38" />
-        <mark key="." line="60" column="0" />
-        <mark key="^" line="21" column="37" />
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/analytics/query/NRelativeDate.java" timestamp="1560295715998">
+        <mark key="[" line="94" column="54" />
+        <mark key="]" line="94" column="54" />
+        <mark key="." line="94" column="54" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/BigtableRpcDelegate.java" timestamp="1559933688311">
         <mark key="[" line="29" column="0" />
@@ -223,10 +223,10 @@
         <mark key="." line="108" column="127" />
         <mark key="^" line="108" column="130" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/analytics/query/RelativeDate.java" timestamp="1560291962997">
-        <mark key="[" line="82" column="0" />
-        <mark key="]" line="82" column="0" />
-        <mark key="." line="82" column="0" />
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/analytics/query/RelativeDate.java" timestamp="1560295694275">
+        <mark key="[" line="122" column="51" />
+        <mark key="]" line="122" column="51" />
+        <mark key="." line="122" column="51" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/DataflowLogsExport/src/main/java/com/streak/logging/dataflow/BigtableCheckWriter.java" timestamp="1555962633939">
         <mark key="[" line="64" column="60" />
@@ -349,11 +349,11 @@
       <jump line="86" column="0" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataupdaters/getters/InteractionsGetter.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQkJCQkJOwo=</text>
+      <register name="&quot;" type="4">
+        <text>plusMonths(3)</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>plusMonths(3)</text>
       </register>
       <register name="/" type="4">
         <text>Numeric</text>
@@ -362,31 +362,85 @@
         <text encoding="base64">CQkJCXN3aXRjaCAoYWRqZWN0aXZlKSB7CgkJCQkJY2FzZSBUSElTOgoJCQkJCQlyZXQuZnJvbU1zID0gMEw7CgkJCQkJCXJldC50b01zID0gMEw7CgkJCQkJCWJyZWFrOwoJCQkJCWNhc2UgTkVYVDoKCQkJCQkJcmV0LmZyb21NcyA9IDBMOwoJCQkJCQlyZXQudG9NcyA9IDBMOwoJCQkJCQlicmVhazsKCQkJCQljYXNlIFBSRVZJT1VTOgoJCQkJCQlyZXQuZnJvbU1zID0gMEw7CgkJCQkJCXJldC50b01zID0gMEw7CgkJCQkJCWJyZWFrOwoJCQkJfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJCQkJOwo=</text>
+        <text encoding="base64">CQkJCQkJCQkJCS5wbHVzRGF5cygxKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJCQkJOwo=</text>
+        <text encoding="base64">CQkJCQljYXNlIFRISVM6CgkJCQkJCXJldC5mcm9tTXMgPSBub3cudG9Mb2NhbERhdGUoKQoJCQkJCQkJCQkJLmF0U3RhcnRPZkRheSh0aW1lWm9uZSkKCQkJCQkJCQkJCS50b0luc3RhbnQoKQoJCQkJCQkJCQkJLnRvRXBvY2hNaWxsaSgpOwoJCQkJCQlyZXQudG9NcyA9IG5vdy50b0xvY2FsRGF0ZSgpCgkJCQkJCQkJCSAgLmF0U3RhcnRPZkRheSh0aW1lWm9uZSkKCQkJCQkJCQkJICAucGx1c0RheXMoMSkKCQkJCQkJCQkJICAudG9JbnN0YW50KCkKCQkJCQkJCQkJICAudG9FcG9jaE1pbGxpKCk7CgkJCQkJCWJyZWFrOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJCQkJOwo=</text>
+        <text encoding="base64">CQkJCQljYXNlIFRISVM6CgkJCQkJCXJldC5mcm9tTXMgPSBmaXJzdERhdGVPZldlZWsudG9FcG9jaFNlY29uZCgpOwoJCQkJCQlyZXQudG9NcyA9IGZpcnN0RGF0ZU9mV2Vlay5wbHVzV2Vla3MoMSkudG9FcG9jaFNlY29uZCgpOwoJCQkJCQlicmVhazsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCQljYXNlIFRISVM6CgkJCQkJCXJldC5mcm9tTXMgPSBmaXJzdERhdGVPZk1vbnRoLnRvRXBvY2hTZWNvbmQoKTsKCQkJCQkJcmV0LnRvTXMgPSBmaXJzdERhdGVPZk1vbnRoLnBsdXNNb250aHMoMSkudG9FcG9jaFNlY29uZCgpOwoJCQkJCQlicmVhazsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJCQlEYXlPZldlZWsgZmlyc3REYXlPZldlZWsgPSBXZWVrRmllbGRzLm9mKGxvY2FsZSkuZ2V0Rmlyc3REYXlPZldlZWsoKTsKCQkJCQlMb2NhbERhdGUgZmlyc3REYXRlT2ZXZWVrID0gTG9jYWxEYXRlLm5vdyh0aW1lWm9uZSkud2l0aChUZW1wb3JhbEFkanVzdGVycy5wcmV2aW91c09yU2FtZShmaXJzdERheU9mV2VlaykpOwo=</text>
+        <text encoding="base64">CQkJCQljYXNlIFRISVM6CgkJCQkJCXJldC5mcm9tTXMgPSB0aGlzUXVhcnRlclN0YXJ0LnRvRXBvY2hTZWNvbmQoKTsKCQkJCQkJcmV0LnRvTXMgPSB0aGlzUXVhcnRlclN0YXJ0LnBsdXNNb250aHMoMykudG9FcG9jaFNlY29uZCgpOwoJCQkJCQlicmVhazsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJCQkJcmV0LmZyb21NcyA9IGZpcnN0RGF0ZU9mV2Vlawo=</text>
+        <text encoding="base64">CQkJCQljYXNlIFRISVM6CgkJCQkJCXJldC5mcm9tTXMgPSBMb2NhbERhdGUub2YoY3VycmVudFllYXIsIDEsIDEpLmF0U3RhcnRPZkRheSh0aW1lWm9uZSkudG9FcG9jaFNlY29uZCgpOwoJCQkJCQlyZXQudG9NcyA9IExvY2FsRGF0ZS5vZihjdXJyZW50WWVhciArIDEsIDEsIDEpLmF0U3RhcnRPZkRheSh0aW1lWm9uZSkudG9FcG9jaFNlY29uZCgpOwoJCQkJCQlicmVhazsK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">CQkJCQkJCQkJCS50b0Vwb2NoTWlsbGkoKTs7Cg==</text>
+      <register name="7" type="4">
+        <text>TransitionInRange ret = new TransitionInRange();
+		ret.stage = stage;
+		switch (period) {
+			case DAY:
+				switch (adjective) {
+					case NEXT:
+						ret.fromMs = 0L;
+						ret.toMs = 0L;
+						break;
+					case PREVIOUS:
+						ret.fromMs = 0L;
+						ret.toMs = 0L;
+						break;
+				}
+				break;
+			case WEEK:
+				switch (adjective) {
+					case NEXT:
+						ret.fromMs = 0L;
+						ret.toMs = 0L;
+						break;
+					case PREVIOUS:
+						ret.fromMs = 0L;
+						ret.toMs = 0L;
+						break;
+				}
+				break;
+			case MONTH:
+				switch (adjective) {
+					case NEXT:
+						ret.fromMs = 0L;
+						ret.toMs = 0L;
+						break;
+					case PREVIOUS:
+						ret.fromMs = 0L;
+						ret.toMs = 0L;
+						break;
+				}
+				break;
+			case QUARTER:
+				switch (adjective) {
+					case NEXT:
+						ret.fromMs = 0L;
+						ret.toMs = 0L;
+						break;
+					case PREVIOUS:
+						ret.fromMs = 0L;
+						ret.toMs = 0L;
+						break;
+				}
+				break;
+			case YEAR:
+				break;
+		}
+		return ret;</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJCQkJCQkJCS50b0luc3RhbnQoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJCQlab25lZERhdGVUaW1lIHRvZGF5ID0gbm93LnRvTG9jYWxEYXRlKCkKCQkJCQkJCQkJCQkgLmF0U3RhcnRPZkRheSh0aW1lWm9uZSk7Cg==</text>
+        <text encoding="base64">CTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
