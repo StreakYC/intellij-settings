@@ -50,12 +50,12 @@
         <mark key="^" line="738" column="40" />
         <mark key="." line="738" column="40" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/analytics/backends/FatBigTable.java" timestamp="1559940693501">
-        <mark key="'" line="251" column="12" />
-        <mark key="[" line="70" column="0" />
-        <mark key="]" line="70" column="0" />
-        <mark key="." line="70" column="0" />
-        <mark key="^" line="191" column="48" />
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/analytics/backends/FatBigTable.java" timestamp="1560296800355">
+        <mark key="'" line="253" column="12" />
+        <mark key="[" line="262" column="106" />
+        <mark key="]" line="262" column="58" />
+        <mark key="." line="262" column="58" />
+        <mark key="^" line="262" column="58" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/analytics/FatBigTable.java" timestamp="1557351688263">
         <mark key="'" line="117" column="102" />
@@ -223,8 +223,8 @@
         <mark key="." line="108" column="127" />
         <mark key="^" line="108" column="130" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/analytics/query/RelativeDate.java" timestamp="1560295694275">
-        <mark key="[" line="122" column="51" />
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/analytics/query/RelativeDate.java" timestamp="1560296759819">
+        <mark key="[" line="21" column="4" />
         <mark key="]" line="122" column="51" />
         <mark key="." line="122" column="51" />
       </file>
@@ -349,37 +349,40 @@
       <jump line="86" column="0" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataupdaters/getters/InteractionsGetter.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>plusMonths(3)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQllbHNlIGlmIChjb25kaXRpb24uZ2V0Q2xhc3MoKS5lcXVhbHMoUmVsYXRpdmVEYXRlLmNsYXNzKSkgewoJCQlyZXR1cm4gcHJlZGljYXRlRmlsdGVyRnJvbVRyYW5zaXRpb25JblJhbmdlKCgoUmVsYXRpdmVEYXRlKSBjb25kaXRpb24pLnRvVHJhbnNpdGlvbkluUmFuZ2UoKSk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>plusMonths(3)</text>
+        <text>TransitionInRange</text>
       </register>
       <register name="/" type="4">
         <text>Numeric</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQkJCXN3aXRjaCAoYWRqZWN0aXZlKSB7CgkJCQkJY2FzZSBUSElTOgoJCQkJCQlyZXQuZnJvbU1zID0gMEw7CgkJCQkJCXJldC50b01zID0gMEw7CgkJCQkJCWJyZWFrOwoJCQkJCWNhc2UgTkVYVDoKCQkJCQkJcmV0LmZyb21NcyA9IDBMOwoJCQkJCQlyZXQudG9NcyA9IDBMOwoJCQkJCQlicmVhazsKCQkJCQljYXNlIFBSRVZJT1VTOgoJCQkJCQlyZXQuZnJvbU1zID0gMEw7CgkJCQkJCXJldC50b01zID0gMEw7CgkJCQkJCWJyZWFrOwoJCQkJfQo=</text>
+        <text encoding="base64">CQllbHNlIGlmIChjb25kaXRpb24uZ2V0Q2xhc3MoKS5lcXVhbHMoUmVsYXRpdmVEYXRlLmNsYXNzKSkgewoJCQlyZXR1cm4gcHJlZGljYXRlRmlsdGVyRnJvbVRyYW5zaXRpb25JblJhbmdlKCgoUmVsYXRpdmVEYXRlKSBjb25kaXRpb24pLnRvVHJhbnNpdGlvbkluUmFuZ2UoKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJCQkJCQkJCS5wbHVzRGF5cygxKQo=</text>
+        <text encoding="base64">CQllbHNlIGlmIChjb25kaXRpb24uZ2V0Q2xhc3MoKS5lcXVhbHMoVHJhbnNpdGlvbkluUmFuZ2UuY2xhc3MpKSB7CgkJCXJldHVybiBwcmVkaWNhdGVGaWx0ZXJGcm9tVHJhbnNpdGlvbkluUmFuZ2UoKFRyYW5zaXRpb25JblJhbmdlKSBjb25kaXRpb24pOwoJCX0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJCQljYXNlIFRISVM6CgkJCQkJCXJldC5mcm9tTXMgPSBub3cudG9Mb2NhbERhdGUoKQoJCQkJCQkJCQkJLmF0U3RhcnRPZkRheSh0aW1lWm9uZSkKCQkJCQkJCQkJCS50b0luc3RhbnQoKQoJCQkJCQkJCQkJLnRvRXBvY2hNaWxsaSgpOwoJCQkJCQlyZXQudG9NcyA9IG5vdy50b0xvY2FsRGF0ZSgpCgkJCQkJCQkJCSAgLmF0U3RhcnRPZkRheSh0aW1lWm9uZSkKCQkJCQkJCQkJICAucGx1c0RheXMoMSkKCQkJCQkJCQkJICAudG9JbnN0YW50KCkKCQkJCQkJCQkJICAudG9FcG9jaE1pbGxpKCk7CgkJCQkJCWJyZWFrOwo=</text>
+        <text encoding="base64">CQkJCQkJCQkJCS5wbHVzRGF5cygxKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJCQljYXNlIFRISVM6CgkJCQkJCXJldC5mcm9tTXMgPSBmaXJzdERhdGVPZldlZWsudG9FcG9jaFNlY29uZCgpOwoJCQkJCQlyZXQudG9NcyA9IGZpcnN0RGF0ZU9mV2Vlay5wbHVzV2Vla3MoMSkudG9FcG9jaFNlY29uZCgpOwoJCQkJCQlicmVhazsK</text>
+        <text encoding="base64">CQkJCQljYXNlIFRISVM6CgkJCQkJCXJldC5mcm9tTXMgPSBub3cudG9Mb2NhbERhdGUoKQoJCQkJCQkJCQkJLmF0U3RhcnRPZkRheSh0aW1lWm9uZSkKCQkJCQkJCQkJCS50b0luc3RhbnQoKQoJCQkJCQkJCQkJLnRvRXBvY2hNaWxsaSgpOwoJCQkJCQlyZXQudG9NcyA9IG5vdy50b0xvY2FsRGF0ZSgpCgkJCQkJCQkJCSAgLmF0U3RhcnRPZkRheSh0aW1lWm9uZSkKCQkJCQkJCQkJICAucGx1c0RheXMoMSkKCQkJCQkJCQkJICAudG9JbnN0YW50KCkKCQkJCQkJCQkJICAudG9FcG9jaE1pbGxpKCk7CgkJCQkJCWJyZWFrOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJCQljYXNlIFRISVM6CgkJCQkJCXJldC5mcm9tTXMgPSBmaXJzdERhdGVPZk1vbnRoLnRvRXBvY2hTZWNvbmQoKTsKCQkJCQkJcmV0LnRvTXMgPSBmaXJzdERhdGVPZk1vbnRoLnBsdXNNb250aHMoMSkudG9FcG9jaFNlY29uZCgpOwoJCQkJCQlicmVhazsK</text>
+        <text encoding="base64">CQkJCQljYXNlIFRISVM6CgkJCQkJCXJldC5mcm9tTXMgPSBmaXJzdERhdGVPZldlZWsudG9FcG9jaFNlY29uZCgpOwoJCQkJCQlyZXQudG9NcyA9IGZpcnN0RGF0ZU9mV2Vlay5wbHVzV2Vla3MoMSkudG9FcG9jaFNlY29uZCgpOwoJCQkJCQlicmVhazsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJCQljYXNlIFRISVM6CgkJCQkJCXJldC5mcm9tTXMgPSB0aGlzUXVhcnRlclN0YXJ0LnRvRXBvY2hTZWNvbmQoKTsKCQkJCQkJcmV0LnRvTXMgPSB0aGlzUXVhcnRlclN0YXJ0LnBsdXNNb250aHMoMykudG9FcG9jaFNlY29uZCgpOwoJCQkJCQlicmVhazsK</text>
+        <text encoding="base64">CQkJCQljYXNlIFRISVM6CgkJCQkJCXJldC5mcm9tTXMgPSBmaXJzdERhdGVPZk1vbnRoLnRvRXBvY2hTZWNvbmQoKTsKCQkJCQkJcmV0LnRvTXMgPSBmaXJzdERhdGVPZk1vbnRoLnBsdXNNb250aHMoMSkudG9FcG9jaFNlY29uZCgpOwoJCQkJCQlicmVhazsK</text>
       </register>
       <register name="6" type="2">
+        <text encoding="base64">CQkJCQljYXNlIFRISVM6CgkJCQkJCXJldC5mcm9tTXMgPSB0aGlzUXVhcnRlclN0YXJ0LnRvRXBvY2hTZWNvbmQoKTsKCQkJCQkJcmV0LnRvTXMgPSB0aGlzUXVhcnRlclN0YXJ0LnBsdXNNb250aHMoMykudG9FcG9jaFNlY29uZCgpOwoJCQkJCQlicmVhazsK</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">CQkJCQljYXNlIFRISVM6CgkJCQkJCXJldC5mcm9tTXMgPSBMb2NhbERhdGUub2YoY3VycmVudFllYXIsIDEsIDEpLmF0U3RhcnRPZkRheSh0aW1lWm9uZSkudG9FcG9jaFNlY29uZCgpOwoJCQkJCQlyZXQudG9NcyA9IExvY2FsRGF0ZS5vZihjdXJyZW50WWVhciArIDEsIDEsIDEpLmF0U3RhcnRPZkRheSh0aW1lWm9uZSkudG9FcG9jaFNlY29uZCgpOwoJCQkJCQlicmVhazsK</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text>TransitionInRange ret = new TransitionInRange();
 		ret.stage = stage;
 		switch (period) {
@@ -436,11 +439,8 @@
 		}
 		return ret;</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">CTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
