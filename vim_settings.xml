@@ -224,10 +224,12 @@
         <mark key="." line="108" column="127" />
         <mark key="^" line="108" column="130" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/analytics/query/RelativeDate.java" timestamp="1560296759819">
-        <mark key="[" line="21" column="4" />
-        <mark key="]" line="122" column="51" />
-        <mark key="." line="122" column="51" />
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/analytics/query/RelativeDate.java" timestamp="1560374775139">
+        <mark key="'" line="154" column="0" />
+        <mark key="[" line="114" column="62" />
+        <mark key="]" line="65" column="45" />
+        <mark key="." line="65" column="45" />
+        <mark key="^" line="65" column="45" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/DataflowLogsExport/src/main/java/com/streak/logging/dataflow/BigtableCheckWriter.java" timestamp="1555962633939">
         <mark key="[" line="64" column="60" />
@@ -248,9 +250,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="152" column="8" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/streak/ratchet/RatchetIntegrationTests.java" />
-      <jump line="57" column="87" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/streak/ratchet/RatchetIntegrationTests.java" />
-      <jump line="58" column="90" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/streak/ratchet/RatchetIntegrationTests.java" />
       <jump line="59" column="92" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/streak/ratchet/RatchetIntegrationTests.java" />
       <jump line="86" column="71" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/rewardly/mailfoo/unittests/MessageAccessEngineRemoteTest.java" />
       <jump line="94" column="79" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/rewardly/mailfoo/unittests/MessageAccessEngineRemoteTest.java" />
@@ -348,42 +347,48 @@
       <jump line="274" column="24" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataupdaters/creators/PlanInstanceCreator.java" />
       <jump line="86" column="0" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataupdaters/getters/InteractionsGetter.java" />
       <jump line="262" column="60" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/analytics/backends/FatBigTable.java" />
+      <jump line="37" column="20" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/analytics/query/RelativeDate.java" />
+      <jump line="79" column="21" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/analytics/query/RelativeDate.java" />
+      <jump line="161" column="0" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/analytics/query/RelativeDate.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQllbHNlIGlmIChjb25kaXRpb24uZ2V0Q2xhc3MoKS5lcXVhbHMoUmVsYXRpdmVEYXRlLmNsYXNzKSkgewoJCQlyZXR1cm4gcHJlZGljYXRlRmlsdGVyRnJvbVRyYW5zaXRpb25JblJhbmdlKCgoUmVsYXRpdmVEYXRlKSBjb25kaXRpb24pLnRvVHJhbnNpdGlvbkluUmFuZ2UoKSk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>now</text>
       </register>
       <register name="-" type="4">
-        <text>TransitionInRange</text>
+        <text>now</text>
       </register>
       <register name="/" type="4">
-        <text>Numeric</text>
+        <text>LocalDate.now(timeZone)</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQllbHNlIGlmIChjb25kaXRpb24uZ2V0Q2xhc3MoKS5lcXVhbHMoUmVsYXRpdmVEYXRlLmNsYXNzKSkgewoJCQlyZXR1cm4gcHJlZGljYXRlRmlsdGVyRnJvbVRyYW5zaXRpb25JblJhbmdlKCgoUmVsYXRpdmVEYXRlKSBjb25kaXRpb24pLnRvVHJhbnNpdGlvbkluUmFuZ2UoKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQllbHNlIGlmIChjb25kaXRpb24uZ2V0Q2xhc3MoKS5lcXVhbHMoVHJhbnNpdGlvbkluUmFuZ2UuY2xhc3MpKSB7CgkJCXJldHVybiBwcmVkaWNhdGVGaWx0ZXJGcm9tVHJhbnNpdGlvbkluUmFuZ2UoKFRyYW5zaXRpb25JblJhbmdlKSBjb25kaXRpb24pOwoJCX0K</text>
+        <text encoding="base64">CQlab25lZERhdGVUaW1lIG5vdyA9IFpvbmVkRGF0ZVRpbWUub2ZJbnN0YW50KEluc3RhbnQubm93KCksIHRpbWVab25lKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJCQkJCQkJCS5wbHVzRGF5cygxKQo=</text>
+        <text encoding="base64">CQllbHNlIGlmIChjb25kaXRpb24uZ2V0Q2xhc3MoKS5lcXVhbHMoVHJhbnNpdGlvbkluUmFuZ2UuY2xhc3MpKSB7CgkJCXJldHVybiBwcmVkaWNhdGVGaWx0ZXJGcm9tVHJhbnNpdGlvbkluUmFuZ2UoKFRyYW5zaXRpb25JblJhbmdlKSBjb25kaXRpb24pOwoJCX0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJCQljYXNlIFRISVM6CgkJCQkJCXJldC5mcm9tTXMgPSBub3cudG9Mb2NhbERhdGUoKQoJCQkJCQkJCQkJLmF0U3RhcnRPZkRheSh0aW1lWm9uZSkKCQkJCQkJCQkJCS50b0luc3RhbnQoKQoJCQkJCQkJCQkJLnRvRXBvY2hNaWxsaSgpOwoJCQkJCQlyZXQudG9NcyA9IG5vdy50b0xvY2FsRGF0ZSgpCgkJCQkJCQkJCSAgLmF0U3RhcnRPZkRheSh0aW1lWm9uZSkKCQkJCQkJCQkJICAucGx1c0RheXMoMSkKCQkJCQkJCQkJICAudG9JbnN0YW50KCkKCQkJCQkJCQkJICAudG9FcG9jaE1pbGxpKCk7CgkJCQkJCWJyZWFrOwo=</text>
+        <text encoding="base64">CQkJCQkJCQkJCS5wbHVzRGF5cygxKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJCQljYXNlIFRISVM6CgkJCQkJCXJldC5mcm9tTXMgPSBmaXJzdERhdGVPZldlZWsudG9FcG9jaFNlY29uZCgpOwoJCQkJCQlyZXQudG9NcyA9IGZpcnN0RGF0ZU9mV2Vlay5wbHVzV2Vla3MoMSkudG9FcG9jaFNlY29uZCgpOwoJCQkJCQlicmVhazsK</text>
+        <text encoding="base64">CQkJCQljYXNlIFRISVM6CgkJCQkJCXJldC5mcm9tTXMgPSBub3cudG9Mb2NhbERhdGUoKQoJCQkJCQkJCQkJLmF0U3RhcnRPZkRheSh0aW1lWm9uZSkKCQkJCQkJCQkJCS50b0luc3RhbnQoKQoJCQkJCQkJCQkJLnRvRXBvY2hNaWxsaSgpOwoJCQkJCQlyZXQudG9NcyA9IG5vdy50b0xvY2FsRGF0ZSgpCgkJCQkJCQkJCSAgLmF0U3RhcnRPZkRheSh0aW1lWm9uZSkKCQkJCQkJCQkJICAucGx1c0RheXMoMSkKCQkJCQkJCQkJICAudG9JbnN0YW50KCkKCQkJCQkJCQkJICAudG9FcG9jaE1pbGxpKCk7CgkJCQkJCWJyZWFrOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJCQljYXNlIFRISVM6CgkJCQkJCXJldC5mcm9tTXMgPSBmaXJzdERhdGVPZk1vbnRoLnRvRXBvY2hTZWNvbmQoKTsKCQkJCQkJcmV0LnRvTXMgPSBmaXJzdERhdGVPZk1vbnRoLnBsdXNNb250aHMoMSkudG9FcG9jaFNlY29uZCgpOwoJCQkJCQlicmVhazsK</text>
+        <text encoding="base64">CQkJCQljYXNlIFRISVM6CgkJCQkJCXJldC5mcm9tTXMgPSBmaXJzdERhdGVPZldlZWsudG9FcG9jaFNlY29uZCgpOwoJCQkJCQlyZXQudG9NcyA9IGZpcnN0RGF0ZU9mV2Vlay5wbHVzV2Vla3MoMSkudG9FcG9jaFNlY29uZCgpOwoJCQkJCQlicmVhazsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJCQljYXNlIFRISVM6CgkJCQkJCXJldC5mcm9tTXMgPSB0aGlzUXVhcnRlclN0YXJ0LnRvRXBvY2hTZWNvbmQoKTsKCQkJCQkJcmV0LnRvTXMgPSB0aGlzUXVhcnRlclN0YXJ0LnBsdXNNb250aHMoMykudG9FcG9jaFNlY29uZCgpOwoJCQkJCQlicmVhazsK</text>
+        <text encoding="base64">CQkJCQljYXNlIFRISVM6CgkJCQkJCXJldC5mcm9tTXMgPSBmaXJzdERhdGVPZk1vbnRoLnRvRXBvY2hTZWNvbmQoKTsKCQkJCQkJcmV0LnRvTXMgPSBmaXJzdERhdGVPZk1vbnRoLnBsdXNNb250aHMoMSkudG9FcG9jaFNlY29uZCgpOwoJCQkJCQlicmVhazsK</text>
       </register>
       <register name="7" type="2">
+        <text encoding="base64">CQkJCQljYXNlIFRISVM6CgkJCQkJCXJldC5mcm9tTXMgPSB0aGlzUXVhcnRlclN0YXJ0LnRvRXBvY2hTZWNvbmQoKTsKCQkJCQkJcmV0LnRvTXMgPSB0aGlzUXVhcnRlclN0YXJ0LnBsdXNNb250aHMoMykudG9FcG9jaFNlY29uZCgpOwoJCQkJCQlicmVhazsK</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">CQkJCQljYXNlIFRISVM6CgkJCQkJCXJldC5mcm9tTXMgPSBMb2NhbERhdGUub2YoY3VycmVudFllYXIsIDEsIDEpLmF0U3RhcnRPZkRheSh0aW1lWm9uZSkudG9FcG9jaFNlY29uZCgpOwoJCQkJCQlyZXQudG9NcyA9IExvY2FsRGF0ZS5vZihjdXJyZW50WWVhciArIDEsIDEsIDEpLmF0U3RhcnRPZkRheSh0aW1lWm9uZSkudG9FcG9jaFNlY29uZCgpOwoJCQkJCQlicmVhazsK</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text>TransitionInRange ret = new TransitionInRange();
 		ret.stage = stage;
 		switch (period) {
@@ -440,27 +445,21 @@
 		}
 		return ret;</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>Numeric</last-search>
+      <last-search>LocalDate.now(timeZone)</last-search>
       <last-offset />
-      <last-pattern>Numeric</last-pattern>
-      <last-replace>String</last-replace>
-      <last-substitute>Numeric</last-substitute>
+      <last-pattern>LocalDate.now(timeZone)</last-pattern>
+      <last-replace>currentDate</last-replace>
+      <last-substitute>LocalDate.now(timeZone)</last-substitute>
       <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>{</entry>
-        <entry>\/\/</entry>
-        <entry>rawMessage</entry>
         <entry>builder</entry>
         <entry>$</entry>
         <entry>Email</entry>
@@ -478,10 +477,11 @@
         <entry>Analytics</entry>
         <entry>1</entry>
         <entry>Numeric</entry>
+        <entry>now.toLocalDate()</entry>
+        <entry>s/LocalDate.now(timeZone)/currentDate</entry>
+        <entry>LocalDate.now(timeZone)</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zL0VtYWlsL0RvbWFpbi9n</entry>
-        <entry encoding="base64">JzwsJz5zL0JjYy9DYy9n</entry>
         <entry encoding="base64">JzwsJz5zL0JjYy9EZWxpdmVyZWRUby9n</entry>
         <entry encoding="base64">JzwsJz5zL0JjYy9Gcm9tL2c=</entry>
         <entry encoding="base64">JzwsJz5zL0JjYy9Uby9n</entry>
@@ -499,6 +499,8 @@
         <entry>s/1/2/g</entry>
         <entry encoding="base64">JzwsJz5zL051bWVyaWMvU3RyaW5nL2c=</entry>
         <entry>q</entry>
+        <entry>%s/now.toLocalDate()/currentDate/</entry>
+        <entry encoding="base64">JzwsJz5zL0xvY2FsRGF0ZS5ub3codGltZVpvbmUpL2N1cnJlbnREYXRlLw==</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
