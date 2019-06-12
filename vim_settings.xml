@@ -187,7 +187,7 @@
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/rewardly/mailfoo/unittests/AnalyticsTest.java" timestamp="1560372349268">
         <mark key="'" line="69" column="8" />
-        <mark key="[" line="304" column="5" />
+        <mark key="[" line="305" column="5" />
         <mark key="]" line="195" column="27" />
         <mark key="." line="195" column="27" />
         <mark key="^" line="195" column="27" />
@@ -224,12 +224,12 @@
         <mark key="." line="108" column="127" />
         <mark key="^" line="108" column="130" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/analytics/query/RelativeDate.java" timestamp="1560374775139">
-        <mark key="'" line="154" column="0" />
-        <mark key="[" line="114" column="62" />
-        <mark key="]" line="65" column="45" />
-        <mark key="." line="65" column="45" />
-        <mark key="^" line="65" column="45" />
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/analytics/query/RelativeDate.java" timestamp="1560375798102">
+        <mark key="'" line="137" column="0" />
+        <mark key="[" line="59" column="46" />
+        <mark key="]" line="55" column="0" />
+        <mark key="." line="55" column="0" />
+        <mark key="^" line="42" column="64" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/DataflowLogsExport/src/main/java/com/streak/logging/dataflow/BigtableCheckWriter.java" timestamp="1555962633939">
         <mark key="[" line="64" column="60" />
@@ -352,11 +352,11 @@
       <jump line="161" column="0" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/analytics/query/RelativeDate.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>now</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQkJCQkJOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>now</text>
+        <text>currentDate.getYear()</text>
       </register>
       <register name="/" type="4">
         <text>LocalDate.now(timeZone)</text>
@@ -365,85 +365,31 @@
         <text encoding="base64">CQllbHNlIGlmIChjb25kaXRpb24uZ2V0Q2xhc3MoKS5lcXVhbHMoUmVsYXRpdmVEYXRlLmNsYXNzKSkgewoJCQlyZXR1cm4gcHJlZGljYXRlRmlsdGVyRnJvbVRyYW5zaXRpb25JblJhbmdlKCgoUmVsYXRpdmVEYXRlKSBjb25kaXRpb24pLnRvVHJhbnNpdGlvbkluUmFuZ2UoKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQlab25lZERhdGVUaW1lIG5vdyA9IFpvbmVkRGF0ZVRpbWUub2ZJbnN0YW50KEluc3RhbnQubm93KCksIHRpbWVab25lKTsK</text>
+        <text encoding="base64">CQkJCQkJOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQllbHNlIGlmIChjb25kaXRpb24uZ2V0Q2xhc3MoKS5lcXVhbHMoVHJhbnNpdGlvbkluUmFuZ2UuY2xhc3MpKSB7CgkJCXJldHVybiBwcmVkaWNhdGVGaWx0ZXJGcm9tVHJhbnNpdGlvbkluUmFuZ2UoKFRyYW5zaXRpb25JblJhbmdlKSBjb25kaXRpb24pOwoJCX0K</text>
+        <text encoding="base64">CQkJCQkJOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJCQkJCQkJCS5wbHVzRGF5cygxKQo=</text>
+        <text encoding="base64">CQkJCQkJOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJCQljYXNlIFRISVM6CgkJCQkJCXJldC5mcm9tTXMgPSBub3cudG9Mb2NhbERhdGUoKQoJCQkJCQkJCQkJLmF0U3RhcnRPZkRheSh0aW1lWm9uZSkKCQkJCQkJCQkJCS50b0luc3RhbnQoKQoJCQkJCQkJCQkJLnRvRXBvY2hNaWxsaSgpOwoJCQkJCQlyZXQudG9NcyA9IG5vdy50b0xvY2FsRGF0ZSgpCgkJCQkJCQkJCSAgLmF0U3RhcnRPZkRheSh0aW1lWm9uZSkKCQkJCQkJCQkJICAucGx1c0RheXMoMSkKCQkJCQkJCQkJICAudG9JbnN0YW50KCkKCQkJCQkJCQkJICAudG9FcG9jaE1pbGxpKCk7CgkJCQkJCWJyZWFrOwo=</text>
+        <text encoding="base64">CQkJCQkJOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJCQljYXNlIFRISVM6CgkJCQkJCXJldC5mcm9tTXMgPSBmaXJzdERhdGVPZldlZWsudG9FcG9jaFNlY29uZCgpOwoJCQkJCQlyZXQudG9NcyA9IGZpcnN0RGF0ZU9mV2Vlay5wbHVzV2Vla3MoMSkudG9FcG9jaFNlY29uZCgpOwoJCQkJCQlicmVhazsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJCQljYXNlIFRISVM6CgkJCQkJCXJldC5mcm9tTXMgPSBmaXJzdERhdGVPZk1vbnRoLnRvRXBvY2hTZWNvbmQoKTsKCQkJCQkJcmV0LnRvTXMgPSBmaXJzdERhdGVPZk1vbnRoLnBsdXNNb250aHMoMSkudG9FcG9jaFNlY29uZCgpOwoJCQkJCQlicmVhazsK</text>
+        <text encoding="base64">CQlpbnQgY3VycmVudFllYXIgPSBjdXJyZW50RGF0ZS5nZXRZZWFyKCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJCQljYXNlIFRISVM6CgkJCQkJCXJldC5mcm9tTXMgPSB0aGlzUXVhcnRlclN0YXJ0LnRvRXBvY2hTZWNvbmQoKTsKCQkJCQkJcmV0LnRvTXMgPSB0aGlzUXVhcnRlclN0YXJ0LnBsdXNNb250aHMoMykudG9FcG9jaFNlY29uZCgpOwoJCQkJCQlicmVhazsK</text>
+        <text encoding="base64">CQkJCWludCBjdXJyZW50WWVhciA9IGN1cnJlbnREYXRlLmdldFllYXIoKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJCQljYXNlIFRISVM6CgkJCQkJCXJldC5mcm9tTXMgPSBMb2NhbERhdGUub2YoY3VycmVudFllYXIsIDEsIDEpLmF0U3RhcnRPZkRheSh0aW1lWm9uZSkudG9FcG9jaFNlY29uZCgpOwoJCQkJCQlyZXQudG9NcyA9IExvY2FsRGF0ZS5vZihjdXJyZW50WWVhciArIDEsIDEsIDEpLmF0U3RhcnRPZkRheSh0aW1lWm9uZSkudG9FcG9jaFNlY29uZCgpOwoJCQkJCQlicmVhazsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text>TransitionInRange ret = new TransitionInRange();
-		ret.stage = stage;
-		switch (period) {
-			case DAY:
-				switch (adjective) {
-					case NEXT:
-						ret.fromMs = 0L;
-						ret.toMs = 0L;
-						break;
-					case PREVIOUS:
-						ret.fromMs = 0L;
-						ret.toMs = 0L;
-						break;
-				}
-				break;
-			case WEEK:
-				switch (adjective) {
-					case NEXT:
-						ret.fromMs = 0L;
-						ret.toMs = 0L;
-						break;
-					case PREVIOUS:
-						ret.fromMs = 0L;
-						ret.toMs = 0L;
-						break;
-				}
-				break;
-			case MONTH:
-				switch (adjective) {
-					case NEXT:
-						ret.fromMs = 0L;
-						ret.toMs = 0L;
-						break;
-					case PREVIOUS:
-						ret.fromMs = 0L;
-						ret.toMs = 0L;
-						break;
-				}
-				break;
-			case QUARTER:
-				switch (adjective) {
-					case NEXT:
-						ret.fromMs = 0L;
-						ret.toMs = 0L;
-						break;
-					case PREVIOUS:
-						ret.fromMs = 0L;
-						ret.toMs = 0L;
-						break;
-				}
-				break;
-			case YEAR:
-				break;
-		}
-		return ret;</text>
+      <register name="9" type="2">
+        <text encoding="base64">CQkJCWludCBxdWFydGVyID0gY3VycmVudERhdGUuZ2V0KElzb0ZpZWxkcy5RVUFSVEVSX09GX1lFQVIpOwoJCQkJWm9uZWREYXRlVGltZSB0aGlzUXVhcnRlclN0YXJ0ID0gTG9jYWxEYXRlLm9mKGN1cnJlbnREYXRlLmdldFllYXIoKSwgKHF1YXJ0ZXIgLSAxKSAqIDQgKyAxLCAxKS5hdFN0YXJ0T2ZEYXkodGltZVpvbmUpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
