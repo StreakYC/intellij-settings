@@ -58,6 +58,7 @@
         <mark key="." line="262" column="58" />
         <mark key="^" line="262" column="58" />
       </file>
+      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_152.jdk/Contents/Home/src.zip!/java/time/ZoneId.java" timestamp="1560453806862" />
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/analytics/FatBigTable.java" timestamp="1557351688263">
         <mark key="'" line="117" column="102" />
         <mark key="[" line="91" column="36" />
@@ -161,10 +162,11 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/analytics/query/NRelativeDate.java" timestamp="1560295715998">
-        <mark key="[" line="94" column="54" />
-        <mark key="]" line="94" column="54" />
-        <mark key="." line="94" column="54" />
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/analytics/query/NRelativeDate.java" timestamp="1560455886609">
+        <mark key="'" line="112" column="0" />
+        <mark key="[" line="27" column="52" />
+        <mark key="]" line="49" column="0" />
+        <mark key="." line="49" column="0" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/BigtableRpcDelegate.java" timestamp="1559933688311">
         <mark key="[" line="29" column="0" />
@@ -185,12 +187,11 @@
         <mark key="^" line="69" column="64" />
         <mark key="." line="70" column="0" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/rewardly/mailfoo/unittests/AnalyticsTest.java" timestamp="1560446913350">
-        <mark key="'" line="75" column="8" />
-        <mark key="[" line="274" column="53" />
-        <mark key="]" line="274" column="32" />
-        <mark key="." line="274" column="32" />
-        <mark key="^" line="274" column="32" />
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/rewardly/mailfoo/unittests/AnalyticsTest.java" timestamp="1560456656904">
+        <mark key="'" line="73" column="8" />
+        <mark key="[" line="182" column="16" />
+        <mark key="]" line="264" column="0" />
+        <mark key="." line="264" column="0" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/api/APIV2EndpointManager.java" timestamp="1559780884670">
         <mark key="[" line="97" column="284" />
@@ -224,12 +225,12 @@
         <mark key="." line="108" column="127" />
         <mark key="^" line="108" column="130" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/analytics/query/RelativeDate.java" timestamp="1560380822701">
-        <mark key="'" line="142" column="0" />
-        <mark key="[" line="64" column="46" />
-        <mark key="]" line="60" column="0" />
-        <mark key="." line="60" column="0" />
-        <mark key="^" line="47" column="64" />
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/analytics/query/RelativeDate.java" timestamp="1560455895919">
+        <mark key="'" line="143" column="117" />
+        <mark key="[" line="52" column="52" />
+        <mark key="]" line="143" column="117" />
+        <mark key="." line="143" column="117" />
+        <mark key="^" line="143" column="117" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/DataflowLogsExport/src/main/java/com/streak/logging/dataflow/BigtableCheckWriter.java" timestamp="1555962633939">
         <mark key="[" line="64" column="60" />
@@ -250,12 +251,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="59" column="92" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/streak/ratchet/RatchetIntegrationTests.java" />
-      <jump line="86" column="71" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/rewardly/mailfoo/unittests/MessageAccessEngineRemoteTest.java" />
-      <jump line="94" column="79" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/rewardly/mailfoo/unittests/MessageAccessEngineRemoteTest.java" />
-      <jump line="67" column="48" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/rewardly/mailfoo/unittests/MessageAccessEngineTest.java" />
-      <jump line="136" column="21" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/rewardly/mailfoo/unittests/MessageAccessEngineTest.java" />
-      <jump line="54" column="66" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/streak/ratchet/RatchetUnitTests.java" />
       <jump line="29" column="88" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/messageaccessengine/models/Message.java" />
       <jump line="61" column="0" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/rewardly/mailfoo/unittests/MessageAccessEngineGraphTests.java" />
       <jump line="2682" column="67" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/DAO.java" />
@@ -350,19 +345,25 @@
       <jump line="37" column="20" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/analytics/query/RelativeDate.java" />
       <jump line="79" column="21" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/analytics/query/RelativeDate.java" />
       <jump line="161" column="0" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/analytics/query/RelativeDate.java" />
+      <jump line="47" column="43" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/analytics/query/RelativeDate.java" />
+      <jump line="147" column="0" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/analytics/query/RelativeDate.java" />
+      <jump line="143" column="117" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/analytics/query/RelativeDate.java" />
+      <jump line="108" column="114" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/analytics/query/NRelativeDate.java" />
+      <jump line="39" column="74" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/analytics/query/NRelativeDate.java" />
+      <jump line="139" column="0" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/analytics/query/NRelativeDate.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">CQkJCQkJOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>currentDate.getYear()</text>
+        <text>now.toLocalDate()</text>
       </register>
       <register name="/" type="4">
-        <text>LocalDate.now(timeZone)</text>
+        <text>timeZone</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQllbHNlIGlmIChjb25kaXRpb24uZ2V0Q2xhc3MoKS5lcXVhbHMoUmVsYXRpdmVEYXRlLmNsYXNzKSkgewoJCQlyZXR1cm4gcHJlZGljYXRlRmlsdGVyRnJvbVRyYW5zaXRpb25JblJhbmdlKCgoUmVsYXRpdmVEYXRlKSBjb25kaXRpb24pLnRvVHJhbnNpdGlvbkluUmFuZ2UoKSk7Cg==</text>
+        <text encoding="base64">CQlBc3NlcnQuYXNzZXJ0RXF1YWxzKAoJCQl0cmFuc2l0aW9uSW5SYW5nZS50b01zIC0gdHJhbnNpdGlvbkluUmFuZ2UuZnJvbU1zLAoJCQkyMyAqIDYwICogNjAgKiAxMDAwLAoJCQkiVGhlcmUgYXJlIDIzIGhvdXJzIGluIGEgZGF5IgoJCSk7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">CQkJCQkJOwo=</text>
@@ -377,38 +378,35 @@
         <text encoding="base64">CQkJCQkJOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQlab25lZERhdGVUaW1lIG5vdyA9IFpvbmVkRGF0ZVRpbWUub2ZJbnN0YW50KEluc3RhbnQubm93KCksIHpvbmVJZCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQlpbnQgY3VycmVudFllYXIgPSBjdXJyZW50RGF0ZS5nZXRZZWFyKCk7Cg==</text>
+        <text encoding="base64">CQkJCURheU9mV2VlayBmaXJzdERheU9mV2VlayA9IFdlZWtGaWVsZHMub2YobG9jYWxlKS5nZXRGaXJzdERheU9mV2VlaygpOwoJCQkJWm9uZWREYXRlVGltZSBmaXJzdERhdGVPZldlZWsgPSBMb2NhbERhdGUubm93KHpvbmVJZCkKCQkJCQkJCQkJCQkJCQkgLndpdGgoVGVtcG9yYWxBZGp1c3RlcnMucHJldmlvdXNPclNhbWUoZmlyc3REYXlPZldlZWspKQoJCQkJCQkJCQkJCQkJCSAuYXRTdGFydE9mRGF5KHpvbmVJZCk7Cgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJCWludCBjdXJyZW50WWVhciA9IGN1cnJlbnREYXRlLmdldFllYXIoKTsK</text>
+        <text encoding="base64">CQkJCVpvbmVkRGF0ZVRpbWUgZmlyc3REYXRlT2ZNb250aCA9IExvY2FsRGF0ZS5ub3coem9uZUlkKQoJCQkJCQkJCQkJCQkJCSAgLndpdGgoVGVtcG9yYWxBZGp1c3RlcnMuZmlyc3REYXlPZk1vbnRoKCkpCgkJCQkJCQkJCQkJCQkJICAuYXRTdGFydE9mRGF5KHpvbmVJZCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCWludCBjdXJyZW50WWVhciA9IExvY2FsRGF0ZS5ub3coem9uZUlkKS5nZXRZZWFyKCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJCWludCBxdWFydGVyID0gY3VycmVudERhdGUuZ2V0KElzb0ZpZWxkcy5RVUFSVEVSX09GX1lFQVIpOwoJCQkJWm9uZWREYXRlVGltZSB0aGlzUXVhcnRlclN0YXJ0ID0gTG9jYWxEYXRlLm9mKGN1cnJlbnREYXRlLmdldFllYXIoKSwgKHF1YXJ0ZXIgLSAxKSAqIDQgKyAxLCAxKS5hdFN0YXJ0T2ZEYXkodGltZVpvbmUpOwo=</text>
+        <text encoding="base64">CQkJCWludCBxdWFydGVyID0gTG9jYWxEYXRlLm5vdyh6b25lSWQpLmdldChJc29GaWVsZHMuUVVBUlRFUl9PRl9ZRUFSKTsKCQkJCVpvbmVkRGF0ZVRpbWUgdGhpc1F1YXJ0ZXJTdGFydCA9IExvY2FsRGF0ZS5vZihub3cuZ2V0WWVhcigpLCAocXVhcnRlciAtIDEpICogMyArIDEsIDEpLmF0U3RhcnRPZkRheSh6b25lSWQpOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text encoding="base64">JzwsJz5zL3RpbWVab25lL3pvbmVJZA==</text>
       </register>
     </registers>
     <search>
-      <last-search>LocalDate.now(timeZone)</last-search>
+      <last-search>timeZone</last-search>
       <last-offset />
-      <last-pattern>LocalDate.now(timeZone)</last-pattern>
-      <last-replace>currentDate</last-replace>
-      <last-substitute>LocalDate.now(timeZone)</last-substitute>
+      <last-pattern>timeZone</last-pattern>
+      <last-replace>zoneId</last-replace>
+      <last-substitute>timeZone</last-substitute>
       <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>builder</entry>
-        <entry>$</entry>
-        <entry>Email</entry>
         <entry>Bcc</entry>
         <entry>*addAll(</entry>
         <entry>.*addAll(</entry>
@@ -426,11 +424,11 @@
         <entry>now.toLocalDate()</entry>
         <entry>s/LocalDate.now(timeZone)/currentDate</entry>
         <entry>LocalDate.now(timeZone)</entry>
+        <entry>;;</entry>
+        <entry>toEpochSecond();</entry>
+        <entry>timeZone</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zL0JjYy9EZWxpdmVyZWRUby9n</entry>
-        <entry encoding="base64">JzwsJz5zL0JjYy9Gcm9tL2c=</entry>
-        <entry encoding="base64">JzwsJz5zL0JjYy9Uby9n</entry>
         <entry encoding="base64">JzwsJz5zLyphZGRBbGwoLy8=</entry>
         <entry encoding="base64">JzwsJz5zLy4qYWRkQWxsKC8v</entry>
         <entry encoding="base64">JzwsJz5zLykvLw==</entry>
@@ -447,7 +445,10 @@
         <entry>q</entry>
         <entry>%s/now.toLocalDate()/currentDate/</entry>
         <entry encoding="base64">JzwsJz5zL0xvY2FsRGF0ZS5ub3codGltZVpvbmUpL2N1cnJlbnREYXRlLw==</entry>
+        <entry>%s/;;/;/g</entry>
+        <entry>%s/toEpochSecond();/toEpochSecond() * 1000;/g</entry>
         <entry>w</entry>
+        <entry encoding="base64">JzwsJz5zL3RpbWVab25lL3pvbmVJZA==</entry>
       </history-cmd>
       <history-expr />
       <history-input />
