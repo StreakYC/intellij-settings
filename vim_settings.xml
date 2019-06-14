@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/bigtable/MessageAccessEngine.java" timestamp="1560459657603">
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/bigtable/MessageAccessEngine.java" timestamp="1560549917233">
         <mark key="[" line="306" column="0" />
         <mark key="]" line="306" column="0" />
         <mark key="." line="306" column="0" />
@@ -12,12 +12,6 @@
         <mark key="[" line="205" column="0" />
         <mark key="]" line="205" column="0" />
         <mark key="." line="205" column="0" />
-      </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataupdaters/DataWorkerFactory.java" timestamp="1559780984867">
-        <mark key="[" line="738" column="23" />
-        <mark key="]" line="738" column="40" />
-        <mark key="^" line="738" column="40" />
-        <mark key="." line="738" column="40" />
       </file>
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_152.jdk/Contents/Home/src.zip!/java/time/ZoneId.java" timestamp="1560453806862" />
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/reportsv2/Report.java" timestamp="1560195467092" />
@@ -28,16 +22,15 @@
         <mark key="^" line="274" column="24" />
         <mark key="." line="274" column="24" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/tasks/casecomponentupdaters/CaseGmailThreadUpdater.java" timestamp="1559852639064">
-        <mark key="[" line="238" column="94" />
-        <mark key="]" line="238" column="94" />
-        <mark key="." line="238" column="94" />
-        <mark key="^" line="238" column="93" />
-      </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/caching/WritethroughBigtableCache.java" timestamp="1559933661049">
         <mark key="[" line="196" column="0" />
         <mark key="]" line="196" column="0" />
         <mark key="." line="196" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/bigtable/BigtableGraphFanOutProcessor.java" timestamp="1560550615195">
+        <mark key="[" line="109" column="58" />
+        <mark key="]" line="109" column="58" />
+        <mark key="." line="109" column="58" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/analytics/results/QueryResults.java" timestamp="1557857469997">
         <mark key="[" line="6" column="0" />
@@ -83,12 +76,6 @@
         <mark key="]" line="29" column="0" />
         <mark key="." line="29" column="0" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/api/APIV2EndpointManager.java" timestamp="1559780884670">
-        <mark key="[" line="97" column="284" />
-        <mark key="]" line="167" column="128" />
-        <mark key="." line="167" column="128" />
-        <mark key="^" line="166" column="70" />
-      </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/analytics/query/StringEquals.java" timestamp="1558638177618">
         <mark key="[" line="13" column="31" />
         <mark key="]" line="13" column="31" />
@@ -121,12 +108,6 @@
         <mark key="]" line="35" column="5" />
         <mark key="." line="35" column="5" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/curls" timestamp="1559857480624">
-        <mark key="[" line="175" column="88" />
-        <mark key="]" line="175" column="88" />
-        <mark key="." line="175" column="88" />
-        <mark key="^" line="175" column="88" />
-      </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/graphql/GraphQLHandler.java" timestamp="1556063435303">
         <mark key="[" line="638" column="75" />
         <mark key="]" line="659" column="0" />
@@ -143,7 +124,7 @@
         <mark key="^" line="6" column="20" />
         <mark key="." line="8" column="20" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/bigtable/SpannerBigtable.java" timestamp="1557273629539">
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/bigtable/SpannerBigtable.java" timestamp="1560550202659">
         <mark key="'" line="446" column="49" />
         <mark key="[" line="289" column="8" />
         <mark key="]" line="289" column="76" />
@@ -234,12 +215,6 @@
         <mark key="[" line="82" column="0" />
         <mark key="]" line="82" column="0" />
         <mark key="." line="82" column="0" />
-      </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/bigtable/BigtableAccessObject.java" timestamp="1559845665650">
-        <mark key="[" line="108" column="126" />
-        <mark key="]" line="108" column="127" />
-        <mark key="." line="108" column="127" />
-        <mark key="^" line="108" column="130" />
       </file>
     </filemarks>
     <jumps>
@@ -345,11 +320,11 @@
       <jump line="139" column="0" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/analytics/query/NRelativeDate.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQkJCQkJCQkJCQkgIC5wdXQoInRvdGFsTnVtYmVyT2ZTZW50RW1haWxzIikK</text>
+      <register name="&quot;" type="4">
+        <text>r</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IC8vIFRPRE8gLSBkbyB3ZSB3YW50L25lZWQgdG8gYWRkIGFueXRoaW5nPyAgaXMgc3RhZ2UgYWxyZWFkeSB0aGVyZT8=</text>
+        <text>r</text>
       </register>
       <register name="/" type="4">
         <text>timeZone</text>
