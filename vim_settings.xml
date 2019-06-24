@@ -194,6 +194,12 @@
         <mark key="]" line="39" column="38" />
         <mark key="." line="39" column="38" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/hibernate/hibernate-core/5.4.3.Final/hibernate-core-5.4.3.Final-sources.jar!/org/hibernate/tuple/component/AbstractComponentTuplizer.java" timestamp="1561406998683" />
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/rewardly/mailfoo/unittests/MessageAccessEngineRemoteTest.java" timestamp="1561406838483">
+        <mark key="[" line="539" column="62" />
+        <mark key="]" line="192" column="0" />
+        <mark key="." line="192" column="0" />
+      </file>
       <file name="$USER_HOME$/src/MailFoo/containers/src/main/java/com/streak/emailmanager/SpannerConstants.java" timestamp="1556053040349">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
@@ -233,6 +239,7 @@
         <mark key="." line="307" column="30" />
         <mark key="^" line="308" column="106" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/hibernate/hibernate-core/5.4.3.Final/hibernate-core-5.4.3.Final-sources.jar!/org/hibernate/tuple/component/PojoComponentTuplizer.java" timestamp="1561406955150" />
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/rewardly/mailfoo/integration/ITMessageAccess.java" timestamp="1558653930072">
         <mark key="[" line="82" column="0" />
         <mark key="]" line="82" column="0" />
@@ -349,7 +356,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CQkJc2Vzc2lvbi4K</text>
+        <text encoding="base64">CQlEQQo=</text>
       </register>
       <register name="-" type="4">
         <text>createOnly</text>
@@ -361,34 +368,34 @@
         <text encoding="base64">CQlBc3NlcnQuYXNzZXJ0RXF1YWxzKAoJCQl0cmFuc2l0aW9uSW5SYW5nZS50b01zLAoJCQlMb2NhbERhdGUub2YoMjAxOSwgMywgMSkuYXRTdGFydE9mRGF5KFpvbmVJZC5vZihuUmVsYXRpdmVEYXRlLnRpbWVab25lKSkudG9FcG9jaFNlY29uZCgpICogMTAwMAoJCSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJc2Vzc2lvbi4K</text>
+        <text encoding="base64">CQlEQQo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">CQkJc2Vzc2lvbi4K</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">CQkJc2Vzc2lvbi4K</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>schemaExport.execute(EnumSet.of(TargetType.DATABASE), Action.CREATE, HibernateFactory.INSTANCE.getMetadata());
 		for (Object e: schemaExport.getExceptions()) {
 			System.out.println(e);
 		}</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">CQkJCg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">aW1wb3J0IGNvbS5yZXdhcmRseS5tYWlsZm9vLmNoYXQuQWN0aW9uOwo=</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">aW1wb3J0IGNvbS5zdHJlYWsuYW5hbHl0aWNzLlNhbXBsZURhdGEuUGlwZWxpbmU7Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkoKEZhdEJpZ1RhYmxlKSBlbmdpbmUpLmFkZEJveCgpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
