@@ -33,6 +33,9 @@
         <mark key="." line="289" column="76" />
         <mark key="^" line="289" column="76" />
       </file>
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/Workflow.java" timestamp="1561401096766">
+        <mark key="[" line="66" column="25" />
+      </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/oauth2/Oauth2callback.java" timestamp="1558642102922">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="125" column="48" />
@@ -51,11 +54,10 @@
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/pom.xml" timestamp="1560801087338">
         <mark key="[" line="35" column="18" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/sql/SchemaGenerator.java" timestamp="1561399644011">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="^" line="16" column="31" />
-        <mark key="." line="17" column="0" />
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/sql/SchemaGenerator.java" timestamp="1561401540474">
+        <mark key="[" line="12" column="13" />
+        <mark key="]" line="12" column="13" />
+        <mark key="." line="12" column="13" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/analytics/FatBigTable.java" timestamp="1557351688263">
         <mark key="'" line="117" column="102" />
@@ -134,7 +136,7 @@
         <mark key="]" line="35" column="0" />
         <mark key="." line="35" column="0" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/Case.java" timestamp="1560469118143">
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/Case.java" timestamp="1561401093929">
         <mark key="'" line="82" column="0" />
         <mark key="[" line="1615" column="0" />
         <mark key="]" line="1615" column="0" />
@@ -162,12 +164,6 @@
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
-      </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/analytics/query/NRelativeDate.java" timestamp="1560455886609">
-        <mark key="'" line="112" column="0" />
-        <mark key="[" line="27" column="52" />
-        <mark key="]" line="49" column="0" />
-        <mark key="." line="49" column="0" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/BigtableRpcDelegate.java" timestamp="1559933688311">
         <mark key="[" line="29" column="0" />
@@ -346,10 +342,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>TokuDB</text>
+        <text>createOnly</text>
       </register>
       <register name="-" type="4">
-        <text>TokuDB</text>
+        <text>createOnly</text>
       </register>
       <register name="/" type="4">
         <text>timeZone</text>
@@ -358,31 +354,34 @@
         <text encoding="base64">CQlBc3NlcnQuYXNzZXJ0RXF1YWxzKAoJCQl0cmFuc2l0aW9uSW5SYW5nZS50b01zLAoJCQlMb2NhbERhdGUub2YoMjAxOSwgMywgMSkuYXRTdGFydE9mRGF5KFpvbmVJZC5vZihuUmVsYXRpdmVEYXRlLnRpbWVab25lKSkudG9FcG9jaFNlY29uZCgpICogMTAwMAoJCSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJCg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5yZXdhcmRseS5tYWlsZm9vLmNoYXQuQWN0aW9uOwo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5zdHJlYWsuYW5hbHl0aWNzLlNhbXBsZURhdGEuUGlwZWxpbmU7Cg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="4">
+        <text>schemaExport.execute(EnumSet.of(TargetType.DATABASE), Action.CREATE, HibernateFactory.INSTANCE.getMetadata());
+		for (Object e: schemaExport.getExceptions()) {
+			System.out.println(e);
+		}</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">CQkJCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">aW1wb3J0IGNvbS5yZXdhcmRseS5tYWlsZm9vLmNoYXQuQWN0aW9uOwo=</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkoKEZhdEJpZ1RhYmxlKSBlbmdpbmUpLmFkZEJveCgpOwo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5zdHJlYWsuYW5hbHl0aWNzLlNhbXBsZURhdGEuUGlwZWxpbmU7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQllbmdpbmUuYWRkU2FtcGxlRGF0YShwaXBlbGluZXMpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJCQkJCQkJCQkgIC5wdXQoInRvdGFsTnVtYmVyT2ZTZW50RW1haWxzIikK</text>
+        <text encoding="base64">CQkoKEZhdEJpZ1RhYmxlKSBlbmdpbmUpLmFkZEJveCgpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJCQkJCQkJCQkgIC5wdXQoKQo=</text>
+        <text encoding="base64">CQllbmdpbmUuYWRkU2FtcGxlRGF0YShwaXBlbGluZXMpOwo=</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">CgpSZWdpc3RlcmVkRGV2aWNl</text>
+      <register name="9" type="2">
+        <text encoding="base64">CQkJCQkJCQkJCQkgIC5wdXQoInRvdGFsTnVtYmVyT2ZTZW50RW1haWxzIikK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
