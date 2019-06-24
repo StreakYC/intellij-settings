@@ -66,6 +66,12 @@
         <mark key="." line="47" column="138" />
         <mark key="^" line="47" column="138" />
       </file>
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/DAO.java" timestamp="1561402734554">
+        <mark key="[" line="299" column="72" />
+        <mark key="]" line="300" column="33" />
+        <mark key="." line="300" column="33" />
+        <mark key="^" line="300" column="33" />
+      </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/listeners/OfyContextListener.kt" timestamp="1559933510904">
         <mark key="[" line="52" column="0" />
         <mark key="]" line="52" column="0" />
@@ -119,7 +125,7 @@
         <mark key="]" line="67" column="0" />
         <mark key="." line="67" column="0" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/sql/HibernateFactory.java" timestamp="1561400348202">
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/sql/HibernateFactory.java" timestamp="1561402664113">
         <mark key="[" line="39" column="38" />
         <mark key="]" line="39" column="38" />
         <mark key="." line="39" column="38" />
@@ -341,8 +347,8 @@
       <jump line="139" column="0" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/analytics/query/NRelativeDate.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>createOnly</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQkJc2Vzc2lvbi4K</text>
       </register>
       <register name="-" type="4">
         <text>createOnly</text>
@@ -354,34 +360,34 @@
         <text encoding="base64">CQlBc3NlcnQuYXNzZXJ0RXF1YWxzKAoJCQl0cmFuc2l0aW9uSW5SYW5nZS50b01zLAoJCQlMb2NhbERhdGUub2YoMjAxOSwgMywgMSkuYXRTdGFydE9mRGF5KFpvbmVJZC5vZihuUmVsYXRpdmVEYXRlLnRpbWVab25lKSkudG9FcG9jaFNlY29uZCgpICogMTAwMAoJCSk7Cg==</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">CQkJc2Vzc2lvbi4K</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text>schemaExport.execute(EnumSet.of(TargetType.DATABASE), Action.CREATE, HibernateFactory.INSTANCE.getMetadata());
 		for (Object e: schemaExport.getExceptions()) {
 			System.out.println(e);
 		}</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">CQkJCg==</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">aW1wb3J0IGNvbS5yZXdhcmRseS5tYWlsZm9vLmNoYXQuQWN0aW9uOwo=</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">aW1wb3J0IGNvbS5zdHJlYWsuYW5hbHl0aWNzLlNhbXBsZURhdGEuUGlwZWxpbmU7Cg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">CQkoKEZhdEJpZ1RhYmxlKSBlbmdpbmUpLmFkZEJveCgpOwo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">CQllbmdpbmUuYWRkU2FtcGxlRGF0YShwaXBlbGluZXMpOwo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJCQkJCQkJCQkgIC5wdXQoInRvdGFsTnVtYmVyT2ZTZW50RW1haWxzIikK</text>
+        <text encoding="base64">CQllbmdpbmUuYWRkU2FtcGxlRGF0YShwaXBlbGluZXMpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
