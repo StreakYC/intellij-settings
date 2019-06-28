@@ -9,6 +9,12 @@
         <mark key="^" line="22" column="25" />
         <mark key="." line="22" column="7" />
       </file>
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/WorkflowFieldPK.java" timestamp="1561568107695">
+        <mark key="[" line="7" column="54" />
+      </file>
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/entities/Pipeline.java" timestamp="1560801585116">
+        <mark key="[" line="1" column="0" />
+      </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/Workflow.java" timestamp="1561575569359">
         <mark key="[" line="67" column="25" />
         <mark key="]" line="67" column="25" />
@@ -26,6 +32,9 @@
         <mark key="." line="17" column="35" />
         <mark key="^" line="17" column="35" />
       </file>
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/Field.java" timestamp="1561572935031">
+        <mark key="[" line="60" column="7" />
+      </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/DAO.java" timestamp="1561483239800">
         <mark key="[" line="298" column="56" />
         <mark key="]" line="298" column="56" />
@@ -34,6 +43,9 @@
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/rewardly/mailfoo/unittests/DatastoreTest.java" timestamp="1561668040255" />
       <file name="$MAVEN_REPOSITORY$/org/liquibase/liquibase-core/3.6.3/liquibase-core-3.6.3-sources.jar!/liquibase/integration/commandline/CommandLineUtils.java" timestamp="1561740533000" />
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/entities/Box.java" timestamp="1560801589377">
+        <mark key="[" line="1" column="0" />
+      </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/sql/LiquibaseFactory.java" timestamp="1561738319344">
         <mark key="[" line="2" column="31" />
       </file>
@@ -42,6 +54,9 @@
         <mark key="]" line="85" column="34" />
         <mark key="^" line="85" column="34" />
         <mark key="." line="85" column="34" />
+      </file>
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/entities/BoxMember.java" timestamp="1560801597887">
+        <mark key="[" line="1" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/liquibase/liquibase-core/3.6.3/liquibase-core-3.6.3-sources.jar!/liquibase/integration/ant/AbstractDatabaseDiffTask.java" timestamp="1561737439066" />
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/Team.java" timestamp="1561581183256">
@@ -67,7 +82,7 @@
         <mark key="^" line="250" column="29" />
         <mark key="." line="250" column="29" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/liquibase/liquibase-core/3.6.3/liquibase-core-3.6.3-sources.jar!/liquibase/database/DatabaseFactory.java" timestamp="1561745866190" />
+      <file name="$MAVEN_REPOSITORY$/org/liquibase/liquibase-core/3.6.3/liquibase-core-3.6.3-sources.jar!/liquibase/database/DatabaseFactory.java" timestamp="1561746609571" />
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/resources/liquibase/liquibase.properties" timestamp="1561672937489">
         <mark key="[" line="1" column="14" />
         <mark key="]" line="1" column="14" />
@@ -80,19 +95,15 @@
         <mark key="^" line="673" column="62" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/liquibase/liquibase-core/3.6.3/liquibase-core-3.6.3-sources.jar!/liquibase/command/core/DiffCommand.java" timestamp="1561740392674" />
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/Case.java" timestamp="1561575624093">
-        <mark key="'" line="90" column="0" />
-        <mark key="[" line="88" column="25" />
-        <mark key="]" line="88" column="25" />
-        <mark key="." line="88" column="25" />
-        <mark key="^" line="22" column="40" />
-      </file>
       <file name="$MAVEN_REPOSITORY$/org/liquibase/liquibase-core/3.6.3/liquibase-core-3.6.3-sources.jar!/liquibase/CatalogAndSchema.java" timestamp="1561679439231" />
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/sql/NamingStrategy.java" timestamp="1561579086860">
         <mark key="[" line="62" column="38" />
         <mark key="]" line="63" column="49" />
         <mark key="." line="63" column="49" />
         <mark key="^" line="63" column="49" />
+      </file>
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/entities/PipelineMember.java" timestamp="1560801593305">
+        <mark key="[" line="1" column="0" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/FieldValue.java" timestamp="1561575596581">
         <mark key="[" line="10" column="34" />
@@ -117,11 +128,23 @@
         <mark key="]" line="9" column="27" />
         <mark key="." line="9" column="27" />
       </file>
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/CaseFieldPk.java" timestamp="1561568050799">
+        <mark key="[" line="2" column="24" />
+      </file>
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/Organization.java" timestamp="1561573821729">
+        <mark key="[" line="22" column="25" />
+      </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/MessageGrant.java" timestamp="1561575506295">
         <mark key="[" line="32" column="7" />
         <mark key="]" line="32" column="5" />
         <mark key="." line="32" column="5" />
         <mark key="^" line="32" column="5" />
+      </file>
+      <file name="/fragment.java" timestamp="1561746611785">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/entities/BoxEmailLink.java" timestamp="1560801602538">
+        <mark key="[" line="1" column="0" />
       </file>
     </filemarks>
     <jumps>
