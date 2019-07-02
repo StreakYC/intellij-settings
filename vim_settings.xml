@@ -24,11 +24,10 @@
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/events/DataChangeProcessor.kt" timestamp="1562094878454" />
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/rewardly/mailfoo/unittests/DataChangeHandlerProcessorTests.java" timestamp="1562002501735" />
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/pom.xml" timestamp="1562105131217">
-        <mark key="[" line="839" column="32" />
-        <mark key="]" line="831" column="50" />
-        <mark key="." line="831" column="50" />
-        <mark key="^" line="831" column="50" />
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/pom.xml" timestamp="1562107293194">
+        <mark key="[" line="833" column="0" />
+        <mark key="]" line="833" column="0" />
+        <mark key="." line="833" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/hibernate/hibernate-core/5.4.3.Final/hibernate-core-5.4.3.Final-sources.jar!/org/hibernate/mapping/Column.java" timestamp="1562105760011" />
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/sql/SchemaGenerator.java" timestamp="1561567066876">
@@ -61,6 +60,11 @@
       </file>
       <file name="$MAVEN_REPOSITORY$/org/liquibase/liquibase-core/3.6.3/liquibase-core-3.6.3-sources.jar!/liquibase/servicelocator/ServiceLocator.java" timestamp="1562103467322" />
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/events/DataChangeHandlerProcessor.kt" timestamp="1562017042151" />
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/rewardly/mailfoo/unittests/FieldTests.java" timestamp="1561658883174">
+        <mark key="[" line="23" column="61" />
+        <mark key="]" line="23" column="61" />
+        <mark key="." line="23" column="61" />
+      </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/sql/HibernateFactory.java" timestamp="1561675163890">
         <mark key="[" line="54" column="68" />
         <mark key="]" line="54" column="68" />
@@ -74,6 +78,11 @@
         <mark key="." line="250" column="29" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/liquibase/liquibase-core/3.6.3/liquibase-core-3.6.3-sources.jar!/liquibase/database/DatabaseFactory.java" timestamp="1562105165461" />
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/resources/liquibase/liquibase.properties" timestamp="1561672937489">
+        <mark key="[" line="1" column="14" />
+        <mark key="]" line="1" column="14" />
+        <mark key="." line="1" column="14" />
+      </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/rewardly/mailfoo/unittests/MessageAccessEngineRemoteTest.java" timestamp="1561494037188">
         <mark key="[" line="192" column="8" />
         <mark key="]" line="192" column="8" />
@@ -112,6 +121,11 @@
         <mark key="]" line="15" column="7" />
         <mark key="^" line="15" column="27" />
         <mark key="." line="15" column="7" />
+      </file>
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/SqlStage.java" timestamp="1561576112367">
+        <mark key="[" line="9" column="27" />
+        <mark key="]" line="9" column="27" />
+        <mark key="." line="9" column="27" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/CaseFieldPk.java" timestamp="1561568050799">
         <mark key="[" line="2" column="24" />
@@ -236,8 +250,8 @@
       <jump line="21" column="8" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/FieldValue.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>liquibase.ext.hibernate.database.HibernateClassicDatabase</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQkJCWRkCQo=</text>
       </register>
       <register name="-" type="4">
         <text>liquibase.ext.hibernate.database.HibernateClassicDatabase</text>
@@ -249,31 +263,31 @@
         <text encoding="base64">CQlzb3VyY2VzLmFkZEFubm90YXRlZENsYXNzKFVzZXIuY2xhc3MpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJCQk8cmVmZXJlbmNlRHJpdmVyPmxpcXVpYmFzZS5leHQuaGliZXJuYXRlLmRhdGFiYXNlLkhpYmVybmF0ZUNsYXNzaWNEYXRhYmFzZTwvcmVmZXJlbmNlRHJpdmVyPgo=</text>
+        <text encoding="base64">CQkJCWRkCQo=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">CQkJCQk8cmVmZXJlbmNlRHJpdmVyPmxpcXVpYmFzZS5leHQuaGliZXJuYXRlLmRhdGFiYXNlLkhpYmVybmF0ZUNsYXNzaWNEYXRhYmFzZTwvcmVmZXJlbmNlRHJpdmVyPgo=</text>
+      <register name="2" type="4">
+        <text encoding="base64">PCEtLQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPHJlZmVyZW5jZVVzZXJuYW1lPjwvcmVmZXJlbmNlVXNlcm5hbWU+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8cmVmZXJlbmNlUGFzc3dvcmQ+PC9yZWZlcmVuY2VQYXNzd29yZD4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxyZWZlcmVuY2VEZWZhdWx0Q2F0YWxvZ05hbWU+PC9yZWZlcmVuY2VEZWZhdWx0Q2F0YWxvZ05hbWU+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8cmVmZXJlbmNlRGVmYXVsdFNjaGVtYU5hbWU+PC9yZWZlcmVuY2VEZWZhdWx0U2NoZW1hTmFtZT4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIC0tPg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">PCEtLQo=</text>
+        <text encoding="base64">CQkJCQk8cmVmZXJlbmNlRHJpdmVyPmxpcXVpYmFzZS5leHQuaGliZXJuYXRlLmRhdGFiYXNlLkhpYmVybmF0ZUNsYXNzaWNEYXRhYmFzZTwvcmVmZXJlbmNlRHJpdmVyPgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJCQkK</text>
+        <text encoding="base64">CQkJCQk8cmVmZXJlbmNlRHJpdmVyPmxpcXVpYmFzZS5leHQuaGliZXJuYXRlLmRhdGFiYXNlLkhpYmVybmF0ZUNsYXNzaWNEYXRhYmFzZTwvcmVmZXJlbmNlRHJpdmVyPgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJCQk8cmVmZXJlbmNlVXJsPmhpYmVybmF0ZTpjbGFzc2ljOmNvbS5zdHJlYWsuc3FsLkhpYmVybmF0ZUZhY3Rvcnk8L3JlZmVyZW5jZVVybD4K</text>
+        <text encoding="base64">PCEtLQo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">CQkJCQkK</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">aWJlcm5hdGU6c3ByaW5nOmNoLmhlbWlzb2Z0LmltbW8uZG9tYWluP2hpYmVybmF0ZS5waHlzaWNhbF9uYW1pbmdfc3RyYXRlZ3k9b3JnLnNwcmluZ2ZyYW1ld29yay5ib290Lm9ybS5qcGEuaGliZXJuYXRlLlNwcmluZ1BoeXNpY2FsTmFtaW5nU3RyYXRlZ3kmYW1wO2RpYWxlY3Q9b3JnLmhpYmVybmF0ZS5kaWFsZWN0LkgyRGlhbGVjdA==</text>
+      <register name="7" type="2">
+        <text encoding="base64">CQkJCQk8cmVmZXJlbmNlVXJsPmhpYmVybmF0ZTpjbGFzc2ljOmNvbS5zdHJlYWsuc3FsLkhpYmVybmF0ZUZhY3Rvcnk8L3JlZmVyZW5jZVVybD4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJCQk8cGFzc3dvcmQ+PC9wYXNzd29yZD4K</text>
+        <text encoding="base64">CQkJCQkK</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">CQlzZXR0aW5ncy5wdXQoRW52aXJvbm1lbnQuUEFTUywgIiIpOwo=</text>
+      <register name="9" type="4">
+        <text encoding="base64">aWJlcm5hdGU6c3ByaW5nOmNoLmhlbWlzb2Z0LmltbW8uZG9tYWluP2hpYmVybmF0ZS5waHlzaWNhbF9uYW1pbmdfc3RyYXRlZ3k9b3JnLnNwcmluZ2ZyYW1ld29yay5ib290Lm9ybS5qcGEuaGliZXJuYXRlLlNwcmluZ1BoeXNpY2FsTmFtaW5nU3RyYXRlZ3kmYW1wO2RpYWxlY3Q9b3JnLmhpYmVybmF0ZS5kaWFsZWN0LkgyRGlhbGVjdA==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
