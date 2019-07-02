@@ -12,10 +12,11 @@
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/events/DataChangeProcessor.kt" timestamp="1562094878454" />
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/rewardly/mailfoo/unittests/DataChangeHandlerProcessorTests.java" timestamp="1562002501735" />
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/pom.xml" timestamp="1562097006224">
-        <mark key="[" line="831" column="44" />
-        <mark key="]" line="831" column="44" />
-        <mark key="." line="831" column="44" />
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/pom.xml" timestamp="1562098756700">
+        <mark key="[" line="832" column="37" />
+        <mark key="]" line="831" column="50" />
+        <mark key="." line="831" column="50" />
+        <mark key="^" line="831" column="50" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/events/DataChangeEventType.kt" timestamp="1562006269796" />
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/entities/Box.java" timestamp="1560801589377">
@@ -27,28 +28,15 @@
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/entities/BoxMember.java" timestamp="1560801597887">
         <mark key="[" line="1" column="0" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/liquibase/liquibase-core/3.6.3/liquibase-core-3.6.3-sources.jar!/liquibase/servicelocator/ServiceLocator.java" timestamp="1562098816522" />
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/events/DataChangeHandlerProcessor.kt" timestamp="1562017042151" />
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/rewardly/mailfoo/unittests/FieldTests.java" timestamp="1561658883174">
-        <mark key="[" line="23" column="61" />
-        <mark key="]" line="23" column="61" />
-        <mark key="." line="23" column="61" />
-      </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/resources/liquibase/liquibase.properties" timestamp="1561672937489">
-        <mark key="[" line="1" column="14" />
-        <mark key="]" line="1" column="14" />
-        <mark key="." line="1" column="14" />
-      </file>
+      <file name="$MAVEN_REPOSITORY$/org/liquibase/liquibase-core/3.6.3/liquibase-core-3.6.3-sources.jar!/liquibase/database/DatabaseFactory.java" timestamp="1562098651225" />
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/events/changeevents/TeamOrganizationDataChangeEvent.kt" timestamp="1562004609438" />
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/caching/indexers/AutoboxTeamOrganizationBoxIndexer.kt" timestamp="1562004780902" />
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/entities/PipelineMember.java" timestamp="1560801593305">
         <mark key="[" line="1" column="0" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/tasks/AutoBoxTask.java" timestamp="1562091427310" />
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/SqlStage.java" timestamp="1561576112367">
-        <mark key="[" line="9" column="27" />
-        <mark key="]" line="9" column="27" />
-        <mark key="." line="9" column="27" />
-      </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/CaseFieldPk.java" timestamp="1561568050799">
         <mark key="[" line="2" column="24" />
       </file>
@@ -56,7 +44,7 @@
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/Organization.java" timestamp="1561573821729">
         <mark key="[" line="22" column="25" />
       </file>
-      <file name="/fragment.java" timestamp="1561746611785">
+      <file name="/fragment.java" timestamp="1562098222379">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/entities/BoxEmailLink.java" timestamp="1560801602538">
@@ -167,10 +155,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>classic</text>
+        <text>liquibase.ext.hibernate.database.HibernateClassicDatabase</text>
       </register>
       <register name="-" type="4">
-        <text>classic</text>
+        <text>liquibase.ext.hibernate.database.HibernateClassicDatabase</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">PA==</text>
@@ -182,28 +170,28 @@
         <text encoding="base64">CQkJCQk8cmVmZXJlbmNlRHJpdmVyPmxpcXVpYmFzZS5leHQuaGliZXJuYXRlLmRhdGFiYXNlLkhpYmVybmF0ZUNsYXNzaWNEYXRhYmFzZTwvcmVmZXJlbmNlRHJpdmVyPgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">PCEtLQo=</text>
+        <text encoding="base64">CQkJCQk8cmVmZXJlbmNlRHJpdmVyPmxpcXVpYmFzZS5leHQuaGliZXJuYXRlLmRhdGFiYXNlLkhpYmVybmF0ZUNsYXNzaWNEYXRhYmFzZTwvcmVmZXJlbmNlRHJpdmVyPgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJCQkK</text>
+        <text encoding="base64">PCEtLQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJCQk8cmVmZXJlbmNlVXJsPmhpYmVybmF0ZTpjbGFzc2ljOmNvbS5zdHJlYWsuc3FsLkhpYmVybmF0ZUZhY3Rvcnk8L3JlZmVyZW5jZVVybD4K</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">CQkJCQkK</text>
       </register>
-      <register name="6" type="4">
+      <register name="5" type="2">
+        <text encoding="base64">CQkJCQk8cmVmZXJlbmNlVXJsPmhpYmVybmF0ZTpjbGFzc2ljOmNvbS5zdHJlYWsuc3FsLkhpYmVybmF0ZUZhY3Rvcnk8L3JlZmVyZW5jZVVybD4K</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">CQkJCQkK</text>
+      </register>
+      <register name="7" type="4">
         <text encoding="base64">aWJlcm5hdGU6c3ByaW5nOmNoLmhlbWlzb2Z0LmltbW8uZG9tYWluP2hpYmVybmF0ZS5waHlzaWNhbF9uYW1pbmdfc3RyYXRlZ3k9b3JnLnNwcmluZ2ZyYW1ld29yay5ib290Lm9ybS5qcGEuaGliZXJuYXRlLlNwcmluZ1BoeXNpY2FsTmFtaW5nU3RyYXRlZ3kmYW1wO2RpYWxlY3Q9b3JnLmhpYmVybmF0ZS5kaWFsZWN0LkgyRGlhbGVjdA==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">CQkJCQk8cGFzc3dvcmQ+PC9wYXNzd29yZD4K</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">CQlzZXR0aW5ncy5wdXQoRW52aXJvbm1lbnQuUEFTUywgIiIpOwo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">CQlzZXR0aW5ncy5wdXQoRW52aXJvbm1lbnQuVVNFUiwgInN0cmVhayIpOwo=</text>
+        <text encoding="base64">CQlzZXR0aW5ncy5wdXQoRW52aXJvbm1lbnQuUEFTUywgIiIpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
