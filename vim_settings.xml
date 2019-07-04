@@ -20,7 +20,7 @@
         <mark key="]" line="861" column="0" />
         <mark key="." line="861" column="0" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/sql/TeamContactId.java" timestamp="1562191752070">
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/sql/TeamContactId.java" timestamp="1562198186080">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
         <mark key="^" line="5" column="0" />
@@ -75,6 +75,12 @@
         <mark key="]" line="439" column="4" />
         <mark key="." line="439" column="4" />
       </file>
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/TeamOrganization.java" timestamp="1562199139445">
+        <mark key="[" line="232" column="0" />
+        <mark key="]" line="42" column="18" />
+        <mark key="^" line="42" column="18" />
+        <mark key="." line="42" column="18" />
+      </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/Organization.java" timestamp="1561573821729">
         <mark key="[" line="22" column="25" />
       </file>
@@ -90,11 +96,18 @@
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/tasks/TransformCasesForWorkflowTask.java" timestamp="1562182240204" />
       <file name="$MAVEN_REPOSITORY$/org/hibernate/hibernate-envers/5.2.16.Final/hibernate-envers-5.2.16.Final-sources.jar!/org/hibernate/envers/boot/internal/EnversServiceImpl.java" timestamp="1562179179810" />
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/sql/OrgScopedId.java" timestamp="1562191361625" />
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/sql/HibernateFactory.java" timestamp="1562187778051">
-        <mark key="[" line="87" column="34" />
-        <mark key="]" line="87" column="34" />
-        <mark key="." line="87" column="34" />
-        <mark key="^" line="89" column="71" />
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/sql/TeamOrganizationId.java" timestamp="1562199636448">
+        <mark key="'" line="56" column="4" />
+        <mark key="[" line="7" column="32" />
+        <mark key="]" line="26" column="19" />
+        <mark key="^" line="56" column="4" />
+        <mark key="." line="26" column="19" />
+      </file>
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/sql/HibernateFactory.java" timestamp="1562198268831">
+        <mark key="[" line="89" column="38" />
+        <mark key="]" line="89" column="38" />
+        <mark key="." line="89" column="38" />
+        <mark key="^" line="91" column="71" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/SharingToken.java" timestamp="1561579431463">
         <mark key="[" line="250" column="11" />
@@ -120,7 +133,7 @@
         <mark key="^" line="15" column="27" />
         <mark key="." line="15" column="7" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/TeamContact.java" timestamp="1562194315466">
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/TeamContact.java" timestamp="1562198827532">
         <mark key="[" line="529" column="41" />
         <mark key="]" line="529" column="41" />
         <mark key="." line="529" column="41" />
@@ -145,7 +158,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2682" column="67" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/DAO.java" />
       <jump line="231" column="0" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/rewardly/mailfoo/unittests/MessageAccessEngineRemoteTest.java" />
       <jump line="2247" column="45" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/DAO.java" />
       <jump line="116" column="39" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/DAO.java" />
@@ -245,19 +257,20 @@
       <jump line="139" column="0" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/analytics/query/NRelativeDate.java" />
       <jump line="23" column="0" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/FieldValue.java" />
       <jump line="21" column="8" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/FieldValue.java" />
+      <jump line="56" column="4" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/sql/TeamOrganizationId.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>consistentId</text>
+        <text>Contact</text>
       </register>
       <register name="-" type="4">
-        <text>consistentId</text>
+        <text>Contact</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">PA==</text>
+        <text>contact</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQlzb3VyY2VzLmFkZEFubm90YXRlZENsYXNzKEZpZWxkVmFsdWUuY2xhc3MpOwo=</text>
+        <text encoding="base64">CQlzb3VyY2VzLmFkZEFubm90YXRlZENsYXNzKFRlYW1Db250YWN0LmNsYXNzKTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5BcnJheXM7Cg==</text>
@@ -287,21 +300,20 @@
         <text encoding="base64">CXB1YmxpYyB2b2lkIHBvcHVsYXRlRnJvbVN0Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>%s/contact/organization/g</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">PA==</last-search>
+      <last-search>contact</last-search>
       <last-offset />
-      <last-pattern encoding="base64">PA==</last-pattern>
-      <last-replace>Case</last-replace>
-      <last-substitute>Workflow</last-substitute>
+      <last-pattern>contact</last-pattern>
+      <last-replace>organization</last-replace>
+      <last-substitute>contact</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">ID0gLio7</entry>
         <entry>^</entry>
         <entry>&quot;</entry>
         <entry>Set</entry>
@@ -321,9 +333,9 @@
         <entry>workflow</entry>
         <entry>Workflow</entry>
         <entry encoding="base64">PA==</entry>
+        <entry>contact</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zL14veHh4ID0gREFPLmdldEVudGl0aWVzKA==</entry>
         <entry encoding="base64">JzwsJz5zLyA9IC4qOy87</entry>
         <entry encoding="base64">JzwsJz5zL14vcHVibGljIGZpbmFs</entry>
         <entry>e</entry>
@@ -343,6 +355,7 @@
         <entry>q</entry>
         <entry>wq</entry>
         <entry>w</entry>
+        <entry>%s/contact/organization/g</entry>
       </history-cmd>
       <history-expr />
       <history-input />
