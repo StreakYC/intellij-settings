@@ -32,6 +32,11 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/Field.java" timestamp="1562882981922">
+        <mark key="[" line="123" column="0" />
+        <mark key="]" line="123" column="0" />
+        <mark key="." line="123" column="0" />
+      </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/DAO.java" timestamp="1562869117594">
         <mark key="[" line="301" column="49" />
         <mark key="]" line="298" column="56" />
@@ -39,6 +44,7 @@
         <mark key="^" line="299" column="8" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/nondatastore/CaseTeamContactOrOrgLink.java" timestamp="1562794281481" />
+      <file name="$MAVEN_REPOSITORY$/org/hibernate/hibernate-core/5.4.3.Final/hibernate-core-5.4.3.Final-sources.jar!/org/hibernate/mapping/ForeignKey.java" timestamp="1562883175334" />
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/RatchetRpcDelegate.java" timestamp="1561560653108">
         <mark key="[" line="80" column="21" />
         <mark key="]" line="85" column="34" />
@@ -270,8 +276,8 @@
       <jump line="12" column="12" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/WorkflowFieldPK.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>@Transient</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CUBNYW55VG9PbmUK</text>
       </register>
       <register name="-" type="4">
         <text>@Transient</text>
@@ -283,31 +289,31 @@
         <text encoding="base64">CUBJZ25vcmUgQE5vRGVzZXJpYWxpemF0aW9uIEBOb1NlcmlhbGl6YXRpb24K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5zdHJlYWsuc3FsLldvcmtmbG93Owo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5zdHJlYWsuc3FsLk9yZ1Njb3BlZElkOwo=</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">CUBNYW55VG9PbmUK</text>
       </register>
-      <register name="5" type="2">
+      <register name="2" type="2">
+        <text encoding="base64">aW1wb3J0IGNvbS5zdHJlYWsuc3FsLldvcmtmbG93Owo=</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">aW1wb3J0IGNvbS5zdHJlYWsuc3FsLk9yZ1Njb3BlZElkOwo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">CUBNYW55VG9PbmUK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CXB1YmxpYyBTdHJpbmcgZ2V0T3JnYW5pemF0aW9uRG9tYWluKCkgewoJCXJldHVybiBvcmdhbml6YXRpb25Eb21haW47Cgl9CgoJcHVibGljIHZvaWQgc2V0T3JnYW5pemF0aW9uRG9tYWluKFN0cmluZyBvcmdhbml6YXRpb25Eb21haW4pIHsKCQl0aGlzLm9yZ2FuaXphdGlvbkRvbWFpbiA9IG9yZ2FuaXphdGlvbkRvbWFpbjsKCX0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CUBqYXZheC5wZXJzaXN0ZW5jZS5JZAo=</text>
+        <text encoding="base64">CXB1YmxpYyBTdHJpbmcgZ2V0T3JnYW5pemF0aW9uRG9tYWluKCkgewoJCXJldHVybiBvcmdhbml6YXRpb25Eb21haW47Cgl9CgoJcHVibGljIHZvaWQgc2V0T3JnYW5pemF0aW9uRG9tYWluKFN0cmluZyBvcmdhbml6YXRpb25Eb21haW4pIHsKCQl0aGlzLm9yZ2FuaXphdGlvbkRvbWFpbiA9IG9yZ2FuaXphdGlvbkRvbWFpbjsKCX0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmF4LnBlcnNpc3RlbmNlLlRyYW5zaWVudDsK</text>
+        <text encoding="base64">CUBqYXZheC5wZXJzaXN0ZW5jZS5JZAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGphdmF4LnBlcnNpc3RlbmNlLlRyYW5zaWVudDsK</text>
       </register>
       <register name=":" type="4">
         <text>%s/OrgScopedId/Workflow/g</text>
