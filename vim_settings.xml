@@ -73,6 +73,9 @@
       <file name="$MAVEN_REPOSITORY$/org/hibernate/hibernate-core/5.4.3.Final/hibernate-core-5.4.3.Final-sources.jar!/org/hibernate/property/access/spi/SetterMethodImpl.java" timestamp="1562874982544" />
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/messageaccessengine/graph/MessageConnectivityGraph.java" timestamp="1563214025430" />
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/rewardly/mailfoo/helpers/DataHelper.kt" timestamp="1562374080737" />
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/Task.java" timestamp="1563225529441">
+        <mark key="[" line="50" column="6" />
+      </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/Case.java" timestamp="1563223879546">
         <mark key="'" line="1303" column="23" />
         <mark key="[" line="1738" column="20" />
@@ -169,11 +172,11 @@
         <mark key="." line="23" column="61" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataupdaters/getters/ThreadInfoGetter.java" timestamp="1562957781938" />
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/sql/HibernateFactory.java" timestamp="1563222548940">
-        <mark key="[" line="133" column="34" />
-        <mark key="]" line="133" column="34" />
-        <mark key="." line="133" column="34" />
-        <mark key="^" line="132" column="40" />
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/sql/HibernateFactory.java" timestamp="1563225337865">
+        <mark key="[" line="134" column="34" />
+        <mark key="]" line="134" column="34" />
+        <mark key="." line="134" column="34" />
+        <mark key="^" line="133" column="41" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/SharingToken.java" timestamp="1561579431463">
         <mark key="[" line="250" column="11" />
@@ -198,7 +201,7 @@
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/rewardly/mailfoo/unittests/TeamOrganizationUpdaterTest.java" timestamp="1562370021558">
         <mark key="[" line="35" column="54" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/Comment.java" timestamp="1563222843871">
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/Comment.java" timestamp="1563225410792">
         <mark key="[" line="352" column="5" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/tasks/AutoBoxTask.java" timestamp="1562791973677" />
@@ -351,17 +354,17 @@
       <jump line="411" column="8" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/File.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CUBUcmFuc2llbnQK</text>
+      <register name="&quot;" type="4">
+        <text>Comment</text>
       </register>
       <register name="-" type="4">
-        <text>File</text>
+        <text>Comment</text>
       </register>
       <register name="/" type="4">
         <text>Workflow</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CUBUcmFuc2llbnQK</text>
+        <text encoding="base64">CQlzb3VyY2VzLmFkZEFubm90YXRlZENsYXNzKENvbW1lbnQuY2xhc3MpOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">CUBJZFYK</text>
