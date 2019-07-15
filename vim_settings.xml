@@ -66,12 +66,12 @@
       <file name="$MAVEN_REPOSITORY$/org/hibernate/hibernate-core/5.4.3.Final/hibernate-core-5.4.3.Final-sources.jar!/org/hibernate/property/access/spi/SetterMethodImpl.java" timestamp="1562874982544" />
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/messageaccessengine/graph/MessageConnectivityGraph.java" timestamp="1563214025430" />
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/rewardly/mailfoo/helpers/DataHelper.kt" timestamp="1562374080737" />
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/Case.java" timestamp="1563218276822">
-        <mark key="'" line="712" column="50" />
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/Case.java" timestamp="1563221171147">
+        <mark key="'" line="1301" column="23" />
         <mark key="[" line="1184" column="27" />
-        <mark key="]" line="1184" column="27" />
-        <mark key="." line="1184" column="27" />
-        <mark key="^" line="1174" column="35" />
+        <mark key="]" line="1158" column="5" />
+        <mark key="." line="1158" column="5" />
+        <mark key="^" line="1158" column="5" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/sql/NamingStrategy.java" timestamp="1561579086860">
         <mark key="[" line="62" column="38" />
@@ -229,10 +229,6 @@
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/ratchet/Utils.java" timestamp="1562866642089" />
     </filemarks>
     <jumps>
-      <jump line="44" column="0" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/rewardly/mailfoo/unittests/WorkflowTest.java" />
-      <jump line="101" column="12" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/tasks/casecomponentupdaters/CaseGmailThreadUpdater.java" />
-      <jump line="62" column="0" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/domains/Envelopes.java" />
-      <jump line="443" column="48" filename="$USER_HOME$/src/MailFoo/tomcat-war/pom.xml" />
       <jump line="217" column="37" filename="$USER_HOME$/src/MailFoo/tomcat-war/pom.xml" />
       <jump line="189" column="56" filename="$USER_HOME$/src/MailFoo/tomcat-war/pom.xml" />
       <jump line="109" column="37" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/caching/BigtableCache.java" />
@@ -329,6 +325,10 @@
       <jump line="710" column="14" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/Case.java" />
       <jump line="711" column="50" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/Case.java" />
       <jump line="54" column="12" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/FieldValue.java" />
+      <jump line="1158" column="0" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/Case.java" />
+      <jump line="1292" column="40" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/Case.java" />
+      <jump line="1294" column="42" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/Case.java" />
+      <jump line="1301" column="23" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/Case.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -338,7 +338,7 @@
         <text>Blacklist</text>
       </register>
       <register name="/" type="4">
-        <text>workflow</text>
+        <text>Follower</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CUBDb2xsZWN0aW9uVGFibGUobmFtZT0iQmxhY2tsaXN0IikK</text>
@@ -375,9 +375,9 @@
       </register>
     </registers>
     <search>
-      <last-search>workflow</last-search>
+      <last-search>Follower</last-search>
       <last-offset />
-      <last-pattern>workflow</last-pattern>
+      <last-pattern>Follower</last-pattern>
       <last-replace>case</last-replace>
       <last-substitute>workflow</last-substitute>
       <last-dir>1</last-dir>
@@ -385,7 +385,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Analytics</entry>
         <entry>1</entry>
         <entry>Numeric</entry>
         <entry>now.toLocalDate()</entry>
@@ -405,6 +404,7 @@
         <entry>getEmail</entry>
         <entry>getEmailAdd</entry>
         <entry>workflow</entry>
+        <entry>Follower</entry>
       </history-search>
       <history-cmd>
         <entry>e</entry>
