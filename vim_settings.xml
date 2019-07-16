@@ -115,7 +115,6 @@
         <mark key="^" line="85" column="23" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/tasks/TransformCasesForWorkflowTask.java" timestamp="1562182240204" />
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataupdaters/getters/AttachmentEntityGetter.java" timestamp="1563296523247" />
       <file name="$MAVEN_REPOSITORY$/org/hibernate/hibernate-envers/5.2.16.Final/hibernate-envers-5.2.16.Final-sources.jar!/org/hibernate/envers/boot/internal/EnversServiceImpl.java" timestamp="1562179179810" />
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/sql/OrgScopedId.java" timestamp="1562965069785">
         <mark key="[" line="13" column="4" />
@@ -141,6 +140,9 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/hibernate/hibernate-core/5.4.3.Final/hibernate-core-5.4.3.Final-sources.jar!/org/hibernate/tuple/component/ComponentTuplizerFactory.java" timestamp="1562891938071">
+        <mark key="'" line="106" column="12" />
+      </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/Team.java" timestamp="1562974518908">
         <mark key="[" line="270" column="0" />
         <mark key="]" line="272" column="0" />
@@ -163,6 +165,9 @@
         <mark key="]" line="250" column="29" />
         <mark key="^" line="250" column="29" />
         <mark key="." line="250" column="29" />
+      </file>
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataupdaters/getters/CaseGetter.java" timestamp="1563300236068">
+        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/resources/liquibase/liquibase.properties" timestamp="1561672937489">
         <mark key="[" line="1" column="14" />
@@ -221,7 +226,6 @@
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/ratchet/Utils.java" timestamp="1562866642089" />
     </filemarks>
     <jumps>
-      <jump line="109" column="37" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/caching/BigtableCache.java" />
       <jump line="171" column="0" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/bigtable/MessageAccessEngine.java" />
       <jump line="101" column="38" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataupdaters/getters/ThreadInfoBigTableGetter.java" />
       <jump line="489" column="18" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/bigtable/SpannerBigtable.java" />
@@ -321,6 +325,7 @@
       <jump line="1301" column="23" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/Case.java" />
       <jump line="398" column="4" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/File.java" />
       <jump line="411" column="8" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/File.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataupdaters/getters/CaseGetter.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
