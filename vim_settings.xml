@@ -10,6 +10,9 @@
         <mark key="." line="21" column="28" />
         <mark key="^" line="21" column="27" />
       </file>
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/entities/Pipeline.java" timestamp="1560801585116">
+        <mark key="[" line="1" column="0" />
+      </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/File.java" timestamp="1563223905544">
         <mark key="'" line="411" column="8" />
         <mark key="[" line="323" column="0" />
@@ -51,12 +54,21 @@
         <mark key="^" line="299" column="8" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/nondatastore/CaseTeamContactOrOrgLink.java" timestamp="1562794281481" />
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/entities/Box.java" timestamp="1560801589377">
+        <mark key="[" line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/sql/LiquibaseFactory.java" timestamp="1562096912401">
+        <mark key="[" line="2" column="31" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/org/hibernate/hibernate-core/5.4.3.Final/hibernate-core-5.4.3.Final-sources.jar!/org/hibernate/mapping/ForeignKey.java" timestamp="1562948994555" />
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/RatchetRpcDelegate.java" timestamp="1561560653108">
         <mark key="[" line="80" column="21" />
         <mark key="]" line="85" column="34" />
         <mark key="^" line="85" column="34" />
         <mark key="." line="85" column="34" />
+      </file>
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/entities/BoxMember.java" timestamp="1560801597887">
+        <mark key="[" line="1" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/hibernate/hibernate-core/5.4.3.Final/hibernate-core-5.4.3.Final-sources.jar!/org/hibernate/property/access/spi/SetterMethodImpl.java" timestamp="1562874982544" />
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/messageaccessengine/graph/MessageConnectivityGraph.java" timestamp="1563214025430" />
@@ -83,10 +95,8 @@
         <mark key="." line="48" column="0" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/Autobox.java" timestamp="1562794401120" />
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/SqlStagePK.java" timestamp="1562975333579">
-        <mark key="[" line="6" column="12" />
-        <mark key="]" line="6" column="12" />
-        <mark key="." line="6" column="12" />
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/rewardly/mailfoo/unittests/TaskGetterTest.java" timestamp="1563315806243">
+        <mark key="[" line="29" column="58" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/api/APIV1EndpointManager.java" timestamp="1563296117593" />
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/TeamOrganization.java" timestamp="1562199139445">
@@ -100,15 +110,13 @@
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/TeamMemberPK.java" timestamp="1562974104558">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-      </file>
       <file name="$USER_HOME$/src/MailFoo/curls" timestamp="1562881491184">
         <mark key="[" line="176" column="0" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataupdaters/getters/UnifiedAttachmentGetter.java" timestamp="1563298562181" />
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/entities/BoxEmailLink.java" timestamp="1560801602538">
+        <mark key="[" line="1" column="0" />
+      </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/TeamMember.java" timestamp="1562975372089">
         <mark key="[" line="108" column="14" />
         <mark key="]" line="108" column="4" />
@@ -117,11 +125,6 @@
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/tasks/TransformCasesForWorkflowTask.java" timestamp="1562182240204" />
       <file name="$MAVEN_REPOSITORY$/org/hibernate/hibernate-envers/5.2.16.Final/hibernate-envers-5.2.16.Final-sources.jar!/org/hibernate/envers/boot/internal/EnversServiceImpl.java" timestamp="1562179179810" />
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/sql/OrgScopedId.java" timestamp="1562965069785">
-        <mark key="[" line="13" column="4" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
-      </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/rewardly/mailfoo/unittests/AutoBoxTest.java" timestamp="1562794123700" />
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/sql/TeamOrganizationId.java" timestamp="1562357524738">
         <mark key="'" line="56" column="4" />
@@ -135,21 +138,6 @@
         <mark key="]" line="37" column="25" />
         <mark key="." line="37" column="25" />
         <mark key="^" line="37" column="26" />
-      </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/WorkflowFieldItemPK.java" timestamp="1562881132372">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-      </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/Team.java" timestamp="1562974518908">
-        <mark key="[" line="270" column="0" />
-        <mark key="]" line="272" column="0" />
-        <mark key="." line="272" column="0" />
-      </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/rewardly/mailfoo/unittests/FieldTests.java" timestamp="1561658883174">
-        <mark key="[" line="23" column="61" />
-        <mark key="]" line="23" column="61" />
-        <mark key="." line="23" column="61" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataupdaters/getters/ThreadInfoGetter.java" timestamp="1562957781938" />
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/sql/HibernateFactory.java" timestamp="1563225337865">
@@ -167,16 +155,14 @@
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataupdaters/getters/CaseGetter.java" timestamp="1563300236068">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/resources/liquibase/liquibase.properties" timestamp="1561672937489">
-        <mark key="[" line="1" column="14" />
-        <mark key="]" line="1" column="14" />
-        <mark key="." line="1" column="14" />
-      </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/rewardly/mailfoo/unittests/MessageAccessEngineRemoteTest.java" timestamp="1561494037188">
         <mark key="[" line="192" column="8" />
         <mark key="]" line="192" column="8" />
         <mark key="." line="192" column="8" />
         <mark key="^" line="673" column="62" />
+      </file>
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/entities/PipelineMember.java" timestamp="1560801593305">
+        <mark key="[" line="1" column="0" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/rewardly/mailfoo/unittests/TeamOrganizationUpdaterTest.java" timestamp="1562370021558">
         <mark key="[" line="35" column="54" />
@@ -215,16 +201,17 @@
         <mark key="[" line="211" column="5" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/rewardly/mailfoo/integration/ITMessageAccess.java" timestamp="1562793944180" />
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/MailfooImmutableDataModel.java" timestamp="1562191860893">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/sql/OrganizationCopier.java" timestamp="1562891262292">
+        <mark key="[" line="73" column="24" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/MessageGrant.java" timestamp="1562972898749">
         <mark key="[" line="174" column="20" />
         <mark key="]" line="174" column="20" />
         <mark key="." line="174" column="20" />
         <mark key="^" line="34" column="1" />
+      </file>
+      <file name="/fragment.java" timestamp="1562973859279">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/ratchet/Utils.java" timestamp="1562866642089" />
     </filemarks>
