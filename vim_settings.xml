@@ -29,8 +29,10 @@
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/entities/BoxMember.java" timestamp="1560801597887">
         <mark key="[" line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/Server-ear/run.sh" timestamp="1563984056086">
-        <mark key="[" line="97" column="51" />
+      <file name="$USER_HOME$/src/MailFoo/Server-ear/run.sh" timestamp="1563985168191">
+        <mark key="[" line="117" column="78" />
+        <mark key="]" line="99" column="0" />
+        <mark key="." line="99" column="0" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/Case.java" timestamp="1563560455991">
         <mark key="[" line="1932" column="0" />
@@ -38,8 +40,10 @@
         <mark key="." line="1917" column="20" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataupdaters/creators/GmailThreadCreator.java" timestamp="1563905845669" />
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/sql/TestDatastoreCopier.java" timestamp="1563983500104">
-        <mark key="[" line="2" column="34" />
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/sql/TestDatastoreCopier.java" timestamp="1563985595566">
+        <mark key="[" line="20" column="69" />
+        <mark key="]" line="15" column="43" />
+        <mark key="." line="15" column="43" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/User.java" timestamp="1563824127073">
         <mark key="[" line="179" column="0" />
@@ -219,11 +223,11 @@
       <jump line="48" column="64" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/bigtable/BigtableGraphFanOutProcessor.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQkJPHNjb3BlPnRlc3Q8L3Njb3BlPgo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">VGhyb3dhYmxlIA==</text>
       </register>
       <register name="-" type="4">
-        <text>Done</text>
+        <text encoding="base64">VGhyb3dhYmxlIA==</text>
       </register>
       <register name="/" type="4">
         <text>checkHasRowRestriction</text>
@@ -232,19 +236,22 @@
         <text encoding="base64">CQkJCVN5c3RlbS5vdXQucHJpbnRsbigiRG9uZSIpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJPHNjb3BlPnRlc3Q8L3Njb3BlPgo=</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJCU9iamVjdGlmeVNlcnZpY2UuaW5pdCgpOwo=</text>
+        <text encoding="base64">ICAgICAgICBwdXNoZCAuLi9TZXJ2ZXJDb21tb24KICAgICAgICBtdm4gZXhlYzpqYXZhIC1EZXhlYy5tYWluQ2xhc3M9Y29tLnN0cmVhay5zcWwuVGVzdERhdGFzdG9yZUNvcGllciAgLURkZXYudGVzdGRicGF0aD0iJFRFU1REQlBBVEgiCiAgICAgICAgcG9wZAo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBtYXN0ZXIK</text>
+      <register name="3" type="4">
+        <text>pushd ../IntegrationTests
+            mvn exec:java -Dexec.mainClass=com.rewardly.integrationtests.util.TestDatastoreGetter -Dexec.classpathScope=test -Dexec.args=$TESTNAME
+            TESTDBPATH=/tmp/mailfootestdir/local_db.txt
+            popd</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">CQkJPHNjb3BlPnRlc3Q8L3Njb3BlPgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">CQkJCU9iamVjdGlmeVNlcnZpY2UuaW5pdCgpOwo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Pj4+Pj4+PiBtYXN0ZXIK</text>
@@ -256,7 +263,7 @@
         <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Pj4+Pj4+PiBtYXN0ZXIK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
