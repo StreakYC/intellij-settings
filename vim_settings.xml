@@ -24,8 +24,8 @@
         <mark key="]" line="623" column="0" />
         <mark key="." line="623" column="0" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/rewardly/mailfoo/unittests/AutoboxTest.java" timestamp="1564184197718">
-        <mark key="[" line="129" column="0" />
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/rewardly/mailfoo/unittests/AutoboxTest.java" timestamp="1564442047237">
+        <mark key="[" line="124" column="41" />
         <mark key="]" line="129" column="0" />
         <mark key="." line="129" column="0" />
       </file>
@@ -63,7 +63,6 @@
         <mark key="]" line="21" column="8" />
         <mark key="." line="21" column="8" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/Spanner.java" timestamp="1564175464955" />
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/Case.java" timestamp="1563560455991">
         <mark key="[" line="1932" column="0" />
         <mark key="]" line="1917" column="20" />
@@ -90,7 +89,6 @@
         <mark key="]" line="183" column="0" />
         <mark key="." line="183" column="0" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/User.java" timestamp="1564426548694" />
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/rewardly/mailfoo/unittests/RedisMemcacheServiceTest.java" timestamp="1564182465175">
         <mark key="[" line="23" column="43" />
         <mark key="]" line="23" column="43" />
@@ -147,7 +145,7 @@
         <mark key="]" line="149" column="27" />
         <mark key="." line="149" column="27" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/rewardly/mailfoo/unittests/DatastoreTest.java" timestamp="1564439064216">
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/rewardly/mailfoo/unittests/DatastoreTest.java" timestamp="1564442131325">
         <mark key="[" line="53" column="0" />
         <mark key="]" line="53" column="0" />
         <mark key="." line="53" column="0" />
@@ -234,7 +232,6 @@
         <mark key="]" line="43" column="0" />
         <mark key="." line="43" column="0" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/api/AuthFilter.java" timestamp="1564178062511" />
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/logging/dataflow/EntityKeyMapper.java" timestamp="1564432011507">
         <mark key="[" line="22" column="33" />
         <mark key="]" line="24" column="0" />
@@ -349,11 +346,11 @@
       <jump line="5" column="0" filename="$USER_HOME$/src/MailFoo/ServerCore-war/src/main/webapp/WEB-INF/beans.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">PSA=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PSA=</text>
+        <text>d$ObjectifyService.begin();</text>
       </register>
       <register name="/" type="4">
         <text>::</text>
@@ -362,22 +359,22 @@
         <text encoding="base64">CTxsaXN0ZW5lcj4KCQk8bGlzdGVuZXItY2xhc3M+Y29tLnJld2FyZGx5Lm1haWxmb28ubGlzdGVuZXJzLkJpZ3RhYmxlQ29udGV4dExpc3RlbmVyPC9saXN0ZW5lci1jbGFzcz4KCTwvbGlzdGVuZXI+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQlpZiAocG9vbCA9PSBudWxsKSB7CgkJCXBvb2wgPSBSZWRpc0NvbnRleHRMaXN0ZW5lci5tYWtlSmVkaXNQb29sKCk7CgkJfQoJCXJldHVybiBwb29sOwo=</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQlpZiAocG9vbCA9PSBudWxsKSB7CgkJCXBvb2wgPSBSZWRpc0NvbnRleHRMaXN0ZW5lci5tYWtlSmVkaXNQb29sKCk7CgkJfQoJCXJldHVybiBwb29sOwo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CXB1YmxpYyB2b2lkIHNldFNlcnZsZXRDb250ZXh0KFNlcnZsZXRDb250ZXh0IHNlcnZsZXRDb250ZXh0KSB7CgkJdGhpcy5zZXJ2bGV0Q29udGV4dCA9IHNlcnZsZXRDb250ZXh0OwoJfQoKCUBDb250ZXh0IFNlcnZsZXRDb250ZXh0IHNlcnZsZXRDb250ZXh0Owo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQlSZWRpc01lbWNhY2hlU2VydmljZUZhY3RvcnkuSU5TVEFOQ0Uuc2V0U2VydmxldENvbnRleHQoKTsK</text>
+        <text encoding="base64">CXB1YmxpYyB2b2lkIHNldFNlcnZsZXRDb250ZXh0KFNlcnZsZXRDb250ZXh0IHNlcnZsZXRDb250ZXh0KSB7CgkJdGhpcy5zZXJ2bGV0Q29udGV4dCA9IHNlcnZsZXRDb250ZXh0OwoJfQoKCUBDb250ZXh0IFNlcnZsZXRDb250ZXh0IHNlcnZsZXRDb250ZXh0Owo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJLy8gT2Z5Q29udGV4dExpc3RlbmVyLkNvbXBhbmlvbi5zZXR1cE9meSgpOwo=</text>
+        <text encoding="base64">CQlSZWRpc01lbWNhY2hlU2VydmljZUZhY3RvcnkuSU5TVEFOQ0Uuc2V0U2VydmxldENvbnRleHQoKTsK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">CQkJLy8gT2Z5Q29udGV4dExpc3RlbmVyLkNvbXBhbmlvbi5zZXR1cE9meSgpOwo=</text>
