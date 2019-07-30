@@ -51,10 +51,12 @@
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/DAO.java" timestamp="1564444951898">
         <mark key="[" line="483" column="104" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/rewardly/mailfoo/unittests/AutoboxTest.java" timestamp="1564501925371">
-        <mark key="[" line="124" column="41" />
-        <mark key="]" line="126" column="0" />
-        <mark key="." line="126" column="0" />
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/rewardly/mailfoo/unittests/AutoboxTest.java" timestamp="1564505614029">
+        <mark key="'" line="508" column="47" />
+        <mark key="[" line="508" column="48" />
+        <mark key="]" line="508" column="48" />
+        <mark key="." line="508" column="48" />
+        <mark key="^" line="508" column="34" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/entities/Box.java" timestamp="1560801589377">
         <mark key="[" line="1" column="0" />
@@ -118,7 +120,6 @@
         <mark key="]" line="76" column="0" />
         <mark key="." line="76" column="0" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/rewardly/mailfoo/unittests/WritethroughBigtableCacheBigtableEmulatorTest.java" timestamp="1564503124007" />
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/rewardly/mailfoo/unittests/CaseFlatBufferTypeAdapterTest.java" timestamp="1563994914714">
         <mark key="[" line="47" column="58" />
       </file>
@@ -194,11 +195,13 @@
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/rewardly/mailfoo/unittests/DatastoreTest.java" timestamp="1564503175694">
-        <mark key="[" line="63" column="55" />
-        <mark key="]" line="64" column="4" />
-        <mark key="." line="64" column="4" />
-        <mark key="^" line="64" column="4" />
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/rewardly/mailfoo/unittests/DatastoreTest.java" timestamp="1564504565952" />
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/listeners/ObjectifyContextListener.java" timestamp="1564431770386">
+        <mark key="'" line="201" column="0" />
+        <mark key="[" line="179" column="12" />
+        <mark key="]" line="179" column="12" />
+        <mark key="." line="179" column="12" />
+        <mark key="^" line="170" column="54" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/logging/dataflow/WorkflowDupeDropdownTagSettingsJob.java" timestamp="1564432151331">
         <mark key="[" line="88" column="29" />
@@ -293,14 +296,12 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1564445093113">
+      <file name="/fragment.java" timestamp="1564504214493">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/ratchet/Utils.java" timestamp="1564445340612" />
     </filemarks>
     <jumps>
-      <jump line="95" column="21" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/admin/AdminEnvelopeServlet.java" />
-      <jump line="87" column="16" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/admin/AdminEnvelopeServlet.java" />
       <jump line="2529" column="33" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/DAO.java" />
       <jump line="332" column="65" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/bigtable/BigtableGraphFanOutProcessor.java" />
       <jump line="20" column="12" filename="$USER_HOME$/src/MailFoo/site-js/annotateRulesetViewer/annotateRulesetViewer.jsx" />
@@ -399,65 +400,64 @@
       <jump line="0" column="0" filename="$USER_HOME$/src/MailFoo/pom.xml" />
       <jump line="43" column="0" filename="$USER_HOME$/src/MailFoo/ServerCommon/pom.xml" />
       <jump line="127" column="0" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/rewardly/mailfoo/unittests/AutoboxTest.java" />
+      <jump line="69" column="20" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/rewardly/mailfoo/unittests/AutoboxTest.java" />
+      <jump line="508" column="47" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/rewardly/mailfoo/unittests/AutoboxTest.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQkvLyBUZXN0LW9ubHkgb2JqZWN0aWZ5IGNsYXNzIHJlZ2lzdHJhdGlvbnM6CgkJT2JqZWN0aWZ5U2VydmljZS5yZWdpc3RlcihGYWtlRW50aXR5LmNsYXNzKTsKCQlPYmplY3RpZnlTZXJ2aWNlLnJlZ2lzdGVyKFdyaXRldGhyb3VnaEJpZ3RhYmxlQ2FjaGVCaWd0YWJsZUVtdWxhdG9yVGVzdC5UZXN0RW50aXR5LmNsYXNzKTsKCgkJb2Z5U2VydmljZUNsb3NlYWJsZSA9IE9iamVjdGlmeVNlcnZpY2UuYmVnaW4oKTsK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>d$ObjectifyService.begin();</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>TODO</text>
+        <text>groups = &quot;remote&quot;</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CTxsaXN0ZW5lcj4KCQk8bGlzdGVuZXItY2xhc3M+Y29tLnJld2FyZGx5Lm1haWxmb28ubGlzdGVuZXJzLkJpZ3RhYmxlQ29udGV4dExpc3RlbmVyPC9saXN0ZW5lci1jbGFzcz4KCTwvbGlzdGVuZXI+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkvLyBUZXN0LW9ubHkgb2JqZWN0aWZ5IGNsYXNzIHJlZ2lzdHJhdGlvbnM6CgkJT2JqZWN0aWZ5U2VydmljZS5yZWdpc3RlcihGYWtlRW50aXR5LmNsYXNzKTsKCQlPYmplY3RpZnlTZXJ2aWNlLnJlZ2lzdGVyKFdyaXRldGhyb3VnaEJpZ3RhYmxlQ2FjaGVCaWd0YWJsZUVtdWxhdG9yVGVzdC5UZXN0RW50aXR5LmNsYXNzKTsKCgkJb2Z5U2VydmljZUNsb3NlYWJsZSA9IE9iamVjdGlmeVNlcnZpY2UuYmVnaW4oKTsK</text>
+        <text encoding="base64">QFRlc3QK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBPYmplY3RpZnlDb250ZXh0TGlzdGVuZXIuaW50aWFsaXplT2JqZWN0aWZ5Rm9yRGF0YWZsb3coKQogICAgICAgIE9iamVjdGlmeVNlcnZpY2UuYmVnaW4oKQo=</text>
+        <text encoding="base64">CUBCZWZvcmVUZXN0KGdyb3VwcyA9ICJyZW1vdGUiKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQlPYmplY3RpZnlDb250ZXh0TGlzdGVuZXIuaW50aWFsaXplT2JqZWN0aWZ5Rm9yRGF0YWZsb3coKTsKCQlPYmplY3RpZnlTZXJ2aWNlLmJlZ2luKCk7Cg==</text>
+        <text encoding="base64">CQl0cnkgKENsb3NlYWJsZSBjbG9zYWJsZSA9IE9iamVjdGlmeVNlZGRydmljZS5iZWdpbigpKXsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkvLyBUT0RPIC0gdGhpcyBtZXNzZXMgd2l0aCBvdXIgc2Vuc2Ugb2Ygb3JkZXIgaW4gdGVzdHMK</text>
+        <text encoding="base64">aW1wb3J0IGphdmEuaW8uQ2xvc2VhYmxlOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQlPZnlDb250ZXh0TGlzdGVuZXIuQ29tcGFuaW9uLnNldHVwT2Z5KGZhbHNlKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBtYXN0ZXIK</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CTxsaXN0ZW5lcj4KCQk8bGlzdGVuZXItY2xhc3M+Y29tLnJld2FyZGx5Lm1haWxmb28udXRpbHMuSmF2ZXJzU2VydmxldENvbnRleHRMaXN0ZW5lcjwvbGlzdGVuZXItY2xhc3M+Cgk8L2xpc3RlbmVyPgoJPCEtLQoJPGxpc3RlbmVyPgoJCTxsaXN0ZW5lci1jbGFzcz5jb20ucmV3YXJkbHkubWFpbGZvby5saXN0ZW5lcnMuT2Z5Q29udGV4dExpc3RlbmVyPC9saXN0ZW5lci1jbGFzcz4KCTwvbGlzdGVuZXI+CgktLT4K</text>
+        <text encoding="base64">CQkvLyBUZXN0LW9ubHkgb2JqZWN0aWZ5IGNsYXNzIHJlZ2lzdHJhdGlvbnM6CgkJT2JqZWN0aWZ5U2VydmljZS5yZWdpc3RlcihGYWtlRW50aXR5LmNsYXNzKTsKCQlPYmplY3RpZnlTZXJ2aWNlLnJlZ2lzdGVyKFdyaXRldGhyb3VnaEJpZ3RhYmxlQ2FjaGVCaWd0YWJsZUVtdWxhdG9yVGVzdC5UZXN0RW50aXR5LmNsYXNzKTsKCgkJb2Z5U2VydmljZUNsb3NlYWJsZSA9IE9iamVjdGlmeVNlcnZpY2UuYmVnaW4oKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">ICAgICAgICBPYmplY3RpZnlDb250ZXh0TGlzdGVuZXIuaW50aWFsaXplT2JqZWN0aWZ5Rm9yRGF0YWZsb3coKQogICAgICAgIE9iamVjdGlmeVNlcnZpY2UuYmVnaW4oKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">CQlPYmplY3RpZnlDb250ZXh0TGlzdGVuZXIuaW50aWFsaXplT2JqZWN0aWZ5Rm9yRGF0YWZsb3coKTsKCQlPYmplY3RpZnlTZXJ2aWNlLmJlZ2luKCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>TODO</last-search>
+      <last-search>groups = &quot;remote&quot;</last-search>
       <last-offset />
-      <last-pattern>TODO</last-pattern>
-      <last-replace>.</last-replace>
-      <last-substitute>::</last-substitute>
+      <last-pattern>groups = &quot;remote&quot;</last-pattern>
+      <last-replace>groups = &quot;remote&quot;, enabled=false</last-replace>
+      <last-substitute>groups = &quot;remote&quot;</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>toEpochSecond();</entry>
-        <entry>timeZone</entry>
-        <entry>w</entry>
         <entry encoding="base64">PA==</entry>
         <entry>contact</entry>
         <entry>OrgScopedId</entry>
@@ -475,9 +475,11 @@
         <entry>::</entry>
         <entry>===</entry>
         <entry>TODO</entry>
+        <entry>Test</entry>
+        <entry>@Test</entry>
+        <entry>groups = &quot;remote&quot;</entry>
       </history-search>
       <history-cmd>
-        <entry>s/1/2/g</entry>
         <entry encoding="base64">JzwsJz5zL051bWVyaWMvU3RyaW5nL2c=</entry>
         <entry>%s/now.toLocalDate()/currentDate/</entry>
         <entry encoding="base64">JzwsJz5zL0xvY2FsRGF0ZS5ub3codGltZVpvbmUpL2N1cnJlbnREYXRlLw==</entry>
@@ -496,6 +498,7 @@
         <entry encoding="base64">JzwsJz5zLy5qYXZhLy8=</entry>
         <entry encoding="base64">JzwsJz5zLyQvOw==</entry>
         <entry encoding="base64">JzwsJz5zLzo6Ly4=</entry>
+        <entry>%s/groups = &quot;remote&quot;/groups = &quot;remote&quot;, enabled=false</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
