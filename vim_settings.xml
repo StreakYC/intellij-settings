@@ -219,7 +219,12 @@
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/rewardly/mailfoo/unittests/DatastoreTest.java" timestamp="1564504565952" />
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/rewardly/mailfoo/unittests/DatastoreTest.java" timestamp="1564520804333">
+        <mark key="'" line="43" column="8" />
+        <mark key="[" line="64" column="0" />
+        <mark key="]" line="71" column="63" />
+        <mark key="." line="64" column="0" />
+      </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/listeners/OfyContextListener.kt" timestamp="1564183931862">
         <mark key="[" line="22" column="0" />
         <mark key="]" line="22" column="0" />
@@ -249,8 +254,10 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/streak/bigtable/AccessibleWorkflowsForUserTest.kt" timestamp="1564501095285">
-        <mark key="[" line="40" column="29" />
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/streak/bigtable/AccessibleWorkflowsForUserTest.kt" timestamp="1564521120746">
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="41" column="0" />
+        <mark key="." line="41" column="0" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCore-war/src/main/webapp/WEB-INF/jetty-env.xml" timestamp="1564169956618">
         <mark key="[" line="0" column="0" />
@@ -332,8 +339,6 @@
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/ratchet/Utils.java" timestamp="1564445340612" />
     </filemarks>
     <jumps>
-      <jump line="2529" column="33" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/DAO.java" />
-      <jump line="332" column="65" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/bigtable/BigtableGraphFanOutProcessor.java" />
       <jump line="20" column="12" filename="$USER_HOME$/src/MailFoo/site-js/annotateRulesetViewer/annotateRulesetViewer.jsx" />
       <jump line="40" column="4" filename="$USER_HOME$/src/MailFoo/site-js/annotateRulesetViewer/annotateRulesetViewer.jsx" />
       <jump line="33" column="20" filename="$USER_HOME$/src/MailFoo/site-js/annotateRulesetViewer/annotateRulesetViewer.jsx" />
@@ -432,10 +437,12 @@
       <jump line="127" column="0" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/rewardly/mailfoo/unittests/AutoboxTest.java" />
       <jump line="69" column="20" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/rewardly/mailfoo/unittests/AutoboxTest.java" />
       <jump line="508" column="47" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/rewardly/mailfoo/unittests/AutoboxTest.java" />
+      <jump line="97" column="0" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/rewardly/mailfoo/unittests/DatastoreTest.java" />
+      <jump line="43" column="8" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/rewardly/mailfoo/unittests/DatastoreTest.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CQlPYmplY3RpZnlDb250ZXh0TGlzdGVuZXIuaW50aWFsaXplT2JqZWN0aWZ5Rm9yRGF0YWZsb3coKTsKCQlPYmplY3RpZnlTZXJ2aWNlLmJlZ2luKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBPYmplY3RpZnlTZXJ2aWNlLmJlZ2luKCkK</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -447,34 +454,34 @@
         <text encoding="base64">CTxsaXN0ZW5lcj4KCQk8bGlzdGVuZXItY2xhc3M+Y29tLnJld2FyZGx5Lm1haWxmb28ubGlzdGVuZXJzLkJpZ3RhYmxlQ29udGV4dExpc3RlbmVyPC9saXN0ZW5lci1jbGFzcz4KCTwvbGlzdGVuZXI+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQlPYmplY3RpZnlDb250ZXh0TGlzdGVuZXIuaW50aWFsaXplT2JqZWN0aWZ5Rm9yRGF0YWZsb3coKTsKCQlPYmplY3RpZnlTZXJ2aWNlLmJlZ2luKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBPYmplY3RpZnlTZXJ2aWNlLmJlZ2luKCkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzdXBlci5zZXR1cFRlc3REYXRhc3RvcmUoKQo=</text>
+        <text encoding="base64">ICAgICAgICBPYmplY3RpZnlDb250ZXh0TGlzdGVuZXIuaW50aWFsaXplT2JqZWN0aWZ5Rm9yRGF0YWZsb3coKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">QFRlc3QK</text>
+        <text encoding="base64">CQlPYmplY3RpZnlGYWN0b3J5IG9meUZhY3RvcnkgPSBuZXcgT2JqZWN0aWZ5RmFjdG9yeSgKCQkJRGF0YXN0b3JlQ29udGV4dExpc3RlbmVyLm1ha2VEYXRhc3RvcmUoKSwKCQkJbmV3IFJlZGlzTWVtY2FjaGVTZXJ2aWNlKG5ldyBKZWRpc1Bvb2woKSwgInRlc3QiKQoJCSk7CgkJT2JqZWN0aWZ5Q29udGV4dExpc3RlbmVyLmN1c3RvbWl6ZUZhY3Rvcnkob2Z5RmFjdG9yeSk7CgkJT2JqZWN0aWZ5U2VydmljZS5pbml0KG9meUZhY3RvcnkpOwoJCVNwYW5uZXJCaWd0YWJsZS5tYXliZUNyZWF0ZUxvY2FsVGFibGUoKTsKCQlXcml0ZXRocm91Z2hCaWd0YWJsZUNhY2hlLm1heWJlQ3JlYXRlTG9jYWxDYWNoZVRhYmxlKCk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CUBCZWZvcmVUZXN0KGdyb3VwcyA9ICJyZW1vdGUiKQo=</text>
+        <text encoding="base64">CgkJU3Bhbm5lci5zZXRNb2RlKE1vZGUuVEVTVElORyk7CgkJQ29uZmlndXJhdGlvbi5JTlNUQU5DRS5hZGRUcmFuc2xhdG9yRmFjdG9yeShuZXcgS2V5VHJhbnNsYXRvckZhY3RvcnkoKSk7CgkJQ29uZmlndXJhdGlvbi5JTlNUQU5DRS5zZXRTcGFubmVyUHJvdmlkZXIoU3Bhbm5lcjo6Z2V0Q2xpZW50KTsKCQlDb25maWd1cmF0aW9uLklOU1RBTkNFLnJlZ2lzdGVyKE1lc3NhZ2VHcmFudC5jbGFzcyk7CgkJQ29uZmlndXJhdGlvbi5JTlNUQU5DRS5yZWdpc3RlcihNZXNzYWdlR3JhbnRSdWxlc2V0LmNsYXNzKTsKCQlDb25maWd1cmF0aW9uLklOU1RBTkNFLnJlZ2lzdGVyKFRlYW1NZXNzYWdlR3JhbnRSdWxlc2V0LmNsYXNzKTsKCQlDb25maWd1cmF0aW9uLklOU1RBTkNFLnJlZ2lzdGVyKFNoYXJpbmdUb2tlbi5jbGFzcyk7CgkJU2VydmljZS5zZXR1cCgpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQl0cnkgKENsb3NlYWJsZSBjbG9zYWJsZSA9IE9iamVjdGlmeVNlZGRydmljZS5iZWdpbigpKXsK</text>
+        <text encoding="base64">CQlPYmplY3RpZnlDb250ZXh0TGlzdGVuZXIuaW50aWFsaXplT2JqZWN0aWZ5Rm9yRGF0YWZsb3coKTsKCQlPYmplY3RpZnlTZXJ2aWNlLmJlZ2luKCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEuaW8uQ2xvc2VhYmxlOwo=</text>
+        <text encoding="base64">ICAgICAgICBzdXBlci5zZXR1cFRlc3REYXRhc3RvcmUoKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">QFRlc3QK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">CUBCZWZvcmVUZXN0KGdyb3VwcyA9ICJyZW1vdGUiKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkvLyBUZXN0LW9ubHkgb2JqZWN0aWZ5IGNsYXNzIHJlZ2lzdHJhdGlvbnM6CgkJT2JqZWN0aWZ5U2VydmljZS5yZWdpc3RlcihGYWtlRW50aXR5LmNsYXNzKTsKCQlPYmplY3RpZnlTZXJ2aWNlLnJlZ2lzdGVyKFdyaXRldGhyb3VnaEJpZ3RhYmxlQ2FjaGVCaWd0YWJsZUVtdWxhdG9yVGVzdC5UZXN0RW50aXR5LmNsYXNzKTsKCgkJb2Z5U2VydmljZUNsb3NlYWJsZSA9IE9iamVjdGlmeVNlcnZpY2UuYmVnaW4oKTsK</text>
+        <text encoding="base64">CQl0cnkgKENsb3NlYWJsZSBjbG9zYWJsZSA9IE9iamVjdGlmeVNlZGRydmljZS5iZWdpbigpKXsK</text>
       </register>
       <register name=":" type="4">
-        <text>%s/groups = &quot;remote&quot;/groups = &quot;remote&quot;, enabled=false</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -528,8 +535,8 @@
         <entry encoding="base64">JzwsJz5zLy5qYXZhLy8=</entry>
         <entry encoding="base64">JzwsJz5zLyQvOw==</entry>
         <entry encoding="base64">JzwsJz5zLzo6Ly4=</entry>
-        <entry>w</entry>
         <entry>%s/groups = &quot;remote&quot;/groups = &quot;remote&quot;, enabled=false</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
