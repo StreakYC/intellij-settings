@@ -237,10 +237,11 @@
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/entities/BoxMember.java" timestamp="1560801597887">
         <mark key="[" line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataupdaters/creators/PlanInstanceCreator.java" timestamp="1564691616357">
-        <mark key="[" line="267" column="9" />
-        <mark key="]" line="265" column="0" />
-        <mark key="." line="265" column="0" />
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataupdaters/creators/PlanInstanceCreator.java" timestamp="1564692440345">
+        <mark key="[" line="291" column="9" />
+        <mark key="]" line="269" column="21" />
+        <mark key="." line="269" column="21" />
+        <mark key="^" line="269" column="22" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/caching/WritethroughBigtableCache.java" timestamp="1564620193539">
         <mark key="[" line="225" column="9" />
@@ -498,11 +499,11 @@
       <jump line="43" column="8" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/rewardly/mailfoo/unittests/DatastoreTest.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQlpZiAobnVsbCA9PSBwcikK</text>
+      <register name="&quot;" type="4">
+        <text>9</text>
       </register>
       <register name="-" type="4">
-        <text>mvn</text>
+        <text>9</text>
       </register>
       <register name="/" type="4">
         <text>groups = &quot;remote&quot;</text>
