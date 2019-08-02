@@ -65,7 +65,7 @@
         <mark key="." line="118" column="71" />
         <mark key="^" line="118" column="71" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/rewardly/mailfoo/unittests/LinkedCaseMoveTest.kt" timestamp="1564698576765">
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/rewardly/mailfoo/unittests/LinkedCaseMoveTest.kt" timestamp="1564756197106">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="19" column="4" />
         <mark key="]" line="19" column="4" />
@@ -209,12 +209,12 @@
         <mark key="^" line="35" column="20" />
         <mark key="." line="35" column="20" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/rewardly/mailfoo/unittests/AutoboxSingleTCOProcessorTest.kt" timestamp="1564695102752">
-        <mark key="'" line="52" column="4" />
-        <mark key="[" line="20" column="10" />
-        <mark key="]" line="20" column="9" />
-        <mark key="." line="20" column="9" />
-        <mark key="^" line="20" column="9" />
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/rewardly/mailfoo/unittests/AutoboxSingleTCOProcessorTest.kt" timestamp="1564756210924">
+        <mark key="'" line="20" column="65" />
+        <mark key="[" line="20" column="64" />
+        <mark key="]" line="20" column="64" />
+        <mark key="." line="20" column="64" />
+        <mark key="^" line="20" column="64" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/rewardly/mailfoo/unittests/TeamContactDeleterTest.java" timestamp="1564698843326">
         <mark key="[" line="43" column="66" />
@@ -500,7 +500,6 @@
       <jump line="43" column="8" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/rewardly/mailfoo/unittests/DatastoreTest.java" />
       <jump line="319" column="8" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataupdaters/creators/PlanInstanceCreator.java" />
       <jump line="343" column="18" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataupdaters/creators/PlanInstanceCreator.java" />
-      <jump line="20" column="9" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/rewardly/mailfoo/unittests/AutoboxSingleTCOProcessorTest.kt" />
       <jump line="52" column="4" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/rewardly/mailfoo/unittests/AutoboxSingleTCOProcessorTest.kt" />
       <jump line="102" column="37" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/rewardly/mailfoo/unittests/AutoboxTest.java" />
       <jump line="464" column="4" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/rewardly/mailfoo/unittests/AutoboxTest.java" />
@@ -514,6 +513,7 @@
       <jump line="65" column="55" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/rewardly/mailfoo/unittests/WritethroughBigtableCacheBigtableEmulatorTest.java" />
       <jump line="28" column="22" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/streak/bigtable/AccessibleWorkflowsForUserTest.kt" />
       <jump line="46" column="41" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/streak/bigtable/MessageIndexInfoFilterTest.kt" />
+      <jump line="20" column="65" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/rewardly/mailfoo/unittests/AutoboxSingleTCOProcessorTest.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -523,7 +523,7 @@
         <text>user</text>
       </register>
       <register name="/" type="4">
-        <text>enab</text>
+        <text>enabled = false</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQkJREFPLnN0b3JlRW50aXRpZXModXNlcik7Cg==</text>
@@ -556,15 +556,15 @@
         <text encoding="base64">CQlzdXBlci5zZXR1cFRlc3REYXRhc3RvcmUoKTsK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>%s/enabled = false/groups = [&quot;remote&quot;]</text>
       </register>
     </registers>
     <search>
-      <last-search>enab</last-search>
+      <last-search>enabled = false</last-search>
       <last-offset />
-      <last-pattern>enab</last-pattern>
-      <last-replace />
-      <last-substitute>, enabled = false</last-substitute>
+      <last-pattern>enabled = false</last-pattern>
+      <last-replace>groups = [&quot;remote&quot;]</last-replace>
+      <last-substitute>enabled = false</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -587,12 +587,11 @@
         <entry>@Test</entry>
         <entry>groups = &quot;remote&quot;</entry>
         <entry>enabled = false,</entry>
-        <entry>enabled = false</entry>
         <entry>, enabled = false</entry>
         <entry>enab</entry>
+        <entry>enabled = false</entry>
       </history-search>
       <history-cmd>
-        <entry>?w</entry>
         <entry encoding="base64">JzwsJz5zL3dvcmtmbG93L2JveC9n</entry>
         <entry>q</entry>
         <entry>%s/contact/organization/g</entry>
@@ -612,6 +611,7 @@
         <entry>%s/, enabled = false//</entry>
         <entry>wq</entry>
         <entry>w</entry>
+        <entry>%s/enabled = false/groups = [&quot;remote&quot;]</entry>
       </history-cmd>
       <history-expr />
       <history-input />
