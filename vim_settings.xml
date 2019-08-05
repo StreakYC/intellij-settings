@@ -36,6 +36,12 @@
         <mark key="^" line="114" column="18" />
         <mark key="." line="138" column="0" />
       </file>
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/tasks/WorkflowStageHintTask.java" timestamp="1564429147343">
+        <mark key="[" line="115" column="82" />
+        <mark key="]" line="118" column="71" />
+        <mark key="." line="118" column="71" />
+        <mark key="^" line="118" column="71" />
+      </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/rewardly/mailfoo/unittests/LinkedCaseMoveTest.kt" timestamp="1564756197106">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="19" column="4" />
@@ -60,6 +66,12 @@
         <mark key="]" line="46" column="19" />
         <mark key="." line="46" column="19" />
       </file>
+      <file name="$USER_HOME$/src/MailFoo/.circleci/config.yml" timestamp="1564606365066">
+        <mark key="[" line="518" column="16" />
+        <mark key="]" line="517" column="48" />
+        <mark key="." line="517" column="48" />
+        <mark key="^" line="517" column="48" />
+      </file>
       <file name="$USER_HOME$/src/MailFoo/curls" timestamp="1565037212324">
         <mark key="[" line="188" column="0" />
       </file>
@@ -82,10 +94,17 @@
         <mark key="." line="170" column="47" />
         <mark key="^" line="170" column="47" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/listeners/RedisContextListener.java" timestamp="1564777037599">
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="0" />
-        <mark key="." line="27" column="0" />
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/ratchet/objectify/translate/KeyTranslator.java" timestamp="1564694931426">
+        <mark key="[" line="43" column="12" />
+        <mark key="]" line="43" column="34" />
+        <mark key="." line="43" column="34" />
+        <mark key="^" line="43" column="34" />
+      </file>
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/listeners/RedisContextListener.java" timestamp="1565043381643">
+        <mark key="[" line="19" column="77" />
+        <mark key="]" line="21" column="96" />
+        <mark key="." line="21" column="96" />
+        <mark key="^" line="21" column="96" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/rewardly/mailfoo/unittests/FieldTest.kt" timestamp="1564697978262">
         <mark key="'" line="46" column="48" />
@@ -160,6 +179,12 @@
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/User.java" timestamp="1564426548694" />
       <file name="$USER_HOME$/src/MailFoo/ServerCore-war/src/main/webapp/WEB-INF/web.xml" timestamp="1564757603710" />
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/rewardly/mailfoo/unittests/RedisMemcacheServiceTest.java" timestamp="1564182465175">
+        <mark key="[" line="23" column="43" />
+        <mark key="]" line="23" column="43" />
+        <mark key="." line="23" column="43" />
+        <mark key="^" line="23" column="42" />
+      </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/caching/BigtableNonTransactionalEntityFragmentManager.java" timestamp="1564684205512" />
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/rewardly/mailfoo/unittests/TaskGetterTest.java" timestamp="1564704218723">
         <mark key="[" line="34" column="30" />
@@ -171,6 +196,12 @@
         <mark key="[" line="85" column="0" />
         <mark key="]" line="85" column="0" />
         <mark key="." line="85" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/listeners/OfyContextListener.kt" timestamp="1564183931862">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="^" line="115" column="67" />
+        <mark key="." line="22" column="0" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/logging/dataflow/WorkflowDupeDropdownTagSettingsJob.java" timestamp="1564432151331">
         <mark key="[" line="88" column="29" />
@@ -313,11 +344,11 @@
       <jump line="22" column="21" filename="$USER_HOME$/src/MailFoo/ServerCommon/pom.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CTxwcm9maWxlcz4KCTxwcm9maWxlPgoJCTxpZD54dGVzdDwvaWQ+CgkJPHByb3BlcnRpZXM+CgkJCTxza2lwVGVzdHM+dHJ1ZTwvc2tpcFRlc3RzPgoJCTwvcHJvcGVydGllcz4KCTwvcHJvZmlsZT4KCTxwcm9maWxlPgoJCTxpZD5kZXZlbG9wbWVudDwvaWQ+CgkJPHByb3BlcnRpZXM+CgkJCTxyZWRpcy5ob3N0PmxvY2FsaG9zdDwvcmVkaXMuaG9zdD4KCQkJPHJlZGlzLnBvcnQ+NjM3OTwvcmVkaXMucG9ydD4KCQkJPGRhdGFzdG9yZS5ob3N0PmxvY2FsaG9zdDo4MDgxPC9kYXRhc3RvcmUuaG9zdD4KCQkJPGJpZ3RhYmxlLmhvc3Q+bG9jYWxob3N0OjgwODY8L2JpZ3RhYmxlLmhvc3Q+CgkJCTx0ZXN0LmV4Y2x1ZGVkR3JvdXBzPnJlbW90ZTwvdGVzdC5leGNsdWRlZEdyb3Vwcz4KCQk8L3Byb3BlcnRpZXM+Cgk8L3Byb2ZpbGU+Cgk8cHJvZmlsZT4KCTxpZD50ZXN0aW5nPC9pZD4KCTwhLS0gSGV5IGxvb2ssIGEgcGxhY2UgdG8gcHV0IHRlc3Rpbmcgb25lcyB0aGF0IGRvbid0IG92ZXJ3cml0ZSBkZXYhIC0tPgoK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">aW50IA==</text>
       </register>
       <register name="-" type="4">
-        <text>datastore</text>
+        <text encoding="base64">aW50IA==</text>
       </register>
       <register name="/" type="4">
         <text>+</text>
@@ -353,7 +384,7 @@
         <text encoding="base64">Pj4+Pj4+PiBtYXN0ZXIK</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5zLysvLw==</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -407,8 +438,8 @@
         <entry>wq</entry>
         <entry>s/emulator.//</entry>
         <entry>s/emulator.//g</entry>
-        <entry>w</entry>
         <entry encoding="base64">JzwsJz5zLysvLw==</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
