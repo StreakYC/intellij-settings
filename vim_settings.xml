@@ -261,10 +261,11 @@
         <mark key="." line="343" column="18" />
         <mark key="^" line="343" column="18" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/caching/WritethroughBigtableCache.java" timestamp="1564777269335">
-        <mark key="[" line="227" column="0" />
-        <mark key="]" line="227" column="0" />
-        <mark key="." line="227" column="0" />
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/caching/WritethroughBigtableCache.java" timestamp="1565124278622">
+        <mark key="[" line="244" column="48" />
+        <mark key="]" line="244" column="52" />
+        <mark key="." line="244" column="52" />
+        <mark key="^" line="244" column="52" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/rewardly/mailfoo/unittests/BulkTaskEnqueuerDebounceTest.java" timestamp="1564622353270" />
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/Case.java" timestamp="1563560455991">
@@ -524,11 +525,11 @@
       <jump line="0" column="9" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/resources/config.properties" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQkJUHJvcGVydGllcyBwcm9wZXJ0aWVzID0gU3lzdGVtLmdldFByb3BlcnRpZXMoKTsK</text>
+      <register name="&quot;" type="4">
+        <text>btUpdateEntities</text>
       </register>
       <register name="-" type="4">
-        <text>src/main/resources</text>
+        <text>btUpdateEntities</text>
       </register>
       <register name="/" type="4">
         <text>.*</text>
