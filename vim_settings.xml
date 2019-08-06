@@ -73,8 +73,8 @@
         <mark key="^" line="118" column="71" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/Spanner.java" timestamp="1564175464955" />
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/profiles/testing/config.properties" timestamp="1565116224799">
-        <mark key="[" line="4" column="23" />
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/profiles/testing/config.properties" timestamp="1565119673672">
+        <mark key="[" line="3" column="15" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/Server-ear/ServerGmailSdk-war-1/WEB-INF/web.xml" timestamp="1564761627384">
         <mark key="[" line="12" column="14" />
@@ -102,11 +102,11 @@
         <mark key="]" line="46" column="19" />
         <mark key="." line="46" column="19" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/.circleci/config.yml" timestamp="1564606365066">
-        <mark key="[" line="518" column="16" />
-        <mark key="]" line="517" column="48" />
-        <mark key="." line="517" column="48" />
-        <mark key="^" line="517" column="48" />
+      <file name="$USER_HOME$/src/MailFoo/.circleci/config.yml" timestamp="1565120151827">
+        <mark key="[" line="629" column="18" />
+        <mark key="]" line="518" column="26" />
+        <mark key="." line="518" column="26" />
+        <mark key="^" line="518" column="26" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/logging/dataflow/EntityMapper.java" timestamp="1564432039361">
         <mark key="[" line="24" column="0" />
@@ -129,8 +129,8 @@
         <mark key="]" line="24" column="22" />
         <mark key="." line="24" column="22" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/profiles/development/config.properties" timestamp="1565116234067">
-        <mark key="[" line="3" column="24" />
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/profiles/development/config.properties" timestamp="1565119683997">
+        <mark key="[" line="3" column="15" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/listeners/SpannerContextListener.java" timestamp="1564501743905" />
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/logging/dataflow/DataflowDatastoreJsonExport.java" timestamp="1564431741211">
@@ -202,10 +202,11 @@
         <mark key="]" line="98" column="43" />
         <mark key="." line="98" column="43" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/listeners/DatastoreContextListener.java" timestamp="1565115583824">
-        <mark key="[" line="41" column="33" />
-        <mark key="]" line="41" column="0" />
-        <mark key="." line="41" column="0" />
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/listeners/DatastoreContextListener.java" timestamp="1565121659558">
+        <mark key="[" line="28" column="85" />
+        <mark key="]" line="28" column="85" />
+        <mark key="." line="28" column="85" />
+        <mark key="^" line="28" column="38" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/logging/dataflow/EntityKeyMapper.java" timestamp="1564432011507">
         <mark key="[" line="22" column="33" />
@@ -371,7 +372,7 @@
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1564617741574">
+      <file name="/Dummy.txt" timestamp="1565120717314">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -416,7 +417,7 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1564698567293">
+      <file name="/fragment.java" timestamp="1565121350146">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -523,11 +524,11 @@
       <jump line="0" column="9" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/resources/config.properties" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQkJCTxza2lwVGVzdHM+dHJ1ZTwvc2tpcFRlc3RzPgo=</text>
+      <register name="&quot;" type="4">
+        <text>src/main/resources</text>
       </register>
       <register name="-" type="4">
-        <text>dev</text>
+        <text>src/main/resources</text>
       </register>
       <register name="/" type="4">
         <text>.*</text>
