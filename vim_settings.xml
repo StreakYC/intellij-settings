@@ -27,11 +27,11 @@
         <mark key="]" line="111" column="0" />
         <mark key="." line="111" column="0" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/pom.xml" timestamp="1565052057964">
-        <mark key="[" line="753" column="58" />
-        <mark key="]" line="753" column="8" />
-        <mark key="." line="753" column="8" />
-        <mark key="^" line="753" column="8" />
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/pom.xml" timestamp="1565116567973">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="43" />
+        <mark key="." line="26" column="23" />
+        <mark key="^" line="26" column="23" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/DAO.java" timestamp="1564444951898">
         <mark key="[" line="483" column="104" />
@@ -73,6 +73,9 @@
         <mark key="^" line="118" column="71" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/Spanner.java" timestamp="1564175464955" />
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/profiles/testing/config.properties" timestamp="1565116224799">
+        <mark key="[" line="4" column="23" />
+      </file>
       <file name="$USER_HOME$/src/MailFoo/Server-ear/ServerGmailSdk-war-1/WEB-INF/web.xml" timestamp="1564761627384">
         <mark key="[" line="12" column="14" />
         <mark key="]" line="12" column="14" />
@@ -126,7 +129,9 @@
         <mark key="]" line="24" column="22" />
         <mark key="." line="24" column="22" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/profiles/development/config.properties" timestamp="1565053097524" />
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/profiles/development/config.properties" timestamp="1565116234067">
+        <mark key="[" line="3" column="24" />
+      </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/listeners/SpannerContextListener.java" timestamp="1564501743905" />
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/logging/dataflow/DataflowDatastoreJsonExport.java" timestamp="1564431741211">
         <mark key="[" line="64" column="29" />
@@ -197,10 +202,10 @@
         <mark key="]" line="98" column="43" />
         <mark key="." line="98" column="43" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/listeners/DatastoreContextListener.java" timestamp="1565044947744">
-        <mark key="[" line="25" column="72" />
-        <mark key="]" line="25" column="63" />
-        <mark key="." line="25" column="63" />
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/listeners/DatastoreContextListener.java" timestamp="1565115583824">
+        <mark key="[" line="41" column="33" />
+        <mark key="]" line="41" column="0" />
+        <mark key="." line="41" column="0" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/logging/dataflow/EntityKeyMapper.java" timestamp="1564432011507">
         <mark key="[" line="22" column="33" />
@@ -377,6 +382,11 @@
         <mark key="^" line="113" column="68" />
         <mark key="." line="114" column="0" />
       </file>
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/profiles/production/config.properties" timestamp="1565116201133">
+        <mark key="[" line="0" column="11" />
+        <mark key="]" line="0" column="11" />
+        <mark key="." line="0" column="11" />
+      </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/entities/PipelineMember.java" timestamp="1560801593305">
         <mark key="[" line="1" column="0" />
       </file>
@@ -513,43 +523,44 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CgoJcHVibGljIEJpZ3RhYmxlQ29udGV4dExpc3RlbmVyKCkgewoKCX0K</text>
+        <text encoding="base64">CQkJCTxza2lwVGVzdHM+dHJ1ZTwvc2tpcFRlc3RzPgo=</text>
       </register>
       <register name="-" type="4">
-        <text>=localhost</text>
+        <text>dev</text>
       </register>
       <register name="/" type="4">
         <text>.*</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQkJCTxkYXRhc3RvcmUucHJvamVjdD5tYWlsZm9vZ2FlPC9kYXRhc3RvcmUucHJvamVjdD4K</text>
+        <text encoding="base64">CQkJCTxza2lwVGVzdHM+dHJ1ZTwvc2tpcFRlc3RzPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CgoJcHVibGljIEJpZ3RhYmxlQ29udGV4dExpc3RlbmVyKCkgewoKCX0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCTxyZWRpcy5ob3N0PmxvY2FsaG9zdDwvcmVkaXMuaG9zdD4KCQkJCTxyZWRpcy5wb3J0PjYzNzk8L3JlZGlzLnBvcnQ+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCTxkYXRhc3RvcmUucHJvamVjdD5tYWlsZm9vZ2FlPC9kYXRhc3RvcmUucHJvamVjdD4KCQkJCTxkYXRhc3RvcmUuaG9zdD5sb2NhbGhvc3Q6ODA4MTwvZGF0YXN0b3JlLmhvc3Q+CgkJCQk8YmlndGFibGUuaG9zdD5sb2NhbGhvc3Q6ODA4NjwvYmlndGFibGUuaG9zdD4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJCg==</text>
+        <text encoding="base64">CgoJCQkJPHJlZGlzLmhvc3Q+bG9jYWxob3N0PC9yZWRpcy5ob3N0PgoJCQkJPHJlZGlzLnBvcnQ+NjM3OTwvcmVkaXMucG9ydD4KCQkJCTxkYXRhc3RvcmUucHJvamVjdD5tYWlsZm9vZ2FlPC9kYXRhc3RvcmUucHJvamVjdD4KCQkJCTxkYXRhc3RvcmUuaG9zdD5sb2NhbGhvc3Q6ODA4MTwvZGF0YXN0b3JlLmhvc3Q+CgkJCQk8YmlndGFibGUuaG9zdD5sb2NhbGhvc3Q6ODA4NjwvYmlndGFibGUuaG9zdD4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJCTwK</text>
+        <text encoding="base64">CgoJCQkJPGRhdGFzdG9yZS5wcm9qZWN0Pm1haWxmb29nYWU8L2RhdGFzdG9yZS5wcm9qZWN0PgoJCQkJPHJlZGlzLmhvc3Q+L3JlZGlzLmhvc3Q+CgkJCQk8cmVkaXMucG9ydD42Mzc5PC9yZWRpcy5wb3J0Pgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQk8cmVzb3VyY2VzPgoJCQk8cmVzb3VyY2U+CgkJCQk8ZGlyZWN0b3J5PnNyYy9tYWluL3Jlc291cmNlczwvZGlyZWN0b3J5PgoJCQkJPGZpbHRlcmluZz50cnVlPC9maWx0ZXJpbmc+CgkJCTwvcmVzb3VyY2U+CgkJPC9yZXNvdXJjZXNWPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">CQkJPGlsCg==</text>
+      <register name="8" type="4">
+        <text>datastore.host=localhost
+bigtable.host=localhost</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">dGVzdC5leGNsdWRlZEdyb3Vwcz0K</text>
+        <text encoding="base64">CQk8cHJvZmlsZT4KCQkJPGlkPmt1YmVybmV0ZXM8L2lkPgoJCQk8cHJvcGVydGllcz4KCQkJCTxkYXRhc3RvcmUucHJvamVjdD5tYWlsZm9vZ2FlPC9kYXRhc3RvcmUucHJvamVjdD4KCQkJCTxyZWRpcy5ob3N0PnJlZGlzLWludGVybmFsLXNlcnZpY2U8L3JlZGlzLmhvc3Q+CgkJCQk8cmVkaXMucG9ydD42Mzc5PC9yZWRpcy5wb3J0PgoJCQk8L3Byb3BlcnRpZXM+CgkJPC9wcm9maWxlPgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
