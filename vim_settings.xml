@@ -100,6 +100,7 @@
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/listeners/FixtureLoaderContextListener.java" timestamp="1564164692388">
         <mark key="[" line="2" column="41" />
       </file>
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/profiles/development/config.properties" timestamp="1565053097524" />
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/listeners/SpannerContextListener.java" timestamp="1564501743905" />
       <file name="$MAVEN_REPOSITORY$/com/google/cloud/bigtable/bigtable-client-core/1.8.0/bigtable-client-core-1.8.0.jar!/com/google/cloud/bigtable/grpc/BigtableDataClient.class" timestamp="1564786084252" />
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/imap/UpdateGmailThreadWithEmailIdsBigTask.java" timestamp="1564427977546">
@@ -108,12 +109,12 @@
         <mark key="." line="149" column="27" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/containers/web-api/deployment.yaml" timestamp="1564779682547" />
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/resources/config.properties" timestamp="1565052100201">
-        <mark key="'" line="6" column="2" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="11" />
-        <mark key="^" line="10" column="19" />
-        <mark key="." line="0" column="11" />
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/resources/config.properties" timestamp="1565053128638">
+        <mark key="'" line="0" column="9" />
+        <mark key="[" line="4" column="13" />
+        <mark key="]" line="4" column="13" />
+        <mark key="^" line="1" column="9" />
+        <mark key="." line="4" column="13" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/listeners/ObjectifyContextListener.java" timestamp="1564759827298">
         <mark key="'" line="201" column="0" />
@@ -300,7 +301,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="22" column="0" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/utils/RequestDataService.java" />
       <jump line="17" column="12" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataupdaters/creators/UnifiedMessageCreator.java" />
       <jump line="98" column="16" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataupdaters/getters/TeamContactGetter.java" />
       <jump line="155" column="20" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/caching/BigtableCache.java" />
@@ -400,16 +400,17 @@
       <jump line="48" column="16" filename="$USER_HOME$/src/MailFoo/ServerCommon/pom.xml" />
       <jump line="22" column="21" filename="$USER_HOME$/src/MailFoo/ServerCommon/pom.xml" />
       <jump line="1" column="2" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/resources/config.properties" />
+      <jump line="0" column="9" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/resources/config.properties" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQkJCTwK</text>
+      <register name="&quot;" type="4">
+        <text>=localhost</text>
       </register>
       <register name="-" type="4">
-        <text>V</text>
+        <text>=localhost</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">Pi4q</text>
+        <text>.*</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQkJCTxkYXRhc3RvcmUucHJvamVjdD5tYWlsZm9vZ2FlPC9kYXRhc3RvcmUucHJvamVjdD4K</text>
@@ -442,21 +443,20 @@
         <text encoding="base64">CXByaXZhdGUgc3RhdGljIHZvaWQgY29uZmlndXJlU3Bhbm5lcigpIHRocm93cyBUaHJvd2FibGUgewoJCUdvb2dsZUNyZWRlbnRpYWxzIGNyZWRlbnRpYWxzID0gR29vZ2xlQ3JlZGVudGlhbHMuZnJvbVN0cmVhbSgKCQkJbmV3IEJ5dGVBcnJheUlucHV0U3RyZWFtKENvbnN0YW50cy5URVNUX0VOVklST05NRU5UX1NFQ1JFVFNfSlNPTl9DT05URU5UUy5nZXRCeXRlcygpKSwKCQkJQXBhY2hlSHR0cFRyYW5zcG9ydDo6bmV3KTsKCQlTcGFubmVyT3B0aW9ucyBvcHRpb25zID0gU3Bhbm5lck9wdGlvbnMubmV3QnVpbGRlcigpCgkJCQkJCQkJCQkJICAgLnNldFByb2plY3RJZCgibWFpbGZvb2dhZSIpCgkJCQkJCQkJCQkJICAgLnNldENyZWRlbnRpYWxzKGNyZWRlbnRpYWxzKQoJCQkJCQkJCQkJCSAgIC5idWlsZCgpOwoJCUluc3RhbmNlSWQgaW5zdGFuY2VJZE9iaiA9IEluc3RhbmNlSWQub2Yob3B0aW9ucy5nZXRQcm9qZWN0SWQoKSwgSU5TVEFOQ0VfSUQpOwoJCWhlbHBlciA9IFJlbW90ZVNwYW5uZXJIZWxwZXIuY3JlYXRlKG9wdGlvbnMsIGluc3RhbmNlSWRPYmopOwoKCQlDb25maWd1cmF0aW9uLklOU1RBTkNFLnJlZ2lzdGVyKE1lc3NhZ2VHcmFudFJ1bGVzZXQuY2xhc3MpOwoJCUNvbmZpZ3VyYXRpb24uSU5TVEFOQ0UucmVnaXN0ZXIoTWVzc2FnZUdyYW50LmNsYXNzKTsKCQlDb25maWd1cmF0aW9uLklOU1RBTkNFLnJlZ2lzdGVyKFRlYW1NZXNzYWdlR3JhbnRSdWxlc2V0LmNsYXNzKTsKCgkJTGlzdDxTdHJpbmc+IHN0YXRlbWVudHMgPSBuZXcgQXJyYXlMaXN0PD4oKTsKCQlzdGF0ZW1lbnRzLmFkZEFsbChDb25maWd1cmF0aW9uLklOU1RBTkNFLmdldE1ldGFkYXRhKE1lc3NhZ2VHcmFudFJ1bGVzZXQuY2xhc3MpLmdldFRhYmxlKCkuZGRsKCkpOwoJCXN0YXRlbWVudHMuYWRkQWxsKENvbmZpZ3VyYXRpb24uSU5TVEFOQ0UuZ2V0TWV0YWRhdGEoTWVzc2FnZUdyYW50LmNsYXNzKS5nZXRUYWJsZSgpLmRkbCgpKTsKCQlzdGF0ZW1lbnRzLmFkZEFsbChDb25maWd1cmF0aW9uLklOU1RBTkNFLmdldE1ldGFkYXRhKFRlYW1NZXNzYWdlR3JhbnRSdWxlc2V0LmNsYXNzKS5nZXRUYWJsZSgpLmRkbCgpKTsKCgkJdW5pcXVlRGF0YWJhc2VJZCA9IGhlbHBlci5nZXRVbmlxdWVEYXRhYmFzZUlkKCkgKyBuZXcgUmFuZG9tKCkubmV4dEludCg1MDAwKTsKCQloZWxwZXIuZ2V0Q2xpZW50KCkuZ2V0RGF0YWJhc2VBZG1pbkNsaWVudCgpLmNyZWF0ZURhdGFiYXNlKGluc3RhbmNlSWRPYmouZ2V0SW5zdGFuY2UoKSwKCQkJdW5pcXVlRGF0YWJhc2VJZCwgc3RhdGVtZW50cyk7CgoJCWRiID0gRGF0YWJhc2VJZC5vZigibWFpbGZvb2dhZSIsIElOU1RBTkNFX0lELCB1bmlxdWVEYXRhYmFzZUlkKTsKCQlDb25maWd1cmF0aW9uLklOU1RBTkNFLnNldFNwYW5uZXJQcm92aWRlcigoKSAtPiBoZWxwZXIuZ2V0Q2xpZW50KCkuZ2V0RGF0YWJhc2VDbGllbnQoZGIpKTsKCX0K</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text encoding="base64">JzwsJz5zLy4qL1wwPSR7XDB9</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">Pi4q</last-search>
+      <last-search>.*</last-search>
       <last-offset />
-      <last-pattern encoding="base64">Pi4q</last-pattern>
-      <last-replace>=</last-replace>
-      <last-substitute encoding="base64">Pi4q</last-substitute>
+      <last-pattern>.*</last-pattern>
+      <last-replace>\0=${\0}</last-replace>
+      <last-substitute>.*</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>getEmailAdd</entry>
         <entry>Follower</entry>
         <entry>workflow</entry>
         <entry>Workflow</entry>
@@ -476,9 +476,9 @@
         <entry>emulator.</entry>
         <entry>+</entry>
         <entry encoding="base64">Pi4q</entry>
+        <entry>.*</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zL3dvcmtmbG93L2Nhc2UvZw==</entry>
         <entry encoding="base64">JzwsJz5zL1dvcmtmbG93L0Nhc2UvZw==</entry>
         <entry>W</entry>
         <entry encoding="base64">JzwsJz5zLy5qYXZhLy8=</entry>
@@ -498,6 +498,7 @@
         <entry encoding="base64">JzwsJz5zLysvLw==</entry>
         <entry encoding="base64">JzwsJz5zLz4uKi89</entry>
         <entry>w</entry>
+        <entry encoding="base64">JzwsJz5zLy4qL1wwPSR7XDB9</entry>
       </history-cmd>
       <history-expr />
       <history-input />
