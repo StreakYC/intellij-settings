@@ -371,6 +371,11 @@
         <mark key="^" line="0" column="1" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/src/MailFoo/containers/web-api/canary-deployment.yaml" timestamp="1565136929906">
+        <mark key="[" line="46" column="24" />
+        <mark key="]" line="46" column="24" />
+        <mark key="." line="46" column="24" />
+      </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/sql/SharingTokenCopier.java" timestamp="1564500452541">
         <mark key="[" line="18" column="41" />
         <mark key="]" line="20" column="0" />
@@ -535,10 +540,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>gcr.io/mailfoogae/mailfoo_containers:e207797</text>
+        <text>gcr.io/mailfoogae/mailfoo_containers_local:dea8115</text>
       </register>
       <register name="-" type="4">
-        <text>gcr.io/mailfoogae/mailfoo_containers:e207797</text>
+        <text>gcr.io/mailfoogae/mailfoo_containers_local:dea8115</text>
       </register>
       <register name="/" type="4">
         <text>.*</text>
