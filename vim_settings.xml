@@ -138,6 +138,7 @@
         <mark key="]" line="66" column="0" />
         <mark key="." line="66" column="0" />
       </file>
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/bigtable/SpannerBigtable.java" timestamp="1565196922394" />
       <file name="$MAVEN_REPOSITORY$/com/google/cloud/bigtable/bigtable-client-core/1.8.0/bigtable-client-core-1.8.0.jar!/com/google/cloud/bigtable/grpc/BigtableDataClient.class" timestamp="1564786084252" />
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/sql/OrgScopedId.java" timestamp="1562965069785">
         <mark key="[" line="13" column="4" />
@@ -403,7 +404,11 @@
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/rewardly/mailfoo/helpers/MobileHelperTest.kt" timestamp="1564610656172">
         <mark key="[" line="18" column="28" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/nondatastore/Message.java" timestamp="1565117718180" />
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/nondatastore/Message.java" timestamp="1565196880732">
+        <mark key="[" line="187" column="17" />
+        <mark key="]" line="160" column="0" />
+        <mark key="." line="160" column="0" />
+      </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/TeamContact.java" timestamp="1564158354844">
         <mark key="[" line="481" column="13" />
         <mark key="]" line="482" column="0" />
@@ -539,8 +544,8 @@
       <jump line="73" column="18" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/rewardly/mailfoo/unittests/AutoboxTest.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>gcr.io/mailfoogae/mailfoo_containers_local:dea8115</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQlyYXdNZXNzYWdlLmdldAo=</text>
       </register>
       <register name="-" type="4">
         <text>gcr.io/mailfoogae/mailfoo_containers_local:dea8115</text>
@@ -552,32 +557,31 @@
         <text encoding="base64">CQkJCTxza2lwVGVzdHM+dHJ1ZTwvc2tpcFRlc3RzPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJUHJvcGVydGllcyBwcm9wZXJ0aWVzID0gU3lzdGVtLmdldFByb3BlcnRpZXMoKTsK</text>
+        <text encoding="base64">CQlyYXdNZXNzYWdlLmdldAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJUHJvcGVydGllcyBwcm9wZXJ0aWVzID0gU3lzdGVtLmdldFByb3BlcnRpZXMoKTsK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJCTxyZWRpcy5ob3N0PmxvY2FsaG9zdDwvcmVkaXMuaG9zdD4KCQkJCTxyZWRpcy5wb3J0PjYzNzk8L3JlZGlzLnBvcnQ+Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">CQkJCTxkYXRhc3RvcmUucHJvamVjdD5tYWlsZm9vZ2FlPC9kYXRhc3RvcmUucHJvamVjdD4KCQkJCTxkYXRhc3RvcmUuaG9zdD5sb2NhbGhvc3Q6ODA4MTwvZGF0YXN0b3JlLmhvc3Q+CgkJCQk8YmlndGFibGUuaG9zdD5sb2NhbGhvc3Q6ODA4NjwvYmlndGFibGUuaG9zdD4K</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">CgoJCQkJPHJlZGlzLmhvc3Q+bG9jYWxob3N0PC9yZWRpcy5ob3N0PgoJCQkJPHJlZGlzLnBvcnQ+NjM3OTwvcmVkaXMucG9ydD4KCQkJCTxkYXRhc3RvcmUucHJvamVjdD5tYWlsZm9vZ2FlPC9kYXRhc3RvcmUucHJvamVjdD4KCQkJCTxkYXRhc3RvcmUuaG9zdD5sb2NhbGhvc3Q6ODA4MTwvZGF0YXN0b3JlLmhvc3Q+CgkJCQk8YmlndGFibGUuaG9zdD5sb2NhbGhvc3Q6ODA4NjwvYmlndGFibGUuaG9zdD4K</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">CgoJCQkJPGRhdGFzdG9yZS5wcm9qZWN0Pm1haWxmb29nYWU8L2RhdGFzdG9yZS5wcm9qZWN0PgoJCQkJPHJlZGlzLmhvc3Q+L3JlZGlzLmhvc3Q+CgkJCQk8cmVkaXMucG9ydD42Mzc5PC9yZWRpcy5wb3J0Pgo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text>datastore.host=localhost
-bigtable.host=localhost</text>
+      <register name="5" type="2">
+        <text encoding="base64">CQkJCTxyZWRpcy5ob3N0PmxvY2FsaG9zdDwvcmVkaXMuaG9zdD4KCQkJCTxyZWRpcy5wb3J0PjYzNzk8L3JlZGlzLnBvcnQ+Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">CQkJCTxkYXRhc3RvcmUucHJvamVjdD5tYWlsZm9vZ2FlPC9kYXRhc3RvcmUucHJvamVjdD4KCQkJCTxkYXRhc3RvcmUuaG9zdD5sb2NhbGhvc3Q6ODA4MTwvZGF0YXN0b3JlLmhvc3Q+CgkJCQk8YmlndGFibGUuaG9zdD5sb2NhbGhvc3Q6ODA4NjwvYmlndGFibGUuaG9zdD4K</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">CgoJCQkJPHJlZGlzLmhvc3Q+bG9jYWxob3N0PC9yZWRpcy5ob3N0PgoJCQkJPHJlZGlzLnBvcnQ+NjM3OTwvcmVkaXMucG9ydD4KCQkJCTxkYXRhc3RvcmUucHJvamVjdD5tYWlsZm9vZ2FlPC9kYXRhc3RvcmUucHJvamVjdD4KCQkJCTxkYXRhc3RvcmUuaG9zdD5sb2NhbGhvc3Q6ODA4MTwvZGF0YXN0b3JlLmhvc3Q+CgkJCQk8YmlndGFibGUuaG9zdD5sb2NhbGhvc3Q6ODA4NjwvYmlndGFibGUuaG9zdD4K</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">CgoJCQkJPGRhdGFzdG9yZS5wcm9qZWN0Pm1haWxmb29nYWU8L2RhdGFzdG9yZS5wcm9qZWN0PgoJCQkJPHJlZGlzLmhvc3Q+L3JlZGlzLmhvc3Q+CgkJCQk8cmVkaXMucG9ydD42Mzc5PC9yZWRpcy5wb3J0Pgo=</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
