@@ -69,8 +69,8 @@
         <mark key="." line="19" column="4" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/Spanner.java" timestamp="1564175464955" />
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/profiles/testing/config.properties" timestamp="1565386858502">
-        <mark key="[" line="4" column="28" />
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/profiles/testing/config.properties" timestamp="1565393566647">
+        <mark key="[" line="9" column="57" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/Server-ear/ServerGmailSdk-war-1/WEB-INF/web.xml" timestamp="1564761627384">
         <mark key="[" line="12" column="14" />
@@ -132,10 +132,11 @@
         <mark key="]" line="24" column="22" />
         <mark key="." line="24" column="22" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/profiles/development/config.properties" timestamp="1565386996792">
-        <mark key="[" line="9" column="35" />
-        <mark key="]" line="9" column="35" />
-        <mark key="." line="9" column="35" />
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/profiles/development/config.properties" timestamp="1565393553389">
+        <mark key="[" line="10" column="22" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+        <mark key="^" line="10" column="0" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/listeners/SpannerContextListener.java" timestamp="1564501743905" />
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/logging/dataflow/DataflowDatastoreJsonExport.java" timestamp="1564431741211">
@@ -357,9 +358,9 @@
         <mark key="]" line="85" column="0" />
         <mark key="." line="85" column="0" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/resources/META-INF/persistence.xml" timestamp="1565390114854">
-        <mark key="'" line="22" column="12" />
-        <mark key="[" line="7" column="28" />
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/resources/META-INF/persistence.xml" timestamp="1565393531568">
+        <mark key="'" line="23" column="12" />
+        <mark key="[" line="13" column="101" />
         <mark key="]" line="7" column="28" />
         <mark key="." line="7" column="28" />
         <mark key="^" line="7" column="27" />
@@ -428,8 +429,8 @@
         <mark key="^" line="113" column="68" />
         <mark key="." line="114" column="0" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/profiles/production/config.properties" timestamp="1565386878705">
-        <mark key="[" line="6" column="25" />
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/profiles/production/config.properties" timestamp="1565393559600">
+        <mark key="[" line="9" column="61" />
         <mark key="]" line="6" column="25" />
         <mark key="." line="6" column="25" />
         <mark key="^" line="6" column="24" />
@@ -453,11 +454,14 @@
       <file name="$USER_HOME$/src/MailFoo/containers/src/main/java/com/streak/oneoff/MessageGrantRulesetWriter.java" timestamp="1564183975943">
         <mark key="[" line="11" column="8" />
       </file>
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/target/ServerCommon-1/WEB-INF/classes/META-INF/persistence.xml" timestamp="1565393499902">
+        <mark key="[" line="25" column="85" />
+      </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/sql/OrganizationCopier.java" timestamp="1563983327212">
         <mark key="[" line="73" column="24" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/IntegrationTests/src/test/java/com/rewardly/integrationtests/util/TestBigtableBootstrapGetter.java" timestamp="1564680777948" />
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/rewardly/mailfoo/unittests/SQLRemoteTests.java" timestamp="1565392155879">
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/rewardly/mailfoo/unittests/SQLRemoteTests.java" timestamp="1565393133022">
         <mark key="[" line="22" column="28" />
         <mark key="]" line="27" column="0" />
         <mark key="." line="27" column="0" />
@@ -580,11 +584,11 @@
       <jump line="22" column="12" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/resources/META-INF/persistence.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQlFamIzQ29uZmlndXJhdGlvbiBjb25mID0KCQkJbmV3IEVqYjNDb25maWd1cmF0aW9uKCkuY29uZmlndXJlKCJwZXJzaXN0ZW5jZS11bml0LW5hbWUiKTsK</text>
+      <register name="&quot;" type="4">
+        <text>&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>y</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
         <text>&quot;</text>
