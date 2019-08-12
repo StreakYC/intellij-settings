@@ -29,6 +29,16 @@
         <mark key="]" line="23" column="0" />
         <mark key="." line="23" column="0" />
       </file>
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/sql/SchemaGenerator.java" timestamp="1565632286628">
+        <mark key="[" line="8" column="44" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/DAO.java" timestamp="1565632303899">
+        <mark key="[" line="313" column="60" />
+        <mark key="]" line="313" column="60" />
+        <mark key="." line="313" column="60" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/org/testng/testng/7.0.0-beta5/testng-7.0.0-beta5-sources.jar!/org/testng/annotations/BeforeSuite.java" timestamp="1564612024971" />
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/entities/Box.java" timestamp="1560801589377">
         <mark key="[" line="1" column="0" />
@@ -69,8 +79,8 @@
         <mark key="." line="19" column="4" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/Spanner.java" timestamp="1564175464955" />
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/profiles/testing/config.properties" timestamp="1565393566647">
-        <mark key="[" line="9" column="57" />
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/profiles/testing/config.properties" timestamp="1565632852670">
+        <mark key="[" line="6" column="59" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/Server-ear/ServerGmailSdk-war-1/WEB-INF/web.xml" timestamp="1564761627384">
         <mark key="[" line="12" column="14" />
@@ -413,10 +423,10 @@
         <mark key="]" line="46" column="24" />
         <mark key="." line="46" column="24" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/sql/SharingTokenCopier.java" timestamp="1564500452541">
-        <mark key="[" line="18" column="41" />
-        <mark key="]" line="20" column="0" />
-        <mark key="." line="20" column="0" />
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/sql/SharingTokenCopier.java" timestamp="1565632237118">
+        <mark key="[" line="29" column="57" />
+        <mark key="]" line="29" column="57" />
+        <mark key="." line="29" column="57" />
       </file>
       <file name="/Dummy.txt" timestamp="1565627932717">
         <mark key="[" line="0" column="0" />
@@ -585,10 +595,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>enableAutoDdlInDev</text>
+        <text>getSession</text>
       </register>
       <register name="-" type="4">
-        <text>enableAutoDdlInDev</text>
+        <text>getSession</text>
       </register>
       <register name="/" type="4">
         <text>&quot;</text>
@@ -597,31 +607,31 @@
         <text encoding="base64">CQkJCTxza2lwVGVzdHM+dHJ1ZTwvc2tpcFRlc3RzPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQlTY2hlbWFVcGRhdGUgc2NoZW1hVXBkYXRlID0gbmV3IFNjaGVtYVVwZGF0ZSgpOwoJCUVudW1TZXQ8VGFyZ2V0VHlwZT4gb3V0cHV0U2V0OwoJCWlmIChhcmdzLmxlbmd0aCA9PSAxKSB7CgkJCVN5c3RlbS5vdXQucHJpbnRsbigiT3V0cHV0dGluZyB0byAiICsgYXJnc1swXSk7CgkJCXNjaGVtYVVwZGF0ZS5zZXRPdXRwdXRGaWxlKGFyZ3NbMF0pOwoJCQlvdXRwdXRTZXQgPSBFbnVtU2V0Lm9mKFRhcmdldFR5cGUuU0NSSVBUKTsKCQl9IGVsc2UgewoJCQlvdXRwdXRTZXQgPSBFbnVtU2V0Lm9mKFRhcmdldFR5cGUuREFUQUJBU0UpOwoJCX0KCgkJc2NoZW1hVXBkYXRlCgkJCS5zZXREZWxpbWl0ZXIoIjsiKQoJCQkuZXhlY3V0ZShvdXRwdXRTZXQsIEhpYmVybmF0ZUZhY3RvcnkuSU5TVEFOQ0UuZ2V0U2NoZW1hRGlmZk1ldGFkYXRhKCkpOwoKCQlpZiAoIXNjaGVtYVVwZGF0ZS5nZXRFeGNlcHRpb25zKCkuaXNFbXB0eSgpKSB7CgkJCVN5c3RlbS5vdXQucHJpbnRsbigiRm91bmQgRXJyb3JzIVxuXG4iKTsKCQkJZm9yIChPYmplY3QgZTogc2NoZW1hVXBkYXRlLmdldEV4Y2VwdGlvbnMoKSkgewoJCQkJU3lzdGVtLm91dC5wcmludGxuKGUpOwoJCQl9CgkJfQoJCUhpYmVybmF0ZUZhY3RvcnkuSU5TVEFOQ0Uuc2h1dGRvd24oKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CXB1YmxpYyBzeW5jaHJvbml6ZWQgTWV0YWRhdGEgZ2V0TWV0YWRhdGEoKSB7CgkJaWYgKG1ldGFkYXRhID09IG51bGwpIHsKCQkJaW5pdCh0cnVlKTsKCQl9CgkJcmV0dXJuIG1ldGFkYXRhOwoJfQoKCS8vIE9ubHkgZm9yIHVzZSBieSBTY2hlbWFHZW5lcmF0b3IKCXN5bmNocm9uaXplZCBNZXRhZGF0YSBnZXRTY2hlbWFEaWZmTWV0YWRhdGEoKSB7CgkJaWYgKG1ldGFkYXRhID09IG51bGwpIHsKCQkJaW5pdChmYWxzZSk7CgkJfQoJCXJldHVybiBtZXRhZGF0YTsKCX0KCglwdWJsaWMgc3luY2hyb25pemVkIFNlc3Npb24gZ2V0U2Vzc2lvbigpIHsKCQlpZiAoc2Vzc2lvbkZhY3RvcnkgPT0gbnVsbCkgewoJCQlpbml0KHRydWUpOwoJCX0KCQlyZXR1cm4gc2Vzc2lvbkZhY3RvcnkuZ2V0Q3VycmVudFNlc3Npb24oKTsKCX0KCglwdWJsaWMgc3luY2hyb25pemVkIHZvaWQgc2h1dGRvd24oKSB7CgkJaWYgKHNlc3Npb25GYWN0b3J5ICE9IG51bGwpIHsKCQkJc2Vzc2lvbkZhY3RvcnkuY2xvc2UoKTsKCQl9Cgl9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CXByaXZhdGUgTWV0YWRhdGEgbWV0YWRhdGE7Cglwcml2YXRlIFNlc3Npb25GYWN0b3J5IHNlc3Npbwo=</text>
+        <text encoding="base64">CXB1YmxpYyBzeW5jaHJvbml6ZWQgTWV0YWRhdGEgZ2V0TWV0YWRhdGEoKSB7CgkJaWYgKG1ldGFkYXRhID09IG51bGwpIHsKCQkJaW5pdCh0cnVlKTsKCQl9CgkJcmV0dXJuIG1ldGFkYXRhOwoJfQoKCS8vIE9ubHkgZm9yIHVzZSBieSBTY2hlbWFHZW5lcmF0b3IKCXN5bmNocm9uaXplZCBNZXRhZGF0YSBnZXRTY2hlbWFEaWZmTWV0YWRhdGEoKSB7CgkJaWYgKG1ldGFkYXRhID09IG51bGwpIHsKCQkJaW5pdChmYWxzZSk7CgkJfQoJCXJldHVybiBtZXRhZGF0YTsKCX0KCglwdWJsaWMgc3luY2hyb25pemVkIFNlc3Npb24gZ2V0U2Vzc2lvbigpIHsKCQlpZiAoc2Vzc2lvbkZhY3RvcnkgPT0gbnVsbCkgewoJCQlpbml0KHRydWUpOwoJCX0KCQlyZXR1cm4gc2Vzc2lvbkZhY3RvcnkuZ2V0Q3VycmVudFNlc3Npb24oKTsKCX0KCglwdWJsaWMgc3luY2hyb25pemVkIHZvaWQgc2h1dGRvd24oKSB7CgkJaWYgKHNlc3Npb25GYWN0b3J5ICE9IG51bGwpIHsKCQkJc2Vzc2lvbkZhY3RvcnkuY2xvc2UoKTsKCQl9Cgl9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQlPYmplY3QgZGVsID0gZW50aXR5TWFuYWdlci5nZXREZWxlZ2F0ZSgpOwo=</text>
+        <text encoding="base64">CXByaXZhdGUgTWV0YWRhdGEgbWV0YWRhdGE7Cglwcml2YXRlIFNlc3Npb25GYWN0b3J5IHNlc3Npbwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQltZXRhZGF0YSA9IE1ldGFkYXRhQnVpbGRlcgoJCQkuYnVpbGQoKTsKCQlzZXNzaW9uRmFjdG9yeSA9IG1ldGFkYXRhLmdldFNlc3Npb25GYWN0b3J5QnVpbGRlcigpLmJ1aWxkKCk7Cg==</text>
+        <text encoding="base64">CQlPYmplY3QgZGVsID0gZW50aXR5TWFuYWdlci5nZXREZWxlZ2F0ZSgpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQlFamIzQ29uZmlndXJhdGlvbiBjb25mID0KCQkJbmV3IEVqYjNDb25maWd1cmF0aW9uKCkuY29uZmlndXJlKCJwZXJzaXN0ZW5jZS11bml0LW5hbWUiKTsK</text>
+        <text encoding="base64">CQltZXRhZGF0YSA9IE1ldGFkYXRhQnVpbGRlcgoJCQkuYnVpbGQoKTsKCQlzZXNzaW9uRmFjdG9yeSA9IG1ldGFkYXRhLmdldFNlc3Npb25GYWN0b3J5QnVpbGRlcigpLmJ1aWxkKCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5oaWJlcm5hdGUuZWpiLkVqYjNDb25maWd1cmF0aW9uOwo=</text>
+        <text encoding="base64">CQlFamIzQ29uZmlndXJhdGlvbiBjb25mID0KCQkJbmV3IEVqYjNDb25maWd1cmF0aW9uKCkuY29uZmlndXJlKCJwZXJzaXN0ZW5jZS11bml0LW5hbWUiKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQlzZXNzaW9uRmFjdG9yeSA9IG1ldGFkYXRhLmdldFNlc3Npb25GYWN0b3J5QnVpbGRlcigpLmJ1aWxkKCk7Cg==</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5oaWJlcm5hdGUuZWpiLkVqYjNDb25maWd1cmF0aW9uOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQltZXRhZGF0YSA9IGVudGl0eU1hbmFnZXIuZ2V0UHJvcGVydGllcygpOwo=</text>
+        <text encoding="base64">CQlzZXNzaW9uRmFjdG9yeSA9IG1ldGFkYXRhLmdldFNlc3Npb25GYWN0b3J5QnVpbGRlcigpLmJ1aWxkKCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
