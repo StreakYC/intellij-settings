@@ -25,10 +25,10 @@
       <file name="/a.dummy" timestamp="1565894669558">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/tracking/TrackedViewMemcacheHandler.java" timestamp="1565894981268">
-        <mark key="[" line="31" column="15" />
-        <mark key="]" line="31" column="15" />
-        <mark key="." line="31" column="15" />
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/tracking/TrackedViewMemcacheHandler.java" timestamp="1565903734146">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="37" column="15" />
+        <mark key="." line="37" column="15" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/integrationtests/util/DatastoreFixtureLoader.java" timestamp="1564773454207">
         <mark key="[" line="91" column="33" />
@@ -252,10 +252,10 @@
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/caching/WritethroughBigtableCache.java" timestamp="1565212315856">
         <mark key="[" line="242" column="0" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/tasks/UpdateCaseWithComponentsTask.java" timestamp="1565902532511">
-        <mark key="[" line="92" column="12" />
-        <mark key="]" line="92" column="0" />
-        <mark key="." line="92" column="0" />
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/tasks/UpdateCaseWithComponentsTask.java" timestamp="1565903437448">
+        <mark key="[" line="109" column="16" />
+        <mark key="]" line="109" column="16" />
+        <mark key="." line="109" column="16" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/oauth2/FirebaseCredentialHelper.java" timestamp="1565902041046">
         <mark key="'" line="23" column="136" />
@@ -516,11 +516,11 @@
       <jump line="23" column="136" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/oauth2/FirebaseCredentialHelper.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQlTdHJpbmcgcmVzdWx0ID0gKChSZWRpc01lbWNhY2hlU2VydmljZSkgKE9iamVjdGlmeVNlcnZpY2Uub2Z5KCkuZmFjdG9yeSgpLm1lbWNhY2hlKCkpKS5nZXRSZXNvdXJjZSgKCQkJaiAtPiBqLnNldChyZWRpc0xvY2tLZXksICJ0IiwgIk5YIiwgIkVYIiwgMzApKTsK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">KChSZWRpc01lbWNhY2hlU2VydmljZSkgKE9iamVjdGlmeVNlcnZpY2Uub2Z5KCkuZmFjdG9yeSgpLm1lbWNhY2hlKCkpKS5nZXRSZXNvdXJjZShqIC0+</text>
       </register>
       <register name="-" type="4">
-        <text>((RedisMemcacheService) (ObjectifyService.ofy().factory().memcache())).getPool()</text>
+        <text encoding="base64">KChSZWRpc01lbWNhY2hlU2VydmljZSkgKE9iamVjdGlmeVNlcnZpY2Uub2Z5KCkuZmFjdG9yeSgpLm1lbWNhY2hlKCkpKS5nZXRSZXNvdXJjZShqIC0+</text>
       </register>
       <register name="/" type="4">
         <text>&quot;</text>
