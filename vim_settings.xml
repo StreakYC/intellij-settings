@@ -91,7 +91,7 @@
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/rewardly/mailfoo/unittests/CaseFlatBufferTypeAdapterTest.java" timestamp="1563994914714">
         <mark key="[" line="47" column="58" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataupdaters/creators/MessageGrantCreator.java" timestamp="1567623224384">
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataupdaters/creators/MessageGrantCreator.java" timestamp="1568077508433">
         <mark key="[" line="60" column="68" />
         <mark key="]" line="60" column="68" />
         <mark key="^" line="60" column="65" />
@@ -303,6 +303,12 @@
       </file>
       <file name="$USER_HOME$/src/MailFoo/containers/cloudbuild.yaml" timestamp="1565128489233">
         <mark key="[" line="2" column="9" />
+      </file>
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataupdaters/creators/MessageGrantRulesetCreator.java" timestamp="1568077546094">
+        <mark key="[" line="73" column="36" />
+        <mark key="]" line="73" column="39" />
+        <mark key="^" line="73" column="39" />
+        <mark key="." line="73" column="39" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/TeamMemberPK.java" timestamp="1562974104558">
         <mark key="[" line="5" column="0" />
@@ -542,10 +548,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>s</text>
+        <text>messageGrantProvidedByUser</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>messageGrantProvidedByUser</text>
       </register>
       <register name="/" type="4">
         <text>&quot;</text>
