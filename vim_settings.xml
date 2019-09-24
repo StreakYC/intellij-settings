@@ -135,6 +135,12 @@
         <mark key="]" line="24" column="22" />
         <mark key="." line="24" column="22" />
       </file>
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/profiles/development/config.properties" timestamp="1569296459848">
+        <mark key="[" line="10" column="61" />
+        <mark key="]" line="10" column="61" />
+        <mark key="^" line="6" column="15" />
+        <mark key="." line="10" column="61" />
+      </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/logging/dataflow/DataflowDatastoreJsonExport.java" timestamp="1568151574253">
         <mark key="[" line="64" column="29" />
         <mark key="]" line="66" column="0" />
@@ -377,6 +383,7 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/profiles/production/config.properties" timestamp="1569296296752" />
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/logging/dataflow/oneoffs/BackfillDatastoreIntoVitess.java" timestamp="1568654290923">
         <mark key="[" line="45" column="42" />
         <mark key="]" line="45" column="42" />
@@ -534,10 +541,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>mysqlUnicodeSupportIs\</text>
+        <text>\</text>
       </register>
       <register name="-" type="4">
-        <text>mysqlUnicodeSupportIs\</text>
+        <text>\</text>
       </register>
       <register name="/" type="4">
         <text>&quot;</text>
