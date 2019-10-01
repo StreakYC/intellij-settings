@@ -167,6 +167,7 @@
         <mark key="]" line="90" column="15" />
         <mark key="." line="90" column="15" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/apache/beam/beam-sdks-java-core/2.13.0/beam-sdks-java-core-2.13.0-sources.jar!/org/apache/beam/sdk/schemas/AvroRecordSchema.java" timestamp="1569944820616" />
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/rewardly/mailfoo/unittests/CaseSerializationTest.java" timestamp="1563320122112">
         <mark key="[" line="98" column="43" />
         <mark key="]" line="98" column="43" />
@@ -325,7 +326,7 @@
         <mark key="]" line="46" column="24" />
         <mark key="." line="46" column="24" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/apache/beam/beam-sdks-java-core/2.13.0/beam-sdks-java-core-2.13.0-sources.jar!/org/apache/beam/sdk/values/PCollection.java" timestamp="1569883382235" />
+      <file name="$MAVEN_REPOSITORY$/org/apache/beam/beam-sdks-java-core/2.13.0/beam-sdks-java-core-2.13.0-sources.jar!/org/apache/beam/sdk/values/PCollection.java" timestamp="1569945170170" />
       <file name="$USER_HOME$/src/MailFoo/containers/src/main/java/com/streak/emailmanager/updatesync/UpdateSyncMain.kt" timestamp="1569292321467">
         <mark key="[" line="89" column="0" />
       </file>
@@ -382,13 +383,12 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/logging/dataflow/oneoffs/BackfillGmailThreadMessageGrants.java" timestamp="1569943446091">
-        <mark key="[" line="51" column="85" />
-        <mark key="]" line="51" column="101" />
-        <mark key="." line="51" column="101" />
-        <mark key="^" line="51" column="101" />
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/logging/dataflow/oneoffs/BackfillGmailThreadMessageGrants.java" timestamp="1569944934148">
+        <mark key="[" line="61" column="0" />
+        <mark key="]" line="61" column="0" />
+        <mark key="." line="61" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1569877084847">
+      <file name="/fragment.java" timestamp="1569945158144">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -495,11 +495,11 @@
       <jump line="649" column="53" filename="$MAVEN_REPOSITORY$/org/apache/beam/beam-sdks-java-core/2.13.0/beam-sdks-java-core-2.13.0-sources.jar!/org/apache/beam/sdk/schemas/transforms/Group.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>AvroAutoGenClass</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>AvroAutoGenClass</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>&quot;</text>
@@ -508,31 +508,31 @@
         <text encoding="base64">CXByaXZhdGUgc3RhdGljIGZpbmFsIGludCBOVU1fU0hBUkRTID0gMTY7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJLnNldENvZGVyKCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJCg==</text>
+        <text encoding="base64">CQlwaXBlbGluZQoJCQkuZ2V0U2NoZW1hUmVnaXN0cnkoKQoJCQkucmVnaXN0ZXJTY2hlbWFQcm92aWRlcihHbWFpbFRocmVhZEZpZWxkcy5jbGFzcywgbmV3IEF2cm9SZWNvcmRTY2hlbWEoKSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJLnNldENvZGVyKEF2cm9Db2RlcikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJSW1tdXRhYmxlTWFwPFN0cmluZywgU3RyaW5nPiBkYXRhID0gSW1tdXRhYmxlTWFwLm9mKCJvd25lciIsIGdtYWlsVGhyZWFkLmdldENyZWF0b3JLZXkoKS50b0xlZ2FjeVVybFNhZmUoKSwKCQkJCSJ0aHJlYWRJZCIsIGdtYWlsVGhyZWFkLmdldEVuY29kZWRUaHJlYWRJZCgpLAoJCQkJInRhcmdldFdvcmtmbG93S2V5IiwgZ21haWxUaHJlYWQuZ2V0V29ya2Zsb3dLZXkoKS50b0xlZ2FjeVVybFNhZmUoKSk7Cg==</text>
+        <text encoding="base64">CQlwdWJsaWMgc3RhdGljIFNjaGVtYVByb3ZpZGVyIGdldENsYXNzU2NoZW1hKCkgewoJCQlTY2hlbWFQcm92aWRlcgoJCX0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJCW91dHB1dCsrOwo=</text>
+        <text encoding="base64">CQkJcmV0dXJuIFNjaGVtYS5vZigKCQkJKTsK</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">CUBPdmVycmlkZQoJCXB1YmxpYyBQQ29sbGVjdGlvbjxJbnRlZ2VyPiBleHBhbmQoUENvbGxlY3Rpb248S1Y8Um93LCBJdGVyYWJsZTxHbWFpbFRocmVhZD4+PiBpbnB1dCkgewoKCQkJCgkJfQ==</text>
+      <register name="6" type="2">
+        <text encoding="base64">CQkJCUdtYWlsVGhyZWFkRmllbGRzLmNsYXNzLmdldEZpZWxkcygpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJLnNldENvZGVyKCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJZm9yIChHbWFpbFRocmVhZCBndDogaW5wdXQuKSB7CgkJCQkKCQkJfQo=</text>
+        <text encoding="base64">CQkJCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJLnNldENvZGVyKEF2cm9Db2RlcikK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
