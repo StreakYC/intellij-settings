@@ -121,6 +121,12 @@
       <file name="$USER_HOME$/src/MailFoo/containers/src/main/java/com/streak/emailmanager/updatesync/UpdateSyncMain.kt" timestamp="1569292321467">
         <mark key="[" line="89" column="0" />
       </file>
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/profiles/production/config.properties" timestamp="1570219998390">
+        <mark key="[" line="8" column="30" />
+        <mark key="]" line="7" column="33" />
+        <mark key="." line="7" column="33" />
+        <mark key="^" line="7" column="33" />
+      </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/logging/dataflow/oneoffs/BackfillDatastoreIntoVitess.java" timestamp="1570146382603">
         <mark key="[" line="163" column="63" />
         <mark key="]" line="165" column="0" />
@@ -260,11 +266,11 @@
       <jump line="649" column="53" filename="$MAVEN_REPOSITORY$/org/apache/beam/beam-sdks-java-core/2.13.0/beam-sdks-java-core-2.13.0-sources.jar!/org/apache/beam/sdk/schemas/transforms/Group.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQkJCQkJCVVzZXIgbW9kZWwgPSBPZnlTZXJ2aWNlLm9meSgpLmxvYWQoKS5mcm9tRW50aXR5KGNsb3VkRW50aXR5KTsK</text>
+      <register name="&quot;" type="4">
+        <text>streak</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">djFQaUVudGl0eSA=</text>
+        <text>streak</text>
       </register>
       <register name="/" type="4">
         <text>&quot;</text>
