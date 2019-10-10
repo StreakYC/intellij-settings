@@ -33,9 +33,6 @@
         <mark key="[" line="33" column="58" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/DAO.java" timestamp="1570645100874" />
-      <file name="$MAVEN_REPOSITORY$/org/apache/beam/beam-sdks-java-core/2.13.0/beam-sdks-java-core-2.13.0-sources.jar!/org/apache/beam/sdk/schemas/transforms/Group.java" timestamp="1569871489504">
-        <mark key="'" line="649" column="53" />
-      </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/entities/Box.java" timestamp="1560801589377">
         <mark key="[" line="1" column="0" />
       </file>
@@ -73,9 +70,6 @@
         <mark key="]" line="20" column="0" />
         <mark key="^" line="16" column="0" />
         <mark key="." line="20" column="0" />
-      </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/User.java" timestamp="1569593761074">
-        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/GmailThread.java" timestamp="1569963060452">
         <mark key="[" line="130" column="0" />
@@ -139,6 +133,11 @@
         <mark key="]" line="6" column="75" />
         <mark key="." line="6" column="75" />
         <mark key="^" line="6" column="77" />
+      </file>
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/logging/dataflow/oneoffs/BackfillDatastoreIntoVitess.java" timestamp="1570729273866">
+        <mark key="[" line="123" column="0" />
+        <mark key="]" line="123" column="0" />
+        <mark key="." line="123" column="0" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/entities/PipelineMember.java" timestamp="1560801593305">
         <mark key="[" line="1" column="0" />
@@ -279,11 +278,11 @@
       <jump line="649" column="53" filename="$MAVEN_REPOSITORY$/org/apache/beam/beam-sdks-java-core/2.13.0/beam-sdks-java-core-2.13.0-sources.jar!/org/apache/beam/sdk/schemas/transforms/Group.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>web-api-new-vpc-deployment-canary-69f8d79976-lmvbx</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>web-api-new-vpc-deployment-canary-69f8d79976-lmvbx</text>
+        <text>HibernateFactory.INSTANCE.createEntityManager();</text>
       </register>
       <register name="/" type="4">
         <text>&quot;</text>
@@ -292,35 +291,31 @@
         <text encoding="base64">CQkJaWYgKHBhcmFtcy5jb250YWluc0tleSgicGF0aCIpKSB7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJCXJ1bGVzZXQgPSBEQU8uZ2V0TWVzc2FnZUdyYW50UnVsZXNldEZvclVzZXIodSwgYW0pOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text>if (params.containsKey(&quot;path&quot;)) {
-			
-			} else {
-				
-			}</text>
+      <register name="2" type="2">
+        <text encoding="base64">CXByaXZhdGUgc3RhdGljIGNsYXNzIEFzc2lnbktleXMgZXh0ZW5kcyBEb0ZuPEVudGl0eSwgS1Y8SW50ZWdlciwgRW50aXR5Pj4gewoKCQlAU2V0dXAKCQlwdWJsaWMgdm9pZCBzZXR1cCgpIHsKCQl9CgoJCUBQcm9jZXNzRWxlbWVudAoJCXB1YmxpYyB2b2lkIHByb2Nlc3NFbGVtZW50KFByb2Nlc3NDb250ZXh0IGMpIHsKCQkJT2JqZWN0IGVsZW1lbnQgPSBjLmVsZW1lbnQoKTsKCQkJS1Yga3YgPSBLVi5vZihlbGVtZW50Lmhhc2hDb2RlKCkgJSBOVU1fU0hBUkRTLCBlbGVtZW50KTsKCQkJYy5vdXRwdXQoa3YpOwoJCX0KCX0K</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQlBc3NlZGQxcnQuYXNzZXJ0RXF1YWxzKG1lc3NhZ2VHcmFudHMuZ2V0KDApLCBnMSk7Cg==</text>
+        <text encoding="base64">CQlwaXBlbGluZS5hcHBseSgiUmVhZCIsIHBpUmVhZCkKCQkJLmFwcGx5KFBhckRvLm9mKG5ldyBBc3NpZ25LZXlzKCkpKQoJCQkuYXBwbHkoV2luZG93LmludG8oRml4ZWRXaW5kb3dzLm9mKER1cmF0aW9uLnN0YW5kYXJkU2Vjb25kcyg1KSkpKQoJCQkuYXBwbHkoR3JvdXBJbnRvQmF0Y2hlcy48SW50ZWdlciwgRW50aXR5Pm9mU2l6ZShCQVRDSF9TSVpFKSkKCQkJLmFwcGx5KFBhckRvLm9mKG5ldyBXcml0ZVRvVml0ZXNzKCkpKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkpOwo=</text>
+        <text encoding="base64">CQkJOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAK</text>
+        <text encoding="base64">PT09PT09PQoJCUBQcm9jZXNzRWxlbWVudAoJCXB1YmxpYyB2b2lkIHByb2Nlc3NFbGVtZW50KFByb2Nlc3NDb250ZXh0IGMpIHRocm93cyBJT0V4Y2VwdGlvbiwgSW50ZXJydXB0ZWRFeGNlcHRpb24gewoJCQlJdGVyYWJsZTxFbnRpdHk+IGVudGl0aWVzID0gYy5lbGVtZW50KCkuZ2V0VmFsdWUoKTsKPj4+Pj4+PiBhZGQxNzllMjU3ZDJmYWEzMzk3ZjE1OWIxODdkNDhmMzk5YjE5OTEyCg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">IGFubm90YXRpb25zOgogICAgICAgIHNlcnZpY2UtZGlzY292ZXJ5LmRhdGFkb2docS5jb20vd2ViLWFwaS1uZXctdnBjLmNoZWNrX25hbWVzOiAnWyJqbXgiXScKICAgICAgICBzZXJ2aWNlLWRpc2NvdmVyeS5kYXRhZG9naHEuY29tL3dlYi1hcGktbmV3LXZwYy5pbml0X2NvbmZpZ3M6ICdbe31dJwogICAgICAgIHNlcnZpY2UtZGlzY292ZXJ5LmRhdGFkb2docS5jb20vd2ViLWFwaS1uZXctdnBjLmluc3RhbmNlczogPgogICAgICAgICAgW3sKICAgICAgICAgICAgImhvc3QiOiAiJSVob3N0JSUiLAogICAgICAgICAgICAiam14X3VybCI6ICJzZXJ2aWNlOmpteDpybWk6Ly8vam5kaS9ybWk6Ly8lJWhvc3QlJTo0NTY3L2pteHJtaSIsCiAgICAgICAgICAgICJ0YWdzIjogeyJrdWJlcm5ldGVzX3BvZF9uYW1lIjoiJSVob3N0JSUifSwKICAgICAgICAgICAgImNvbmYiOiBbewogICAgICAgICAgICAgICJpbmNsdWRlIjogewogICAgICAgICAgICAgICAgImRvbWFpbiI6ICJtZXRyaWNzIiwKICAgICAgICAgICAgICAgICJhdHRyaWJ1dGUiOiBbCiAgICAgICAgICAgICAgICAgICI5OXRoUGVyY2VudGlsZSIsCiAgICAgICAgICAgICAgICAgICJDb3VudCIsCiAgICAgICAgICAgICAgICAgICJNYXgiLAogICAgICAgICAgICAgICAgICAiTWVhbiIsCiAgICAgICAgICAgICAgICAgICJPbmVNaW51dGVSYXRlIiwKICAgICAgICAgICAgICAgICAgIlJhdGVVbml0IiwKICAgICAgICAgICAgICAgICAgIlZhbHVlIgogICAgICAgICAgICAgICAgXQogICAgICAgICAgICAgIH0KICAgICAgICAgICAgfSx7CiAgICAgICAgICAgICAgImluY2x1ZGUiOiB7CiAgICAgICAgICAgICAgICAiZG9tYWluIjogIm9yZy5lY2xpcHNlLmpldHR5LnNlcnZlciIsCiAgICAgICAgICAgICAgICAiYXR0cmlidXRlIjogWwogICAgICAgICAgICAgICAgICAiYWNjZXB0UXVldWVTaXplIgogICAgICAgICAgICAgICAgXQogICAgICAgICAgICAgIH0KICAgICAgICAgICAgfV0KICAgICAgICAgIH1d</text>
+      <register name="7" type="2">
+        <text encoding="base64">PT09PT09PQo=</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">dGVtcGxhdGU6CiAgICBtZXRhZGF0YToKICAgICAgbGFiZWxzOgogICAgICAgIGFwcDogd2ViLWFwaS1uZXctdnBjCiAgICAgIGFubm90YXRpb25zOgogICAgICAgIHNlcnZpY2UtZGlzY292ZXJ5LmRhdGFkb2docS5jb20vd2ViLWFwaS1uZXctdnBjLmNoZWNrX25hbWVzOiAnWyJqbXgiXScKICAgICAgICBzZXJ2aWNlLWRpc2NvdmVyeS5kYXRhZG9naHEuY29tL3dlYi1hcGktbmV3LXZwYy5pbml0X2NvbmZpZ3M6ICdbe31dJwogICAgICAgIHNlcnZpY2UtZGlzY292ZXJ5LmRhdGFkb2docS5jb20vd2ViLWFwaS1uZXctdnBjLmluc3RhbmNlczogPgogICAgICAgICAgW3sKICAgICAgICAgICAgImhvc3QiOiAiJSVob3N0JSUiLAogICAgICAgICAgICAiam14X3VybCI6ICJzZXJ2aWNlOmpteDpybWk6Ly8vam5kaS9ybWk6Ly8lJWhvc3QlJTo0NTY3L2pteHJtaSIsCiAgICAgICAgICAgICJ0YWdzIjogeyJrdWJlcm5ldGVzX3BvZF9uYW1lIjoiJSVob3N0JSUifSwKICAgICAgICAgICAgImNvbmYiOiBbewogICAgICAgICAgICAgICJpbmNsdWRlIjogewogICAgICAgICAgICAgICAgImRvbWFpbiI6ICJtZXRyaWNzIiwKICAgICAgICAgICAgICAgICJhdHRyaWJ1dGUiOiBbCiAgICAgICAgICAgICAgICAgICI5OXRoUGVyY2VudGlsZSIsCiAgICAgICAgICAgICAgICAgICJDb3VudCIsCiAgICAgICAgICAgICAgICAgICJNYXgiLAogICAgICAgICAgICAgICAgICAiTWVhbiIsCiAgICAgICAgICAgICAgICAgICJPbmVNaW51dGVSYXRlIiwKICAgICAgICAgICAgICAgICAgIlJhdGVVbml0IiwKICAgICAgICAgICAgICAgICAgIlZhbHVlIgogICAgICAgICAgICAgICAgXQogICAgICAgICAgICAgIH0KICAgICAgICAgICAgfSx7CiAgICAgICAgICAgICAgImluY2x1ZGUiOiB7CiAgICAgICAgICAgICAgICAiZG9tYWluIjogIm9yZy5lY2xpcHNlLmpldHR5LnNlcnZlciIsCiAgICAgICAgICAgICAgICAiYXR0cmlidXRlIjogWwogICAgICAgICAgICAgICAgICAiYWNjZXB0UXVldWVTaXplIgogICAgICAgICAgICAgICAgXQogICAgICAgICAgICAgIH0KICAgICAgICAgICAgfV0KICAgICAgICAgIH1d</text>
+      <register name="8" type="2">
+        <text encoding="base64">Pj4+Pj4+PiBhZGQxNzllMjU3ZDJmYWEzMzk3ZjE1OWIxODdkNDhmMzk5YjE5OTEyCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJCQlFcnJvckFnZ3JlZ2F0b3IucmVjb3JkQ3VzdG9tRXJyb3IoZW50aXR5TWFuYWdlci5nZXRQcm9wZXJ0aWVzKCkpOwo=</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
