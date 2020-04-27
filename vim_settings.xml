@@ -76,12 +76,12 @@
         <mark key="^" line="74" column="33" />
         <mark key="." line="74" column="33" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/DAO.java" timestamp="1588015122335">
-        <mark key="'" line="3268" column="34" />
-        <mark key="[" line="3278" column="16" />
-        <mark key="]" line="3278" column="77" />
-        <mark key="." line="3278" column="76" />
-        <mark key="^" line="3278" column="77" />
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/DAO.java" timestamp="1588017162800">
+        <mark key="'" line="3246" column="0" />
+        <mark key="[" line="3308" column="5" />
+        <mark key="]" line="3345" column="1" />
+        <mark key="." line="3310" column="0" />
+        <mark key="^" line="3245" column="4" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/caching/WritethroughBigtableCache.java" timestamp="1570745201363">
         <mark key="[" line="242" column="0" />
@@ -126,7 +126,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/spanner/Message.java" />
       <jump line="42" column="0" filename="$USER_HOME$/src/MailFoo/DataflowLogsExport/src/main/java/com/streak/logging/dataflow/BigtableDateFixer.java" />
       <jump line="61" column="8" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/spanner/MessageMailbox.java" />
       <jump line="64" column="8" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/spanner/MessageMailbox.java" />
@@ -226,12 +225,13 @@
       <jump line="0" column="0" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/User.java" />
       <jump line="649" column="53" filename="$MAVEN_REPOSITORY$/org/apache/beam/beam-sdks-java-core/2.13.0/beam-sdks-java-core-2.13.0-sources.jar!/org/apache/beam/sdk/schemas/transforms/Group.java" />
       <jump line="3264" column="34" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/DAO.java" />
+      <jump line="3246" column="0" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/DAO.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>!</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CS8vIFRoZSBkZWZpbml0aW9uIG9mIHRoaXMgaXMgc3RpbGwgaW4gZmx1eCwgYW5kIGl0IGlzIHRpZWQgdXAgaW4gdGhlIE1hZ2ljIENvbHVtbiBwcm9kdWN0IGRlY2lzaW9ucy4KCS8vIGh0dHBzOi8vZG9jcy5nb29nbGUuY29tL2RvY3VtZW50L2QvMUZoXzJZY2pqZzB6TFZ2czM2Zm4xdEZsRVJHb1lCWnhoWHdYcFRBc3hZWDQvZWRpdAoJLy8gSXQgaXMgYWxzbyBwb3NzaWJsZSB0aGF0IHRoZSBxdWVyeSB3aWxsIGJlIGRvbmUgb24gc29tZXRoaW5nIGVsc2UsIGxpa2UgYSB0ZWFtIGtleS4KCS8vIEFzIHdyaXR0ZW4gbm93LCB0aGlzIHdpbGwgYmUgdW5hY2NlcHRhYmx5IHNsb3cuICBEbyBub3Qgc2hpcCB0byBjdXN0b21lcnMgd2l0aCB0aGlzIG9uCglwdWJsaWMgc3RhdGljIFNldDxLZXk8V29ya2Zsb3c+PiBnZXRQb3NzaWJsZUF1dG9ib3hpbmdXb3JrZmxvd3MoVXNlciB1c2VyKSB7CgkJcmV0dXJuIGdldEFjY2Vzc2libGVXb3JrZmxvd3NGb3JVc2VyKHVzZXIsIG5ldyBVc2VyQWN0aW9uQWNjZXNzTWFuYWdlbWVudFJlY29yZGVySW1wbCgpKQoJCQkuc3RyZWFtKCkubWFwKFdvcmtmbG93OjpnZXRXb3JrZmxvd0tleSkuY29sbGVjdChDb2xsZWN0b3JzLnRvU2V0KCkpOwoJfQoKCS8vIFRoZSBkZWZpbml0aW9uIG9mICB0aGlzIGlzIGFsc28gdXAgaW4gdGhlIGFpci4gIEZvciBub3csIEknbSBnb2luZyB0byB0cnkgIHRvIG1pcnJvciB0aGUgZXhpc3RpbmcKCS8vIHN0dWZmIHRoYXQgbG9va3MgYXQgYWxsIHRlYW0gbWVtYmVycy4KCXB1YmxpYyBzdGF0aWMgTWFwPEtleTxXb3JrZmxvdz4sIFVzZXJzPiBnZXRVc2Vyc0ZvcldvcmtmbG93cyhTZXQ8S2V5PFdvcmtmbG93Pj4gd29ya2Zsb3dLZXlzKSB7CgkJLy8gVE9ETyAtIHdlIHByb2JhYmx5IG5lZWQgdG8gbWFrZSB0aGlzIGVhc3kgdG8gZ2VuZXJhdGUuICBQZXJoYXBzIGp1c3Qgc3RvcmluZyBpdCBvbiB0aGUgZW50aXR5LCBvciBpbiBhbm90aGVyIGVudGl0eQoJCU1hcDxLZXk8V29ya2Zsb3c+LCBXb3JrZmxvdz4gd29ya2Zsb3dNYXAgPSBEQU8uZ2V0RW50aXRpZXMod29ya2Zsb3dLZXlzKTsKCQlTZXQ8S2V5PFRlYW0+PiB0ZWFtS2V5cyA9IHdvcmtmbG93TWFwLnZhbHVlcygpLnN0cmVhbSgpLm1hcChXb3JrZmxvdzo6Z2V0VGVhbUtleSkuZmlsdGVyKE9iamVjdHM6OmlzTnVsbCkuY29sbGVjdChDb2xsZWN0b3JzLnRvU2V0KCkpOwoJCWlmICh0ZWFtS2V5cy5pc0VtcHR5KCkpIHsKCQkJcmV0dXJuIG5ldyBIYXNoTWFwPD4oKTsKCQl9CgkJTWFwPEtleTxUZWFtPiwgVGVhbT4gdGVhbU1hcCA9IERBTy5nZXRFbnRpdGllcyh0ZWFtS2V5cyk7CgkJTWFwPEtleTxUZWFtPiwgVXNlcnM+IHRlYW1Vc2VyTWFwID0gbmV3IEhhc2hNYXA8PigpOwoJCWZvciAoVGVhbSB0ZWFtIDogdGVhbU1hcC52YWx1ZXMoKSkgewoJCQl0ZWFtVXNlck1hcC5wdXQodGVhbS5nZXRUZWFtS2V5KCksIG5ldyBVc2Vycyh0ZWFtLmdldFVzZXJLZXlzRm9yVXNpbmdNZW1iZXJzKCkpKTsKCQl9CgkJTWFwPEtleTxXb3JrZmxvdz4sIFVzZXJzPiB3b3JrZmxvd1VzZXJNYXAgPSBuZXcgSGFzaE1hcDw+KCk7CgkJZm9yIChLZXk8V29ya2Zsb3c+IHdvcmtmbG93S2V5IDogd29ya2Zsb3dLZXlzKSB7CgkJCWlmICh3b3JrZmxvd01hcC5jb250YWluc0tleSh3b3JrZmxvd0tleSkgJiYgdGVhbVVzZXJNYXAuY29udGFpbnNLZXkod29ya2Zsb3dNYXAuZ2V0KHdvcmtmbG93S2V5KS5nZXRUZWFtS2V5KCkpKSB7CgkJCQl3b3JrZmxvd1VzZXJNYXAucHV0KHdvcmtmbG93S2V5LCB0ZWFtVXNlck1hcC5nZXQod29ya2Zsb3dNYXAuZ2V0KHdvcmtmbG93S2V5KS5nZXRUZWFtS2V5KCkpKTsKCQkJfQoJCQllbHNlIHsKCQkJCXdvcmtmbG93VXNlck1hcC5wdXQod29ya2Zsb3dLZXksIG5ldyBVc2VycyhuZXcgQXJyYXlMaXN0PFVzZXI+KCkpKTsKCQkJfQoJCX0KCQlyZXR1cm4gd29ya2Zsb3dVc2VyTWFwOwoJfQoJCg==</text>
       </register>
       <register name="-" type="4">
         <text>!</text>
@@ -243,28 +243,28 @@
         <text encoding="base64">CQkJaWYgKHBhcmFtcy5jb250YWluc0tleSgicGF0aCIpKSB7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CS8vIFRoZSBkZWZpbml0aW9uIG9mIHRoaXMgaXMgc3RpbGwgaW4gZmx1eCwgYW5kIGl0IGlzIHRpZWQgdXAgaW4gdGhlIE1hZ2ljIENvbHVtbiBwcm9kdWN0IGRlY2lzaW9ucy4KCS8vIGh0dHBzOi8vZG9jcy5nb29nbGUuY29tL2RvY3VtZW50L2QvMUZoXzJZY2pqZzB6TFZ2czM2Zm4xdEZsRVJHb1lCWnhoWHdYcFRBc3hZWDQvZWRpdAoJLy8gSXQgaXMgYWxzbyBwb3NzaWJsZSB0aGF0IHRoZSBxdWVyeSB3aWxsIGJlIGRvbmUgb24gc29tZXRoaW5nIGVsc2UsIGxpa2UgYSB0ZWFtIGtleS4KCS8vIEFzIHdyaXR0ZW4gbm93LCB0aGlzIHdpbGwgYmUgdW5hY2NlcHRhYmx5IHNsb3cuICBEbyBub3Qgc2hpcCB0byBjdXN0b21lcnMgd2l0aCB0aGlzIG9uCglwdWJsaWMgc3RhdGljIFNldDxLZXk8V29ya2Zsb3c+PiBnZXRQb3NzaWJsZUF1dG9ib3hpbmdXb3JrZmxvd3MoVXNlciB1c2VyKSB7CgkJcmV0dXJuIGdldEFjY2Vzc2libGVXb3JrZmxvd3NGb3JVc2VyKHVzZXIsIG5ldyBVc2VyQWN0aW9uQWNjZXNzTWFuYWdlbWVudFJlY29yZGVySW1wbCgpKQoJCQkuc3RyZWFtKCkubWFwKFdvcmtmbG93OjpnZXRXb3JrZmxvd0tleSkuY29sbGVjdChDb2xsZWN0b3JzLnRvU2V0KCkpOwoJfQoKCS8vIFRoZSBkZWZpbml0aW9uIG9mICB0aGlzIGlzIGFsc28gdXAgaW4gdGhlIGFpci4gIEZvciBub3csIEknbSBnb2luZyB0byB0cnkgIHRvIG1pcnJvciB0aGUgZXhpc3RpbmcKCS8vIHN0dWZmIHRoYXQgbG9va3MgYXQgYWxsIHRlYW0gbWVtYmVycy4KCXB1YmxpYyBzdGF0aWMgTWFwPEtleTxXb3JrZmxvdz4sIFVzZXJzPiBnZXRVc2Vyc0ZvcldvcmtmbG93cyhTZXQ8S2V5PFdvcmtmbG93Pj4gd29ya2Zsb3dLZXlzKSB7CgkJLy8gVE9ETyAtIHdlIHByb2JhYmx5IG5lZWQgdG8gbWFrZSB0aGlzIGVhc3kgdG8gZ2VuZXJhdGUuICBQZXJoYXBzIGp1c3Qgc3RvcmluZyBpdCBvbiB0aGUgZW50aXR5LCBvciBpbiBhbm90aGVyIGVudGl0eQoJCU1hcDxLZXk8V29ya2Zsb3c+LCBXb3JrZmxvdz4gd29ya2Zsb3dNYXAgPSBEQU8uZ2V0RW50aXRpZXMod29ya2Zsb3dLZXlzKTsKCQlTZXQ8S2V5PFRlYW0+PiB0ZWFtS2V5cyA9IHdvcmtmbG93TWFwLnZhbHVlcygpLnN0cmVhbSgpLm1hcChXb3JrZmxvdzo6Z2V0VGVhbUtleSkuZmlsdGVyKE9iamVjdHM6OmlzTnVsbCkuY29sbGVjdChDb2xsZWN0b3JzLnRvU2V0KCkpOwoJCWlmICh0ZWFtS2V5cy5pc0VtcHR5KCkpIHsKCQkJcmV0dXJuIG5ldyBIYXNoTWFwPD4oKTsKCQl9CgkJTWFwPEtleTxUZWFtPiwgVGVhbT4gdGVhbU1hcCA9IERBTy5nZXRFbnRpdGllcyh0ZWFtS2V5cyk7CgkJTWFwPEtleTxUZWFtPiwgVXNlcnM+IHRlYW1Vc2VyTWFwID0gbmV3IEhhc2hNYXA8PigpOwoJCWZvciAoVGVhbSB0ZWFtIDogdGVhbU1hcC52YWx1ZXMoKSkgewoJCQl0ZWFtVXNlck1hcC5wdXQodGVhbS5nZXRUZWFtS2V5KCksIG5ldyBVc2Vycyh0ZWFtLmdldFVzZXJLZXlzRm9yVXNpbmdNZW1iZXJzKCkpKTsKCQl9CgkJTWFwPEtleTxXb3JrZmxvdz4sIFVzZXJzPiB3b3JrZmxvd1VzZXJNYXAgPSBuZXcgSGFzaE1hcDw+KCk7CgkJZm9yIChLZXk8V29ya2Zsb3c+IHdvcmtmbG93S2V5IDogd29ya2Zsb3dLZXlzKSB7CgkJCWlmICh3b3JrZmxvd01hcC5jb250YWluc0tleSh3b3JrZmxvd0tleSkgJiYgdGVhbVVzZXJNYXAuY29udGFpbnNLZXkod29ya2Zsb3dNYXAuZ2V0KHdvcmtmbG93S2V5KS5nZXRUZWFtS2V5KCkpKSB7CgkJCQl3b3JrZmxvd1VzZXJNYXAucHV0KHdvcmtmbG93S2V5LCB0ZWFtVXNlck1hcC5nZXQod29ya2Zsb3dNYXAuZ2V0KHdvcmtmbG93S2V5KS5nZXRUZWFtS2V5KCkpKTsKCQkJfQoJCQllbHNlIHsKCQkJCXdvcmtmbG93VXNlck1hcC5wdXQod29ya2Zsb3dLZXksIG5ldyBVc2VycyhuZXcgQXJyYXlMaXN0PFVzZXI+KCkpKTsKCQkJfQoJCX0KCQlyZXR1cm4gd29ya2Zsb3dVc2VyTWFwOwoJfQoJCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQlyZXR1cm4gbmV3IEhhc2hNYXA8PigpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQlvZnkoKS5sb2FkKCkudHlwZShXb3JrZmxvdy5jbGFzcykucHJvamVjdCgidGVhbUtleSIsICJrZXkiKQo=</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Pj4+Pj4+PiBtYXN0ZXIK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQlyZXR1cm4gbmV3IEhhc2hNYXA8PigpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CXByaXZhdGUgc3RhdGljIGNsYXNzIEFzc2lnbktleXMgZXh0ZW5kcyBEb0ZuPEVudGl0eSwgS1Y8SW50ZWdlciwgRW50aXR5Pj4gewoKCQlAU2V0dXAKCQlwdWJsaWMgdm9pZCBzZXR1cCgpIHsKCQl9CgoJCUBQcm9jZXNzRWxlbWVudAoJCXB1YmxpYyB2b2lkIHByb2Nlc3NFbGVtZW50KFByb2Nlc3NDb250ZXh0IGMpIHsKCQkJT2JqZWN0IGVsZW1lbnQgPSBjLmVsZW1lbnQoKTsKCQkJS1Yga3YgPSBLVi5vZihlbGVtZW50Lmhhc2hDb2RlKCkgJSBOVU1fU0hBUkRTLCBlbGVtZW50KTsKCQkJYy5vdXRwdXQoa3YpOwoJCX0KCX0K</text>
+        <text encoding="base64">CQlvZnkoKS5sb2FkKCkudHlwZShXb3JrZmxvdy5jbGFzcykucHJvamVjdCgidGVhbUtleSIsICJrZXkiKQo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
