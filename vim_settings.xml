@@ -1,157 +1,114 @@
 <application>
-  <component name="VimSettings">
-    <state version="4" enabled="true" />
+  <component name="VimEditorSettings">
+    <editor>
+      <key-repeat enabled="true" />
+    </editor>
+  </component>
+  <component name="VimHistorySettings">
+    <history>
+      <history-search>
+        <entry>.java</entry>
+        <entry>$</entry>
+        <entry>::</entry>
+        <entry>===</entry>
+        <entry>TODO</entry>
+        <entry>Test</entry>
+        <entry>@Test</entry>
+        <entry>groups = &quot;remote&quot;</entry>
+        <entry>enabled = false,</entry>
+        <entry>, enabled = false</entry>
+        <entry>enab</entry>
+        <entry>enabled = false</entry>
+        <entry>emulator.</entry>
+        <entry>+</entry>
+        <entry encoding="base64">Pi4q</entry>
+        <entry>.*</entry>
+        <entry>settings.put(</entry>
+        <entry encoding="base64">LCA=</entry>
+        <entry>);</entry>
+        <entry>&quot;</entry>
+      </history-search>
+      <history-cmd>
+        <entry>%s/enabled = false/g</entry>
+        <entry>%s/enabled = false,/</entry>
+        <entry>%s/enabled = false/</entry>
+        <entry>%s/, enabled = false/</entry>
+        <entry>%s/enabled = false//</entry>
+        <entry>%s/, enabled = false//</entry>
+        <entry>%s/enabled = false/groups = [&quot;remote&quot;]</entry>
+        <entry>s/emulator.//</entry>
+        <entry>s/emulator.//g</entry>
+        <entry encoding="base64">JzwsJz5zLysvLw==</entry>
+        <entry encoding="base64">JzwsJz5zLz4uKi89</entry>
+        <entry encoding="base64">JzwsJz5zLy4qL1wwPSR7XDB9</entry>
+        <entry encoding="base64">JzwsJz53</entry>
+        <entry>q</entry>
+        <entry encoding="base64">JzwsJz5zL3NldHRpbmdzLnB1dCgvPHByb3BlcnR5IG5hbWU9</entry>
+        <entry encoding="base64">JzwsJz5zLywgLyB2YWx1ZT0=</entry>
+        <entry encoding="base64">JzwsJz5zLyk7L1wvPg==</entry>
+        <entry>wq</entry>
+        <entry>we</entry>
+        <entry>w</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+  </component>
+  <component name="VimKeySettings">
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+  </component>
+  <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/bigtable/MessageAccessEngine.java" timestamp="1564498592691">
-        <mark key="[" line="317" column="12" />
-      </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/admin/AdminEnvelopeServlet.java" timestamp="1570657031960" />
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/entities/Pipeline.java" timestamp="1560801585116">
-        <mark key="[" line="1" column="0" />
-      </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/MessageGrantRuleset.java" timestamp="1570645008087" />
-      <file name="$USER_HOME$/src/MailFoo/containers/src/main/java/com/streak/oneoff/EnvelopesTestHarness.java" timestamp="1564183944056">
-        <mark key="[" line="13" column="8" />
-      </file>
-      <file name="/a.dummy" timestamp="1565894669558">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/src/MailFoo/.circleci/dockerfile" timestamp="1565726865353">
-        <mark key="[" line="62" column="94" />
-      </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/listeners/MariaDBContextListener.java" timestamp="1564164688364">
-        <mark key="[" line="2" column="35" />
-      </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/integrationtests/util/DatastoreFixtureLoader.java" timestamp="1570744739590">
         <mark key="[" line="74" column="34" />
         <mark key="]" line="74" column="33" />
         <mark key="^" line="74" column="33" />
         <mark key="." line="74" column="33" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataupdaters/DataWorkerFactory.java" timestamp="1565908165668">
-        <mark key="[" line="386" column="73" />
-      </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/listeners/FixtureLoadingContextListener.java" timestamp="1570733056188" />
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/sql/IndependentId.java" timestamp="1566339266552">
-        <mark key="[" line="13" column="18" />
-      </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/rewardly/mailfoo/unittests/TeamContactOrOrgDeletedLinkRemoverTaskTest.java" timestamp="1563319261859">
-        <mark key="[" line="33" column="58" />
-      </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/DAO.java" timestamp="1570645100874" />
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/entities/Box.java" timestamp="1560801589377">
-        <mark key="[" line="1" column="0" />
-      </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/sql/LiquibaseFactory.java" timestamp="1562096912401">
-        <mark key="[" line="2" column="31" />
-      </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerGmailSdk-war/src/main/webapp/WEB-INF/web.xml" timestamp="1564178408026">
-        <mark key="[" line="4" column="0" />
-      </file>
-      <file name="$USER_HOME$/src/MailFoo/Server-ear/META-INF/persistence.xml" timestamp="1565215141510">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/rewardly/mailfoo/unittests/MakeSnippetPrivateTest.java" timestamp="1563319308735">
-        <mark key="[" line="21" column="58" />
-      </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/entities/BoxMember.java" timestamp="1560801597887">
-        <mark key="[" line="1" column="0" />
-      </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/caching/WritethroughBigtableCache.java" timestamp="1570745201363">
         <mark key="[" line="242" column="0" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/Server-ear/run.sh" timestamp="1570668505786" />
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/profiles/testing/config.properties" timestamp="1565725571237">
-        <mark key="[" line="6" column="60" />
-      </file>
-      <file name="/fragment.kt" timestamp="1564173982487">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/rewardly/mailfoo/unittests/CaseFlatBufferTypeAdapterTest.java" timestamp="1563994914714">
-        <mark key="[" line="47" column="58" />
-      </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataupdaters/creators/MessageGrantCreator.java" timestamp="1570572512802" />
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataupdaters/getters/MessageGrantGetter.java" timestamp="1570644817951">
         <mark key="[" line="44" column="0" />
         <mark key="]" line="63" column="8" />
         <mark key="^" line="63" column="8" />
         <mark key="." line="63" column="8" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/tracking/TrackLinkServlet.java" timestamp="1565908097282">
-        <mark key="[" line="40" column="0" />
-      </file>
-      <file name="$USER_HOME$/src/MailFoo/containers/cloudbuild.yaml" timestamp="1565128489233">
-        <mark key="[" line="2" column="9" />
-      </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/api/APIV2EndpointManager.java" timestamp="1570644520898" />
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/rewardly/mailfoo/unittests/WorkflowTest.java" timestamp="1563320717967">
-        <mark key="[" line="15" column="58" />
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/Autobox.java" timestamp="1588010049511">
+        <mark key="[" line="97" column="0" />
+        <mark key="]" line="97" column="0" />
+        <mark key="." line="97" column="0" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/curls" timestamp="1570724046355">
         <mark key="[" line="205" column="13" />
         <mark key="]" line="205" column="13" />
         <mark key="." line="205" column="13" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/entities/BoxEmailLink.java" timestamp="1560801602538">
-        <mark key="[" line="1" column="0" />
-      </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/listeners/FixtureLoaderContextListener.java" timestamp="1564164692388">
-        <mark key="[" line="2" column="41" />
-      </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/gmail/MessageResponder.java" timestamp="1565909642598">
-        <mark key="[" line="6" column="8" />
-      </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/MessageGrantRulesetPK.java" timestamp="1567811012460">
-        <mark key="[" line="2" column="34" />
-      </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/target/ServerCommon-1/WEB-INF/classes/config.properties" timestamp="1565048199840">
-        <mark key="[" line="0" column="11" />
-      </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/sql/StreakInnoCompressedMariaDialect.java" timestamp="1565719338862">
-        <mark key="[" line="9" column="5" />
-      </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/tracking/StoreTrackedViewTask.java" timestamp="1565908115297">
-        <mark key="[" line="74" column="0" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/javax/persistence/javax.persistence-api/2.2/javax.persistence-api-2.2-sources.jar!/javax/persistence/Query.java" timestamp="1570644968993" />
-      <file name="$USER_HOME$/src/MailFoo/containers/src/main/java/com/streak/emailmanager/updatesync/UpdateSyncMain.kt" timestamp="1569292321467">
-        <mark key="[" line="89" column="0" />
-      </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/rewardly/mailfoo/unittests/MessageAccessEngineRemoteTest.java" timestamp="1570640663524">
         <mark key="[" line="865" column="0" />
         <mark key="]" line="865" column="0" />
         <mark key="." line="865" column="0" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/IntegrationTests/src/test/java/com/rewardly/integrationtests/api/modeltests/PipelineAPITest.java" timestamp="1570744139858" />
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/logging/dataflow/oneoffs/BackfillDatastoreIntoVitess.java" timestamp="1570729273866">
         <mark key="[" line="123" column="0" />
         <mark key="]" line="123" column="0" />
         <mark key="." line="123" column="0" />
       </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/entities/PipelineMember.java" timestamp="1560801593305">
-        <mark key="[" line="1" column="0" />
-      </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/test/java/com/rewardly/mailfoo/helpers/MobileHelperTest.kt" timestamp="1564610656172">
-        <mark key="[" line="18" column="28" />
-      </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/utils/RemoteAccess.java" timestamp="1564184216971">
-        <mark key="[" line="21" column="12" />
-      </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/logging/dataflow/EntityKeyMapper.java" timestamp="1569947408831">
         <mark key="[" line="21" column="8" />
         <mark key="]" line="24" column="0" />
         <mark key="." line="24" column="0" />
-      </file>
-      <file name="$USER_HOME$/src/MailFoo/containers/src/main/java/com/streak/oneoff/MessageGrantRulesetWriter.java" timestamp="1564183975943">
-        <mark key="[" line="11" column="8" />
-      </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/target/ServerCommon-1/WEB-INF/classes/META-INF/persistence.xml" timestamp="1565393499902">
-        <mark key="[" line="25" column="85" />
-      </file>
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/listeners/BigtableContextListener.java" timestamp="1570744844642" />
-      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/streak/sql/OrganizationCopier.java" timestamp="1563983327212">
-        <mark key="[" line="73" column="24" />
       </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/MessageGrant.java" timestamp="1570575559518">
         <mark key="[" line="212" column="52" />
@@ -262,6 +219,8 @@
       <jump line="0" column="0" filename="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/User.java" />
       <jump line="649" column="53" filename="$MAVEN_REPOSITORY$/org/apache/beam/beam-sdks-java-core/2.13.0/beam-sdks-java-core-2.13.0-sources.jar!/org/apache/beam/sdk/schemas/transforms/Group.java" />
     </jumps>
+  </component>
+  <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">Cg==</text>
@@ -279,33 +238,35 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CXByaXZhdGUgc3RhdGljIGNsYXNzIEFzc2lnbktleXMgZXh0ZW5kcyBEb0ZuPEVudGl0eSwgS1Y8SW50ZWdlciwgRW50aXR5Pj4gewoKCQlAU2V0dXAKCQlwdWJsaWMgdm9pZCBzZXR1cCgpIHsKCQl9CgoJCUBQcm9jZXNzRWxlbWVudAoJCXB1YmxpYyB2b2lkIHByb2Nlc3NFbGVtZW50KFByb2Nlc3NDb250ZXh0IGMpIHsKCQkJT2JqZWN0IGVsZW1lbnQgPSBjLmVsZW1lbnQoKTsKCQkJS1Yga3YgPSBLVi5vZihlbGVtZW50Lmhhc2hDb2RlKCkgJSBOVU1fU0hBUkRTLCBlbGVtZW50KTsKCQkJYy5vdXRwdXQoa3YpOwoJCX0KCX0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQlwaXBlbGluZS5hcHBseSgiUmVhZCIsIHBpUmVhZCkKCQkJLmFwcGx5KFBhckRvLm9mKG5ldyBBc3NpZ25LZXlzKCkpKQoJCQkuYXBwbHkoV2luZG93LmludG8oRml4ZWRXaW5kb3dzLm9mKER1cmF0aW9uLnN0YW5kYXJkU2Vjb25kcyg1KSkpKQoJCQkuYXBwbHkoR3JvdXBJbnRvQmF0Y2hlcy48SW50ZWdlciwgRW50aXR5Pm9mU2l6ZShCQVRDSF9TSVpFKSkKCQkJLmFwcGx5KFBhckRvLm9mKG5ldyBXcml0ZVRvVml0ZXNzKCkpKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJOwo=</text>
+        <text encoding="base64">CXByaXZhdGUgc3RhdGljIGNsYXNzIEFzc2lnbktleXMgZXh0ZW5kcyBEb0ZuPEVudGl0eSwgS1Y8SW50ZWdlciwgRW50aXR5Pj4gewoKCQlAU2V0dXAKCQlwdWJsaWMgdm9pZCBzZXR1cCgpIHsKCQl9CgoJCUBQcm9jZXNzRWxlbWVudAoJCXB1YmxpYyB2b2lkIHByb2Nlc3NFbGVtZW50KFByb2Nlc3NDb250ZXh0IGMpIHsKCQkJT2JqZWN0IGVsZW1lbnQgPSBjLmVsZW1lbnQoKTsKCQkJS1Yga3YgPSBLVi5vZihlbGVtZW50Lmhhc2hDb2RlKCkgJSBOVU1fU0hBUkRTLCBlbGVtZW50KTsKCQkJYy5vdXRwdXQoa3YpOwoJCX0KCX0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">PT09PT09PQoJCUBQcm9jZXNzRWxlbWVudAoJCXB1YmxpYyB2b2lkIHByb2Nlc3NFbGVtZW50KFByb2Nlc3NDb250ZXh0IGMpIHRocm93cyBJT0V4Y2VwdGlvbiwgSW50ZXJydXB0ZWRFeGNlcHRpb24gewoJCQlJdGVyYWJsZTxFbnRpdHk+IGVudGl0aWVzID0gYy5lbGVtZW50KCkuZ2V0VmFsdWUoKTsKPj4+Pj4+PiBhZGQxNzllMjU3ZDJmYWEzMzk3ZjE1OWIxODdkNDhmMzk5YjE5OTEyCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">CQlwaXBlbGluZS5hcHBseSgiUmVhZCIsIHBpUmVhZCkKCQkJLmFwcGx5KFBhckRvLm9mKG5ldyBBc3NpZ25LZXlzKCkpKQoJCQkuYXBwbHkoV2luZG93LmludG8oRml4ZWRXaW5kb3dzLm9mKER1cmF0aW9uLnN0YW5kYXJkU2Vjb25kcyg1KSkpKQoJCQkuYXBwbHkoR3JvdXBJbnRvQmF0Y2hlcy48SW50ZWdlciwgRW50aXR5Pm9mU2l6ZShCQVRDSF9TSVpFKSkKCQkJLmFwcGx5KFBhckRvLm9mKG5ldyBXcml0ZVRvVml0ZXNzKCkpKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBhZGQxNzllMjU3ZDJmYWEzMzk3ZjE1OWIxODdkNDhmMzk5YjE5OTEyCg==</text>
+        <text encoding="base64">CQkJOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">PT09PT09PQoJCUBQcm9jZXNzRWxlbWVudAoJCXB1YmxpYyB2b2lkIHByb2Nlc3NFbGVtZW50KFByb2Nlc3NDb250ZXh0IGMpIHRocm93cyBJT0V4Y2VwdGlvbiwgSW50ZXJydXB0ZWRFeGNlcHRpb24gewoJCQlJdGVyYWJsZTxFbnRpdHk+IGVudGl0aWVzID0gYy5lbGVtZW50KCkuZ2V0VmFsdWUoKTsKPj4+Pj4+PiBhZGQxNzllMjU3ZDJmYWEzMzk3ZjE1OWIxODdkNDhmMzk5YjE5OTEyCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
+  </component>
+  <component name="VimSearchSettings">
     <search>
       <last-search>&quot;</last-search>
       <last-offset />
@@ -315,67 +276,12 @@
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
-    <history>
-      <history-search>
-        <entry>.java</entry>
-        <entry>$</entry>
-        <entry>::</entry>
-        <entry>===</entry>
-        <entry>TODO</entry>
-        <entry>Test</entry>
-        <entry>@Test</entry>
-        <entry>groups = &quot;remote&quot;</entry>
-        <entry>enabled = false,</entry>
-        <entry>, enabled = false</entry>
-        <entry>enab</entry>
-        <entry>enabled = false</entry>
-        <entry>emulator.</entry>
-        <entry>+</entry>
-        <entry encoding="base64">Pi4q</entry>
-        <entry>.*</entry>
-        <entry>settings.put(</entry>
-        <entry encoding="base64">LCA=</entry>
-        <entry>);</entry>
-        <entry>&quot;</entry>
-      </history-search>
-      <history-cmd>
-        <entry>%s/enabled = false/g</entry>
-        <entry>%s/enabled = false,/</entry>
-        <entry>%s/enabled = false/</entry>
-        <entry>%s/, enabled = false/</entry>
-        <entry>%s/enabled = false//</entry>
-        <entry>%s/, enabled = false//</entry>
-        <entry>%s/enabled = false/groups = [&quot;remote&quot;]</entry>
-        <entry>s/emulator.//</entry>
-        <entry>s/emulator.//g</entry>
-        <entry encoding="base64">JzwsJz5zLysvLw==</entry>
-        <entry encoding="base64">JzwsJz5zLz4uKi89</entry>
-        <entry encoding="base64">JzwsJz5zLy4qL1wwPSR7XDB9</entry>
-        <entry encoding="base64">JzwsJz53</entry>
-        <entry>q</entry>
-        <entry encoding="base64">JzwsJz5zL3NldHRpbmdzLnB1dCgvPHByb3BlcnR5IG5hbWU9</entry>
-        <entry encoding="base64">JzwsJz5zLywgLyB2YWx1ZT0=</entry>
-        <entry encoding="base64">JzwsJz5zLyk7L1wvPg==</entry>
-        <entry>wq</entry>
-        <entry>we</entry>
-        <entry>w</entry>
-      </history-cmd>
-      <history-expr />
-      <history-input />
-    </history>
-    <shortcut-conflicts>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed R</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed D</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed V</text>
-      </shortcut-conflict>
-    </shortcut-conflicts>
-    <editor>
-      <key-repeat enabled="true" />
-    </editor>
+  </component>
+  <component name="VimSettings">
+    <state version="6" enabled="true" />
+    <notifications>
+      <idea-join enabled="false" />
+      <idea-put enabled="false" />
+    </notifications>
   </component>
 </application>
