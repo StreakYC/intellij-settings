@@ -100,11 +100,13 @@
         <mark key="]" line="123" column="0" />
         <mark key="." line="123" column="0" />
       </file>
+      <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/dataaccess/RequestedPermissionsContextLoader.java" timestamp="1588031928963">
+        <mark key="[" line="132" column="65" />
+        <mark key="]" line="158" column="0" />
+        <mark key="." line="158" column="0" />
+      </file>
       <file name="$USER_HOME$/src/MailFoo/ServerCommon/src/main/java/com/rewardly/mailfoo/datamodel/MessageGrant.java" timestamp="1570575559518">
         <mark key="[" line="212" column="52" />
-      </file>
-      <file name="/fragment.java" timestamp="1570232252686">
-        <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -213,7 +215,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBtYXN0ZXIK</text>
+        <text encoding="base64">CQlyZXR1cm4gdGVhbXNSZXF1ZXN0ZXJJc09uQnlHdWVzdDsK</text>
       </register>
       <register name="-" type="4">
         <text>domain</text>
@@ -225,31 +227,31 @@
         <text encoding="base64">CQkJCUtleTxXb3JrZmxvdz4gcGlwZWxpbmVLZXkgPSBLZXkuY3JlYXRlKEtleS5jcmVhdGUoT3JnYW5pemF0aW9uLmNsYXNzLCBwaXBlbGluZU9yZ05hbWUpLCBXb3JrZmxvdy5jbGFzcywgcGlwZWxpbmVJZC5sb25nVmFsdWUoKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBtYXN0ZXIK</text>
+        <text encoding="base64">CQlyZXR1cm4gdGVhbXNSZXF1ZXN0ZXJJc09uQnlHdWVzdDsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">CQl9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">CQlpZiAobnVsbCA9PSB0ZWFtc1JlcXVlc3RlcklzT25CeUd1ZXN0KSB7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBtYXN0ZXIK</text>
+        <text encoding="base64">CQkJTGlzdDxSYXdXb3JrZmxvd1N1bW1hcnk+IHdvcmtmbG93U3VtbWFyaWVzID0gZ2V0V29ya2Zsb3dTdW1tYXJpZXMoKTsKCQkJU2V0PEtleTxUZWFtPj4gbWVtYmVyVGVhbUtleXMgPSBnZXRUZWFtc1JlcXVlc3RlcklzTWVtYmVyT24oKS5rZXlTZXQoKTsKCQkJU2V0PEtleTxUZWFtPj4gZ3Vlc3RUZWFtS2V5cyA9IG5ldyBIYXNoU2V0PD4oKTsKCQkJZm9yIChSYXdXb3JrZmxvd1N1bW1hcnkgc3VtbWFyeSA6IHdvcmtmbG93U3VtbWFyaWVzKSB7CgkJCQlpZiAobnVsbCAhPSBzdW1tYXJ5LmdldFRlYW1LZXkoKSAmJgoJCQkJCSFzdW1tYXJ5LmdldFNoYXJpbmdSZXN0cmljdGVkVG9UZWFtKCkgJiYKCQkJCQkhbWVtYmVyVGVhbUtleXMuY29udGFpbnMoc3VtbWFyeS5nZXRUZWFtS2V5KCkpKSB7CgkJCQkJZ3Vlc3RUZWFtS2V5cy5hZGQoc3VtbWFyeS5nZXRUZWFtS2V5KCkpOwoJCQkJfQoJCQkJYWNsVXNlcktleXMuYWRkQWxsKHN1bW1hcnkuZ2V0QWNscygpKTsKCQkJfQoJCQl0ZWFtc1JlcXVlc3RlcklzT25CeUd1ZXN0ID0gbmV3IEhhc2hNYXA8PigpOwoJCQlpZiAoIWd1ZXN0VGVhbUtleXMuaXNFbXB0eSgpKSB7CgkJCQl0cnkgKFNjb3BlIHNjID0gVHJhY2luZy5nZXRUcmFjZXIoKS5zcGFuQnVpbGRlcigiTWVzc2FnZUFjY2Vzc0VuZ2luZS5GZXRjaERhdGFzdG9yZUluZm8uR3Vlc3RUZWFtcyIpLnN0YXJ0U2NvcGVkU3BhbigpKSB7CgkJCQkJTWFwPEtleTxUZWFtPiwgVGVhbT4gdGVhbXNSZXF1ZXN0ZXJNaWdodEJlT25CeUd1ZXN0ID0gREFPLmdldEVudGl0aWVzKGd1ZXN0VGVhbUtleXMpOwoJCQkJCWZvciAoVGVhbSBwb3NzaWJsZVRlYW06IHRlYW1zUmVxdWVzdGVyTWlnaHRCZU9uQnlHdWVzdC52YWx1ZXMoKSkgewoJCQkJCQlpZiAocG9zc2libGVUZWFtLmlzR3Vlc3RNb2RlT24oKSkgewoJCQkJCQkJdGVhbXNSZXF1ZXN0ZXJJc09uQnlHdWVzdC5wdXQocG9zc2libGVUZWFtLmdldFRlYW1LZXkoKSwgcG9zc2libGVUZWFtKTsKCQkJCQkJfQoJCQkJCX0KCQkJCX0KCQkJfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">CQkJCWlmIChudWxsICE9IHN1bW1hcnkuZ2V0VGVhbUtleSgpICYmCgkJCQkJIXN1bW1hcnkuZ2V0U2hhcmluZ1Jlc3RyaWN0ZWRUb1RlYW0oKSAmJgoJCQkJCSFtZW1iZXJUZWFtS2V5cy5jb250YWlucyhzdW1tYXJ5LmdldFRlYW1LZXkoKSkpIHsKCQkJCQlndWVzdFRlYW1LZXlzLmFkZChzdW1tYXJ5LmdldFRlYW1LZXkoKSk7CgkJCQl9CgkJCQlhY2xVc2VyS2V5cy5hZGRBbGwoc3VtbWFyeS5nZXRBY2xzKCkpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Pj4+Pj4+PiBtYXN0ZXIK</text>
       </register>
-      <register name="8" type="2">
+      <register name="7" type="2">
         <text encoding="base64">PT09PT09PQo=</text>
       </register>
-      <register name="9" type="2">
+      <register name="8" type="2">
         <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">Pj4+Pj4+PiBtYXN0ZXIK</text>
       </register>
       <register name=":" type="4">
         <text>s/pipeline/box/g</text>
